@@ -6,3 +6,16 @@ title = 'My New Hugo Site'
 [module]
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'
+
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  BookSection = '*'
+  # BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # BookEditPath = 'edit/main/exampleSite'
+
+  BookDateFormat = 'January 2, 2006'
+  BookSearch = true
+  BookComments = false
+  BookPortableLinks = true
+  BookServiceWorker = true
