@@ -8,11 +8,14 @@ module:
    - path: github.com/alex-shpak/hugo-book
 
 # Book configuration
-disablePathToLower: true
+#disablePathToLower: true
+
 enableGitInfo: true
-BookTheme: "light"
-BookToC: true
-BookSection: "*"
-BookDateFormat: "January 2, 2006"
-# BookLogo: /logo.png
-# BookMenuBundle: /menu
+
+params:
+  BookTheme: "light"
+  BookToC: true
+  BookSection: "*"
+  BookDateFormat: "January 2, 2006"
+  # BookLogo: /logo.png
+  # BookMenuBundle: /menu
