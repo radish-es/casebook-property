@@ -2,6 +2,12 @@ github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0 h1:Bj/rhvEOix
 github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/radish-es/casebook-layouts v0.0.0-20230503173406-59d52d42fb40 h1:YIqWhNkHPpb7+ZuE9bxkIMgb/uJo2mhbwrNlYu3UYV0=
 github.com/radish-es/casebook-layouts v0.0.0-20230503173406-59d52d42fb40/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175225-30915d631aff h1:W7YDV25RpsREIS4D+Z8FnzxXanX35JXAQ1M4HfiFiHg=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175225-30915d631aff/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175523-e0d0f2dfd392 h1:ULg2JlzLHLX/XeYFuPpWDcgqNSzhudN0l/KpfxdrXOU=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175523-e0d0f2dfd392/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175712-2a59a0dec98f h1:oYgPeBD1PvY/5fbLML4HiyxNO+s4FVjKs5yKTzFJKPw=
+github.com/radish-es/casebook-layouts v0.0.0-20230503175712-2a59a0dec98f/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503170819-2b836ddc79d8 h1:p7T03G402dAzhxUkqnDKKp93qRVY6xrPM/nfEZpXgpM=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503170819-2b836ddc79d8/go.mod h1:Jm/ahWv6GEPLdvycCkJ3A2JdSwNs9IQhFfI4/UAMHzs=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503171509-aa57e5cc320c h1:tx5V2ycR3RHQjhAI9Yx18hqhNSBg5kYw0nfLaRLeSwA=

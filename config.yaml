@@ -11,9 +11,6 @@ module:
      - source: content/cases
        target: content/cases
    - path: github.com/radish-es/casebook-layouts
-     mounts:
-     - source: layouts
-       target: layouts
 
 # Book configuration
 #disablePathToLower: true
