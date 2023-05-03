@@ -8,8 +8,12 @@ module:
    - path: github.com/alex-shpak/hugo-book
    - path: github.com/radish-es/casebook-property-modules
      mounts:
-     - source: cases
+     - source: content/cases
        target: content/cases
+   - path: github.com/radish-es/casebook-layouts
+     mounts:
+     - source: layouts
+       target: layouts
 
 # Book configuration
 #disablePathToLower: true
