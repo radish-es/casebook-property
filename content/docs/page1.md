@@ -1,5 +1,6 @@
 ---
 title: Sample page
+type: docs
 weight: 1
 objectives:
   - objective: 'Explain course procedures and expectations '
