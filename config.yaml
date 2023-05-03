@@ -1,0 +1,17 @@
+baseURL: https://example.com/
+title: Hugo Book
+
+# Hugo Book theme as a Hugo module
+module:
+  imports:
+  - path = github.com/alex-shpak/hugo-book
+
+# Book configuration
+disablePathToLower: true
+enableGitInfo: true
+BookTheme: "light"
+BookToC: true
+BookSection: "*"
+BookDateFormat: "January 2, 2006"
+# BookLogo: /logo.png
+# BookMenuBundle: /menu
