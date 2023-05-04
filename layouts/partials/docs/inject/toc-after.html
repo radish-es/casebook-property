@@ -1,4 +1,21 @@
- <!-- placeholder for tocbot toc -->
- <div class="js-toc"></div>
+<!-- New way to customize TOC
 
- This is a test.
+ <nav>
+    {{- range .Fragments.Headings }}
+    <ul>
+      {{- range .Headings }}
+      <li><a href="#{{ anchorize .ID }}">{{ .Title }}</a></li>
+      {{- if .Headings }}
+      <ul>
+        {{- range .Headings }}
+        <li><a href="#{{ anchorize .ID }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      {{- end }}
+    </ul>
+    {{- end }}
+  </nav>
+
+-->
+

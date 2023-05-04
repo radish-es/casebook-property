@@ -30,5 +30,5 @@ components:
     _template: case
 ---
 
-Test
+### Test
 
