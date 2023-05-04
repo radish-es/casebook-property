@@ -1,0 +1,11 @@
+{{ if isset .Params "objectives" }}
+    <div class="outcomes"><div>
+    <h3 id="learning-outcomes">Learning Outcomes</h2>
+    <p>By the end of this week, you should be able to:</p>
+    <ul>
+        {{ range .Params.Objectives }}
+        <li><b>{{ .objective }}</b> - {{ .explanation }}</li>
+        {{ end }}
+    </ul>
+    </div></div>
+{{ end }}

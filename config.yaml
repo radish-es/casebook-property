@@ -6,11 +6,11 @@ title: Hugo Book
 module:
   imports:
   - path: github.com/radish-es/casebook-layouts
-  - path: github.com/alex-shpak/hugo-book
   - path: github.com/radish-es/casebook-property-modules
     mounts:
     - source: content/cases
       target: content/cases
+  - path: github.com/alex-shpak/hugo-book
 
 # Book configuration
 #disablePathToLower: true

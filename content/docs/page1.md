@@ -24,6 +24,10 @@ objectives:
     explanation: >-
       including by identifying the three core problems of ahistoricism, invisibility and
       subsummation and explaining the role of obligations and incommensurability.
+components:
+  - title: Annapolis
+    filename: content/cases/annapolis.md
+    _template: case
 ---
 # First Level Heading
 
@@ -33,5 +37,6 @@ This is a sample page
 
 Some other text
 
-## Another section
+## Here's where the content-after goes
+
 

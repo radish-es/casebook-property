@@ -1,0 +1,20 @@
+<!-- range over the Components in metadata -->
+
+{{ range .Params.Components }}
+
+    <!-- for cases -->
+
+    {{ if eq ._template "case" }}
+
+        <!-- Need to add a "/" to the value from the metadata-->
+
+        {{ $file := printf "%s" .filename | printf "%s%s" "/" }}
+
+        <!-- Get the page and post the content -->
+
+        {{ with $.Site.GetPage $file }}{{ .Content }}{{ end }}
+
+    {{ end }}
+
+{{ end }}
+

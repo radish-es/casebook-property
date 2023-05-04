@@ -12,6 +12,8 @@ github.com/radish-es/casebook-layouts v0.0.0-20230503180645-54892b77ad71 h1:Lu/F
 github.com/radish-es/casebook-layouts v0.0.0-20230503180645-54892b77ad71/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
 github.com/radish-es/casebook-layouts v0.0.0-20230503181047-bed8ca250a36 h1:4v7G5O3Y5wQ/ANZn3nSWelsirDrS5ma67voDfXm8ySg=
 github.com/radish-es/casebook-layouts v0.0.0-20230503181047-bed8ca250a36/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
+github.com/radish-es/casebook-layouts v0.0.0-20230503181652-4184919ae6b8 h1:8eoSe5a0J/0datDt1v2ZP2zs5y1b6X/HQ8Iu0w3TnOA=
+github.com/radish-es/casebook-layouts v0.0.0-20230503181652-4184919ae6b8/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503170819-2b836ddc79d8 h1:p7T03G402dAzhxUkqnDKKp93qRVY6xrPM/nfEZpXgpM=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503170819-2b836ddc79d8/go.mod h1:Jm/ahWv6GEPLdvycCkJ3A2JdSwNs9IQhFfI4/UAMHzs=
 github.com/radish-es/casebook-property-modules v0.0.0-20230503171509-aa57e5cc320c h1:tx5V2ycR3RHQjhAI9Yx18hqhNSBg5kYw0nfLaRLeSwA=
