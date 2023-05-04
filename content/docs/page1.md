@@ -29,14 +29,6 @@ components:
     filename: content/cases/annapolis.md
     _template: case
 ---
-# First Level Heading
 
-This is a sample page
-
-## Second Level Heading
-
-Some other text
-
-## Here's where the content-after goes
-
+Test
 
