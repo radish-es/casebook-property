@@ -21,6 +21,8 @@
 
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
+      
+
       {{ partial "docs/inject/content-after" . }}
 
       <footer class="book-footer">
@@ -77,16 +79,22 @@
   <article class="markdown">
 
 
+    <div class="js-toc-content">
+      <h1 id="this">WOW!</h1>
+      <h3>ANOTHER</h3>
+    </div>
 
+    <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
+    <script type="text/javascript">
+    tocbot.init({tocSelector: '.js-toc', contentSelector: '.js-toc-content', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
+    </script>
     
 
     {{- .Content -}}
 
+  
 
 
-
-
- 
 
   </article>
 

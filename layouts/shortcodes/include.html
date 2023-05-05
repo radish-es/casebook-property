@@ -1,0 +1,11 @@
+<!--
+{{$file := .Get 0}}
+{{ $file | readFile | safeHTML}}
+-->
+
+
+{{ with $.Site.GetPage "/content/cases/annapolis.md" }} 
+<h2>{{ .Params.Style }}</h2>
+{{ .TableOfContents }}
+{{ .Content }}
+{{ end }}

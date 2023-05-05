@@ -30,5 +30,12 @@ components:
     _template: case
 ---
 
-### Test
+## Introducting Annapolis
 
+This is the text of the intro to the case
+
+{{< include "/content/cases/annapolis.md" >}}
+
+### Following up
+
+This is more text.
