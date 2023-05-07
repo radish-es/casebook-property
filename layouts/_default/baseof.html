@@ -38,12 +38,16 @@
     {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
     <aside class="book-toc">
       <div class="book-toc-content">
-        {{ template "toc" . }} <!-- Table of Contents -->
+        <!--{{ template "toc" . }}  -->
+
+        <!--TOCBOT GOES HERE and SCRIPT-->
         <div class="js-toc-GO"></div>
+
         <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
         <script type="text/javascript">
         tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
         </script>
+        
       </div>
     </aside>
     {{ end }}
