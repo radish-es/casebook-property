@@ -76,29 +76,35 @@
 
 {{ define "main" }}
 
+<div class="js-toc-content-GO">
+
   <article class="markdown">
 
+    <div class="js-toc-GO"></div>
 
-    <div class="js-toc-content">
-      <h1 id="this">WOW!</h1>
-      <h3>ANOTHER</h3>
-    </div>
-
-    <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
-    <script type="text/javascript">
-    tocbot.init({tocSelector: '.js-toc', contentSelector: '.js-toc-content', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
-    </script>
+    <div class="article-style">
     
-
-    {{- .Content -}}
+      
+    <h2>TEST HEAD2</h2>
 
   
+    
+
+    {{ .Content }}
+
+
+    
+    <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
+    <script type="text/javascript">
+    tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
+    </script>
+  </div>
 
 
 
   </article>
 
-
+</div>
 
 
 {{ end }}
