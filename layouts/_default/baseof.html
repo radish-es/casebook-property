@@ -39,6 +39,11 @@
     <aside class="book-toc">
       <div class="book-toc-content">
         {{ template "toc" . }} <!-- Table of Contents -->
+        <div class="js-toc-GO"></div>
+        <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
+        <script type="text/javascript">
+        tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
+        </script>
       </div>
     </aside>
     {{ end }}
@@ -80,7 +85,9 @@
 
   <article class="markdown">
 
-    <div class="js-toc-GO"></div>
+    <!--<div class="js-toc-GO"></div>-->
+
+    
 
     <div class="article-style">
     
@@ -94,10 +101,7 @@
 
 
     
-    <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
-    <script type="text/javascript">
-    tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
-    </script>
+   
   </div>
 
 
