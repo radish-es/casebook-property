@@ -6,6 +6,9 @@
 
 {{ with $.Site.GetPage "/content/cases/annapolis.md" }} 
 <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Style }}<a class="anchor" href="#{{ .Params.Style | anchorize}}">#</a></h2>
-{{ .TableOfContents }}
+
+<!--If want to include a contents list at the beginning of the case
+{{ .TableOfContents }}-->
+
 {{ .Content }}
 {{ end }}
