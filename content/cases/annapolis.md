@@ -2,6 +2,7 @@
 style: Annapolis Group Inc. v Halifax Regional Municipality
 short: Annapolis Group
 reporter: 2022 SCC 36
+class: case
 ---
 
 ### Côté, Brown JJ. --
