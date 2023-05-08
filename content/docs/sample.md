@@ -19,6 +19,8 @@ You've arrive in Winter term! This week, we'll begin to revisit some of last ter
 
 **Where we're headed:** Compared to *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, judges working in the modern style take a very different approach when government "removes" sticks from a landowner's bundle of rights without paying them compensation. We want to understand how this different approach emerged and how it drives decisions in the cases. 
 
+{{< module sample >}}
+
 {{< problem blue-mountain >}}
 
 This is some additional text in between the modules.

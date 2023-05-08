@@ -1,0 +1,17 @@
+
+{{ $module_name := (.Get 0) }}
+
+{{ $module := printf "%s" ".md"| printf "%s%s" (.Get 0) | printf "%s%s" "/content/modules/" }}
+
+{{ with $.Site.GetPage $module }} 
+
+<div class="class_wrapper">
+    <div class="class_label"><a href="/modules/{{ $module_name }}">Module</a></div>
+
+    <h2 id="{{ .Params.Title | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
+
+    {{ .Content }}
+
+</div>
+
+{{ end }}
