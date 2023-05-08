@@ -6,8 +6,13 @@ li.toc-list-item {
   margin-bottom: 5px;
 }
 
-/* MODULAR COMPONENTS */
+/* LEARNING OUTCOMES */
 
+.learning_outcomes li:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+/* MODULAR COMPONENTS */
 
 .class_wrapper {
   border-width: 1px;
