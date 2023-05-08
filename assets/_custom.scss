@@ -12,6 +12,30 @@ li.toc-list-item {
   margin-bottom: 5px;
 }
 
+/* BOX CALLOUT -- need work */
+
+.box-callout {
+  padding: 10px;
+  color: black;
+  background-color: rgb(255, 250, 209);
+  border: 2px solid;
+  border-color: rgb(240, 223, 90);
+  border-radius: 5px;
+}
+
+/* div.box-callout > div:first-child::before {
+  color: #005038;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+} */
+
+.box-callout-title p {
+  font-size: 1.5em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 /* LEARNING OUTCOMES */
 
 .learning_outcomes li:not(:last-child) {
