@@ -1,0 +1,9 @@
+{{ $current_page := . }}
+
+{{ $url := (print "https://github.com/radish-es/casebook-property/blob/main/content/" ($.Page.File.Path)) }}
+
+<div class="suggest-edits">
+
+    <a href="{{$url}}"  target="_blank" rel="noopener">{{ partial "fa.html" "github" }}Edit on GitHub</a>
+
+</div>

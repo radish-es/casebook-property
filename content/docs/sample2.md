@@ -7,8 +7,6 @@ class: lesson
 weight: 2
 ---
 
-Text.
-
 {{< concept liberalism >}}
 
 {{< concept abandonment >}}

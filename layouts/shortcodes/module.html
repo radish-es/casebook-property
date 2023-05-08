@@ -8,7 +8,11 @@
 <div class="class_wrapper">
     <div class="class_label"><a href="/modules/{{ $module_name }}">Module</a></div>
 
+   {{ partial "repo-link" . }}
+
     <h2 id="{{ .Params.Title | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
+
+    
 
     {{ .Content }}
 

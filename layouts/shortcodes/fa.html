@@ -1,0 +1,4 @@
+{{ $svg := printf "%s" ".svg"| printf "%s%s" (.Get 0) | printf "%s%s" "/static/fa/" }}
+<span class="inline-svg" >
+    {{ $svg | readFile | safeHTML  }}
+</span>

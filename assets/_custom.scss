@@ -12,6 +12,29 @@ li.toc-list-item {
   margin-bottom: 5px;
 }
 
+/* Font Awesome Icon Styling */
+
+.inline-svg svg {
+  height: 18px;
+}
+
+/* EDIT ON GITHUB */
+
+div.suggest-edits {
+  background: #fff;
+  color: #000;
+  /*border: #000 1px solid;
+  border-radius: 10px;*/
+  padding: 5px 8px;
+  width: fit-content;
+  margin-left: auto; 
+  margin-right: 0;
+}
+
+div.suggest-edits a, div.suggest-edits a:visited {
+  color: #000;
+}
+
 /* BOX CALLOUT -- need work */
 
 .box-callout {
