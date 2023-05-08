@@ -1,9 +1,9 @@
 ---
-title: Problems
+title: Docs
 type: docs
-weight: 4
+weight: 1
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
 
-Need to implement list template to list all problems.
+These are the docs for each week.

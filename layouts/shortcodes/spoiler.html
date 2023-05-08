@@ -1,0 +1,17 @@
+<!--COPIED over from old site-->
+
+<!--MODIFIED: using an id variable from the shortcode as a workaround -->
+{{- $nm := .Get "id" -}}
+<!--{{- $id := printf "spoiler-%d" .Ordinal -}}-->
+<div class="spoiler {{ .Get "class" }}" {{ with .Get "style" }}style="{{ . | safeCSS }}"{{ end }}>
+  <p>
+    <a class="btn btn-primary" data-toggle="collapse" href="#{{$nm}}" role="button" aria-expanded="false" aria-controls="{{$nm}}">
+      <i class="fas fa-graduation-cap">&nbsp;&nbsp;</i>{{ .Get "text" | emojify }}
+    </a>
+  </p>
+  <div class="collapse card {{ if (eq (.Get "open") "true") }}show{{ end }}" id="{{$nm}}">
+    <div class="card-body">
+      {{ .Inner | markdownify | emojify }}
+    </div>
+  </div>
+</div>
