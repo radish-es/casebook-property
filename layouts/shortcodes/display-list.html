@@ -1,0 +1,8 @@
+<ul>
+    <!-- Ranges through ./*.md -->
+    {{ with $.Site.GetPage "/content/concepts/" }} 
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>

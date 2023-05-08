@@ -7,3 +7,5 @@ bookCollapseSection: true
 ---
 
 These are course concepts.
+
+{{< display-list >}}
