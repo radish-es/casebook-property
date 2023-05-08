@@ -2,7 +2,7 @@
 title: 'Blue Mountain-Birch Cove Lakes'
 short: Blue Mountain
 tags:
-class: exercise
+class: problem
 ---
 
 {{< figure src="/media/blue_mountain.jpg" caption="Irwin Barrett - Ecology Action Centre" >}}

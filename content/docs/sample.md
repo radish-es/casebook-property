@@ -1,9 +1,9 @@
 ---
-title: Land Use Control I
-linktitle: Land Use Control I
+title: Sample Lesson
+linktitle: Sample Lesson
 published: true
 type: docs
-weight: 12
+weight: 1
 objectives:
   - objective: 'Describe the key elements of the modern style '
     explanation: and compare these to those of the classical style studied last term.
@@ -46,7 +46,11 @@ You've arrive in Winter term! This week, we'll begin to revisit some of last ter
 
 {{< problem blue-mountain >}}
 
-This is some additional text.
+This is some additional text in between the modules.
+
+{{< concept sticks >}}
+
+This is some additional text in between the modules.
 
 {{< case mariner >}}
 

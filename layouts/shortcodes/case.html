@@ -1,10 +1,12 @@
 
+{{ $case_name := (.Get 0) }}
+
 {{ $case := printf "%s" ".md"| printf "%s%s" (.Get 0) | printf "%s%s" "/content/cases/" }}
 
 {{ with $.Site.GetPage $case }} 
 
 <div class="class_wrapper">
-    <div class="class_label">Case</div>
+    <div class="class_label"><a href="/cases/{{ $case_name }}">Case</a></div>
 
     <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Style }}<a class="anchor" href="#{{ .Params.Style | anchorize}}"> #</a></h2>
 

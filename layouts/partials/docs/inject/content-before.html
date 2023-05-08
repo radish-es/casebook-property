@@ -1,4 +1,17 @@
-<h2>{{.Title}}</h2>
+
+{{ if isset .Params "title" }}
+
+    <h2>{{.Title}}</h2>
+
+{{ end }}
+
+{{ if isset .Params "style" }}
+
+    <h2>{{ .Params.Style }}</h2>
+
+    {{ if isset .Params "reporter" }}<p><b>Reporter:</b> {{ .Params.Reporter }}</p>{{ end }}
+
+{{ end }}
 
 {{ if isset .Params "objectives" }}
 
