@@ -6,6 +6,8 @@
 <div class="class_wrapper">
     <div class="class_label">Problem</div>
 
+    {{ partial "repo-link" . }}
+
     <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
 
     {{ .Content }}
