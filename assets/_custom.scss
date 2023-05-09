@@ -113,7 +113,14 @@ div.suggest-edits a, div.suggest-edits a:visited {
   padding: 5px 8px;
   border-radius: 10px;
   width: fit-content;
+  margin-left: 2px;
+  margin-bottom: 2px;
 }
+
+.list-tag a:visited {
+  color: #fff;
+}
+
 .list-descrption {}
 
 .list-page-label {
