@@ -6,4 +6,4 @@ weight: 1
 bookCollapseSection: true
 ---
 
-These are the docs for each week.
+Weekly or meeting-based lessons. Each lessons builds from core components (modules, cases, problems, etc).

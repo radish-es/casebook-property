@@ -25,7 +25,7 @@
             <p>By the end of this week, you should be able to:</p>
             <ul>
                 {{ range .Params.Objectives }}
-                <li><b>{{ .objective }}</b> - {{ .explanation }}</li>
+                <li><b>{{ .objective }}</b> {{ .explanation }}</li>
                 {{ end }}
             </ul>
             </div></div>

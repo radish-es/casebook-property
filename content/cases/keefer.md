@@ -2,6 +2,12 @@
 style: Keefer v Arillotta
 short: Keefer
 reporter: '13 O.R. (2d) 680'
+class: case
+tags:
+  - adverse-possession
+  - title
+  - possession
+  - easements
 ---
 
 ### Wilson, J.A. -- 

@@ -12,9 +12,6 @@
 
     <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
 
-    {{ $footnoteReturnLink := (printf "${1}") }}
-    {{ print $footnoteReturnLink}}
-
     {{ .Content }}
     
 </div>
