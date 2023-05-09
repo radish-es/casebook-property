@@ -21,7 +21,7 @@
                     {{ end }}
                 </div>
             {{ end }}
-            {{ if ne  .Params.Class "case" }}
+            {{ if or (eq  .Params.Class "concept") (eq  .Params.Class "module") (eq  .Params.Class "problem")  }}
                 <div class="list-page">
                     <h3><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h3>
                     {{if isset .Params "tags" }}
