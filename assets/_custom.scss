@@ -89,3 +89,31 @@ div.suggest-edits a, div.suggest-edits a:visited {
 .class_label a, .class_label a:visited {
   color: #fff;
 }
+
+/*LIST PAGES*/
+
+.list-page {
+  display: block;
+  border-width: 1px;
+  border-color: #000;
+  border-style: dashed;
+  border-radius: 40px;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+.list-page:hover {
+  background-color: #EEE;
+}
+
+.list-tag {
+  display: inline;
+  background: #000;
+  color: #fff;
+  padding: 5px 8px;
+  border-radius: 10px;
+  width: fit-content;
+}
+.list-descrption {
+  
+}

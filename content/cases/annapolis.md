@@ -3,6 +3,10 @@ style: Annapolis Group Inc. v Halifax Regional Municipality
 short: Annapolis Group
 reporter: 2022 SCC 36
 class: case
+description: "A case about constructive expropriation"
+tags:
+  - constructive-expropriation
+  - zoning
 ---
 
 ### Côté, Brown JJ. --

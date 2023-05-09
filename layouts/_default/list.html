@@ -1,23 +1,60 @@
 {{ define "main" }}
 <main>
   <article>
-    <header>
-      <h1>{{ .Title}}</h1>
-    </header>
     {{ .Content }}
   </article>
-  <ul>
+  
     {{ range .Pages }}
-        {{ if isset .Params "style" }}
-            <li>
-                <a href="{{ .Permalink }}">{{ .Params.Style }}</a>
-            </li>
-        {{ else }}
-            <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-        {{ end }}
+        
+            {{ if eq  .Params.Class "case" }}
+                <div class="list-page">
+                    <h3><a href="{{ .Permalink }}">{{ .Params.Style }}, {{ .Params.Reporter }}</a></h3>
+                    {{if isset .Params "tags" }}
+                        {{ range .Params.Tags}}
+                            <div class="list-tag">{{ . }}</div>
+                        {{ end }}
+                    {{ end }}
+                    {{ with .Param "description"}}
+                        <div class="list-description">
+                            <p>{{ . }}</p>
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
+            {{ if ne  .Params.Class "case" }}
+                <div class="list-page">
+                    <h3><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h3>
+                    {{if isset .Params "tags" }}
+                        {{ range .Params.Tags}}
+                            <div class="list-tag">{{ . }}</div>
+                        {{ end }}
+                    {{ end }}
+                    {{ with .Param "description"}}
+                        <div class="list-description">
+                            <p>{{ . }}</p>
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
+
+
+            <!--
+            {{ if isset .Params "style" }}
+                <h3><a href="{{ .Permalink }}">{{ .Params.Style }}, {{ .Params.Reporter }}</a></h3>
+                {{if isset .Params "tags" }}
+                    {{ range .Params.Tags}}
+                        <div class="list-tag">{{ . }}</div>
+                    {{ end }}
+                {{ end }}
+                {{if isset .Params "description" }}<div class="list-description"><p>{{ .Params.Description }}</p></div>{{ end }}
+            {{ else }}
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                {{if isset .Params "description" }}<div class="list-description"></div><p>{{ .Params.Description }}</p></div>{{ end }}
+            {{ end }}
+            -->     
+
+        
     {{ end }}
-  </ul>
+  
 </main>
 {{ end }}

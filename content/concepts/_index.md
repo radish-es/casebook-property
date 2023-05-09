@@ -6,6 +6,5 @@ weight: 2
 bookCollapseSection: true
 ---
 
-These are course concepts.
+Collection of key concepts in the course. 
 
-{{< display-list >}}
