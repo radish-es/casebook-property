@@ -13,7 +13,7 @@ tags:
 
 #### I. Overview
 
-This appeal calls upon the Court to clarify the circumstances in which state regulation of land use may effect a *de facto* or (as we will refer to it) “constructive” taking of private property.
+This appeal calls upon the Court to clarify the circumstances in which state regulation of land use may effect a *de facto* or (as we will refer to it) “constructive” taking of private property. 
 
 The appellant, Annapolis Group Inc., contends that the respondent, Halifax Regional Municipality, improperly used its regulatory powers to effectively seize Annapolis’ land for use as a public park without compensation. Halifax says that Annapolis’ claim is a veiled attempt to make taxpayers foot the bill for a decades-long development gamble. It sought summary dismissal of this part of Annapolis’ claim, while permitting other claims (for misfeasance in public office and unjust enrichment) to proceed to trial.
 
