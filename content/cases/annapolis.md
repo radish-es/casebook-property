@@ -10,7 +10,7 @@ tags:
 ---
 
 ### Côté, Brown JJ. --
-
+ 
 #### I. Overview
 
 This appeal calls upon the Court to clarify the circumstances in which state regulation of land use may effect a *de facto* or (as we will refer to it) “constructive” taking of private property. 

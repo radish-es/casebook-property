@@ -24,6 +24,8 @@ Some further explanatory text.
 
 {{< module sample >}}
 
+Add a line of text.
+
 
 
 
