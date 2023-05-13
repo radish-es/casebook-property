@@ -24,6 +24,10 @@ export default defineConfig({
         name: "concept",
         label: "Concept",
         path: "content/concepts",
+        match: {
+          exclude: '**/_index',
+        },
+        format: 'md',
         fields: [
           {
             type: "string",
@@ -58,6 +62,51 @@ export default defineConfig({
             name: 'tags',
             type: 'string',
             list: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "lesson",
+        label: "Lesson",
+        path: "content/lessons",
+        match: {
+          exclude: '**/_index',
+        },
+        format: 'md',
+        fields: [
+          {
+            type: "string",
+            name: "class",
+            label: "Class",
+            required: true,
+            list: false,
+            options: [
+              {
+                value: 'lesson',
+                label: 'Lesson'
+              }
+            ]
+          },
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Short Title",
+            name: "short",
+            type: "string",
+          },
+          {
+            label: "Description",
+            name: "description",
+            type: "string"
           },
           {
             type: "rich-text",

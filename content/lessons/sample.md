@@ -1,6 +1,6 @@
 ---
 title: Sample Lesson
-linktitle: Sample Lesson
+short: Sample Lesson
 published: true
 type: docs
 class: lesson
