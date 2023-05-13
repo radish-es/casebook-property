@@ -113,6 +113,35 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              {
+                name: "concept",
+                label: "Concept",
+                ui: {
+                  itemProps: (item) => {
+                    return { label: item.title };
+                  },
+                },
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: "title",
+                    label: "Title",
+                    type: "string",
+                  },
+                  {
+                  name: "path",
+                  label: "Concept",
+                  type: "reference",
+                  collections: ['concept'],
+                  required: true,
+                  },
+                ],
+              },
+            ],
           },
         ],
       },
