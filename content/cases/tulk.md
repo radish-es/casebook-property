@@ -2,7 +2,12 @@
 style: 'Tulk v Moxhay '
 short: Tulk
 reporter: '(1848), 41 ER 1143 (Ch)'
+description:
+tags:
+  - 
+  - 
 public: true
+class: case
 ---
 
 

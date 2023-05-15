@@ -7,6 +7,12 @@ sources:
     source_url: 'https://canlii.ca/t/1lpfn'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - 
+  - 
+description:
+public: true
+class: case
 ---
 
 

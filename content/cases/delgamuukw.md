@@ -7,6 +7,13 @@ sources:
     source_url: 'https://canlii.ca/t/1fqz8'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - aboriginal-title
+  - title
+  - aboriginal-rights
+description: A case about Aboriginal title
+public: true
+class: case
 ---
 
 

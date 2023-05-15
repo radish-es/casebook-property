@@ -14,6 +14,7 @@ sources:
 tags:
   - excerpt
   - title
+  - estates
 class: secondary_sources
 public: true
 ---

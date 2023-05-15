@@ -2,12 +2,17 @@
 style: Piper v Stevenson
 short: Piper
 reporter: '1913 CanLII 615 (ON CA), [1913] 12 DLR 820'
-public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw5tl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 ### Clute J. —

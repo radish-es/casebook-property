@@ -13,6 +13,13 @@ sources:
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
+tags:
+  - right-to-shelter
+  - Charter
+  - homelessness
+description: A case about the emerging right to shelter
+public: true
+class: case
 ---
 
 

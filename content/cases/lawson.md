@@ -2,12 +2,14 @@
 style: Lessees of Lawson et al v Whitman
 short: Lawson
 reporter: '(1851), 1 NSR 208'
+description:
 tags:
   - classical style
   - title
   - adverse possession
   - possession
 public: true
+class: case
 ---
 
 

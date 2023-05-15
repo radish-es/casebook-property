@@ -9,6 +9,12 @@ sources:
   - source_name: the Nova Scotia Court of Appeal
     source_url: 'https://decisia.lexum.com/nsc/nsca/en/item/13502/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 

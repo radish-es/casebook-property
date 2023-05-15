@@ -11,6 +11,12 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
+tags:
+  - bequests
+  - public-policy
+description: A case about when testamentary bequests violate public policy  
+public: true
+class: case
 ---
 
 

@@ -7,6 +7,12 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1tsg6'
     license: 'https://www.canlii.org/en/info/terms.html#license'
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 

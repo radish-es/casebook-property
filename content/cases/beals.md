@@ -9,6 +9,12 @@ sources:
   - source_name: the Nova Scotia Supreme Court
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/461507/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
+tags:
+  - title
+  - racism
+description: A case about the purpose of the *Land Titles Clarification Act* and its historical context
+public: true
+class: case
 ---
 
 

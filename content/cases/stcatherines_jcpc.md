@@ -2,8 +2,12 @@
 style: St. Catherines Milling and Lumber Co. v R. (JCPC)
 short: St. Catherines (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
+description:
 tags:
+  - 
+  - 
 public: true
+class: case
 ---
 
 ### Lord Watson —

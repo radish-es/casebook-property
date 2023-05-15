@@ -4,11 +4,16 @@ style: >-
   Toronto
 short: School Board
 reporter: '1925 CanLII 326 (UK JCPC), [1925] 3 DLR 880 '
-public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw88h'
     license: 'https://www.canlii.org/en/info/terms.html#license'
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 

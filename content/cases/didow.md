@@ -7,6 +7,13 @@ sources:
     source_url: 'https://canlii.ca/t/2dm47'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - airspace-rights
+  - exclusion
+  - trespass
+description: A case about airspace rights
+public: true
+class: case
 ---
 
 

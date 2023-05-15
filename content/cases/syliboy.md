@@ -2,11 +2,16 @@
 style: R v Syliboy
 short: Syliboy
 reporter: '1928 CanLII 352 (NS SC), [1929] 1 DLR 307'
-public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw8w1'
     license: 'https://www.canlii.org/en/info/terms.html#license'
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 

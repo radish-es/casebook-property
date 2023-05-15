@@ -2,17 +2,20 @@
 style: Monsanto Canada Inc v Schmeiser
 short: Monsanto
 reporter: 2004 SCC 34 (CanLII)
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1h3pt'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: Not an official version.
+description:
 tags:
   - contemporary style
   - exclusion
   - industry
   - genes
   - patents
-sources:
-  - source_name: CanLII
-    source_url: 'https://canlii.ca/t/1h3pt'
-    license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: Not an official version.
+public: true
+class: case
 ---
 
 

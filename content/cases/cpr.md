@@ -7,6 +7,12 @@ sources:
     source_url: 'https://canlii.ca/t/1mm2r'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - constructive-expropriation
+  - zoning
+description: A case about constructive expropriation
+public: true
+class: case
 ---
 
 

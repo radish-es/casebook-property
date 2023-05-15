@@ -2,6 +2,12 @@
 style: Metalclad Corporation v The United Mexican States
 short: Metalclad
 reporter: ICSID ARB(AF)/97/1
+description:
+tags:
+  - 
+  - 
+public: true
+class: case
 ---
 
 

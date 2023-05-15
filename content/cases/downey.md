@@ -9,6 +9,12 @@ sources:
   - source_name: Nova Scotia Supreme Court
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/482093/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
+tags:
+  - 
+  - 
+description:
+public: true
+class: case
 ---
 
 

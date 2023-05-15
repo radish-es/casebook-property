@@ -2,7 +2,13 @@
 style: 'Clift v Kane '
 short: Clift
 reporter: '(1870), 5 Nfld LR (en banc)'
+tags:
+  - possession
+  - classical-style
+  - abandonment
+description: A case about establishing possession
 public: true
+class: case
 ---
 
 

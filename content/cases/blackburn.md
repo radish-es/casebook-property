@@ -8,6 +8,12 @@ sources:
     source_url: 'https://canlii.ca/t/ggxlb'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
+tags:
+  - estates
+  - bequests
+description: A case about the limits of restraints on alienation
+public: true
+class: case
 ---
 
 
