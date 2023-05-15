@@ -9,9 +9,11 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - 
-  - 
-description:
+  - classical-style
+  - exclusion
+  - trespass
+  - possession   
+description: A case about possession and the right to exclude in the context of a shopping centre
 public: true
 class: case
 ---

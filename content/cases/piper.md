@@ -7,10 +7,11 @@ sources:
     source_url: 'https://canlii.ca/t/gw5tl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
-description:
+description: A case about adverse possession
 tags:
-  - 
-  - 
+  - adverse-possession
+  - possession
+  - abandonment
 public: true
 class: case
 ---

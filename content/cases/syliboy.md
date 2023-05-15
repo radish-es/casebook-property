@@ -6,10 +6,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw8w1'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description:
+description: A case about the interpretation of the 1752 Peace and Friendship Treaty
 tags:
-  - 
-  - 
+  - colonialism
+  - treaties
 public: true
 class: case
 ---

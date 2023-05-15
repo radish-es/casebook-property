@@ -8,9 +8,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - 
-  - 
-description:
+  - aboriginal-title
+  - aboriginal-rights
+description: A case about the nature of Aboriginal title
 public: true
 class: case
 ---

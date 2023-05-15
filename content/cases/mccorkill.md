@@ -7,10 +7,10 @@ sources:
     source_url: 'https://canlii.ca/t/g8sgm'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description:
+description: A case about testamentary bequests and public policy
 tags:
-  - 
-  - 
+  - bequests
+  - public-policy
 public: true
 class: case
 ---

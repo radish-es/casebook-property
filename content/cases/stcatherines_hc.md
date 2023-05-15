@@ -2,10 +2,11 @@
 style: St. Catherine's Milling and Lumber Co. v R (HC)
 short: St. Catherine's (HC)
 reporter: '(1886), 10 OR 196 (HC)'
-description:
+description: A case about the source and content of Aboriginal title
 tags:
-  - 
-  - 
+  - aboriginal-rights
+  - aboriginal-title
+  - colonialism
 public: true
 class: case
 ---

@@ -10,6 +10,7 @@ sources:
 tags:
   - constructive-expropriation
   - zoning
+  - land-use-control
 description: A case about constructive expropriation
 public: true
 class: case

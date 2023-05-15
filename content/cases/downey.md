@@ -10,9 +10,9 @@ sources:
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/482093/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 tags:
-  - 
-  - 
-description:
+  - title
+  - racism
+description: A case about certificates of claims under the *Land Titles Clarification Act*
 public: true
 class: case
 ---

@@ -14,7 +14,7 @@ sources:
 tags:
   - bequests
   - public-policy
-description: A case about when testamentary bequests violate public policy  
+description: A case about testamentary bequests and public policy  
 public: true
 class: case
 ---

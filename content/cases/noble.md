@@ -6,10 +6,11 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description:
+description: A case about racially restrictive covenants, and the scope of restrictive covenants
 tags:
-  - 
-  - 
+  - restrictive-covenant
+  - racism
+  - public-policy
 public: true
 class: case
 ---

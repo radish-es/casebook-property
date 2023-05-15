@@ -7,10 +7,10 @@ sources:
     source_url: 'https://canlii.ca/t/g7mt9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description:
+description: A case about establishing Aboriginal title, and its content
 tags:
-  - 
-  - 
+  - aboriginal-title
+  - aboriginal-rights
 public: true
 class: case
 ---

@@ -7,10 +7,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1tsg6'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description:
+description: A case about the right to exclude in the context of waterways and relevant provincial legislation
 tags:
-  - 
-  - 
+  - riparian-rights
+  - exclusion
 public: true
 class: case
 ---

@@ -2,10 +2,10 @@
 style: Shelfer v City of London Electrical Lighting Co.
 short: Shelfer
 reporter: '[1895] 1 Ch 287'
-description:
+description: A case about when a violation of the right to exclude will merit damages rather than an injunction
 tags:
-  - 
-  - 
+  - nuisance
+  - exclusion
 public: true
 class: case
 ---

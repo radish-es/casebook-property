@@ -3,9 +3,10 @@ style: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
 tags:
-  - 
-  - 
-description:
+  - public-policy
+  - modern-style
+  - restrictive-covenant  
+description: A case about restrictive covenants and public policy
 public: true
 class: case
 ---

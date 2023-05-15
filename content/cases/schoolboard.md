@@ -8,10 +8,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw88h'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description:
+description: A case about land use regulations and acquired rights
 tags:
-  - 
-  - 
+  - land-use-control
+  - acquired-rights
 public: true
 class: case
 ---

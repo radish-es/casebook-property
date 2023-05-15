@@ -2,10 +2,11 @@
 style: Moore v Regents of the University of California
 short: Moore
 reporter: '[1990] 51 Cal.3d 120'
-description:
+description: A case about property in excised cells
 tags:
-  - 
-  - 
+  - possession
+  - ownership
+  - patents
 public: true
 class: case
 ---

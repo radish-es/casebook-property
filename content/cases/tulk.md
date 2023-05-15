@@ -2,10 +2,9 @@
 style: 'Tulk v Moxhay '
 short: Tulk
 reporter: '(1848), 41 ER 1143 (Ch)'
-description:
+description: A case about restrictive covenants
 tags:
-  - 
-  - 
+  - restrictive-covenants
 public: true
 class: case
 ---

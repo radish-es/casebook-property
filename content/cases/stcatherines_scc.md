@@ -6,10 +6,11 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttxl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description:
+description: A case about the source and content of Aboriginal title
 tags:
-  - 
-  - 
+  - aboriginal-title
+  - aboriginal-rights
+  - colonialism
 public: true
 class: case
 ---

@@ -7,10 +7,11 @@ sources:
     source_url: 'https://canlii.ca/t/51z2'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description:
+description: A case about land use regulations and acquired rights
 tags:
-  - 
-  - 
+  - zoning
+  - land-use-control
+  - acquired-rights
 public: true
 class: case
 ---

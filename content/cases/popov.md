@@ -2,10 +2,11 @@
 style: Popov v Hayashi
 short: Popov
 reporter: (Cal Sup 2002)
-description:
+description: A case about establishing possession
 tags:
-  - 
-  - 
+  - possession
+  - contemporary-style
+  - pre-possessory-interest
 public: true
 class: case
 ---

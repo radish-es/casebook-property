@@ -2,7 +2,7 @@
 style: Keefer v Arillotta
 short: Keefer
 reporter: '13 O.R. (2d) 680'
-description:
+description: A case about adverse possession
 tags:
   - adverse-possession
   - title

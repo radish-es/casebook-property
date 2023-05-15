@@ -2,10 +2,7 @@
 style: Lawrence v Maple Trust Company
 short: Lawrence
 reporter: 2007 ONCA 74 (CanLII)
-tags:
-  - balancing rights
-  - title
-  - land title registration
+
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1qfh2'
@@ -15,8 +12,9 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2007. Not an official version. '
 tags:
-  - 
-  - 
+  - balancing rights
+  - title
+  - land title registration
 description:
 public: true
 class: case
