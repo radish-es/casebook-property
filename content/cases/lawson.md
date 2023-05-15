@@ -2,7 +2,7 @@
 style: Lessees of Lawson et al v Whitman
 short: Lawson
 reporter: '(1851), 1 NSR 208'
-description:
+description: A case about adverse possession
 tags:
   - classical style
   - title

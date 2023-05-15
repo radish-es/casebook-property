@@ -2,7 +2,7 @@
 style: 'Victoria Park Racing and Recreational Grounds Co Ltd v Taylor '
 short: Victoria Park
 reporter: '(1937), 58 CLR 479'
-description:
+description: A case about what land use, nuisance, and what constitutes property
 tags:
   - classical style
   - land uses

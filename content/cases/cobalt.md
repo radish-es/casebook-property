@@ -11,9 +11,10 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2019. Not an official version. '
 tags:
-  - 
-  - 
-description:
+  - zoning
+  - land-use-control
+  - acquired-rights
+description: A case about what qualifies as an acquired right
 public: true
 class: case
 ---

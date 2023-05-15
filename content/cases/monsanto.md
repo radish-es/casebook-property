@@ -7,7 +7,7 @@ sources:
     source_url: 'https://canlii.ca/t/1h3pt'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description:
+description: A case about the scope of patent infringement and its relation to common law property rights
 tags:
   - contemporary style
   - exclusion

@@ -15,7 +15,7 @@ tags:
   - balancing rights
   - title
   - land title registration
-description:
+description: A case about competing claims on fraudulently transferred property
 public: true
 class: case
 ---
