@@ -11,6 +11,9 @@ sources:
       James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet,
       eds., [Open Source Property: A Free
       Casebook](https://opensourceproperty.org) (2015)
+tags:
+class: secondary_sources
+public: true
 ---
 
 

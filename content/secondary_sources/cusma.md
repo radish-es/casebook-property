@@ -9,6 +9,10 @@ sources:
     attribution: >-
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
+tags:
+  - constructive-expropriation
+class: secondary_sources
+public: true
 ---
 
 

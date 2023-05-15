@@ -7,6 +7,11 @@ sources:
     source_url: 'https://laws-lois.justice.gc.ca/eng/acts/i-5/'
     license: ' https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
+tags:
+  - treaty-rights
+  - colonialism
+class: secondary_sources
+public: true
 ---
 
 

@@ -6,6 +6,7 @@ tags:
   - hunting
   - underlying title
   - treaties
+class: secondary_sources
 public: true
 ---
 

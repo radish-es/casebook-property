@@ -5,6 +5,7 @@ reporter: '(1881), c 11'
 tags:
   - industry
   - legislation
+class: secondary_sources
 public: true
 ---
 

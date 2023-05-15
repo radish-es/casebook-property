@@ -6,6 +6,10 @@ sources:
     source_url: 'https://laws-lois.justice.gc.ca/eng/const/page-13.html#h-53'
     license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
+tags:
+  - treaty-rights
+class: secondary_sources
+public: true
 ---
 
 

@@ -2,6 +2,10 @@
 style: 'John Locke, Second Treatise on Government'
 short: Locke
 reporter: Chapter V (1690)
+tags:
+  - classical
+  - colonialism
+class: secondary_sources
 public: true
 ---
 
