@@ -8,6 +8,7 @@ sources:
     attribution: Not an official version.
 tags:
   - treaty-rights
+  - aboriginal-rights
 class: secondary_sources
 public: true
 ---

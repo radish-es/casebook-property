@@ -2,6 +2,8 @@
 style: 1752 Treaty of Peace and Friendship
 short: 1752 Treaty
 tags:
+  - colonialism
+  - treaties
 class: secondary_sources
 public: true
 ---

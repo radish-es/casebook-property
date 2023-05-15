@@ -1,6 +1,8 @@
 ---
 title: Short-Term Rentals in HRM
 short: Problem
+tags:
+  - zoning
 class: problem
 ---
 

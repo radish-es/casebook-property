@@ -9,7 +9,10 @@ sources:
     attribution: Not an official version.
 tags:
   - treaty-rights
+  - aboriginal-rights
   - colonialism
+  - possession
+  - title
 class: secondary_sources
 public: true
 ---

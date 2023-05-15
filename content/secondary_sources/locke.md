@@ -5,6 +5,9 @@ reporter: Chapter V (1690)
 tags:
   - classical
   - colonialism
+  - possession
+  - title
+  - racism
 class: secondary_sources
 public: true
 ---

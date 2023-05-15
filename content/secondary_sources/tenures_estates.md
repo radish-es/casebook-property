@@ -12,6 +12,8 @@ sources:
       eds., [Open Source Property: A Free
       Casebook](https://opensourceproperty.org) (2015)
 tags:
+  - excerpt
+  - title
 class: secondary_sources
 public: true
 ---
