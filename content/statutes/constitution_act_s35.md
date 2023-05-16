@@ -9,7 +9,7 @@ sources:
 tags:
   - treaty-rights
   - aboriginal-rights
-class: secondary_sources
+class: statute
 public: true
 ---
 

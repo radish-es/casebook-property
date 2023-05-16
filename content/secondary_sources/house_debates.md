@@ -3,7 +3,8 @@ style: House of Commons Debates
 short: House Debates
 reporter: '45 Victoria, 1882 Vol XII'
 tags:
-  - liberalism
+  - balancing-rights
+  - expropriation  
   - hansard
 class: secondary_sources
 public: true

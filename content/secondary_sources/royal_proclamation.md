@@ -3,6 +3,7 @@ style: 'Royal Proclamation (October 7, 1763)'
 short: Royal Proclamation
 tags:
   - treaty-rights
+  - aboriginal-rights
   - possession
   - colonialism
   - treaties

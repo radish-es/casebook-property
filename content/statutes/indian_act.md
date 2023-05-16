@@ -13,7 +13,7 @@ tags:
   - colonialism
   - possession
   - title
-class: secondary_sources
+class: statute
 public: true
 ---
 

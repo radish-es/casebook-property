@@ -3,6 +3,7 @@ title: Short-Term Rentals in HRM
 short: Problem
 tags:
   - zoning
+  - land-use-control
 class: problem
 ---
 

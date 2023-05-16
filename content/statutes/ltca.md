@@ -8,7 +8,7 @@ tags:
   - African Nova Scotians
   - possession
   - title
-class: secondary_sources
+class: statute
 public: true
 sources:
   - source_name: nslegislature.ca
