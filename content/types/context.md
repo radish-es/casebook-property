@@ -1,0 +1,3 @@
+---
+#As I port the material, I realize a substantial amount might be described as 'context' -- providing more information the cases, elaborating on concepts, and giving the historical context. Right now, I've seperated the context into three folders that that contain those three types (but in some cases the distinction may be arbitary, so I might switch to a consolidated folder). In some of the text I have removed references to place from the old textbook (such as signifiers like 'below'), and other content like mini-lectures or references to other material. -Gavin
+---
