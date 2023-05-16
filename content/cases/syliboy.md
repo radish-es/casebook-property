@@ -1,17 +1,19 @@
 ---
+class: case
 style: R v Syliboy
 short: Syliboy
 reporter: '1928 CanLII 352 (NS SC), [1929] 1 DLR 307'
+year: 1928
+description: A case about the interpretation of the 1752 Peace and Friendship Treaty
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw8w1'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description: A case about the interpretation of the 1752 Peace and Friendship Treaty
 tags:
   - colonialism
   - treaties
-public: true
-class: case
+
 ---
 
 

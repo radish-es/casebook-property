@@ -1,18 +1,20 @@
 ---
+class: case
 style: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
+year: 1950
+description: A case about racially restrictive covenants, and the scope of restrictive covenants
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description: A case about racially restrictive covenants, and the scope of restrictive covenants
 tags:
   - restrictive-covenant
   - racism
   - public-policy
-public: true
-class: case
+
 ---
 
 

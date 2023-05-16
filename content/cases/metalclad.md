@@ -1,13 +1,14 @@
 ---
+class: case
 style: Metalclad Corporation v The United Mexican States
 short: Metalclad
 reporter: ICSID ARB(AF)/97/1
+public: true
 description: A tribunal decision about constructive expropriation under NAFTA
 tags:
   - constructive-expropriation
   - international-trade
-public: true
-class: case
+
 ---
 
 

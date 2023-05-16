@@ -1,14 +1,16 @@
 ---
+class: case
 style: St. Catherines Milling and Lumber Co. v R. (JCPC)
 short: St. Catherines (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
+year: 1888
 description: A case about the source and content of Aboriginal title
+public: true
 tags:
   - aboriginal-title
   - aboriginal-rights
   - colonialism
-public: true
-class: case
+
 ---
 
 ### Lord Watson —

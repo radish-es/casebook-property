@@ -1,14 +1,16 @@
 ---
+class: case
 style: 'Victoria Park Racing and Recreational Grounds Co Ltd v Taylor '
 short: Victoria Park
 reporter: '(1937), 58 CLR 479'
+year: 1937
 description: A case about what land use, nuisance, and what constitutes property
+public: true
 tags:
   - classical style
   - land uses
   - nuisance
-public: true
-class: case
+
 ---
 
 

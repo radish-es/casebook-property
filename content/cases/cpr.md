@@ -1,7 +1,11 @@
 ---
+class: case
 style: Canadian Pacific Railway Co. v Vancouver (City)
 short: CPR
 reporter: 2006 SCC 5 (CanLII)
+year: 2006
+description: A case about constructive expropriation
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1mm2r'
@@ -11,9 +15,7 @@ tags:
   - constructive-expropriation
   - zoning
   - land-use-control
-description: A case about constructive expropriation
-public: true
-class: case
+
 ---
 
 

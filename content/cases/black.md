@@ -1,14 +1,16 @@
 ---
+class: case
 style: 'Black v Canadian Copper Co. '
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
+year: 1917
+description: A case about the right to exclude through a nuisance action
+public: true
 tags:
   - exclusion
   - classical-style
   - nuisance
-description: A case about the right to exclude through a nuisance action
-public: true
-class: case
+
 ---
 
 

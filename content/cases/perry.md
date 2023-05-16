@@ -1,14 +1,16 @@
 ---
+class: case
 style: Perry v Clissold
 short: Perry
 reporter: '[1906] 4 CLR 374'
+year: 1906
 description: A case about adverse possession, and whether advesely possessed land necessitates compensation when expropriated
+public: true
 tags:
   - classical style
   - adverse possession
   - possession
-public: true
-class: case
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
+class: case
 style: Beals v Nova Scotia (Attorney General)
 short: Beals
 reporter: ' 2020 NSSC 60 (CanLII)'
+year: 2020
+description: A case about the purpose of the *Land Titles Clarification Act* and its historical context
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/j58p8'
@@ -12,9 +16,7 @@ sources:
 tags:
   - title
   - racism
-description: A case about the purpose of the *Land Titles Clarification Act* and its historical context
-public: true
-class: case
+
 ---
 
 

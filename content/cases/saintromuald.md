@@ -1,19 +1,21 @@
 ---
+class: case
 style: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
+year: 2001
+description: A case about land use regulations and acquired rights
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/51z2'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description: A case about land use regulations and acquired rights
 tags:
   - zoning
   - land-use-control
   - acquired-rights
-public: true
-class: case
+
 ---
 
 

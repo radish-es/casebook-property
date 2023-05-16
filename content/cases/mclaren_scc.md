@@ -1,18 +1,19 @@
 ---
+class: case
 style: McLaren v Caldwell et al (Supreme Court of Canada)
 short: McLaren (SCC)
 reporter: '1882 CanLII 3 (SCC), [1882] 8 SCR 435'
+year: 1882
+description: A case about the right to exclude in the context of waterways and relevant provincial legislation
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1tsg6'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-description: A case about the right to exclude in the context of waterways and relevant provincial legislation
 tags:
   - riparian-rights
   - exclusion
-public: true
-class: case
+
 ---
 
 

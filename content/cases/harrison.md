@@ -1,8 +1,11 @@
 ---
+class: case
 style: Harrison v Carswell
 short: Harrison
 reporter: '1975 CanLII 160 (SCC), [1976] 2 SCR 200'
-tags:
+year: 1975
+description: A case about possession and the right to exclude in the context of a shopping centre
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1z6gp'
@@ -13,9 +16,7 @@ tags:
   - exclusion
   - trespass
   - possession   
-description: A case about possession and the right to exclude in the context of a shopping centre
-public: true
-class: case
+
 ---
 
 

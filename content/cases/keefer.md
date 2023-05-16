@@ -1,15 +1,21 @@
 ﻿---
+class: case
 style: Keefer v Arillotta
 short: Keefer
 reporter: '13 O.R. (2d) 680'
+year: 1976
 description: A case about adverse possession
+public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/g1jf9'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
   - adverse-possession
   - title
   - possession
   - easements
-public: true
-class: case
+
 ---
 
 ### Wilson, J.A. -- 

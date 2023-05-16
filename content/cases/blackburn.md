@@ -1,7 +1,10 @@
 ---
+class: case
 style: Blackburn v McCallum
 short: Blackburn
 reporter: '1903 CanLII 68 (SCC), [1903] 33 SCR 65'
+year: 1903
+description: A case about the limits of restraints on alienation
 public: true
 sources:
   - source_name: CanLII
@@ -11,9 +14,7 @@ sources:
 tags:
   - estates
   - bequests
-description: A case about the limits of restraints on alienation
-public: true
-class: case
+
 ---
 
 

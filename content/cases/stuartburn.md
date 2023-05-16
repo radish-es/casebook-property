@@ -1,19 +1,21 @@
 ---
+class: case
 style: Stuartburn (Municipality) v Kiansky
 short: Stuartburn
 reporter: 2001 MBQB 94 (CanLII)
+year: 2001
+description: A case about  interest in land in relation to ownership
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/4vq5.'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: 'Not an official version. '
-description: A case about what interest in land is sufficient for ownership
 tags:
   - ownership
   - estates
   - bequests
-public: true
-class: case
+
 ---
 
 

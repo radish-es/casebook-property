@@ -1,18 +1,20 @@
 ---
+class: case
 style: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
 reporter: 2014 SCC 44 (CanLII)
+year: 2014
+description: A case about establishing Aboriginal title, and its content
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g7mt9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-description: A case about establishing Aboriginal title, and its content
 tags:
   - aboriginal-title
   - aboriginal-rights
-public: true
-class: case
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
+class: case
 style: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
+year: 2008
+description: A case about the emerging right to shelter
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
@@ -13,13 +17,11 @@ sources:
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
-description: A case about the emerging right to shelter
 tags:
   - right-to-shelter
   - Charter
   - homelessness
-public: true
-class: case
+
 ---
 
 
