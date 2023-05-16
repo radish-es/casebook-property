@@ -3,10 +3,8 @@ style: 'An Act for Protecting the Public Interest in Rivers, Streams and Creeks'
 short: Rivers and Streams Act
 reporter: '(1881), c 11'
 tags:
-  - industry
-  - legislation
+  - water-rights
 class: statute
-public: true
 ---
 
 

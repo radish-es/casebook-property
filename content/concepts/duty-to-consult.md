@@ -1,10 +1,10 @@
 ---
 title: Duty to Consult
 short: Duty
-class: context
+class: concept
 tags:
-  - Tsilhqot'in
   - aboriginal-rights
+  - aboriginal-title
 ---
 
 

@@ -11,8 +11,7 @@ sources:
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/nafta-alena/fta-ale/index.aspx?lang=eng&_ga=2.58667178.1230028791.1660227712-1402126720.1660227712
 tags:
   - constructive-expropriation
-class: secondary_sources
-puplic: true
+class: statute
 ---
 
 

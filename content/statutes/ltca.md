@@ -5,7 +5,7 @@ reporter: 'RSNS 1989, c 250'
 tags:
   - racism
   - colonialism
-  - African Nova Scotians
+  - african-nova-scotians
   - possession
   - title
 class: statute

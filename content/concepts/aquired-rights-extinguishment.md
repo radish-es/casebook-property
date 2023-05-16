@@ -1,9 +1,8 @@
 ---
 title: Extinguishing Acquired Rights
-short: Extinguishing
-class: context
+short: Extinguishing Acquired Rights
+class: concept
 tags:
-  - Saint-Romuald
   - acquired-rights
 ---
 

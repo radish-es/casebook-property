@@ -1,6 +1,6 @@
 ---
 class: context
-title: African Nova Scotian Settlement and Title vs Possession
+title: African Nova Scotian Settlement
 short: ANS Settlement
 tags:
   - racism
