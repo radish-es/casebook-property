@@ -1,5 +1,5 @@
 ---
-style: 'Canada-United States-Mexico Agreement, Article 14'
+title: 'Canada-United States-Mexico Agreement, Article 14'
 short: CUSMA
 sources:
   - source_name: The Government of Canada
@@ -11,8 +11,7 @@ sources:
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
 tags:
   - constructive-expropriation
-class: secondary_sources
-public: true
+class: secondary
 ---
 
 
