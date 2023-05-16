@@ -9,8 +9,8 @@ sources:
 tags:
   - treaty-rights
   - aboriginal-rights
+  - aboriginal-title
 class: statute
-public: true
 ---
 
 

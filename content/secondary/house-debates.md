@@ -1,13 +1,10 @@
 ---
-style: House of Commons Debates
+title: House of Commons Debates
 short: House Debates
-reporter: '45 Victoria, 1882 Vol XII'
 tags:
-  - balancing-rights
-  - expropriation  
-  - hansard
-class: secondary_sources
-public: true
+  - expropriation 
+  - water-rights
+class: secondary
 ---
 
 

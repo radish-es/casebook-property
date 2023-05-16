@@ -1,5 +1,5 @@
 ---
-class: concept
+class: context
 title: Aboriginal Title at the End of the 19th Century
 short: 19th Century Aboriginal Title
 tags: 

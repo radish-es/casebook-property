@@ -3,6 +3,7 @@ title: Acknowledging Wolastoqey Territory
 short: Acknowledging Wolastoqey Territory
 tags:
   - colonialism
+  - territory
 class: problem
 ---
 

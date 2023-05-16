@@ -1,7 +1,7 @@
 
-{{ $concept_name := (.Get 0) }}
+{{ $concept_name := (.Get "path") }}
 
-{{ $concept := printf "%s" ".md"| printf "%s%s" (.Get 0) | printf "%s%s" "/content/concepts/" }}
+{{ $concept := printf "%s" (.Get "path") | printf "%s%s" "/" }}
 
 {{ with $.Site.GetPage $concept }} 
 

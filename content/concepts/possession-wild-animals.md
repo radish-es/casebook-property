@@ -1,10 +1,11 @@
 ---
 title: First Possession and Wild Animals
 short: First Possession
-class: context
+class: concept
 tags:
-  - Clift
   - possession
+  - wild-animals
+  - locke
 ---
 
 Locke's argument for possession (by means of one's labour) as the basis for establishing property rights in "unowned" things and land has had a lasting influence on common law property. More important still, the way in which Locke justified his principle of first possession laid much of the groundwork for the style of classical legal thought that would come to dominate in the nineteenth century. 

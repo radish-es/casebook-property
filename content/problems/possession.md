@@ -2,7 +2,7 @@
 title: Problems of Possession
 tags:
   - possession
-  - airspace-rights
+  - airspace
 class: problem
 ---
 

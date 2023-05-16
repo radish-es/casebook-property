@@ -1,5 +1,5 @@
 ---
-class: context
+class: concept
 title: Airspace Rights
 short: Airspace
 tags:

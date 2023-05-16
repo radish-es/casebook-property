@@ -1,9 +1,8 @@
 ---
 title: 'Property Law: Making the Market'
-short: Market
-class: context
+short: Making the Market
+class: concept
 tags: 
-  - assumptions
   - markets
   - economy
 ---

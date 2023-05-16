@@ -11,7 +11,7 @@ sources:
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
 tags:
   - constructive-expropriation
-class: secondary
+class: statute
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 class: context
-title: Anishinabek Law and *Terra Nullius*
+title: Anishinabek Law and Terra Nullius
 short: ''
 tags:
-  - St. Catherine's
+  - indigenous-law
+  - terra-nullius
   - colonialism
 ---
 

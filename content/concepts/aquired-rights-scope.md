@@ -1,5 +1,5 @@
 ---
-class: context
+class: concept
 title: Scope of Acquired Rights
 short: Scope
 tags:

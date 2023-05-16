@@ -3,7 +3,6 @@ title: Early Interpretation of the 1752 Treaty
 short: Early Interpretation
 class: context
 tags:
-  - Syliboy
   - treaties
   - aboriginal-rights
 ---
