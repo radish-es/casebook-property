@@ -1,7 +1,11 @@
 ---
+class: case
 style: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
 reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
+year: 1990
+description: A case about testamentary bequests and public policy
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g186s'
@@ -11,6 +15,10 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
+tags:
+  - bequests
+  - public-policy
+
 ---
 
 

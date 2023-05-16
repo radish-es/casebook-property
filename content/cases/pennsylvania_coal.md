@@ -1,9 +1,16 @@
 ---
+class: case
 style: Pennsylvania Coal Co. v Mahon
 short: Pennsylvania Coal
 reporter: ' 260 US 393 (1922)'
-tags:
+year: 1922
+description: A case about land use control in the United States
 public: true
+tags:
+  - modern-style
+  - land-use-control
+  - public-policy
+
 ---
 
 

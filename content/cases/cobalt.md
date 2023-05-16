@@ -1,7 +1,11 @@
 ---
+class: case
 style: Cobalt (Town) v Coleman (Township)
 short: Cobalt
 reporter: 2019 ONCA 134 (CanLII)
+year: 2019
+description: A case about what qualifies as an acquired right
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/hxn9j'
@@ -10,6 +14,11 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2019. Not an official version. '
+tags:
+  - zoning
+  - land-use-control
+  - acquired-rights
+
 ---
 
 

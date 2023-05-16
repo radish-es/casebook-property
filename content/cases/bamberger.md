@@ -1,7 +1,11 @@
 ---
+class: case
 style: Bamberger v Vancouver (Board of Parks and Recreation)
 short: Bamberger
 reporter: 2022 BCSC 49
+year: 2022
+description: A case about the emerging right to shelter
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/jlqf6'
@@ -13,6 +17,11 @@ sources:
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
+tags:
+  - right-to-shelter
+  - Charter
+  - homelessness
+
 ---
 
 

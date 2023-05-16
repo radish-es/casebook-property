@@ -1,12 +1,20 @@
 ---
+class: case
 style: McCorkill v McCorkill (Estate)
-short: McCorkill v McCorkill (Estate)
+short: McCorkill
 reporter: 2014 NBQB 148 (CanLII)
+year: 2014
+description: A case about testamentary bequests and public policy
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g8sgm'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - bequests
+  - public-policy
+
 ---
 
 

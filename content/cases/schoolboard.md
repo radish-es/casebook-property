@@ -1,14 +1,21 @@
 ---
+class: case
 style: >-
   City of Toronto v Board of Trustees of R.C. Separate Schools for City of
   Toronto
 short: School Board
 reporter: '1925 CanLII 326 (UK JCPC), [1925] 3 DLR 880 '
+year: 1925
+description: A case about land use regulations and acquired rights
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw88h'
     license: 'https://www.canlii.org/en/info/terms.html#license'
+tags:
+  - land-use-control
+  - acquired-rights
+
 ---
 
 

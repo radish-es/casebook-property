@@ -1,8 +1,15 @@
 ---
+class: case
 style: Re Walker
 short: Walker
 reporter: '(1925), 56 OLR 517'
+year: 1925
+description: A case about the validity of conditions on a transferred fee-simple estate
 public: true
+tags:
+  - bequests
+  - estates
+
 ---
 
 

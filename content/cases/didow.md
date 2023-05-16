@@ -1,12 +1,21 @@
 ---
+class: case
 style: Didow v Alberta Power Ltd
 short: Didow
 reporter: 1988 ABCA 257 (CanLII)
+year: 1988
+description: A case about airspace rights
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/2dm47'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - airspace-rights
+  - exclusion
+  - trespass
+
 ---
 
 

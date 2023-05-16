@@ -1,13 +1,20 @@
 ---
+class: case
 style: St. Catherines Milling and Lumber Co. v. R. (SCC)
 short: St. Catherines (SCC)
 reporter: '1887 CanLII 3 (SCC), [1887] 13 SCR 577'
-tags:
+year: 1887
+description: A case about the source and content of Aboriginal title
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttxl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
+tags:
+  - aboriginal-title
+  - aboriginal-rights
+  - colonialism
+
 ---
 
 

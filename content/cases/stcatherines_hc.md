@@ -1,9 +1,16 @@
 ---
+class: case
 style: St. Catherine's Milling and Lumber Co. v R (HC)
 short: St. Catherine's (HC)
 reporter: '(1886), 10 OR 196 (HC)'
-tags:
+year: 1886
+description: A case about the source and content of Aboriginal title
 public: true
+tags:
+  - aboriginal-rights
+  - aboriginal-title
+  - colonialism
+
 ---
 
 This was an action brought by Her Majesty the Queen, on the information of the Attorney General for the Province of Ontario against the St. Catharines Milling and Lumber Company, claiming amongst other things, an injunction restraining the cutting of timber by the defendants upon certain lands lying south of Wabigoon Lake, in the district of Algoma.

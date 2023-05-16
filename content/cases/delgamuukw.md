@@ -1,12 +1,21 @@
 ---
+class: case
 style: Delgamuukw v British Columbia
 short: Delgamuukw
 reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
+year: 1997
+description: A case about Aboriginal title
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1fqz8'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - aboriginal-title
+  - title
+  - aboriginal-rights
+
 ---
 
 

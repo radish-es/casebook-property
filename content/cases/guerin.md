@@ -1,12 +1,20 @@
 ---
+class: case
 style: Guerin v R
 short: Guerin
 reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
+year: 1984
+description: A case about the nature of Aboriginal title
+public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1lpfn'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
+tags:
+  - aboriginal-title
+  - aboriginal-rights
+
 ---
 
 

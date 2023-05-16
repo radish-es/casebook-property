@@ -1,13 +1,21 @@
 ---
+class: case
 style: Piper v Stevenson
 short: Piper
 reporter: '1913 CanLII 615 (ON CA), [1913] 12 DLR 820'
+year: 1913
+description: A case about adverse possession
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw5tl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
+tags:
+  - adverse-possession
+  - possession
+  - abandonment
+
 ---
 
 ### Clute J. —
