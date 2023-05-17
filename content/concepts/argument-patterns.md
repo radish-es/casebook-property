@@ -4,7 +4,7 @@ title: Patterns of Common Law Arguments
 short: Argument Patterns
 description: An introduction to the structure of common law argumentation
 tags:
-  - argument-pairs
+  - argument-patterns
 ---
 
 Common law arguments are highly patterned, and the structure of those arguments — though not necessarily the outcome of arguing — is fairly predictable. These patterns of argument recur again and again in the cases we will read this year. Becoming proficient in common law arguments means being able to recognize and make use of these patterns.
