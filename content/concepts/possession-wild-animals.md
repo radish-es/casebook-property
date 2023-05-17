@@ -18,7 +18,7 @@ In *Clift v Kane*, we encounter our first case study examining how judicial deci
 
 As you read *Clift v Kane*, start by trying to identify and describe the two different *rules* of first possession being advanced by Chief Justice Hoyles (writing for the majority) and Justice Robinson (in dissent). 
 
-####Possession in Wild Animals and Darwin, the IKEA monkey####
+#### Possession in Wild Animals and Darwin, the IKEA Monkey ####
 
 You might remember Darwin, also known as the IKEA monkey, who went viral in 2012 for roaming around IKEA in a stylish coat. What you might not know is that Darwin was also the centre of a legal dispute—a legal dispute which involved some of the same principles of possession present in *Clift v Kane*. 
 
