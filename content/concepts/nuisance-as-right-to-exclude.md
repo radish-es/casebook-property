@@ -30,3 +30,10 @@ The brief excerpt below from *Shelfer* reviews this legal test on remedy in nuis
 
 [^nedelsky1981]: Nedelsky, Jennifer. “Judicial Conservatism in an Age of Innovation: Comparative Perspectives on Canadian Nuisance Law.” In *Essays in the History of Canadian Law*, edited by David H Flaherty, 281-322. Toronto: University of Toronto Press, 1981, 284-5.
 
+#### Nuisance and the Classical Style ####
+
+The test crafted by the English Court of Appeal in *Shelfer* was--as Lord Justice Smith himself seems to acknowledge--highly indeterminate. It left subsequent judicial decisions, and parties to a dispute, open to considerable uncertainty about the the circumstances under which a landowner's right to exclude others from their land would be strictly enforced. 
+
+Our objective this week is to investigate how Canadian common law judges working in the classical style worked to address the indeterminacy created by *Shelfer*. In the two cases below — *Black v Canadian Copper Co.* and *Canada Paper Co. v Brown* — the judges are confronted with what looks like very similar facts: large-scale industrial pollution causing damage to close-by private landowners. And yet, the judges reach quite different conclusions on the question of appropriate remedy.
+
+As you read these two cases against one another, ask yourself how the judges draw on classical common law reasoning to reach their decisions.  In what ways do the judges interpret some land uses as "natural" and other "unnatural" and what role does this framing play in the decisions? Are you persuaded that one case is correctly decided and the other wrongly decided? Are the decisions necessarily irreconcilable? 
