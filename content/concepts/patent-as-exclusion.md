@@ -16,3 +16,10 @@ The basic rationale behind patent rights is one about economic incentives. As an
 While a large body of recent research and thinking in the field of intellectual property law has explored other, non-financial reasons why creators produce a whole range of cultural and scientific products, the central economic rationale described above remains at the heart of modern patent law in Canada. 
 
 Notice that this rationale for patent rights is heavily functionalist in character: patents exist—and are enforced by the courts—explicitly to structure and incentivize individual behaviour. 
+
+#### Patents in Hollywood ####
+
+The film PERCY, released in 2020 and starring Christopher Walken, dramatized the events behind *Monstanto v Schmeiser*. The trailer below is worth watching for its attempt to capture the broader social and political significance of the case during the time it was making its way through the courts. 
+
+{{< youtube 0J-3EyQs1Kc >}}
+
