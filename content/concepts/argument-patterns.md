@@ -26,3 +26,9 @@ A good way to think about all this is to draw an analogy to language.[^stein2018
 The recurring forms of legal argument and counter-argument we will learn to recognize are the basic units of common law vocabulary. 
 
 [^stein2018]: Justin Desautels-Stein, "The property course as critique", *Law and Political Economy Project* (2018): https://lpeproject.org/blog/the-property-course-as-critique/
+
+#### Summarizing note ####
+
+This structure of argument and counter-argument (or, symmetrical "argument pairs") captures the basic form of common law vocabulary, i.e. the way that judges, lawyers and other jurists speak to one another in their attempts to resolve legal disputes.[^kennedy1991] This concept of "argument pairs" may seem like a fairly straightforward--even obvious--one. But the simple dynamic of argument and counter-argument carries with it two very important features. First is the reality that there are only so many different argument pairs available to jurists, meaning that the common law vocabulary--complex as it might seem--actually builds on a relatively small number of highly patterned arguments. Second is the deep assumption that legal problems are actually resolved through this type of argumentative dialogue. As we move through the course this year, we will test that fundamental assumption from various perspectives. 
+
+[^kennedy1991]: Duncan Kennedy, "A semiotics of legal argument" (1991) 42 *Syracuse Law Review* 75.
