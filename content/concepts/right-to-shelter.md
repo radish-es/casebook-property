@@ -1,6 +1,6 @@
 ---
 class: concept
-title: Section 7 and the Right to Shelter
+title: Section 7 and the Evolving Right to Shelter
 short: Section 7 Right to Shelter
 description: An introduction to the right to shelter under s 7 of the *Charter*
 tags:
@@ -22,3 +22,8 @@ Canada's *Charter of Rights and Freedoms* contains no freestanding constitutiona
 
 In our course, we will not undertake a comprehensive analysis of section 7 rights, but instead focus on a few specific features of an emerging right to shelter in the context of access to public property. This topic has a great deal to teach us about the development and implications of the modern legal style.
 
+#### Introduction to *Bamberger* and the Evolving Right to Shelter ####
+
+{{< figure src="/media/crab_park.jpg" caption="CRAB Park, Vancouver. Photo by Elyse Loewen" >}}
+
+The British Columbia Supreme Court's recent decision in *Bamberger*, below, helps to track the evolution of the right to shelter through subsequent decisions. Is the right to shelter extended or modified here, and what are the implications for potential claims in the context of our Halifax case study, above? 

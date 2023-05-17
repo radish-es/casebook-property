@@ -8,6 +8,8 @@ tags:
   - locke
 ---
 
+### Classical First Possession: Locke and Wild Animals ###
+
 Locke's argument for possession (by means of one's labour) as the basis for establishing property rights in "unowned" things and land has had a lasting influence on common law property. More important still, the way in which Locke justified his principle of first possession laid much of the groundwork for the style of classical legal thought that would come to dominate in the nineteenth century. 
 
 ![](/media/seal_hunt.jpg)
@@ -32,3 +34,17 @@ The court in Nakhuda’s case came to a similar conclusion, finding that the san
 
 [^Nakhuda]: *Nakhuda v Story Book Farm Primate Sanctuary*, [2013] O.J. No. 5189. Not an official version, © Queen’s Printer for Ontario, 2013. 
 
+### First Possession Revisited ###
+
+*Popov v Hayashi*, below, received considerable media and popular attention when the events giving rise to the case unfolded in October 2001. In part, this was because the facts seemed so unusual, even extraordinary. The basic legal problem at the heart of the case, however, was nothing new. To get a sense of that problem and the actual circumstances surrounding the legal issue, watch the following recorded video of the events on October 7 at PacBell Park in San Francisco. 
+
+{{% callout exercise %}} 
+
+#### Watch Barry Bonds' 73rd Home Run ####
+
+{{< youtube af4dRPV_dUc >}}
+{{% /callout %}}
+
+The starting point for characterizing the central legal issue in *Popov* is to recognize that, at the moment when the record-setting baseball made contact with Barry Bonds' bat we can assume—as the parties in the case agreed to do—that it was effectively abandoned property. This placed the baseball into the legal category of "unowned things"—not too dissimilar from the seals discussed in *Clift v Kane*. Being abandoned, the baseball was—as it sailed in the air toward the stands full of eager fans—unburdened from any prior proprietary entitlements and therefore free to be claimed by the first possessor.
+
+Next, read Justice McCarthy's decision in *Popov v Hayashi* below. Pay close attention to both the result in the case and the judge's justifications for reaching that result. Does Justice McCarthy's decision typify the classical style, the modern style, some combination of these, or something else altogether?
