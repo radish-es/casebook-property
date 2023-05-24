@@ -4,17 +4,18 @@ style: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
 year: 1945
-description: A case about restrictive covenants and public policy
+facts: Lands purchased by Drummond Wren included a racially restrictive covenant. He sought to have the covenant declared invalid
+issue: Whether the restrictive covenant may be declared invalid on public policy grounds
+holding: The restrictive covenant is void for reasons of public policy; public policy is not static, and reflects broadly held values and norms
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g1d4b'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - public-policy
-  - modern-style
+  - use
   - restrictive-covenant  
-
+  - public-policy
 ---
 
 
