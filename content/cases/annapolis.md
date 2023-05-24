@@ -8,7 +8,7 @@ facts: Halifax (HRM) zoned land owned by Annapolis to preclude development witho
 issue: Whether HRM's actions constitute de facto expropriation
 held: For plaintiff;
 The majority found beneficial interest under the de facto expropriation test to mean 'advantage,' and that intent is not irrelevant for de facto expropriation
-The dissent argued that beneficial interest means the acquisition of a proprietary interest rather than just an advantage, and that the majority judgement extends the scope of liability for municipal land use regulation
+The dissent argued that beneficial interest means the acquisition of a proprietary interest rather than just an advantage, and that intent should not be part of the inquiry
 public: true
 sources: 
   - source_name: CanLii
