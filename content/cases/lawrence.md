@@ -4,7 +4,9 @@ style: Lawrence v Maple Trust Company
 short: Lawrence
 reporter: 2007 ONCA 74 (CanLII)
 year: 2007
-description: A case about competing claims on fraudulently transferred property
+facts: Lawrence's home was fraudulently transferred, then was mortgaged with Maple Trust Company, who were unaware of the fraud. 
+issue: Who has title to a fraudulently transferred home that is mortgaged by an innocent third-party
+held: The relevant statute, the *Land Titles Act* should be understood as supporting the theory of deferred indefeasibility, which means that the intermediate owner -- the party that dealt with the fraudster -- has worse title than the original owner because they have the opportunity to investigate fraud. Here, as Maple Trust is the intermediate owner, Lawrence has better title.
 public: true
 sources:
   - source_name: CanLII
@@ -15,10 +17,10 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2007. Not an official version. '
 tags:
-  - balancing rights
+  - transfer
+  - recognition
+  - title-registration
   - title
-  - land title registration
-
 ---
 
 
