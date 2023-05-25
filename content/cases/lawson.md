@@ -6,7 +6,7 @@ reporter: '(1851), 1 NSR 208'
 year: 1851
 facts: A grant passed to Sutherland and others near a grant of land granted to Belcher. The grant was placed in error on Belcher's land, where it was used by the plaintiffs for decades. This land was cultivated in some areas and uncultivated in others
 issue: Was the uncultivated land adversely possessed by virtue of colour of title and possession
-held: As the whole grant appeared to have been granted to Belcher, and there was signifigant acts of possession for decades, adverse possession for the whole grant is made out
+held: As all the land at issue appeared to have been granted to Belcher, and there were signifigant acts of possession for decades, adverse possession for the whole grant is made out
 public: true
 tags:
   - recognition
