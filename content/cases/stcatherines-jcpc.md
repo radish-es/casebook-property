@@ -10,10 +10,12 @@ held: Aboriginal title is a personal and usufructuary right contingent on the Cr
 public: true
 tags:
   - recognition
+  - transfer
   - aboriginal-title
   - treaty
   - reserve-lands
   - trespass
+  - terra-nullius
 ---
 
 ### Lord Watson —

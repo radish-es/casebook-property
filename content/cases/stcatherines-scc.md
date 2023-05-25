@@ -15,10 +15,12 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
   - recognition
+  - transfer
   - aboriginal-title
   - treaty
   - reserve-lands
   - trespass
+  - terra-nullius
 ---
 
 

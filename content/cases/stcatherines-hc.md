@@ -10,10 +10,12 @@ held: Aboriginal title is a right of occupancy, and the beneficial title is alwa
 public: true
 tags:
   - recognition
+  - transfer
   - aboriginal-title
   - treaty
   - reserve-lands
   - trespass
+  - terra-nullius
 ---
 
 This was an action brought by Her Majesty the Queen, on the information of the Attorney General for the Province of Ontario against the St. Catharines Milling and Lumber Company, claiming amongst other things, an injunction restraining the cutting of timber by the defendants upon certain lands lying south of Wabigoon Lake, in the district of Algoma.
