@@ -3,10 +3,9 @@ style: Land Titles Clarification Act
 short: LTCA
 reporter: 'RSNS 1989, c 250'
 tags:
-  - racism
-  - colonialism
-  - african-nova-scotians
-  - possession
+  - recognition
+  - title-clarification
+  - title-registration
   - title
 class: statute
 public: true
