@@ -4,11 +4,15 @@ style: Pennsylvania Coal Co. v Mahon
 short: Pennsylvania Coal
 reporter: ' 260 US 393 (1922)'
 year: 1922
-description: A case about land use control in the United States
+facts: Pennsylvania Coal and Mahon had an agreement for the coal company to mine beneath Mahon's surface land. Under subsequent legislation, coal mining near houses was forbidden
+issue: Whether the statute was a valid exercise of police power, or a state taking
+held: For plaintiff;
+The majority found that the statute amounted to state taking that requires compensation under the US constitution
+The dissent argued that the statute fell within the ambit of police power, as it was for a public purpose
 public: true
 tags:
-  - modern-style
-  - land-use-control
+  - use
+  - defacto-expropriation
   - public-policy
 
 ---
