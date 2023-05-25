@@ -3,13 +3,15 @@ class: case
 style: Moore v Regents of the University of California
 short: Moore
 reporter: '[1990] 51 Cal.3d 120'
-description: A case about property in excised cells
+facts: Moore allegedly had his extracted cells used to develop a patented cells line without his consent 
+issue: Whether Moore can claim conversion of his excised cells
+held: The majority found that conversion is not a cause of action in this case. Moore had no claim under existing law, did not have possession or ownership of the cells, and extending conversion would hinder socially important work. The issues would be better answered by the legislature or different causes of action
+The dissent aruged conversion was a cause of action. Recognizing conversion for excised cells would be a rational step in the development of tort law, and Moore had sufficient possession of those cells for the claim. Extending conversion would be equitable and not unduly onerous, and is within the court's competency
 public: true
 tags:
-  - possession
-  - ownership
-  - patents
-
+  - recognition
+  - conversion
+  - abandon-possession
 ---
 
 

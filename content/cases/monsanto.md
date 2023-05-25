@@ -7,7 +7,7 @@ year: 2004
 facts: Schmeiser farmed genetically-modified canola, the genes and cells of which were patented by Monsanto, without having paid Monsanto.  
 issue: Whether Monsanto's patent was valid; whether and how Schmeiser infringed the patent
 held: For plaintiff;
-Monsanto's patent is on the genes and cells of the canola, and so is does not amount to patenting unpatentable seeds or plants; Schmeiser infringed that patent through use, as the cells and genes are signifigant parts of the canola seeds and plants
+Monsanto's patent is on the genes and cells of the canola, and so is does not amount to patenting unpatentable seeds or plants. Schmeiser infringed that patent through use, as the cells and genes are signifigant parts of the canola seeds and plants
 public: true
 sources:
   - source_name: CanLII
@@ -15,6 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
+  - recognition
   - use
   - relative-possession
 ---
