@@ -6,9 +6,9 @@ style: >-
 short: School Board
 reporter: '1925 CanLII 326 (UK JCPC), [1925] 3 DLR 880 '
 year: 1925
-facts: The School Board purchased two houses to create a new school on the site. They deposited plans with the city architect to buid a temporary school in the meantime. The Board of Control lobbied City Council to pass a bylaw to rezone the area to prevent a school from being built, and asked the city architect not to approve the plans until then. City Council subsequently passed a bylaw zoning the area as strictly residential
+facts: The School Board purchased two residential properties, and planned to build a new school on the site. They deposited plans with the city architect to create a temporary school in the meantime. The Board of Control lobbied City Council to pass a bylaw to rezone the area to prevent a school from being built, and asked the city architect not to approve the plans until then. City Council subsequently passed a bylaw zoning the area as strictly residential
 issue: Whether the school board had acquired rights to build a school notwithstanding the bylaw
-held: The bylaw extinguished the School Board's right to build a school on the property. The School Board had been using the property as a school, and any potential right to have plans approved was negated by the bylaw. 
+held: The bylaw extinguished the School Board's right to build a school on the property. The School Board had not been using the property as a school, and any potential right to have the permit approved was negated by the bylaw. 
 public: true
 sources:
   - source_name: CanLII
