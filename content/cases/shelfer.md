@@ -4,12 +4,13 @@ style: Shelfer v City of London Electrical Lighting Co.
 short: Shelfer
 reporter: '[1895] 1 Ch 287'
 year: 1895
-description: A case about when a violation of the right to exclude will merit damages rather than an injunction
+facts: Shelfer suffered a nuisance from the defendant that affected his property. 
+issue: What type of remedy is appropriate
+held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant
 public: true
 tags:
+  - use
   - nuisance
-  - exclusion
-
 ---
 
 
