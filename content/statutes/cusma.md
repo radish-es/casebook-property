@@ -10,7 +10,10 @@ sources:
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
 tags:
-  - constructive-expropriation
+  - use
+  - defacto-expropriation
+  - trade-agreements
+  - land-use-regulation
 class: statute
 ---
 
