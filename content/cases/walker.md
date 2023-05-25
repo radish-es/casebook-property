@@ -4,12 +4,14 @@ style: Re Walker
 short: Walker
 reporter: '(1925), 56 OLR 517'
 year: 1925
-description: A case about the validity of conditions on a transferred fee-simple estate
+facts: The testator left his property to his wife, using the language of a fee simple estate. However, he added conditions on alienation to the bequest that would come into place upon his wife's death.
+issue: Whether the conditions on the fee simple estate were valid
+held: The conditions here were invalid, because they attempted to place a restraint on alienation on a fee simple, which is repugnant to the estate
 public: true
 tags:
-  - bequests
+  - transfer
   - estates
-
+  - bequest
 ---
 
 
