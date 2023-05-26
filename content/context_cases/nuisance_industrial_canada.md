@@ -2,9 +2,7 @@
 title: 'Nuisance Law in an Industrializing Canada '
 short: Nuisance Law
 class: context
-tags:
-  - nuisance
-  - exclusion 
+
 ---
 
 {{< figure src="/media/canada_paper.jpg" caption="[Canada Paper Company, Windsor Mills, QC, 1909. Source: McCord Museum, Montreal.](http://collections.musee-mccord.qc.ca/en/collection/artifacts/VIEW-4677/)" link="">}}

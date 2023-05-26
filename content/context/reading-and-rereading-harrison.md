@@ -3,9 +3,7 @@ title: Reading Harrison
 short: Reading Harrison
 class: context
 description: context for reading Harrison, with a focus first on the basic content, then on the structure of argumentation, and finally on who is correct
-tags:
-  - argument-patterns
-  - classical-style
+
 #Note: the paragraph on argument pairs is also included in content, argument-patterns.md
 ---
 

@@ -3,10 +3,7 @@ title: Overview - The St. Catherine's Milling Case
 short: St Catherine's Milling
 description: Background to *St. Catherine's Milling*
 class: context
-tags:
-  - aboriginial-title
-  - aboriginal-rights 
-  - colonialism
+
 ---
 
 
