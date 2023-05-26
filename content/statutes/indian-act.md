@@ -8,10 +8,10 @@ sources:
     license: ' https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
 tags:
-  - treaty-rights
-  - aboriginal-rights
-  - colonialism
-  - possession
+  - recognition
+  - use
+  - transfer
+  - treaty
   - title
   - reserve-lands
 class: statute

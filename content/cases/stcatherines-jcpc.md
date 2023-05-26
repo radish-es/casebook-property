@@ -4,13 +4,18 @@ style: St. Catherines Milling and Lumber Co. v R. (JCPC)
 short: St. Catherines (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
 year: 1888
-description: A case about the source and content of Aboriginal title
+facts: St. Catherine's Milling conducted logging on land in Ontario. They said they had permission from the federal government. The land at issue was subject to Treaty 3, between the Anishinaabe and the dominion government. The provincial government submitted that title in the land transferred to the Crown in right of Ontario at confederartion. The dominion government submitted that Aboriginal title to the land survived confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
+issue: Who holds beneficial title to the land? What is the source and content of Aboriginal title?
+held: Aboriginal title is a personal and usufructuary right contingent on the Crown. It exists as a 'burden' on the estate always ultimately held by the Crown. As such, Ontario had beneficial title to the lands from confederation onwards. 
 public: true
 tags:
+  - recognition
+  - transfer
   - aboriginal-title
-  - aboriginal-rights
-  - colonialism
-
+  - treaty
+  - reserve-lands
+  - trespass
+  - terra-nullius
 ---
 
 ### Lord Watson —

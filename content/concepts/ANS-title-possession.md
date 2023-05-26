@@ -4,9 +4,10 @@ short: ANS Title and Possession
 class: concept
 description: An introduction to the distinct nature of title and possession in African Nova Scotian communities, and its racist foundation
 tags:
+  - recognition
   - title
-  - possession
-  - racism
+  - title-clarification
+  - relative-possession
 ---
 
 #### General Introduction ####

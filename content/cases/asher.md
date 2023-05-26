@@ -4,12 +4,17 @@ style: 'Asher v Whitlock '
 short: Asher
 reporter: '(1865), LR 1 QB 1'
 year: 1865
-description: A case about the relative nature of possession and title in land.
+facts: Thomas Williamson enclosed land and built a cottage on it. He left it to his wife Lucy, with the property passing to his daughter, Mary Ann, when Lucy either remarried or died. Lucy remarried. Later, Mary Ann died, followed by Lucy. The plaintiff, Mary Ann's daughter, brought an action to eject the defendant, Lucy's second husband.
+issue: Who has better title
+held: For plaintiff;
+The plaintiff inhereted Thomas's title through Lucy, which included the right to eject; the defendant did not acquire better title through his occupancy
 public: true
 tags:
-  - possession
+  - recognition
+  - transfer
+  - relative-possession
+  - adverse-possession  
   - title
-
 ---
 
 At the trial before Cockburn, C.J., at the last Bedfordshire Spring Assizes, the following facts appeared in evidence. About Michaelmas, in the year 1842, Thomas Williamson inclosed from the waste of a manor a piece of land by the side of the highway; and in 1850, he inclosed more land adjoining, and built a cottage; the whole being the land as described and claimed in the writ. He occupied the whole till his death in 1860. By his will he devised the whole property, describing it as "a cottage and garden, in Keysoe Row, in which I now dwell," to his wife Lucy Williamson, for and during so much only of her natural life as she might remain his widow and unmarried; and from and after her decease, or second marriage, whichever event might first happen, to his only child Mary Ann Williamson, in fee. After the death of Thomas Williamson, his widow remained in possession with the daughter, and in April, 1861, married the defendant; and from that time they all three resided on the property till the death of the daughter, aged eighteen years, in February, 1863. On her death, the defendant and his wife, the widow of the testator, continued to reside on the premises; the widow died in May, 1863, and the defendant still continued to occupy.

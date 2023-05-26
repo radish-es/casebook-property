@@ -4,7 +4,9 @@ style: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
 reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
 year: 1990
-description: A case about testamentary bequests and public policy
+facts: The trustee administered a racist scholarship with restrictions predicated on the supremacy of a white, Christian, British Empire. The Ontario Human Rights Commission filed an official complaint against the trust
+issue: Whether the terms of the scholarship trust are contrary to public policy
+held: The terms of the trust are contrary to public policy on discrimination; the offending terms are struck down
 public: true
 sources:
   - source_name: CanLII
@@ -16,9 +18,9 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
 tags:
-  - bequests
+  - transfer
   - public-policy
-
+  - bequest
 ---
 
 

@@ -4,7 +4,10 @@ style: Bamberger v Vancouver (Board of Parks and Recreation)
 short: Bamberger
 reporter: 2022 BCSC 49
 year: 2022
-description: A case about the emerging right to shelter
+facts: The General Manager of Parks and Recreation in Vancouver made two orders to shut down an encampment made by unhoused people in a public park
+issue: Whether those orders are valid given the right to shelter under s 7 of the *Charter*
+held: For claimant;
+Orders should be set aside, the right to shelter under the *Adams* framework is made out, and the facts suggest the possibility of expanding the scope of the right to include daylight hours
 public: true
 sources:
   - source_name: CanLII
@@ -18,10 +21,9 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 tags:
-  - right-to-shelter
-  - Charter
-  - homelessness
-
+  - use
+  - recognition
+  - shelter-rights
 ---
 
 

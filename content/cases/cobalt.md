@@ -4,7 +4,10 @@ style: Cobalt (Town) v Coleman (Township)
 short: Cobalt
 reporter: 2019 ONCA 134 (CanLII)
 year: 2019
-description: A case about what qualifies as an acquired right
+facts: Cobalt operated a tract of land as municipal park between 1972 and 1997, and allegedly conducted some extraction of aggregate. In 2006 the Township of Coleman rezoned the portion of the land at issue for residential or 'marine facility' use. In 2014, Cobalt entered into an agreement with a paving company to extract aggregate from the property at scale. 
+issue: Whether the aggregregate extraction is a permitted use by virtue of acquired rights
+held: For defendant;
+Any pre-existing aggregate extraction was secondary to the use of the land as a park and Cobalt did not meet the onus to prove it was a historical use. The much greater scale of the current extraction is also sufficient to change the character of the use
 public: true
 sources:
   - source_name: CanLII
@@ -15,10 +18,9 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2019. Not an official version. '
 tags:
-  - zoning
-  - land-use-control
+  - use
+  - land-use-regulation
   - acquired-rights
-
 ---
 
 

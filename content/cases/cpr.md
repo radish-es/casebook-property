@@ -4,7 +4,10 @@ style: Canadian Pacific Railway Co. v Vancouver (City)
 short: CPR
 reporter: 2006 SCC 5 (CanLII)
 year: 2006
-description: A case about constructive expropriation
+facts: BC granted land to CPR to build a railway line. Traffic declined, and CPR proposed to redevelop the land for residential and commercial use or sell the land to the city. Instead, Vancouver passed a bylaw that designated the land for public use and transportation
+issue: Whether the bylaw was ultra vires, and whether it amounted to de facto expropriaiton
+held: For defendant; 
+The bylaw was intra vires and did not constitute de facto expropriation, which involves both the acquisition of a beneficial interest and the removal of all reasonable uses of the property
 public: true
 sources:
   - source_name: CanLII
@@ -12,9 +15,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - constructive-expropriation
-  - zoning
-  - land-use-control
+  - use
+  - land-use-regulation
+  - defacto-expropriation
 
 ---
 

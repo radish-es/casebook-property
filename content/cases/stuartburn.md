@@ -4,7 +4,10 @@ style: Stuartburn (Municipality) v Kiansky
 short: Stuartburn
 reporter: 2001 MBQB 94 (CanLII)
 year: 2001
-description: A case about  interest in land in relation to ownership
+facts: The Municipality of Stuartburn sought to disqualify Kiansky from holding office because an elector must be the owner of land in the area. Kiansky had recently sold a property, but held a remainder fee simple interest in another estate. 
+issue: Whether Kiansky's property interest amounts to land ownership
+held: For defendant;
+Kiansky's property ownership fits the terms of the act because the language is that of a freehold estate, which encompasses Kiansy's interest. Kiansky's interest is a present right that co-exists with the life estate.
 public: true
 sources:
   - source_name: CanLII
@@ -12,10 +15,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: 'Not an official version. '
 tags:
-  - ownership
+  - transfer
   - estates
   - bequests
-
 ---
 
 

@@ -4,8 +4,8 @@ short: Nuisance
 class: concept
 description: An introduction to nuisance injunctions as a function of the right to exclude
 tags: 
-  - nusiance
-  - exclusion
+  - use
+  - nuisance
 ---
 
 One right in particular, some argue, is fundamental to private property: the *right to exclude* others from interfering with the owner's use and enjoyment of their land, other tangible things and even intangibles like knowledge goods. The common law has devised several remedies to enforce owners' right to exclude. We have already seen two examples of this. In *Harrison v Carswell*, the mall owner brought an action in *trespass* against the picketer Sophie Carswell to exclude her from the mall sidewalk, while the plaintiff in *Moore* made a claim in *conversion* in his attempt to exclude the defendants from using his cells after they were extracted from his body. Both of these are causes of action in tort designed to protect the right to exclude.

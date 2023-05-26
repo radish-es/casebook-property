@@ -4,10 +4,9 @@ short: Indigenous Title Problems
 class: concept
 description: Outlining two critical issues in the classical understanding of Indigenous land rights -- hypocrisy on possession, and the dominance of Anglo-Canadian jurisprudence 
 tags:
-  - aboriginal-rights
-  - title
-  - possession
-  - colonialism
+  - recognition
+  - first-possession
+  - aboriginal-title
 ---
 
 In Weeks 4 and 5, we looked at the essential role that possession plays in common law thinking about property. We now turn to the doctrine of Aboriginal title and examine how the common law began to interpret Indigenous land rights in the classical style.

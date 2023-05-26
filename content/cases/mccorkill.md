@@ -4,7 +4,10 @@ style: McCorkill v McCorkill (Estate)
 short: McCorkill
 reporter: 2014 NBQB 148 (CanLII)
 year: 2014
-description: A case about testamentary bequests and public policy
+facts: Harry McCorkill died in 2004, leaving his $200,000 estate as an unconditional gift to a US neo-Nazi group. McCorkill's sister challenged the bequest
+issue: Whether the bequest is invalid as contrary to public policy
+held: For plaintiff;
+The bequest, as an unconditional gift to a group whose actions are both illegal and fundamentally contrary to Canadian public policy, is invalid
 public: true
 sources:
   - source_name: CanLII
@@ -12,9 +15,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - bequests
+  - transfer
   - public-policy
-
+  - bequest
 ---
 
 

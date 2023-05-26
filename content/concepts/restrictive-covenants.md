@@ -4,9 +4,10 @@ short: Restrictive Covenants
 class: concept
 description: An introduction to restrictive covenants and the doctrine of public policy
 tags:
+  - use
   - restrictive-covenant
+  - land-use-regulation
   - public-policy
-  - modern-style
 ---
 
 Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 

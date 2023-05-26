@@ -4,9 +4,8 @@ short: Litigation
 class: concept
 description: Contextualizing and questioning the place of litigation in Aboriginal title and reconciliation
 tags:
-  - aboritiginal-title
-  - aboriginal-rights 
-  - colonialism
+  - recognition
+  - aboriginal-title 
 ---
 
 
