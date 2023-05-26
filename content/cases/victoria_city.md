@@ -21,6 +21,7 @@ sources:
       endorsement of, the British Columbia Superior Courts.
 tags:
   - use
+  - recognition
   - shelter-rights
 ---
 
