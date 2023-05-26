@@ -3,8 +3,9 @@ title: Duty to Consult
 short: Duty
 class: concept
 tags:
-  - aboriginal-rights
+  - use
   - aboriginal-title
+  - duty-to-consult
 ---
 
 
