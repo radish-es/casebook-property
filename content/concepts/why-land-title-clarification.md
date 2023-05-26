@@ -4,8 +4,8 @@ short: Why Land Title Clarification
 class: concept
 description: A critical lens on the sufficiency of the *LTCA*
 tags:
-  - title
-  - racism
+  - recognition
+  - title-clarification
 ---
 
 *Downey* and *Beals*, above, discuss some of the history behind African Nova Scotian settlement in the province and describe how the *LTCA* and its predecessor legislation was enacted to transform possessory rights into formal land titles. One prominent idea in these cases is that the lack of clear land title is a central cause of economic underdevelopment in African Nova Scotian communities--and is one that can be adequately remedied through legal processes designed to recognize and formalize longstanding possessory rights. 
