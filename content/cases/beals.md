@@ -14,8 +14,8 @@ sources:
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/461507/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 tags:
-  - title
-  - racism
+  - recognition
+  - title-clarification
 
 ---
 
