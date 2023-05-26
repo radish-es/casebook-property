@@ -5,7 +5,7 @@ short: Popov
 reporter: (Cal Sup 2002)
 year: 2002
 facts: Barry Bonds hit a record-setting home run. The ball flew into the stands, where it went into Popov's glove. Popov was mobbed before he secure the ball. The ball fell in the scrum, and was picked up by Hayashi. Hayashi was an innocent party and it is impossible to know whether Popov would have secured control of the ball without the mob's interference.
-issue: Who is entitled to the ball
+issue: Who is entitled to the ball?
 held: Popov and Hayashi each had possessory interest in the ball. Popov had a pre-possessory interest supporting a qualified right to the ball; Hayashi had possession through his subsequent control of the ball. As such, the ball should be sold and the proceeds equitably divided between the two. 
 public: true
 tags:
