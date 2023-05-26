@@ -4,9 +4,9 @@ style: Canada Paper Co v Brown
 short: Canada Paper
 reporter: '1922 CanLII 585 (SCC), [1922] 63 SCR 243'
 year: 1922
-facts: A paper company who near Brown's home introduced a sulphates into their production, which produced harmful fumes that carried over to Brown's property
-issue: What type of remedy is appropriate
-held: An injunction, rather than damages, is justifed, because of the importance of property rights and the ability of the appelant to operate their business without sulphates
+facts: A paper company who near Brown's home introduced a sulphates into their production, which produced harmful fumes that carried over to Brown's property.
+issue: What type of remedy is appropriate.
+held: An injunction, rather than damages, is justifed, because of the importance of property rights and the ability of the appelant to operate their business without sulphates.
 public: true
 sources:
   - source_name: CanLII
