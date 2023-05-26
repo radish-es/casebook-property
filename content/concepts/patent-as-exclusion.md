@@ -3,8 +3,8 @@ title: Patent as Exclusion
 class: concept
 description: An overview of patents and their economic justification
 tags:
-  - patents
-  - markets
+  - use
+  - relative-possession
 ---
 
 {{< figure src="/media/monsanto_patent.jpg" caption="Monsanto Patent for glyphosate-resistant plants (US version)" >}}
