@@ -3,7 +3,7 @@ title: Restraints on Alienation
 class: concept
 description: An introduction to restraints on alienation
 tags:
-  - restraints-on-alientation
+  - transfer
   - estates
 ---
 
