@@ -2,8 +2,7 @@
 title: House of Commons Debates
 short: House Debates
 tags:
-  - expropriation 
-  - water-rights
+
 class: secondary
 ---
 

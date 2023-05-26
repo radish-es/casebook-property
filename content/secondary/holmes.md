@@ -2,7 +2,7 @@
 title: 'Oliver Wendell Holmes, The Path of Law'
 short: Holmes
 tags:
-  - modern
+
 class: secondary
 ---
 

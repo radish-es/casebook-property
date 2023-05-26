@@ -2,11 +2,7 @@
 title: 'John Locke, Second Treatise on Government'
 short: Locke
 tags:
-  - classical
-  - colonialism
-  - possession
-  - first-possession
-  - title
+
 class: secondary
 ---
 
