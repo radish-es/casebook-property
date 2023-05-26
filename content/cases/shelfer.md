@@ -5,8 +5,8 @@ short: Shelfer
 reporter: '[1895] 1 Ch 287'
 year: 1895
 facts: Shelfer suffered a nuisance from the defendant that affected his property. 
-issue: What type of remedy is appropriate
-held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant
+issue: What type of remedy is appropriate?
+held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant.
 public: true
 tags:
   - use
