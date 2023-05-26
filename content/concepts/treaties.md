@@ -4,8 +4,9 @@ short: Treaty Introduction
 class: concept
 description: An introduction to treaty relations, with a focus on Mi'kma'ki
 tags:
-  - treaties
-  - aboriginal-rights
+  - transfer
+  - treaty
+  - terra-nullius
 ---
 
 

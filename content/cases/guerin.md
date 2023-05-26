@@ -4,7 +4,10 @@ style: Guerin v R
 short: Guerin
 reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
 year: 1984
-description: A case about the nature of Aboriginal title
+facts: Members of the Musqueam Indian Band voted to surrender 162 acres of their land to the Crown to lease the land to a golf club. The terms the Crown ultimately leased the lands for were very unfavourable to the band
+issue: Whether the Crown breached a trust, and what the nature of the relationship between the Crown and Indigenous peoples is
+held: For plaintiff;
+While there was was no trust, there is a sui generis fiduciary relationship between the Crown and Indigenous peoples based on the inalienability of Aboriginal land except to the Crown. This fiduciary obligaition was breached when the Crown signed a much less valuable lease then promised without consulting the Musqueam Band
 public: true
 sources:
   - source_name: CanLII
@@ -12,9 +15,10 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
+  - recognition
+  - duty-to-consult
+  - reserve-lands
   - aboriginal-title
-  - aboriginal-rights
-
 ---
 
 

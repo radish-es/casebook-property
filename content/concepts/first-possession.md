@@ -3,9 +3,8 @@ title: First Possession and Wild Animals
 short: First Possession
 class: concept
 tags:
-  - possession
-  - wild-animals
-  - locke
+  - recognition
+  - first-possession
 ---
 
 ### Classical First Possession: Locke and Wild Animals ###

@@ -3,8 +3,8 @@ class: concept
 title: Covenants Running in Equity
 short: Courts of Equity
 tags:
+  - use
   - restrictive-covenant
-  - equity
 ---
 
 To date, we have not had much to say about distinctions between "common law" and "equity" in our course—though you have likely encountered this distinction elsewhere in law school so far. Historically, the divide between common law and equity referred to the adjudication of disputes in separate and distinct courts, which differed in both the types of cases they decided and the content of the legal doctrines they applied. Today, these institutional divisions have been consolidated under the jurisdiction of the superior courts, but doctrinal distinctions remain between "legal" and "equitable" principles that are significant for understanding the operation of property law.

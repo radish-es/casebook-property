@@ -7,9 +7,9 @@ sources:
     license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
 tags:
-  - treaty-rights
-  - aboriginal-rights
+  - recognition
   - aboriginal-title
+  - treaty
 class: statute
 ---
 

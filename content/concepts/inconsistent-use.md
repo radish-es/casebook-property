@@ -3,7 +3,7 @@ title: Inconsistent Use
 class: concept
 description: A controversial element of the test for adverse possession.
 tags:
-  - possession
+  - recognition
   - adverse-possession
 ---
 

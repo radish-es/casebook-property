@@ -4,17 +4,19 @@ style: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
 year: 1950
-description: A case about racially restrictive covenants, and the scope of restrictive covenants
+facts: A racially restrictive covenant was attached to land forming part of a summer resort development
+issue: Whether the restrictive covenant was valid
+held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
+  - use
   - restrictive-covenant
-  - racism
+  - servitude
   - public-policy
-
 ---
 
 

@@ -4,10 +4,14 @@ style: 'Tulk v Moxhay '
 short: Tulk
 reporter: '(1848), 41 ER 1143 (Ch)'
 year: 1848
-description: A case about restrictive covenants
+facts: Tulk sold a piece of land with the restriction that the garden be maintained and that he have access to it. Moxhay subsequently purchased the land, with notice of the covenant. Moxhay sought to alter the garden.
+issue: Whether the restrictive covenant is valid
+held: For plaintiff;
+Restrictive covenants run with the land, so are durable beyond the ownership of the contracting parties
 public: true
 tags:
-  - restrictive-covenants
+  - use
+  - restrictive-covenant
 
 ---
 

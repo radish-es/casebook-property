@@ -2,6 +2,10 @@
 title: Bundle of Sticks
 class: concept
 description: A useful metaphor for understanding common law property rights as sticks in a bundle.
+tags:
+  - recognition
+  - title
+  - defacto-expropriation
 ---
 
 {{< figure src="/media/sticks.jpg" caption="[Source: Wikimedia, Stephhzz - Own work, CC BY-SA 3.0.](https://commons.wikimedia.org/w/index.php?curid=11728347)" link="">}}

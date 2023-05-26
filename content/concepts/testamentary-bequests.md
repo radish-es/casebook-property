@@ -3,7 +3,8 @@ title: Testementary Bequests
 class: concept
 description: An introduction to bequests in wills
 tags:
-  - bequests
+  - transfer
+  - bequest
   - estates
 ---
 

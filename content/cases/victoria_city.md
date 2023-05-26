@@ -4,7 +4,9 @@ style: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
 year: 2008
-description: A case about the emerging right to shelter
+facts: The City of Victoria passed bylaws to prohibit shelter in public parks
+issue: Whether the prohibitions on sheltering violate s 7 of the Charter of Rights and Freedoms
+held: The prohibitions on shelter violate s 7. There is a constitutional right to shelter overnight where the number of homeless people outnumber available indoor sheltering spaces
 public: true
 sources:
   - source_name: CanLII
@@ -18,10 +20,9 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 tags:
-  - right-to-shelter
-  - Charter
-  - homelessness
-
+  - use
+  - recognition
+  - shelter-rights
 ---
 
 

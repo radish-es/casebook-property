@@ -4,8 +4,9 @@ short: Water Rights
 class: concept
 description: An introduction to common law riparian rights, and context for their place in the 19th century lumber industry
 tags:
-  - expropriation
-  - water-rights
+  - use
+  - riparian-rights
+  - dejure-expropriation
 ---
 
 #### Introduction

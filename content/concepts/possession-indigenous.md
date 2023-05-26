@@ -2,10 +2,10 @@
 title: '"Possession" from an Indigenous Worldview'
 class: concept
 tags:
-  - communicating possession
-  - Indigenous legal orders
-  - possession
-  - colonialism
+  - recognition
+  - first-possession
+  - relative-possession
+  - indigenous-law
 ---
 
 

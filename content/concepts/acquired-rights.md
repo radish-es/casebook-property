@@ -4,7 +4,9 @@ short: Acquired Rights
 class: concept
 description: An overview on acquired rights
 tags:
+  - use
   - acquired-rights
+  - land-use-regulation
 ---
 #### Introduction ####
 

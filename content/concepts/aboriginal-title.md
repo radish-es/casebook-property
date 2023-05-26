@@ -3,10 +3,12 @@ title: Aboriginal Title
 class: concept
 description: An introduction to Aboriginal title
 tags:
+  - recognition
+  - transfer
+  - use
   - aboriginal-title
-  - aboriginal-rights
-  - colonialism
-  - possession
+  - treaty
+  - indigenous-law
 ---
 
 #### Introduction ####

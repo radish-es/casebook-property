@@ -3,8 +3,9 @@ class: concept
 title: Airspace Rights
 short: Airspace
 tags:
-  - airspace-rights
-  - possession
+  - use
+  - airspace
+
 ---
 
 
