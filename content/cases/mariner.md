@@ -4,10 +4,9 @@ style: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
 short: Mariner
 reporter: 1999 NSCA 98 (CanLII)
 year: 1999
-facts: Mariner's land was classed as a beach, which involved numerous restrictions, and meant ministerial permission was necessary to construct a dwelling. The Minister refused to grant permission for the claimant to build a home
-issue: Whether this constituted de facto expropriation
-held: For defendant;
-De facto expropriation is not made out because Mariner did not lose all reasonable usess of the land, and Nova Scotia did not acquire a beneficial interest in land
+facts: Mariner's land was classed as a beach, which involved numerous restrictions, and meant ministerial permission was necessary to construct a dwelling. The Minister refused to grant permission for the claimant to build a home.
+issue: Whether this constituted de facto expropriation.
+held: For defendant. De facto expropriation is not made out because Mariner did not lose all reasonable usess of the land, and Nova Scotia did not acquire a beneficial interest in land.
 public: true
 sources:
   - source_name: CanLII
