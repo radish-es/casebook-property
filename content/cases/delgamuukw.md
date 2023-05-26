@@ -4,8 +4,8 @@ style: Delgamuukw v British Columbia
 short: Delgamuukw
 reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
 year: 1997
-facts: Hereditary chiefs from the Gitskan and Wet'suwet'en nations claimed Aboriginal title to 58,000 square kilometres of land in British Columbia. The land has historically been inhabited or used for hunting and fishing by Houses from both nations
-issue: What the content of Aboriginal title is, the relationship between Aboriginal title and s 35(1) of the Constitution Act, and how to prove Aboriginal title
+facts: Hereditary chiefs from the Gitskan and Wet'suwet'en nations claimed Aboriginal title to 58,000 square kilometres of land in British Columbia. The land has historically been inhabited or used for hunting and fishing by Houses from both nations.
+issue: What the content of Aboriginal title is, the relationship between Aboriginal title and s 35(1) of the Constitution Act, and how to prove Aboriginal title.
 held: Aboriginal title is a *sui generis* right in land that cannot be explained only with reference to either common law notions of property or rules from Indigenous legal orders. It grants communal exclusive use and occupation of land as long as those uses are not irreconcilable with the nature of the group's attachment to the land. Section 35(1) constitutionalized existing Aboriginal treaty rights understood at common law. To prove Aboriginal title, claimants must demonstrate -- through both common law and Indigenous law -- occupation prior to Crown sovereignty, continuity of occupation (if present occupation is relied on as proof), and exclusive occupation at the time of sovereignty.
 public: true
 sources:
