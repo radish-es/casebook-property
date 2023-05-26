@@ -4,10 +4,9 @@ style: McLaren v Caldwell et al (Supreme Court of Canada)
 short: McLaren (SCC)
 reporter: '1882 CanLII 3 (SCC), [1882] 8 SCR 435'
 year: 1882
-facts: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams 
-issue: Whether the plaintiffs riparian rights allow him to exclude Caldwell's ability to run lumber despite Ontario's legislation
-held: for defendant;
-Because McLaren's improvements meant the streams were not naturally floatable, and by a narrower interpretation of Ontario's legislation, McLaren's common law riparian rights were not negated by statute. As such, McLaren retained exclusive use of the streams at issue
+facts: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams.
+issue: Whether the plaintiffs riparian rights allow him to exclude Caldwell's ability to run lumber despite Ontario's legislation.
+held: for defendant. Because McLaren's improvements meant the streams were not naturally floatable, and by a narrower interpretation of Ontario's legislation, McLaren's common law riparian rights were not negated by statute. As such, McLaren retained exclusive use of the streams at issue.
 public: true
 sources:
   - source_name: CanLII
