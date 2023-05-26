@@ -4,10 +4,9 @@ style: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
 year: 2001
-facts: Olivier's nightclub changed their entertainment from singing cowboys and cowgirls to nude dancers. New zoning law restricted nightclubs in the area, so Olivier's bar could only operate if the new entertainment was a continuation of pre-existing use
-issue: Whether the changes to the nightclub forfeit their acquired rights to operate
-held: The majority found that the changes were a continuation of pre-existing use, so Olivier's acquired rights remained intact 
-The dissent argued that the change in entertainment was such that it altered the type of use, extinguishing acquired rights
+facts: Olivier's nightclub changed their entertainment from singing cowboys and cowgirls to nude dancers. New zoning law restricted nightclubs in the area, so Olivier's bar could only operate if the new entertainment was a continuation of pre-existing use.
+issue: Whether the changes to the nightclub forfeit their acquired rights to operate.
+held: The majority found that the changes were a continuation of pre-existing use, so Olivier's acquired rights remained intact. The dissent argued that the change in entertainment was such that it altered the type of use, extinguishing acquired rights.
 public: true
 sources:
   - source_name: CanLII
