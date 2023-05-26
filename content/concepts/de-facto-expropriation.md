@@ -3,8 +3,8 @@ title: De Facto Expropriation
 class: concept
 description: Framing *de facto* expropriation in Mariner, CPR, and North American international law
 tags:
-  - constructive-expropriation
-  - land-use-control
+  - use
+  - defacto-expropriation
 ---
 
 ### Constructive Expropriation in Canadian Law ###
