@@ -4,7 +4,7 @@ style: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
 reporter: 2014 SCC 44 (CanLII)
 year: 2014
-facts: The Tsilhqot’in Nation have continuously occupied and used unceded land in central BC. This case concerns a claim for Aboriginal title over a small portion of their land
+facts: The Tsilhqot’in Nation have continuously occupied and used unceded land in central BC. This case concerns a claim for Aboriginal title over a small portion of their land.
 issue: What is the test for Aboriginal title? What rights does title confer?
 held: Aboriginal title is established here. Aboriginal title is a function of regular and exclusive use of land, and confers the right to use and control the land and reap its benefits, subject to an inherent limit that the use not be irreconcilable with the group's attachment to the land. 
 public: true
