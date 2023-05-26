@@ -2,9 +2,7 @@
 title: Three Assumptions About Law and the Economy
 class: concept
 description: Three engrained social assumptions about law and the economy
-tags: 
-  - markets
-  - economy
+
 ---
 
 ### Three assumptions about law and the economy
