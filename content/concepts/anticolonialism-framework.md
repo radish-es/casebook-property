@@ -46,8 +46,6 @@ There are many ways that we might try to decipher the causal connections between
 
 Our class meetings take place in Mi'kma'ki, the lands of the Mi'kmaq. Beginning in 1725, the Mi’kmaq and the British entered into, and  periodically renewed, a series of nation-to-nation agreements—the *Peace and Friendship Treaties*—that remain in force today.
 
-{{< iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&name=mikmaq" caption="Mi'kma'ki, as mapped at native-land.ca" >}}
-
 Many of you will be familiar with the concept of a *land acknowledgement* — the practice of acknowledging the Indigenous territory on which a class, event or meeting is taking place and recognizing or reaffirming the treaty relationships in that territory. A land acknowledgement often used at Dalhousie looks similar to or builds on this statement:
 
 > *Dalhousie University is located in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq. We are all Treaty people.*
