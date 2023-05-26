@@ -4,8 +4,7 @@ short: Reserve Housing
 class: concept
 description: A look at Napoleon and Snyder's study of housing on reserve and the role of Indigenous legal orders
 tags: 
-  - recognition
-  - use
+  - transfer
   - indigenous-law
   - reserve-lands
 ---
