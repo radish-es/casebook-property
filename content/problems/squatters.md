@@ -1,8 +1,6 @@
 ---
 title: 'Public Perceptions of Squatters'
 short: Squatters
-tags:
-
 class: problem
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Acknowledging Wolastoqey Territory
 short: Acknowledging Wolastoqey Territory
-tags:
-
 class: problem
 ---
 

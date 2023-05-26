@@ -1,8 +1,6 @@
 ---
 title: A Testamentary Bequest
 short: Testamentary Bequest
-tags:
-
 class: problem
 ---
 

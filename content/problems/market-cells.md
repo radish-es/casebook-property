@@ -3,8 +3,6 @@ title: Market in Biological Cells
 short: Market in Cells
 class: problem
 description: An exercise in interpreting the economic assumptions underlying the arguments in *Moore*
-tags:
-
 ---
 
 [{{< figure src="/media/lab.jpg" caption="Source: Louis Reed on Unsplash" >}}](https://unsplash.com/photos/pwcKF7L4)

@@ -1,8 +1,6 @@
 ---
 title: Obligations
 short: 'Obligations'
-tags:
-
 class: problem
 ---
 

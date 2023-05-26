@@ -1,8 +1,6 @@
 ---
 title: 'Blue Mountain-Birch Cove Lakes'
 short: Blue Mountain
-tags:
-
 class: problem
 ---
 

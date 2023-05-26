@@ -1,9 +1,6 @@
 ---
 title: 'Elsipogtog First Nation''s Claim to Aboriginal Title '
 short: Elsipogtog
-tags:
-  - aboriginal-rights
-  - aboriginal-title
 class: problem
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: 'John Locke, Second Treatise on Government'
 short: Locke
-tags:
-
 class: secondary
 ---
 

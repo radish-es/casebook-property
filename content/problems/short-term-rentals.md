@@ -1,8 +1,6 @@
 ---
 title: Short-Term Rentals in HRM
 short: Problem
-tags:
-
 class: problem
 ---
 

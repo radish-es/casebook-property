@@ -1,8 +1,6 @@
 ---
 title: Revisiting Blue Mountain-Birch Cove
 short: Revisiting Blue Mountain
-tags: 
-
 class: problem
 ---
 

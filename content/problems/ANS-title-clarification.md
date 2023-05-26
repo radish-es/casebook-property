@@ -3,8 +3,6 @@ title: Land Title Clarification in African Nova Scotian Communities
 short: Land Title
 class: problem
 description: An exercise in interpreting the *LTCA* through *Downey* and *Beals*
-tags:
-
 ---
 
 

@@ -1,8 +1,6 @@
 ---
 title: House of Commons Debates
 short: House Debates
-tags:
-
 class: secondary
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: 'Restrictive Covenants '
 short: Restrictive Covenants Exercise
-tags:
-
 class: problem
 ---
 

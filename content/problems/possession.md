@@ -1,7 +1,5 @@
 ---
 title: Problems of Possession
-tags:
-
 class: problem
 ---
 

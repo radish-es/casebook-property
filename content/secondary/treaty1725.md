@@ -1,8 +1,6 @@
 ---
 style: Treaty of 1725
 short: 1725 Treaty
-tags:
-
 class: secondary_sources
 public: true
 ---
