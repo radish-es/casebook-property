@@ -5,9 +5,8 @@ short: Keefer
 reporter: '13 O.R. (2d) 680'
 year: 1976
 facts: Keefer had a right of way on Cloy's land, which later passed to Arillotta. Keefer built a garage on this land, and frequently used the grassy area, including to build a skating rink in the winter. 
-issue: Whether Keefer can claim adverse possession
-held: For plaintiff;
-Adverse possession is made out for the garage, but nowhere else. Keefer's use of the driveway and grassy area did not preclude the owner from using the property
+issue: Whether Keefer can claim adverse possession.
+held: For plaintiff. Adverse possession is made out for the garage, but nowhere else. Keefer's use of the driveway and grassy area did not preclude the owner from using the property.
 public: true
 sources:
   - source_name: CanLII
