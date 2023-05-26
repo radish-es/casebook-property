@@ -4,8 +4,7 @@ short: Land Title
 class: problem
 description: An exercise in interpreting the *LTCA* through *Downey* and *Beals*
 tags:
-  - title
-  - possession
+
 ---
 
 

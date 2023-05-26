@@ -2,7 +2,7 @@
 title: Obligations
 short: 'Obligations'
 tags:
-  - colonialism
+
 class: problem
 ---
 

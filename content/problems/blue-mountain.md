@@ -2,8 +2,7 @@
 title: 'Blue Mountain-Birch Cove Lakes'
 short: Blue Mountain
 tags:
-  - constructive-expropriation
-  - zoning
+
 class: problem
 ---
 

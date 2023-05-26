@@ -4,9 +4,7 @@ short: Classical Style
 class: problem
 description: An exercise on the reasoning in *St. Catherine's Milling*
 tags:
-  - classical-style
-  - colonialism
-  - aboriginal-title
+
 ---
 
 

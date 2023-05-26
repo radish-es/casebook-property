@@ -1,8 +1,7 @@
 ---
 title: Problems of Possession
 tags:
-  - possession
-  - airspace
+
 class: problem
 ---
 

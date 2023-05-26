@@ -2,8 +2,7 @@
 title: A Testamentary Bequest
 short: Testamentary Bequest
 tags:
-  - estates
-  - bequest
+
 class: problem
 ---
 

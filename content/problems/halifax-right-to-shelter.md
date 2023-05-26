@@ -3,8 +3,7 @@ title: 'The Right to Shelter in Halifax '
 short: Right to Shelter
 description: Questions and materials on events surrounding the right to shelter in Halifax
 tags:
-  - right-to-shelter
-  - homelessness
+
 class: problem
 ---
 

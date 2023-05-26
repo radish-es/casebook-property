@@ -3,8 +3,7 @@ title: 'Duchman v Oakland Dairy (1928), 63 OLR 111 (CA)'
 short: Duchman
 description: A problem relating to the applicability of the *Shelfer* test in the Canadian context
 tags:
-  - nuisance
-  - exclusion
+
 class: problem
 ---
 

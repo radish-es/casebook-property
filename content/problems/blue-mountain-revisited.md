@@ -2,8 +2,7 @@
 title: Revisiting Blue Mountain-Birch Cove
 short: Revisiting Blue Mountain
 tags: 
-  - constructive-expropriation
-  - zoning
+
 class: problem
 ---
 

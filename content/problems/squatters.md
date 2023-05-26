@@ -2,9 +2,7 @@
 title: 'Public Perceptions of Squatters'
 short: Squatters
 tags:
-  - adverse-possession
-  - squatters-rights
-  - homelessness
+
 class: problem
 ---
 

@@ -2,8 +2,7 @@
 title: 'Restrictive Covenants '
 short: Restrictive Covenants Exercise
 tags:
-  - restrictive-covenants
-  - zoning
+
 class: problem
 ---
 
