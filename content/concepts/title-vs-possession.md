@@ -4,8 +4,9 @@ short: Title vs Possession
 class: concept
 description: An introduction to the distinction between title and possession
 tags:
+  - recognition
+  - relative-possession
   - title
-  - possession
 ---
 
 [{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
