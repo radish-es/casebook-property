@@ -4,7 +4,9 @@ title: Expropriation
 short: Expropriation
 description: An introduction to expropriation
 tags:
-  - expropriation
+  - use
+  - defacto-expropriation
+  - dejure-expropriation
   - land-use-regulation
 ---
 
