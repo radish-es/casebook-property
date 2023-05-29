@@ -2,6 +2,10 @@
 title: House of Commons Debates
 short: House Debates
 class: secondary
+tags:
+  - use
+  - riparian-rights
+  - dejure-expropriation
 ---
 
 
