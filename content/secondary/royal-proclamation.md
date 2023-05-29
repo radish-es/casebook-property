@@ -1,10 +1,10 @@
 ---
 style: 'Royal Proclamation (October 7, 1763)'
 short: Royal Proclamation
-class: secondary_sources
+class: secondary
 public: true
 tags:
-  - recogntion
+  - recognition
   - terra-nullius
   - aboriginal-title
 ---
