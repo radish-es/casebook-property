@@ -2,6 +2,10 @@
 title: 'Elsipogtog First Nation''s Claim to Aboriginal Title '
 short: Elsipogtog
 class: problem
+tags:
+  - recognition
+  - transfer
+  - aboriginal-title
 ---
 
 
