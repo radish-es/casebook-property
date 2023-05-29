@@ -32,7 +32,7 @@ Following Canada's declaration of war against Japan on 7 December 1941, the lega
 
 Under the heading "Custody of Japanese Property," Order 1665 provided as follows: 
 
-12.(1) As a protective measure only, all property situated in any protected area of British Columbia belonging to any person of the Japanese race resident in such area ... shall be vested in and subject to the control and management of the Custodian as defined in the Regulations respecting Trading with the Enemy, 1939; provided, however, that no commission shall be charged by the Custodian in respect of such control and management.
+> 12.(1) As a protective measure only, all property situated in any protected area of British Columbia belonging to any person of the Japanese race resident in such area ... shall be vested in and subject to the control and management of the Custodian as defined in the Regulations respecting Trading with the Enemy, 1939; provided, however, that no commission shall be charged by the Custodian in respect of such control and management.
 
 Section [12(3)] concluded that the "property, rights and interests so vested in and subject to the control and management of the Custodian ... shall be dealt with in such manner as the Governor in Council may direct."
 
@@ -46,7 +46,7 @@ Japanese Canadians were "exercised" and their fears about the handling of their 
 
 Just over three weeks after Order 1665 became law, the cabinet amended it with Order 2483. The preamble explained the reasons for the revisions, noting "that it is desirable to provide that any plan with regard to the placement of such persons be limited to making provision for the temporary placement only of such persons during the continuation of the state of war now existing." The preamble also cited recommendations by the BCSC that "a greater degree of protective control over persons of the Japanese race and the property of such persons be provided for." The substantive provisions stipulated the powers of the Commission to include "the temporary placement only" of Japanese Canadians "during the continuation of the state of war now existing." Additionally, section 12 was amended to add the following: 
 
-12 (2) The Custodian may, notwithstanding anything contained in this Regulation, order that all or any property whatsoever, situated in any protected area of British Columbia, belonging to any person of the Japanese race shall, for the purpose of protecting the interests of the owner or any other person, be vested in the Custodian, and the Custodian shall have full power to administer such property for the benefit of all such interested persons, and shall release such property upon being satisfied that the interests aforesaid will not be prejudiced thereby.
+> 12.(2) The Custodian may, notwithstanding anything contained in this Regulation, order that all or any property whatsoever, situated in any protected area of British Columbia, belonging to any person of the Japanese race shall, for the purpose of protecting the interests of the owner or any other person, be vested in the Custodian, and the Custodian shall have full power to administer such property for the benefit of all such interested persons, and shall release such property upon being satisfied that the interests aforesaid will not be prejudiced thereby.
 
 [...]
 
@@ -58,7 +58,7 @@ During the summer and fall of 1942, federal officials began to contemplate a bre
 
 On 19 January 1943, the Government announced in Order 469 that "the evacuation of persons of the Japanese race from the protected areas has now been substantially completed and that it is necessary to provide facilities for liquidation of property in appropriate cases." "Wherever," Order 469 stated, 
 
-under Orders in Council ... the Custodian has been vested with the power and responsibility of controlling and managing any property of persons of the Japanese race evacuated from the protected areas, such power and responsibility shall be deemed to include and to have included from the date of the vesting of such property in the Custodian, the power to liquidate, sell, or otherwise dispose of such property.
+> under Orders in Council ... the Custodian has been vested with the power and responsibility of controlling and managing any property of persons of the Japanese race evacuated from the protected areas, such power and responsibility shall be deemed to include and to have included from the date of the vesting of such property in the Custodian, the power to liquidate, sell, or otherwise dispose of such property.
 
 Sales of the real property of Japanese Canadians began in the spring of 1943. Within the year, the Custodian had sold the majority of Japanese-Canadian-owned property, although periodic sales continued for more than six years thereafter.
 
