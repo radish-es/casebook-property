@@ -3,7 +3,11 @@ title: the Membertou First Nation's Transition to the FNLMA
 short: Membertou First Nation and the FNLMA
 description: Questions and materials on the Membertou First Nation's adoption of the *FNLMA*
 class: problem
-
+tags:
+  - use
+  - reserve-lands
+  - indigenous-law
+  - treaty
 ---
 
 
