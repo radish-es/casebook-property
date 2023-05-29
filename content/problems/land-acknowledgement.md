@@ -2,6 +2,10 @@
 title: Acknowledging Wolastoqey Territory
 short: Acknowledging Wolastoqey Territory
 class: problem
+tags:
+  - recognition
+  - terra-nullius
+  - aboriginal-title
 ---
 
 To better understand some of the challenges associated with creating a meaningful land acknowledgement, consider a recent controversy in Wolastoqey territory. In October of 2021, New Brunswick's Attorney General issued a memo to provincial employees called "First Nation Protocol on Acknowledging Ancestral Territory." The memo was purportedly a response to the Wolastoqey Nation's ongoing claim, in the Canadian courts, [for recognition of Aboriginal title to land that covers about half of present day New Brunswick](https://www.cbc.ca/news/canada/new-brunswick/wolastoqey-nation-filing-for-title-claim-against-new-brunswick-1.5750955) (we will examine the details of this kind of claim later in the course). In the memo, provincial employees were instructed not to give territorial or title acknowledgements in the context of their work. Instead, they were to use only an approved "ancestral acknowledgement" as follows:
