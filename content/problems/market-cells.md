@@ -4,6 +4,7 @@ short: Market in Cells
 class: problem
 description: An exercise in interpreting the economic assumptions underlying the arguments in *Moore*
 tags:
+  - recognition
   - conversion
   - abandon-possession
 ---
