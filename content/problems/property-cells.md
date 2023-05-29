@@ -3,6 +3,10 @@ title: Property in Your Cells
 short: Property in Your Cells
 class: problem
 description: An exercise on the issue of property in human cells
+tags:
+  - recognition
+  - conversion
+  - abandon-possession
 ---
 
 
