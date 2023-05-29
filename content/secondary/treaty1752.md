@@ -3,6 +3,9 @@ style: 1752 Treaty of Peace and Friendship
 short: 1752 Treaty
 class: secondary_sources
 public: true
+tags: 
+  - recognition
+  - treaty
 ---
 
 
