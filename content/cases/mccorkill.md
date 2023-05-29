@@ -4,10 +4,9 @@ style: McCorkill v McCorkill (Estate)
 short: McCorkill
 reporter: 2014 NBQB 148 (CanLII)
 year: 2014
-facts: Harry McCorkill died in 2004, leaving his $200,000 estate as an unconditional gift to a US neo-Nazi group. McCorkill's sister challenged the bequest
-issue: Whether the bequest is invalid as contrary to public policy
-held: For plaintiff;
-The bequest, as an unconditional gift to a group whose actions are both illegal and fundamentally contrary to Canadian public policy, is invalid
+facts: Harry McCorkill died in 2004, leaving his $200,000 estate as an unconditional gift to a US neo-Nazi group. McCorkill's sister challenged the bequest.
+issue: Whether the bequest is invalid as contrary to public policy.
+held: For plaintiff. The bequest, as an unconditional gift to a group whose actions are both illegal and fundamentally contrary to Canadian public policy, is invalid.
 public: true
 sources:
   - source_name: CanLII

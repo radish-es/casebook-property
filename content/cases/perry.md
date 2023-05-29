@@ -4,9 +4,9 @@ style: Perry v Clissold
 short: Perry
 reporter: '[1906] 4 CLR 374'
 year: 1906
-facts: A parcel of land was enclosed and continually and exclusively possessed by Clissold. That land was expropriated by the Crown to build a school. The Public Works Act stipulated that the expropriation of private property to build schools must be compensated
-issue: Whether the Clissold estate was owed compensation for expropriation
-held: A prima facie case for compensation was made out. Clissold's adverse possession gave him good title for the expropriated private property
+facts: A parcel of land was enclosed and continually and exclusively possessed by Clissold. That land was expropriated by the Crown to build a school. The Public Works Act stipulated that the expropriation of private property to build schools must be compensated.
+issue: Whether the Clissold estate was owed compensation for expropriation.
+held: A prima facie case for compensation was made out. Clissold's adverse possession gave him good title for the expropriated private property.
 public: true
 tags:
   - use

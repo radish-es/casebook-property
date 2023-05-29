@@ -3,7 +3,8 @@ title: Parking Chairs
 class: problem
 description: A quick exercise on how possession is signalled
 tags:
-  - possession
+  - recognition
+  - first-possession
 ---
 
 [{{< figure src="/media/parking_chairs.jpg">}}](https://commons.wikimedia.org/wiki/File:20000128_02_Chairs_protecting_parking_place,_Chicago_(6897447742).jpg) 

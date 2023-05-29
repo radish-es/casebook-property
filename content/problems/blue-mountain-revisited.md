@@ -1,10 +1,10 @@
 ---
 title: Revisiting Blue Mountain-Birch Cove
 short: Revisiting Blue Mountain
-tags: 
-  - constructive-expropriation
-  - zoning
 class: problem
+  - use
+  - defacto-expropriation
+  - trade-agreements
 ---
 
 Briefly review the facts of the [Blue Mountain-Birch Cove Case study we explored in Week 12](../week12/#problem-blue-mountain-birch-cove-lakes), then consider the following questions:

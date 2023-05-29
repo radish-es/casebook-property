@@ -4,9 +4,9 @@ style: 'Black v Canadian Copper Co. '
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
 year: 1917
-facts: The plaintiffs brought an action because of harm caused by sulphur dioxide fumes from the defendant's mining operation 
-issue: What type of remedy is appropriate
-held: Damages, rather than an injunction, are justified, because the vapours are inherent to mining nickel and the mine is central to the community
+facts: The plaintiffs brought an action because of harm caused by sulphur dioxide fumes from the defendant's mining operation. 
+issue: What type of remedy is appropriate.
+held: Damages, rather than an injunction, are justified, because the vapours are inherent to mining nickel and the mine is central to the community.
 public: true
 tags:
   - use

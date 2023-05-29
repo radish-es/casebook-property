@@ -2,10 +2,7 @@
 class: context
 title: Anishinabek Law and Terra Nullius
 short: ''
-tags:
-  - indigenous-law
-  - terra-nullius
-  - colonialism
+
 ---
 
 A McNeil points out in his historical study of the *St. Catherine's Milling* case, one of the most glaring aspects at every level of court is the lack of reliance on any evidence from Indigenous peoples regarding *their* interpretation of Indigenous land rights before and after Treaty 3 was signed. 

@@ -2,10 +2,7 @@
 class: context
 title: African Nova Scotian Settlement
 short: ANS Settlement
-tags:
-  - racism
-  - title
-  - possession
+
 ---
 
 Although African Nova Scotians have lived in Nova Scotia since 17th century (many of them enslaved by British settlers), the major waves of African Nova Scotian migration occured in the 18th and 19th centuries. First the Black Loyalists, who sided with Britain during the American Revolutionary War in the 1780s; then the Jamaican Maroons in 1796, formerly-enslaved Africans deported to Nova Scotia after they fought for their freedom in Jamaica; and finally the Black Refugees, who were incited by British offers of freedom and land during the War of 1812. 

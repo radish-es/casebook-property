@@ -4,9 +4,9 @@ style: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
 year: 1950
-facts: A racially restrictive covenant was attached to land forming part of a summer resort development
-issue: Whether the restrictive covenant was valid
-held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land
+facts: A racially restrictive covenant was attached to land forming part of a summer resort development.
+issue: Whether the restrictive covenant was valid.
+held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land.
 public: true
 sources:
   - source_name: CanLII

@@ -5,9 +5,8 @@ short: Asher
 reporter: '(1865), LR 1 QB 1'
 year: 1865
 facts: Thomas Williamson enclosed land and built a cottage on it. He left it to his wife Lucy, with the property passing to his daughter, Mary Ann, when Lucy either remarried or died. Lucy remarried. Later, Mary Ann died, followed by Lucy. The plaintiff, Mary Ann's daughter, brought an action to eject the defendant, Lucy's second husband.
-issue: Who has better title
-held: For plaintiff;
-The plaintiff inhereted Thomas's title through Lucy, which included the right to eject; the defendant did not acquire better title through his occupancy
+issue: Who has better title.
+held: For plaintiff. The plaintiff inhereted Thomas's title through Lucy, which included the right to eject. The defendant did not acquire better title through his occupancy.
 public: true
 tags:
   - recognition

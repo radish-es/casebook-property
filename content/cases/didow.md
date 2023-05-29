@@ -4,10 +4,9 @@ style: Didow v Alberta Power Ltd
 short: Didow
 reporter: 1988 ABCA 257 (CanLII)
 year: 1988
-facts: Alberta Power built a power line, which included four 50-foot power poles, beside Didow's land. The cross-arms of the poles protruded six feet onto the airspace above Didow's land 
-issue: Whether the protruding cross-arms amounted to a trespass
-held: For plaintiff;
-The cross-arms were permanent structures that impinged on the use and enjoyment of Didiow's land, so were a tresspass
+facts: Alberta Power built a power line, which included four 50-foot power poles, beside Didow's land. The cross-arms of the poles protruded six feet onto the airspace above Didow's land. 
+issue: Whether the protruding cross-arms amounted to a trespass.
+held: For plaintiff. The cross-arms were permanent structures that impinged on the use and enjoyment of Didiow's land, so were a tresspass.
 public: true
 sources:
   - source_name: CanLII

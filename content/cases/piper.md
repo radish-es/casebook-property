@@ -4,9 +4,9 @@ style: Piper v Stevenson
 short: Piper
 reporter: '1913 CanLII 615 (ON CA), [1913] 12 DLR 820'
 year: 1913
-facts: Piper enclosed and cultivated land for years. Stevenson says he had purchased that land and that Piper is not the owner
-issue: Whether Piper acquired ownership of the land through adverse possession
-held: Piper's acts of enclosure and cultivation were exclusive and continuous for enough time to grant better tile than Stevenson through adverse possession
+facts: Piper enclosed and cultivated land for years. Stevenson said he had purchased that land and that Piper is not the owner.
+issue: Whether Piper acquired ownership of the land through adverse possession.
+held: Piper's acts of enclosure and cultivation were exclusive and continuous for enough time to grant better tile than Stevenson through adverse possession.
 public: true
 sources:
   - source_name: CanLII

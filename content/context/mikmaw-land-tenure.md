@@ -3,10 +3,7 @@ title: Mi'kmaw Land Tenure
 short: Mi'kmaw Land Tenure
 class: context
 description: A contextualization of 1752 treaty in Mi'kmaw law
-tags:
-  - treaties
-  - Indigenous legal orders  
-  - aboriginal-rights
+
 ---
 
 The Court in *Syliboy* deployed each of the core themes of colonialism in property law we introduced in Week 1 in order to interpret the 1752 Peace and Friendship Treaty. The *Syliboy* decision provided a deeply problematic footing on which to set the common law's understanding of treaty rights and in some significant ways tracked the developing common law doctrine of Aboriginal title. But despite the *Syliboy* decision's long influence on treaty interpretation in Mi'kma'ki, in its aftermath Mi'kmaw jurists continued to offer alternative interpretations grounded in the Mi'kmaw legal order and worldview. 

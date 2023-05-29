@@ -1,9 +1,6 @@
 ---
 title: A "Monkey Wrench in the Free Market"
 short: hansard
-tags:
-  - liberalism
-  - markets
 class: problem
 ---
 

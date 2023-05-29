@@ -2,9 +2,7 @@
 title: The British Settlement of Halifax (1749)
 short: British Settlement
 class: context
-tags:
-  - treaties
-  - colonialism
+
 ---
 
 

@@ -3,9 +3,7 @@ title: Holmes' Modernism in Practice
 short: Modernism in Practice
 class: context
 description: An introduction to Holme's decision in *Mahon*
-tags:
-  - modern-style
-  - classical-style
+
 ---
 
 We now want to see how Holmes' ideas about the modern style play out in a case about *de facto* expropriation.

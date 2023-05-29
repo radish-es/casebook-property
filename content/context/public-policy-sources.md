@@ -3,9 +3,7 @@ title: Sources of Public Policy
 short: Sources
 class: context
 description: Contemporary sources of public policy to contextualize the *3000 Funston Street* problem
-tags:
-  - public-policy
-  - restricitve-covenants
+
 ---
 
 

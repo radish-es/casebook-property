@@ -3,9 +3,7 @@ title: Contemporary Style
 short: Contemporary Style
 class: concept
 description: An introduction to the contemporary style of common law argumentation
-tags:
-  - contemporary-style
-  - argument-patterns 
+
 ---
 
 

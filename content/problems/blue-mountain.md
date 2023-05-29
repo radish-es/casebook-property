@@ -1,10 +1,11 @@
 ---
 title: 'Blue Mountain-Birch Cove Lakes'
 short: Blue Mountain
-tags:
-  - constructive-expropriation
-  - zoning
 class: problem
+tags:
+  - use
+  - defacto-expropriation
+  - land-use-regulation
 ---
 
 {{< figure src="/media/blue_mountain.jpg" caption="Irwin Barrett - Ecology Action Centre" >}}

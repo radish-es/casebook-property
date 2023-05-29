@@ -5,9 +5,8 @@ short: Metalclad
 reporter: ICSID ARB(AF)/97/1
 public: true
 facts: Guadalcazar municipality denied a permit for Metalclad, who had built a hazardous waste landfill on the strength of representations by the Mexican federal government, to operate their plant.
-issue: Whether this constituted de fact expropriation under NAFTA
-held: For plaintiff;
-De facto expropriation under NAFTA includes the deprivation of economic benefit of property, even without the acquisition of clear benefits to the state. As such, de facto expropriation is made out
+issue: Whether this constituted de fact expropriation under NAFTA.
+held: For plaintiff. De facto expropriation under NAFTA includes the deprivation of economic benefit of property, even without the acquisition of clear benefits to the state. As such, de facto expropriation is made out.
 tags:
   - use
   - land-use-regulation

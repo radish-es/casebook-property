@@ -1,10 +1,11 @@
 ---
 title: A Testamentary Bequest
 short: Testamentary Bequest
+class: problem
 tags:
+  - transfer
   - estates
   - bequest
-class: problem
 ---
 
 <a href="https://unsplash.com/photos/y02jEX_B0O0">{{< figure src="/media/will.jpg" caption="Source: Aaron Burden on Unsplash" link="">}}</a>
