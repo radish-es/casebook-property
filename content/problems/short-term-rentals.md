@@ -2,6 +2,10 @@
 title: Short-Term Rentals in HRM
 short: Problem
 class: problem
+tags:
+  - use
+  - acquired-rights
+  - land-use-regulation
 ---
 
 
