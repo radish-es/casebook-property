@@ -3,6 +3,10 @@ style: Treaty of 1725
 short: 1725 Treaty
 class: secondary_sources
 public: true
+tags:
+  - recognition
+  - transfer
+  - treaty
 ---
 
 
