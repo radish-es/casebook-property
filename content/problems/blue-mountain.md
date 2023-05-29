@@ -2,6 +2,10 @@
 title: 'Blue Mountain-Birch Cove Lakes'
 short: Blue Mountain
 class: problem
+tags:
+  - use
+  - defacto-expropriation
+  - land-use-regulation
 ---
 
 {{< figure src="/media/blue_mountain.jpg" caption="Irwin Barrett - Ecology Action Centre" >}}
