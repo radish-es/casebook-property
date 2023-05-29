@@ -13,6 +13,10 @@ sources:
       Casebook](https://opensourceproperty.org) (2015)
 class: secondary_sources
 public: true
+tags:
+  - transfer
+  - tenure
+  - estates
 ---
 
 
