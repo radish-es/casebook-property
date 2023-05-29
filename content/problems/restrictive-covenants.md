@@ -2,6 +2,10 @@
 title: 'Restrictive Covenants '
 short: Restrictive Covenants Exercise
 class: problem
+tags:
+  - use
+  - restrictive-covenant  
+  - public-policy
 ---
 
 
