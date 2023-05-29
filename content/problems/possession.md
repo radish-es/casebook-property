@@ -1,6 +1,11 @@
 ---
 title: Problems of Possession
 class: problem
+tags:
+  - recognition
+  - first-possession
+  - relative-possession
+  - airspace
 ---
 
 In class this week, we will focus on two short problems:
