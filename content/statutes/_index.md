@@ -1,9 +1,7 @@
 ---
-title: Modules
+title: Statues
 type: docs
-weight: 1
+weight: 3
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
-
-These are modules.

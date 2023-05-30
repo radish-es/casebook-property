@@ -1,0 +1,21 @@
+
+{{ $secondary_name := (.Get 0) }}
+
+{{ $secondary := printf "%s" ".md"| printf "%s%s" (.Get 0) | printf "%s%s" "/content/secondary/" }}
+
+{{ with $.Site.GetPage $secondary }} 
+
+ 
+
+<div class="class_wrapper">
+    <div class="class_label"><a href="/secondary/{{ $secondary_name }}">Secondary Source</a></div>
+
+    {{ partial "repo-link" . }}
+
+    <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
+
+    {{ .Content }}
+    
+</div>
+
+{{ end }}

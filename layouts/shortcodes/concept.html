@@ -1,19 +1,21 @@
 
-{{ $concept_name := (.Get "path") }}
+{{ $concept_name := (.Get 0) }}
 
-{{ $concept := printf "%s" (.Get "path") | printf "%s%s" "/" }}
+{{ $concept := printf "%s" ".md"| printf "%s%s" (.Get 0) | printf "%s%s" "/content/concepts/" }}
 
 {{ with $.Site.GetPage $concept }} 
+
+ 
 
 <div class="class_wrapper">
     <div class="class_label"><a href="/concepts/{{ $concept_name }}">Concept</a></div>
 
     {{ partial "repo-link" . }}
 
-    <h2 id="{{ .Params.Title | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
+    <h2 id="{{ .Params.Style | anchorize}}">{{ .Params.Title }}<a class="anchor" href="#{{ .Params.Title | anchorize}}"> #</a></h2>
 
     {{ .Content }}
-
+    
 </div>
 
 {{ end }}

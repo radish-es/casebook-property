@@ -1,5 +1,5 @@
 ---
-title: Liberalism 
+title: Classical Common Law Thought 
 class: concept
 description: Basics of the liberal dilemma.
 
@@ -24,5 +24,3 @@ How common law judges and lawyers have tried, historically, to resolve this basi
 We can trace much of the roots of liberal legal thought to the work of John Locke in the late seventeenth century. Locke addresses a core question at the heart of property law: How does any individual in society come to "own" anything? 
 
 [^stein2018]: Desautels-Stein, Justin. *The Jurisprudence of Style: A Structuralist History of American Pragmatism and Liberal Legal Thought*. Cambridge University Press, 2018.
-
-[^citation]: Here is a citation

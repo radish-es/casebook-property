@@ -1,7 +1,7 @@
 ---
 title: Cases
 type: docs
-weight: 3
+weight: 2
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
