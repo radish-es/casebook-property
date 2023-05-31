@@ -17,7 +17,8 @@ tags:
   - transfer
   - dejure-expropriation
   - trusts
-  - japanese-canadian-interment
+  - japanese-canadian-internment
+  - uncertainty
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 class: case
-style: Belfast Corporation v OD Cars, LTD
+style: Belfast Corporation v OD Cars LTD
 short: Belfast
-reporter: [1960] 2 WLR 148, [1960] 1 All ER 65
+reporter: "[1960] 1 All ER 65"
 year: 1959
-facts: OD Cars requested permission from Belfast to build commercial and industrial facilities on their land. Belfast denied permission because of the height and character of the buildings, along with the residential zoning of the area. 
+facts: OD Cars requested permission from Belfast to build commercial and industrial facilities on their land. Belfast denied permission because of the height and character of the buildings, along with the residential zoning of the area.
 issue: Whether this constituted a taking for which OD Cars is owed compensation.
 held: Failing to grant a permit because of reasonable statutory restrictions does not amount to a taking of property. The zoning bylaw here was reasonable, so no compensation was owed.
 public: true
@@ -13,7 +13,6 @@ tags:
   - defacto-expropriation
   - land-use-regulation
 ---
-
 
 ### Viscount Simonds --
 
