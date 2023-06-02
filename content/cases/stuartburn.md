@@ -16,7 +16,7 @@ sources:
 tags:
   - transfer
   - estates
-  - bequests
+  - bequest
 ---
 
 
