@@ -16,6 +16,9 @@ sources:
 tags:
   - transfer
   - dejure-expropriation
+  - trusts
+  - japanese-canadian-internment
+  - uncertainty
 ---
 
 

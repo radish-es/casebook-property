@@ -22,7 +22,7 @@ This week we continue our study of issues related to land use control from the p
 
 **Modernizing nuisance**: like *de facto* expropriation, the doctrine of acquired rights gained attention as local and provincial land use laws supplanted nuisance as the main legal tools to address land use disputes.
 
-- Back in [Week 7](../week7) we looked at remedies in nuisance as a response to the basic liberal dilemma: neighbouring landowners each want full freedom of property, but the unrestricted freedom of one is impossible without limiting the other.
+- Back in Week 7 we looked at remedies in nuisance as a response to the basic liberal dilemma: neighbouring landowners each want full freedom of property, but the unrestricted freedom of one is impossible without limiting the other.
 
 - At the time of *Canadian Copper Co.* and *Canadian Paper Co.*, nuisance claims were the main legal tool for regulating land use conflicts.
 
