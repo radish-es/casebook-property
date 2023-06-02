@@ -16,6 +16,7 @@ tags:
   - use
   - land-use-regulation
   - defacto-expropriation
+  - trespass
 ---
 
 ### Côté, Brown JJ. --
