@@ -4,7 +4,7 @@ short: Royal Proclamation
 class: secondary_sources
 public: true
 tags:
-  - recogntion
+  - recognition
   - terra-nullius
   - aboriginal-title
 ---
