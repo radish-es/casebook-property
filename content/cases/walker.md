@@ -12,6 +12,7 @@ tags:
   - transfer
   - estates
   - bequest
+  - tenure
 ---
 
 
