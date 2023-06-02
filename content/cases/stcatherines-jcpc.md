@@ -13,8 +13,6 @@ tags:
   - transfer
   - aboriginal-title
   - treaty
-  - reserve-lands
-  - trespass
   - terra-nullius
 ---
 

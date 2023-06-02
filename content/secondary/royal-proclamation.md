@@ -1,7 +1,7 @@
 ---
 style: 'Royal Proclamation (October 7, 1763)'
 short: Royal Proclamation
-class: secondary_sources
+class: secondary
 public: true
 tags:
   - recognition

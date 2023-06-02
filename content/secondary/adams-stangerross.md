@@ -12,6 +12,8 @@ public: true
 tags:
   - transfer
   - dejure-expropriation
+  - trusts
+  - japanese-canadian-internment
 ---
 
 While interning Japanese Canadians, the federal government seized control of all of their real and personal property within the "protected area in British Columbia." In the spring of 1943, federal officials began to sell virtually everything that the government had taken, often below market value. Families lost heirlooms, vibrant businesses, and everyday possessions. They lost cars, boats, books, toys, furniture, and cameras. They lost homes and farms. Beyond the tangible, Canadians of Japanese descent lost opportunities, neighbourhoods, and communities. They lost connections to place. They lost retirements, livelihoods, and educations. They lost agency over their property and life choices. They lost, as Rikizo Yoneyama poignantly expressed in a defiant letter to the Minister of Justice, "more than just a home." Japanese Canadians, he lamented, lost "the foundation of security and freedom as Canadian citizens."
