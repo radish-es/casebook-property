@@ -12,6 +12,7 @@ tags:
   - use
   - restrictive-covenant
   - servitude
+  - easement
 
 ---
 
