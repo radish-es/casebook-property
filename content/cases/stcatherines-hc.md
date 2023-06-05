@@ -4,7 +4,7 @@ style: St. Catherine's Milling and Lumber Co. v R (HC)
 short: St. Catherine's (HC)
 reporter: '(1886), 10 OR 196 (HC)'
 year: 1886
-facts: St. Catherine's Milling conducted logging on land in Ontario. They said they had permission from the federal government. The land at issue was subject to Treaty 3, between the Anishinaabe and the dominion government. The provincial government submitted that title in the land transferred to the Crown in right of Ontario at confederartion. The dominion government submitted that Aboriginal title to the land survived confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
+facts: St. Catherine's Milling conducted logging on land in Ontario. They said they had permission from the federal government. The land at issue was subject to Treaty 3, between the Anishinaabe and the Dominion government. The provincial government asserted that title in the land transferred to the Crown in right of Ontario at Confederartion. The Dominion government asserted that Aboriginal title to the land survived Confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
 issue: Who holds beneficial title to the land? What is the source and content of Aboriginal title?
 held: Aboriginal title is a right of occupancy, and the beneficial title is always held by the crown. As such, the title became the province's at confederation. The dominion government has power over reserves, but not treaty land.
 public: true

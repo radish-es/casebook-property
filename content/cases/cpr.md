@@ -17,6 +17,7 @@ tags:
   - use
   - land-use-regulation
   - defacto-expropriation
+  - trespass
 
 ---
 

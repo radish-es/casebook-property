@@ -23,6 +23,7 @@ tags:
   - use
   - recognition
   - shelter-rights
+  - housing-rights
 ---
 
 

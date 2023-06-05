@@ -1,4 +1,4 @@
-﻿---
+---
 class: case
 style: Keefer v Arillotta
 short: Keefer
