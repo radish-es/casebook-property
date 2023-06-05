@@ -4,7 +4,7 @@ style: St. Catherines Milling and Lumber Co. v. R. (SCC)
 short: St. Catherines (SCC)
 reporter: '1887 CanLII 3 (SCC), [1887] 13 SCR 577'
 year: 1887
-facts: St. Catherine's Milling conducted logging on land in Ontario. They said they had permission from the federal government. The land at issue was subject to Treaty 3, between the Anishinaabe and the dominion government. The provincial government submitted that title in the land transferred to the Crown in right of Ontario at confederartion. The dominion government submitted that Aboriginal title to the land survived confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
+facts: St. Catherine's Milling conducted logging on land in Ontario. They said they had permission from the federal government. The land at issue was subject to Treaty 3, between the Anishinaabe and the Dominion government. The provincial government asserted that title in the land transferred to the Crown in right of Ontario at Confederartion. The Dominion government submitted that Aboriginal title to the land survived Confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
 issue: Who holds beneficial title to the land? What is the source and content of Aboriginal title?
 held: The majority upheld the trial court decision of Chancellor Boyd. The dissent argued that there was a usufructuary Aboriginal title to unsurrendered lands, which differentiates them from 'public land,' and that these lands should be understood as falling under the jursdiction of the Crown in right of Canada under s 91 of the BNA.
 public: true
