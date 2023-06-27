@@ -1,24 +1,4 @@
 
-<!-- range over the Components in metadata -->
-
-{{ range .Params.Components }}
-
-    <!-- for cases -->
-
-    {{ if eq ._template "case" }}
-
-        <!-- Need to add a "/" to the value from the metadata-->
-
-        {{ $file := printf "%s" .filename | printf "%s%s" "/" }}
-
-        <!-- Get the page and post the content -->
-
-        {{ with $.Site.GetPage $file }}{{ .Content }}{{ end }}
-
-    {{ end }}
-
-{{ end }}
-
 
 
 <!--ADD LINKS AFTER CONTENT-->
@@ -28,21 +8,29 @@
     <div class="links">
 
         <h2>Links</h2>
-        <ul>
-            {{ range .Params.Links }}
+        
+        {{ range .Params.Links }}
+        
+            <div class="class_wrapper">
 
                 {{ $item := printf "%s" (.url) | printf "%s%s" "/" }}
 
+                <!--Need to error check this, how? -->
                 {{ $explanation := (.explanation) }}
 
                 {{ with $.Site.GetPage $item }} 
 
-                    <li><b><a href="{{ .Permalink }}">{{.Params.Title}}:</a></b> {{.Params.description}} -- {{ printf $explanation }}</li>
+                    <p><b><a href="{{ .Permalink }}">
+                        {{ if isset .Params "title" }}{{.Params.Title}}{{ end }}{{ if isset .Params "style" }}<i>{{.Params.Style}}</i>{{.Params.Reporter}}{{ end }}
+                    </a></b>{{ if isset .Params "description" }}: {{.Params.description}} {{end}}</p>
+
+                    <p>{{ printf $explanation }}</p>
 
                 {{ end }}
 
-            {{ end }}
-        </ul>
+            </div>
+
+        {{ end }}
         
     </div>
 

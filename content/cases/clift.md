@@ -12,6 +12,9 @@ tags:
   - recognition
   - first-possession
   - abandon-possession
+links:
+  - url: content/concepts/abandonment.md
+    explanation: How can wild seals be abandoned once in possession?
 ---
 
 

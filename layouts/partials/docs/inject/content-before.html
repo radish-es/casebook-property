@@ -1,30 +1,5 @@
 
-<!--ADD LINKS BEFORE CONTENT-->
 
-{{ if isset .Params "links" }}
-
-    <div class="links">
-
-        <h2>Links</h2>
-        <ul>
-            {{ range .Params.Links }}
-
-                {{ $item := printf "%s" (.url) | printf "%s%s" "/" }}
-
-                {{ $explanation := (.explanation) }}
-
-                {{ with $.Site.GetPage $item }} 
-
-                    <li><b><a href="{{ .Permalink }}">{{.Params.Title}}:</a></b> {{.Params.description}} -- {{ printf $explanation }}</li>
-
-                {{ end }}
-
-            {{ end }}
-        </ul>
-        
-    </div>
-
-{{ end }}
 
 {{ if isset .Params "title" }}
 
