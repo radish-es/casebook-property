@@ -49,6 +49,43 @@
           tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
         </script>
 
+        <!--ADD LINKS AFTER CONTENT-->
+
+        {{ if isset .Params "links" }}
+
+            <div class="links">
+
+                <h2>Links</h2>
+                
+                {{ range .Params.Links }}
+                
+                    <div class="class_wrapper">
+
+                        {{ $item := printf "%s" (.url) | printf "%s%s" "/" }}
+
+                        <!--Need to error check this, how? -->
+                        {{ $explanation := (.explanation) }}
+
+                        {{ with $.Site.GetPage $item }} 
+
+                            <p><b><a href="{{ .Permalink }}">
+                                {{ if isset .Params "title" }}{{.Params.Title}}{{ end }}{{ if isset .Params "style" }}<i>{{.Params.Style}}</i>{{.Params.Reporter}}{{ end }}
+                            </a></b>{{ if isset .Params "description" }}: {{.Params.description}} {{end}}</p>
+
+                            <p>{{ printf $explanation }}</p>
+
+                        {{ end }}
+
+                    </div>
+
+                {{ end }}
+                
+            </div>
+
+        {{ end }}
+
+        <!--END LINKS-->
+
       </div>
     </aside>
     {{ end }}
