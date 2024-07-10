@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"3c6185f81da4f544","type":"text","text":"","x":-206,"y":-375,"width":250,"height":60},
 		{"type":"file","file":"secondary/locke.md","id":"ba6b90a094f81373","x":-800,"y":-320,"width":400,"height":200,"color":"2"},
 		{"type":"text","text":"Armoury v Delamire","id":"2bf0e102bcacdf74","x":640,"y":-320,"width":299,"height":200,"color":"2"},
 		{"type":"file","file":"cases/asher.md","id":"164a2ad4f87bc9ca","x":1280,"y":-312,"width":400,"height":192,"color":"2"},
@@ -18,7 +19,6 @@
 		{"type":"file","file":"cases/beals.md","id":"c8be208155a93b3f","x":2434,"y":-303,"width":400,"height":183,"color":"2"},
 		{"type":"file","file":"cases/mclaren-scc.md","id":"a43ed11a53732d33","x":4682,"y":9,"width":400,"height":215,"color":"5"},
 		{"type":"file","file":"cases/pennsylvania-coal.md","id":"c2153a368d941806","x":4682,"y":583,"width":400,"height":226,"color":"5"},
-		{"type":"file","file":"cases/mariner.md","id":"2aa736bc5203fa37","x":5594,"y":589,"width":400,"height":214,"color":"5"},
 		{"type":"file","file":"cases/cappy.md","id":"7b38e31a4635fa06","x":6242,"y":993,"width":400,"height":301,"color":"5"},
 		{"type":"file","file":"cases/saintromuald.md","id":"625ad610c5ce3510","x":6880,"y":993,"width":400,"height":301,"color":"5"},
 		{"type":"file","file":"cases/victoriapark.md","id":"9aae71ad1d67d91c","x":3883,"y":-601,"width":400,"height":183,"color":"5"},
@@ -64,7 +64,9 @@
 		{"type":"file","file":"context/mikmaw-land-tenure.md","id":"63489014487ba353","x":-1600,"y":420,"width":400,"height":252,"color":"2"},
 		{"type":"file","file":"secondary/adams-stangerross.md","id":"be64891bf5be5bf2","x":3030,"y":553,"width":400,"height":400,"color":"2"},
 		{"type":"file","file":"cases/clift.md","id":"3b9ac035b18bb950","x":-160,"y":-316,"width":400,"height":200,"color":"2"},
-		{"id":"ce617ae0b7c224ee","type":"text","text":"# Problems\n\n## Multi-juridical and anti-colonial\n- recognizing colonial basis of property\n- problem of multiple legal systems from different worldviews (\"reconciliation\")\n- establishing fundamental problem of \"recognition\"\n- Indigenous perspectives on relationship\n- treaty with nature\n- treaty between nations\n**ALTON GAS**, includes treaty/truckhouse \n\n## Law a structure of the market\n- \n\n## Common Law Possession (wild animals)\n\n- test for possession\n- \"control\" / dominium in context\n- abandonment\n-  relative nature of possession (finders; land)\n- illegality\n- airspace (drone purchase)\n\n\n**WEST MIDLANDS HUNT SABATEURS?**\n\n## Common Law Possession II (land)\n- adverse possession\n- airspace\n**STORY: ANS settlement, possession, title, economic consequences**\n\n\n## Common Law Aboriginal Title\n\n- common law tenures and estates in land\n- beneficial interest / trust\n- sovereignty and terra nullius\n\n\n## De jure expropriation\n- constitutional protections for property\n**STORY: of Japanese internment to illustrate lack of constitutional protections**\n\n\n## De facto expropriation and adverse possession\n\n- Kosicki v. Toronto (City) 2023 OCA","x":-1855,"y":-937,"width":455,"height":1217}
+		{"id":"ce617ae0b7c224ee","type":"text","text":"# Problems\n\n## Multi-juridical and anti-colonial\n- recognizing colonial basis of property\n- problem of multiple legal systems from different worldviews (\"reconciliation\")\n- establishing fundamental problem of \"recognition\"\n- Indigenous perspectives on relationship\n- treaty with nature\n- treaty between nations\n**ALTON GAS**, includes treaty/truckhouse \n\n## Law a structure of the market\n- \n\n## Common Law Possession (wild animals)\n\n- test for possession\n- \"control\" / dominium in context\n- abandonment\n-  relative nature of possession (finders; land)\n- illegality\n- airspace (drone purchase)\n\n\n**WEST MIDLANDS HUNT SABATEURS?**\n\n## Common Law Possession II (land)\n- adverse possession\n- airspace\n**STORY: ANS settlement, possession, title, economic consequences**\n\n\n## Common Law Aboriginal Title\n\n- common law tenures and estates in land\n- beneficial interest / trust\n- sovereignty and terra nullius\n\n\n## De jure expropriation\n- constitutional protections for property\n**STORY: of Japanese internment to illustrate lack of constitutional protections**\n\n\n## De facto expropriation and adverse possession\n\n- Kosicki v. Toronto (City) 2023 OCA","x":-1855,"y":-937,"width":455,"height":1217},
+		{"id":"b50129600354a58c","type":"text","text":"","x":4103,"y":90,"width":250,"height":6},
+		{"type":"file","file":"cases/mariner.md","id":"2aa736bc5203fa37","x":5719,"y":660,"width":400,"height":214,"color":"5"}
 	],
 	"edges":[
 		{"id":"8a65cb822d684b4a","fromNode":"ba6b90a094f81373","fromSide":"right","toNode":"3b9ac035b18bb950","toSide":"left","label":"labour"},
