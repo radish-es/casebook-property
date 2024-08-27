@@ -16,6 +16,7 @@ tags:
   - reserve-lands
   - trespass
   - terra-nullius
+published: false
 ---
 
 This was an action brought by Her Majesty the Queen, on the information of the Attorney General for the Province of Ontario against the St. Catharines Milling and Lumber Company, claiming amongst other things, an injunction restraining the cutting of timber by the defendants upon certain lands lying south of Wabigoon Lake, in the district of Algoma.

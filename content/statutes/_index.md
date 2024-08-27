@@ -6,5 +6,5 @@ weight: 4
 bookCollapseSection: true
 ---
 
-Statues.
+Excerpts from statutes and regulations we will study throughout the course.
 

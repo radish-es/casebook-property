@@ -12,6 +12,7 @@ tags:
   - use
   - defacto-expropriation
   - land-use-regulation
+published: false
 ---
 
 ### Viscount Simonds --
