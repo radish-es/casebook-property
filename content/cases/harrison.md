@@ -1,7 +1,7 @@
 ---
 class: case
 style: Harrison v Carswell
-short: Harrison
+title: Harrison v Carswell
 reporter: '1975 CanLII 160 (SCC), [1976] 2 SCR 200'
 year: 1975
 facts: Sophie Carswell was charged with unlawfully trespassing on the Polo Park Shopping Centre after engaging in a labour protest on the mall sidewalk against her employee, a tenant of the mall.
