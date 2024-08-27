@@ -69,7 +69,7 @@
                         {{ with $.Site.GetPage $item }} 
 
                             <p><b><a href="{{ .Permalink }}">
-                                {{ if isset .Params "title" }}{{.Params.Title}}{{ end }}{{ if isset .Params "style" }}<i>{{.Params.Style}}</i>{{.Params.Reporter}}{{ end }}
+                                {{ if isset .Params "title" }}{{.Params.Title}}{{ end }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}
                             </a></b>{{ if isset .Params "description" }}: {{.Params.description}} {{end}}</p>
 
                             <p>{{ printf $explanation }}</p>

@@ -1,5 +1,5 @@
 ---
-style: Protection of Property Act
+title: Protection of Property Act
 short: Protection of Property Act
 reporter: 'RSNS 1989, c 363'
 tags:
