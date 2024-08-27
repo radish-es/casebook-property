@@ -1,9 +1,9 @@
 ---
 title: Problems
 type: docs
-weight: 4
+weight: 2
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
 
-Need to implement list template to list all problems.
+Problems we will use throughout the course. 

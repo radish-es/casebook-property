@@ -2,6 +2,7 @@
 title: Obligations
 short: 'Obligations'
 class: problem
+published: false
 ---
 
 For this exercise, start by taking some time to think about the obligations you bring to this property law course. You might want to start by thinking about what obligations have confront by coming to class each week. What gets you out of your home and into the law school? What responsibilities do you encounter as you try to understanding and complete your weekly readings (and to whom)? Below are some further questions to help guide your reflections. Take around ten minutes to make a list of all the relevant obligations that come to your mind in this context. 

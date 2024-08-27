@@ -3,6 +3,7 @@ title: Multi-juridical Canada and Jeremy Dutcher's Musical Dialogues
 short: Dutcher
 class: problem
 description: A reflection on multi-juridicalism through the work of Jeremy Dutcher
+published: false
 ---
 
 We have seen this week and last how judges in the style of classical common law thought largely foreclosed any genuine consideration of Indigenous laws or of a multi-juridical Canada. Later in the course, we will return to this idea and ask about possibilities for intersections between legal orders. 

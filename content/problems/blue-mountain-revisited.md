@@ -5,6 +5,7 @@ class: problem
   - use
   - defacto-expropriation
   - trade-agreements
+published: false
 ---
 
 Briefly review the facts of the [Blue Mountain-Birch Cove Case study we explored in Week 12](../week12/#problem-blue-mountain-birch-cove-lakes), then consider the following questions:

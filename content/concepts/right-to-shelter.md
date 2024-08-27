@@ -7,6 +7,7 @@ tags:
   - use
   - recognition
   - shelter-rights
+published: false
 ---
 
 In our discussion of acquired rights and the problem of regulating short-term rentals last week, we touched on the idea that a central issue for the Halifax Regional Municipality (HRM) and other municipal governments in Canada is access to affordable housing. There is growing awareness that Halifax is facing a crisis in housing affordability and a [dramatic rise in the number of people who experience chronic homelessness](https://www.cbc.ca/news/canada/nova-scotia/homeless-report-2020-covid-19-affordable-housing-association-of-nova-scotia-1.5805458).

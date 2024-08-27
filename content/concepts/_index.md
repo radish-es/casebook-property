@@ -1,10 +1,10 @@
 ---
 title: Concepts
 type: docs
-weight: 2
+weight: 6
 # Can set the section to collapse here
 bookCollapseSection: true
+published: true
 ---
 
-Collection of key concepts in the course. 
-
+This section contains short explanations or definitions of key concepts used in the course, with links to related material. 

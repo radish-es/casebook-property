@@ -8,6 +8,7 @@ tags:
   - restrictive-covenant
   - land-use-regulation
   - public-policy
+published: false
 ---
 
 Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 

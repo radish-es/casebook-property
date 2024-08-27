@@ -3,6 +3,7 @@ title: St Catherine's Milling and the Classical Style
 short: Classical Style
 class: problem
 description: An exercise on the reasoning in *St. Catherine's Milling*
+published: false
 ---
 
 

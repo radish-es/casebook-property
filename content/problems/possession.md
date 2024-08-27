@@ -6,6 +6,7 @@ tags:
   - first-possession
   - relative-possession
   - airspace
+published: false
 ---
 
 In class this week, we will focus on two short problems:

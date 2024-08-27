@@ -7,6 +7,7 @@ tags:
   - recognition
   - terra-nullius
   - first-possession
+published: false
 ---
 
 Several writers have explored and debated the ways in which Locke's influential works sought to justify an expanding British colonialism at the time when the *Second Treatise* was published. As part of that project, questions about property and possession of land were fundamental. While Locke appears to acknowledge that British law may recognize the possession of Indigenous peoples, he simultaneously lays down justifications for undermining any possessory entitlements--or for ignoring them altogether. 

@@ -6,6 +6,7 @@ tags:
   - transfer
   - bequest
   - estates
+published: false
 ---
 
 This week we will continue to unpack and examine the public policy doctrine in a different context, namely that of bequests in a will (*testamentary transfers*). We ask the question: to what extent can and should the doctrine place limits on the freedom of owners to do what they want with their property after they die? 
