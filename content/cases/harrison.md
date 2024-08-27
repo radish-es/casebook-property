@@ -1,6 +1,5 @@
 ---
 class: case
-style: Harrison v Carswell
 title: Harrison v Carswell
 reporter: '1975 CanLII 160 (SCC), [1976] 2 SCR 200'
 year: 1975
