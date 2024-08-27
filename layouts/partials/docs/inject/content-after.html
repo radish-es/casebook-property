@@ -1,7 +1,7 @@
 
 
 
-<!--ADD LINKS AFTER CONTENT-->
+<!--ADD LINKS AFTER CONTENT
 
 {{ if isset .Params "links" }}
 
@@ -15,7 +15,6 @@
 
                 {{ $item := printf "%s" (.url) | printf "%s%s" "/" }}
 
-                <!--Need to error check this, how? -->
                 {{ $explanation := (.explanation) }}
 
                 {{ with $.Site.GetPage $item }} 
@@ -35,3 +34,5 @@
     </div>
 
 {{ end }}
+
+-->

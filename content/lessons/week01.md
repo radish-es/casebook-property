@@ -48,4 +48,4 @@ You will quickly notice that this casebook looks quite different from most of th
 
 ## Our First Problem
 
-Start by reading our first problem, *Protest at East Eggleston*. 
+Start by reading our first problem, *[Protest at East Eggleston]({{< ref "problems/protest" >}})*. 

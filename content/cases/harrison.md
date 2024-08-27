@@ -17,6 +17,9 @@ tags:
   - use
   - trespass
   - relative-possession   
+links:
+  - url: content/statutes/protection-property.md
+    explanation: How does Nova Scotia's Act compare to the Petty Trespass statutes in the Manitoba and Ontario statues considered by the court in this case? Are there similarities and/or differences? Do they matter?
 published: true
 ---
 

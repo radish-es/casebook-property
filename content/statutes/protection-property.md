@@ -17,7 +17,7 @@ sources:
       Province of Nova Scotia
 links:
   - url: content/problems/protest.md
-    explanation: A problem deadling with exclusion of protesters at East Eggleston.
+    explanation: Is the wording of the statue clear in its application to the circumstances of the protestors in East Eggleston?
   - url: content/cases/harrison.md
     explanation: There are also trespass statutes at issue in this case. How do those statues compare? Does it matter?
 published: true
