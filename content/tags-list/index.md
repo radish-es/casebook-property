@@ -1,7 +1,7 @@
 ---
 title: Tags
 type: docs
-weight: 7
+weight: 8
 # Can set the section to collapse here
 bookCollapseSection: false
 ---

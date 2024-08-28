@@ -1,7 +1,7 @@
 ---
 title: Concepts
 type: docs
-weight: 6
+weight: 7
 # Can set the section to collapse here
 bookCollapseSection: true
 published: true

@@ -1,7 +1,7 @@
 ---
 title: Statutes
 type: docs
-weight: 4
+weight: 5
 # Can set the section to collapse here
 bookCollapseSection: true
 ---

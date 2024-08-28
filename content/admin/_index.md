@@ -1,9 +1,9 @@
 ---
-title: Problems
+title: Admin
 type: docs
-weight: 3
+weight: 1
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
 
-Problems we will use throughout the course. 
+Administrative documents for the course.

@@ -1,7 +1,7 @@
 ---
 title: Lessons
 type: docs
-weight: 1
+weight: 2
 # Can set the section to collapse here
 bookCollapseSection: true
 ---

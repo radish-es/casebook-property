@@ -1,7 +1,7 @@
 ---
 title: Secondary Sources
 type: docs
-weight: 5
+weight: 6
 # Can set the section to collapse here
 bookCollapseSection: true
 ---
