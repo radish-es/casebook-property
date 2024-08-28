@@ -7,6 +7,7 @@ tags:
   - recognition
   - terra-nullius
   - aboriginal-title
+published: false
 ---
 
 And whereas it is just and reasonable, and essential to our Interest, and the Security of our Colonies, that the several Nations or Tribes of Indians with whom We are connected, and who live under our Protection, should not be molested or disturbed in the Possession of such Parts of Our Dominions and Territories as, not having been ceded to or purchased by Us, are reserved to them, or any of them, as their Hunting Grounds,--We do therefore, with the Advice of our Privy Council, declare it to be our Royal Will and Pleasure, that no Governor or Commander in Chief in any of our Colonies of Quebec, East Florida, or West Florida, do presume, upon any Pretence whatever, to grant Warrants of Survey, or pass any Patents for Lands beyond the Bounds of their respective Governments, as described in their Commissions: as also that no Governor or Commander in Chief in any of our other Colonies or Plantations in America do presume for the present, and until our further Pleasure be known, to grant Warrants of Survey, or pass Patents for any Lands beyond the Heads or Sources of any of the Rivers which fall into the Atlantic Ocean from the West and North West, or upon any Lands whatever, which, not having been ceded to or purchased by Us as aforesaid, are reserved to the said Indians, or any of them.

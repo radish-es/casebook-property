@@ -8,8 +8,8 @@
         
             {{ if eq  .Params.Class "case" }}
                 <div class="list-page">
-                    <div class="list-page-label">{{ .File.BaseFileName }}</div>
-                    <h3><a href="{{ .Permalink }}">{{ .Params.Style }}, {{ .Params.Reporter }}</a></h3>
+                    <!--<div class="list-page-label">{{ .File.BaseFileName }}</div>-->
+                    <h3><a href="{{ .Permalink }}">{{ .Params.Title }}, {{ .Params.Reporter }}</a></h3>
                     {{if isset .Params "tags" }}
                         {{ range .Params.Tags}}
                             <div class="list-tag">{{ . }}</div>
@@ -24,7 +24,7 @@
             {{ end }}
             {{ if or (eq  .Params.Class "concept") (eq  .Params.Class "module") (eq  .Params.Class "problem")  }}
                 <div class="list-page">
-                    <div class="list-page-label">{{ .File.BaseFileName }}</div>
+                    <!--<div class="list-page-label">{{ .File.BaseFileName }}</div>-->
                     <h3><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h3>
                     {{if isset .Params "tags" }}
                         {{ range .Params.Tags}}
