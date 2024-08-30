@@ -1,40 +1,12 @@
 
 
 
-{{ if isset .Params "title" }}
+<!--{{ if isset .Params "title" }}
 
     <h2>{{.Title}}</h2>
 
-{{ end }}
+{{ end }}-->
 
-{{ if isset .Params "style" }}
 
-    <h2>{{ .Params.Style }}</h2>
 
-    {{ if isset .Params "reporter" }}<p><b>Reporter:</b> {{ .Params.Reporter }}</p>{{ end }}
-
-{{ end }}
-
-{{ if isset .Params "objectives" }}
-
-    <div class="class_wrapper">
-        <h2>Learning Outcomes</h2>
-
-        <div class="learning_outcomes">
-            
-            <div class="outcomes"><div>
-            <!--<h3 id="learning-outcomes">Learning Outcomes</h2>-->
-            <p>By the end of this week, you should be able to:</p>
-            <ul>
-                {{ range .Params.Objectives }}
-                <li><b>{{ .objective }}</b> {{ .explanation }}</li>
-                {{ end }}
-            </ul>
-            </div></div>
-            
-        </div>
-
-    </div>
-
-{{ end }}
 

@@ -39,15 +39,20 @@
     <aside class="book-toc">
       <div class="book-toc-content">
         
-        <!--REMOVE this template for TOCBOT {{ template "toc" . }}  -->
+        <!-- Only show heading if TOC has content-->
+        {{ if ge (len (.TableOfContents)) 33 -}}<h2>Contents</h2>{{ end }}
 
-        <!--TOCBOT PLACEHOLDER + SCRIPT (script has to go here for it to work)-->
+        {{ template "toc" . }}
+
+        <!--TOCBOT PLACEHOLDER + SCRIPT (script has to go here for it to work)
         <div class="js-toc-GO"></div>
 
         <script  src="{{ "/tocbot/tocbot.min.js" | urlize | relURL }}"></script>      
         <script type="text/javascript">
           tocbot.init({tocSelector: '.js-toc-GO', contentSelector: '.js-toc-content-GO', headingSelector: 'h1, h2, h3', hasInnerContainers: false });
         </script>
+
+      -->
 
         <!--ADD LINKS IN CONTENTS-->
 
@@ -70,7 +75,7 @@
 
                             <p><b><a href="{{ .Permalink }}">
                                 {{ if isset .Params "title" }}{{.Params.Title}}{{ end }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}
-                            </a></b>{{ if isset .Params "description" }}: {{.Params.description}} {{end}}</p>
+                            </a></b></p>
 
                             <p>{{ printf $explanation }}</p>
 

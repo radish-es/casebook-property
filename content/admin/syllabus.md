@@ -11,7 +11,7 @@ This document is the official course syllabus for *Property in its Historical Co
 
 ### Contact Details
 
-Please contact me by e-mail ([jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca)) about all matters related to the course. My office is Weldon 326. 
+Please **contact me by e-mail** ([jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca)) about all matters related to the course. My office is **Weldon 326**. 
 
 ### Administration
 
@@ -21,17 +21,17 @@ The [Course Schedule]({{< ref "admin/schedule" >}}) may be amended during the ye
 
 ### Class Meeting Schedule
 
-Please see the [Course Schedule]({{< ref "admin/schedule" >}}) for details about class meetings. Our weekly meeting schedule is Tuesdays and Thursdays from 9:35AM to 10:55AM in W204.
+Our weekly meeting schedule is Tuesdays and Thursdays from **9:35AM to 10:55AM in W204**. Please see the [Course Schedule]({{< ref "admin/schedule" >}}) for details about class meetings. 
 
 ### Class Meeting Format
 
-We will aim to hold all of our class meetings in a *hybrid* (or *blended*) format. This means that, when meeting in person, I plan to live stream that meeting via Zoom. Students attending remotely are encouraged to participate in the meeting via the chat function. From time to time, we may conduct a meeting entirely online when circumstances require.
+We will aim to hold all of our class meetings in a *hybrid* format. This means that, when meeting in person, I plan to live stream that meeting via Zoom. Students attending remotely are encouraged to participate in the meeting via the chat function. From time to time, we may conduct a meeting entirely online when circumstances require.
 
 Please be aware that class meetings will be recorded, consistent with the [Dalhousie Class Recording Protocol](https://www.dal.ca/content/dam/www/about/leadership-and-governance/university-policies/class-recording-protocol.pdf). By engaging in course activities, you are consenting to the use of your appearance, image, text/chat messaging, and voice and/or likeness in the manner and under the conditions specified in this syllabus. If you have any concerns about privacy, please speak with me.
 
 If you are unable to attend a scheduled session in person or online, please get in touch with me to access a recording of the session (student recordings are not permitted--please see below). Recordings are intended only for enrolled students in the course and for their own personal academic use. Class recordings will be sent by me via a secure email link and are only to be used for the duration of the course. I will destroy the recordings at the end of the semester. Students receiving recordings are not permitted to share, make copies of, or download the recordings for any purpose, without written permission from me. 
 
-These measures are in place to improve equitable access for all students, recognizing that everyone comes to the course with their own needs and that circumstances can change, sometimes rapidly, over the course of the year.  
+These measures are in place to improve equitable access for all students, recognizing that everyone comes to the course with their own needs.  
 
 ### Support Outside the Classroom
 
@@ -39,9 +39,11 @@ I want you to feel well supported in this course, both in class meetings and out
 
 As a baseline, I will hold scheduled drop-in office hours weekly on **Tuesdays from 1:30PM to 2:30PM**. These meetings may be in person or virtual, depending on preference and availability. The last day for drop-in office hours for the fall term is **November 26, 2024**. The last day for drop-in office hours for the winter term is **March 25, 2025**. 
 
-If you have questions about the course material outside of class meetings, **you must bring these questions to me during office hours.** As a general policy, I won't answer substantive questions about the course material by e-mail. This policy exists mainly to avoid a flood of last minute e-mails before exams, but it also pushes you to plan ahead in your studying. To get the most out of office hour appointments, plan to dedicate some time to ongoing review of the course content during the term and contact me with your questions as they arise. I know that this can be a challenge as the term gets busy, but the benefits of even 20 or 30 mins of periodic review will pay off enormously at the end of term.
+If you have questions about the course material outside of class meetings, **you must bring these questions to me during office hours.** As a general policy, I won't answer substantive questions about the course material by e-mail. 
 
-You must send the questions you would like to discuss during office hours via email to [jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca) at least one hour prior to the office hour session you plan to attend. This lets me know that you are coming, helps you to focus the discussion, and gives me a chance to think through your questions ahead of time.
+This policy exists mainly to avoid a flood of last minute e-mails before exams, but it also pushes you to plan ahead in your studying. To get the most out of office hour appointments, plan to dedicate some time to ongoing review of the course content during the term and contact me with your questions as they arise. I know that this can be a challenge as the term gets busy, but the benefits of even 20 or 30 mins of periodic review will pay off enormously at the end of term.
+
+You must **send the questions you would like to discuss during office hours via email** to [jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca) at least one hour prior to the office hour session you plan to attend. This lets me know that you are coming, helps you to focus the discussion, and gives me a chance to think through your questions ahead of time.
 
 I am also happy to schedule small group meetings if you'd like to meet in this format -- please e-mail to arrange a time.
 
@@ -57,9 +59,11 @@ All e-mail messages to me about the course should include in the subject line th
 
 All materials for this course are available online at [www.opensourcelaw.ca](www.opensourcelaw.ca) The materials are free to access; you do not need to purchase a casebook or other materials for the course. 
 
-Required readings for the course are assigned on a weekly basis — please consult the [Course Schedule]({{< ref "admin/schedule" >}}). Online versions of the weekly readings, posted on the course website, may contain interactive elements (instructional notes, podcasts, screencasts, quizzes, etc), so please aim to read these materials on your computer or tablet when possible. If you have any accessibility concerns about this format please don't hesitate to contact me. <!--However, I realize that this format may not suit everyone for all purposes. Each assigned reading is also available on the website in multiple formats (Rich Text, Microsoft Word, Adobe PDF) for you to download, to markup, to add your own notes, and/or to use to make your own summaries.-->
+Required readings for the course are assigned on a weekly basis — please consult the [Course Schedule]({{< ref "admin/schedule" >}}). Because of the casebook's unique format, you will only see new material (along with links to existing material) after that new material is assigned. 
 
-The course materials have been created and published under an open license (except where otherwise noted). This means that the materials are available to anyone to access, copy, redistribute, remix, and build upon under the [Creative Commons BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+Online versions of the weekly readings, posted on the course website, may contain interactive elements (instructional notes, podcasts, screencasts, quizzes, etc), so please aim to read these materials on your computer or tablet when possible. If you have any accessibility concerns about this format please don't hesitate to contact me. <!--However, I realize that this format may not suit everyone for all purposes. Each assigned reading is also available on the website in multiple formats (Rich Text, Microsoft Word, Adobe PDF) for you to download, to markup, to add your own notes, and/or to use to make your own summaries.-->
+
+The course materials have been created and published under an open license (except where otherwise noted). This means that the materials are available to anyone to access, copy, redistribute, remix, and build upon for non-commercial purposes under the [Creative Commons BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 <!-- ### Class Slides
 
@@ -69,15 +73,15 @@ I may use slides in class meetings, but please do not expect these to be a subst
 
 I have designed this course with two big goals in mind. 
 
-The first goal is skills-based: you will learn to navigate and critically analyze the structure of arguments and reasoning employed by jurists (lawyers, judges and others)—mainly in the common law system, but also comparatively with other legal system. You will certainly need to learn some basic rules of property law and how to make arguments using those rules. But you will need to go beyond the rules and arguments by situating them in deeper structures and styles of reasoning. We will spend a lot of time looking at exactly how these "structures" and "styles" work throughout the course. Doing all this will require you, as the course title suggests, to develop an understanding of historical context — namely, how both the rules and patterns of common law reasoning have changed and are changing over time.
+The first goal is skills-based: you will learn to navigate and critically analyze the structure of arguments and reasoning employed by jurists (lawyers, judges and others). Our emphasis (in terms of time spent) will be on the Anglo-Canadian / common law system, but we will develop this emphasis comparatively with other legal systems and with careful attention to relationships between them. You will certainly need to learn some basic rules of property law and how to make arguments using legal rules, but you will need to go beyond the rules and arguments by situating them in deeper structures and styles of reasoning. We will spend a lot of time looking at exactly how these "structures" and "styles" work throughout the course. Doing all this will require you, as the course title suggests, to develop an understanding of historical context — namely, how both the rules and patterns of reasoning have changed and are changing over time.
 
-This leads to the second goal, which is to situate property law in the political-economic context of Canada over the past few hundred years. More specifically, I want each of you to leave this course with a thoughtful answer to the question of how property laws have created and reproduced Canada’s particular liberal market economy and defined its consequences for different communities and individuals over time.
+This leads to the second goal, which is to situate property in its political-economic context - especially over the past few hundred years. More specifically, I want each of you to leave this course with a thoughtful answer to the question of how property laws have created and reproduced Canada’s particular liberal market economy and defined its consequences for different communities and individuals over time. It is important to keep in mind throughout the course that these consequences produce tremendous benefits for some and enormous "costs"--including violence, displacement and other forms of individual and collective/inter-generational harm--to others. 
 
 Learning all this is hard work, and this means that I have high expectations of you—both in class and on exams. I demand a lot from you because I want to prepare you as thoughtful and critical professionals, whether in law or in other pursuits. I value the diversity of experience and insight that you bring to studying law and I believe that each of you can meet these expectations.
 
 ### Class Preparation, Meetings and Methods
 
-Your preparation for, attendance and active engagement in class are crucial for succeeding in this course. We have a limited time each week to spend together, and you are all very busy people. We want to ensure that we use the time together as effectively as possible. 
+Your preparation for, attendance and active engagement are crucial for succeeding in this course. We have a limited time each week to spend together, and you are all very busy people. We want to ensure that we use the time together as effectively as possible. 
 
 For each class meeting I ask that you:
 
@@ -97,7 +101,7 @@ You are not permitted to record class meetings. The unauthorized use of any form
 
 ## Evaluation
 
-You will be evaluated in this course based on **take-home, open-book examinations**. In December, there will be a ‘fail-safe’ exam. If you get a higher mark on your April exam, your April mark will be your final mark. If you get a higher mark on your December exam, the December mark will count for 30% of your final grade. The December and April exams are both open book and each will take place during a scheduled 8-hour take-home period. Your December Property exam is scheduled by the Associate Dean's office for **December 18, 2024**. Your April Property exam is scheduled for **April 14, 2025**. 
+You will be evaluated in this course based on **take-home, open-book examinations**. In December, there will be a ‘fail-safe’ exam. If you get a higher mark on your April exam, your April mark will be your final mark. If you get a higher mark on your December exam, the December mark will count for 30% of your final grade. The December and April exams are both open book and each will take place during a scheduled **8-hour take-home period**. Your December Property exam is scheduled by the Associate Dean's office for **December 18, 2024**. Your April Property exam is scheduled for **April 14, 2025**. 
 
 All examinations will be written on computer. Further information will be sent from the Associate Dean’s Office. Rules governing exams are included in the *Academic Calendar*.
 

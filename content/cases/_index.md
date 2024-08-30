@@ -5,4 +5,4 @@ weight: 4
 bookCollapseSection: true
 ---
 
-These are the cases.
+This folder contains all of the court cases we have studied so far in the course. 

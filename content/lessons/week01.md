@@ -2,7 +2,6 @@
 title: Introduction to the Course
 short: Week 1
 published: true
-type: docs
 class: lesson
 weight: 
 objectives:
@@ -49,3 +48,11 @@ You will quickly notice that this casebook looks quite different from most of th
 ## Our First Problem
 
 Start by reading our first problem, *[Protest at East Eggleston]({{< ref "problems/protest" >}})*. 
+
+From there, please read the linked "Related Reading" that appears in the right-hand column. You may choose to read this material in any order by following the links on each page.
+
+When you have completed your reading, you should have covered:
+
+- *Harrison v Carswell*
+- *Protection of Property Act*
+- Trespass to Land

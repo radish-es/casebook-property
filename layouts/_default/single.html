@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article>
+  <h1>
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+  </h1> 
+
+  {{ if isset .Params "reporter" }}<p>{{ .Params.Reporter }}</p>{{ end }}
+
+  <hr>
+
+  {{- .Content -}}
+
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
