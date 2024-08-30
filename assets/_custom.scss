@@ -12,6 +12,11 @@ li.toc-list-item {
   margin-bottom: 5px;
 }
 
+.book-toc {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
 /* Font Awesome Icon Styling */
 
 .inline-svg svg {
@@ -70,10 +75,11 @@ div.suggest-edits a, div.suggest-edits a:visited {
 .class_wrapper {
   border-width: 1px;
   border-color: #000;
-  border-style: dashed;
-  border-radius: 40px;
-  padding: 15px;
-  margin-top: 30px;
+  border-style: solid;
+  border-radius: 30px;
+  padding: 0 15px;
+  margin-top: 10px;
+  background: rgb(242, 241, 241);
 }
 
 .class_label {
@@ -83,7 +89,7 @@ div.suggest-edits a, div.suggest-edits a:visited {
   background: #000;
   color: #fff;
   padding: 5px 8px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .class_label a, .class_label a:visited {
