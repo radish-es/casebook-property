@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article>
+  <h1>
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+  </h1> 
+
+  {{ if isset .Params "summary" }}<p><i>{{ .Params.Summary }}</i></p>{{ end }}
+
+  <hr>
+
+  {{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
+
+  {{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}
+
+  {{- .Content -}}
+
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
