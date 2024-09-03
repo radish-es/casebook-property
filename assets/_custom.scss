@@ -149,3 +149,22 @@ div.suggest-edits a, div.suggest-edits a:visited {
 .list-page-label a, .list-page-label a:visited {
   color: #fff;
 }
+
+/* Main page image*/
+
+.main-img {
+  display: block;
+  text-align: center;
+}
+
+.main-img figure {
+  display: inline-block;
+}
+
+.main-img img {
+  border: solid black 1px;
+}
+
+.main-img figcaption {
+  font-size: 0.75em;
+}

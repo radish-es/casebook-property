@@ -8,9 +8,14 @@
 
   <hr>
 
-  {{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
+  <div class="main-img">
 
-  {{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}
+    <figure>{{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
+
+      <figcaption>{{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}</figcaption>
+  
+    </figure>
+  </div>
 
   {{- .Content -}}
 

@@ -4,24 +4,37 @@
     <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
   </h1> 
 
+  <div class="main-img">
+
+    <figure>{{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
+
+      <figcaption>{{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}</figcaption>
+  
+    </figure>
+  </div>
+
   <div class="class_wrapper">
     <h2>Learning Outcomes</h2>
 
     <div class="learning_outcomes">
         
-        <div class="outcomes"><div>
-        <!--<h3 id="learning-outcomes">Learning Outcomes</h2>-->
-        <p>By the end of this week, you should be able to:</p>
-        <ul>
-            {{ range .Params.Objectives }}
-            <li><b>{{ .objective }}</b> {{ .explanation }}</li>
-            {{ end }}
-        </ul>
-        </div></div>
+        <div class="outcomes">
+          <div>
+            <!--<h3 id="learning-outcomes">Learning Outcomes</h2>-->
+            <p>By the end of this week, you should be able to:</p>
+            <ul>
+                {{ range .Params.Objectives }}
+                <li><b>{{ .objective }}</b> {{ .explanation }}</li>
+                {{ end }}
+            </ul>
+          </div>
+        </div>
         
     </div>
 
-</div>
+  </div>
+
+  
 
 
   {{- .Content -}}

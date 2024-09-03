@@ -5,7 +5,6 @@ reporter: 'RSNS 1989, c 363'
 description: Among other things, this Act creates a quasi-criminal action in trespass.
 tags:
   - trespass
-  - exclusion
 class: statute
 public: true
 sources:
