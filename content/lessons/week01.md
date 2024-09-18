@@ -58,6 +58,6 @@ You will quickly notice that this casebook looks quite different from most of th
 Instead of spending a lot of time up front on formal or abstract concepts, our plan for this first week is to jump right into the practice of analyzing problems. Start by reading our first problem for the course: *[Protest at West Eggleston]({{< ref "problems/protest" >}})*. From there, please review and take notes on the linked "Related Reading" that appears in the right-hand column on each page. 
 
 You may choose to read the assigned material in any order you choose, by following the links on each page. But please note that *all* of the material assigned is mandatory. You should complete all of it before our first class of the week. This week, that includes *Harrison v Carswell*, the *Protection of Property Act*
-and a short except on "Trespass to Land". 
+and two concepts that describe "Trespass to Land" and "Styles of Argument". 
 
 "External" links (outside the casebook website, to news articles, reports, statistics, etc) are optional reading material for your own interest and context, unless otherwise noted.

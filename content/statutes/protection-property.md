@@ -17,9 +17,9 @@ sources:
       Province of Nova Scotia
 links:
   - url: content/concepts/trespass.md
-    explanation: How do these provisions of the Act relate to the civil tort of trespass?
+    explanation: How do the provisions of this Act relate to the civil tort of trespass?
   - url: content/cases/harrison.md
-    explanation: There are also trespass statutes at issue in this case. How do those statues compare? Does it matter?
+    explanation: Note that there are other provincial trespass statutes at issue in this case. How does the wording of these other statutes compare to the Nova Scotia legislation? Why might differences in the wording matter, if at all, according to the two judges in the case?
 published: true
 ---
 
