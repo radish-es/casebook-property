@@ -24,3 +24,8 @@ params:
   BookDateFormat: "January 2, 2006"
   # BookLogo: /logo.png
   # BookMenuBundle: /menu
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
