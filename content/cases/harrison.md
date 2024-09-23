@@ -21,7 +21,7 @@ links:
   - url: content/concepts/trespass.md
     explanation: Although a claim in the tort of trespass is not being made in this case, why is this civil cause of action still relevant to at least one of the judges?
   - url: content/concepts/style.md
-    explanation: How do Justice Dickson's and Justice Laskin's styles of reasoning differ from one another? Can you pinpoint what exactly is different about their apparently conflicting styles?
+    explanation: How do Justice Dickson's and Justice Laskin's styles of reasoning differ from one another? Can you pinpoint what exactly is different about their apparently conflicting approaches to the case?
 published: true
 ---
 

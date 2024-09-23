@@ -11,9 +11,9 @@ links:
     explanation: The two judges in this dispute very much disagree about how it should be resolved. How would you describe the different styles of reasoning employed by the judges? What are the basic characteristics and underlying assumptions of these two different styles?
 ---
 
-What makes a "good" or "persuasive" or "correct" legal argument? An answer to the question is often fundamental to resolving a dispute in court or convincing a political decision-maker to make some kind of change. 
+What makes a "good" or "persuasive" or "correct" legal argument? An answer to the question is often fundamental to resolving a dispute in court or convincing a political decision-maker to make some kind of legal or policy change. 
 
-One way to answer this question is to focus on the idea of "style".[^stein2018a] This idea of style will seem very wishy-washy to some people at first. Aren't legal arguments clear, logical, and rational? Knowing enough about the law and the facts, shouldn't we always be able to determine the correct legal answer to a problem? 
+One way to answer this question is to focus on "style".[^stein2018a] This idea of style will seem pretty wishy-washy to some people at first. Aren't legal arguments clear, logical, and rational? Knowing enough about the law and the facts, shouldn't we always be able to determine the correct legal answer to a problem? 
 
 The reality is that legal arguments in Anglo-Canadian legal systems--the common law in particular--are very highly patterned.[^kennedy1991] This makes the structure of those arguments--though not necessarily the *outcome* of the arguments--fairly predictable. Patterns of legal argument recur again and again in the cases and other materials we will read this year. Becoming proficient in making and using these arguments means being able to recognize and make use of these different patterns.
 
@@ -23,11 +23,11 @@ For example, in a legal dispute, one party might argue:
 
 The other party might respond:
 
-> *True, but these facts justify a limitation on plaintiff's right to do X in the circumstances.*
+> *True, but these facts justify a limitation on plaintiff's right to do X in the circumstances (such as, authorization to be on land for certain purposes).*
 
 The basic structure of this argument ("I have a right to do X" / "Your right is limited in this context") is one that you will across a whole range of different disputes and areas of law. We could list other examples of different argument types, and probably develop a sensible system to label and classifying them. 
 
-The problem is that, more often than not, there is no obvious way to resolve which side of the argument is "correct". One claim is met with a counter-claim, which in turn is met by another claim and its predictable, patterned response. And on and on. 
+The problem is that, more often than not, there is no obvious way to resolve which side of the argument is "correct". One claim is met with a counter-claim, which in turn is met by another claim and its predictable, patterned response. And on and on. Both sides appears to have legal merit. 
 
 In the end we need something more than just these basic patterns of call-and-response to answer the question of makes a good or persuasive legal argument. This is the role of historically-situated styles of Anglo-Canadian legal reasoning, which are constituted by the different assumptions and modes of rhetoric employed by different jurists over time. 
 

@@ -16,8 +16,8 @@ objectives:
     explanation: >-
       We will begin to study a problem in our first week of the course. Consider how this approach, along with the linked structure of the reading materials, is designed to help you explore and develop a critical analysis of the readings. 
   - objective: >-
-      Describe two different, historically-rooted styles of common law reasoning.
-    explanation: This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to recognize two different styles in Harrison v Carswell and discuss the implications of their differences.  
+      Start to describe two different, historically-rooted styles of common law reasoning.
+    explanation: This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
 description: This is a sample lesson.
 ---
 
@@ -55,9 +55,9 @@ You will quickly notice that this casebook looks quite different from most of th
 
 ## Our First Problem
 
-Instead of spending a lot of time up front on formal or abstract concepts, our plan for this first week is to jump right into the practice of analyzing problems. Start by reading our first problem for the course: *[Protest at West Eggleston]({{< ref "problems/protest" >}})*. From there, please review and take notes on the linked "Related Reading" that appears in the right-hand column on each page. 
+Instead of spending a lot of time up front on formal or abstract concepts, our plan for this first week is to jump right into the practice of analyzing problems. Start by reading our first problem for the course: ***[Protest at West Eggleston]({{< ref "problems/protest" >}})***. From there, please review and take notes on the linked "Related Reading" that appears in the right-hand column on each page. 
 
-You may choose to read the assigned material in any order you choose, by following the links on each page. But please note that *all* of the material assigned is mandatory. You should complete all of it before our first class of the week. This week, that includes *Harrison v Carswell*, the *Protection of Property Act*
+You may choose to read the assigned material in any order you choose, by following the links on each page. But please note that *all* of the material assigned is mandatory; you should complete all of it before our first class of the week. This week, that includes *Harrison v Carswell*, the *Protection of Property Act*
 and two concepts that describe "Trespass to Land" and "Styles of Argument". 
 
-"External" links (outside the casebook website, to news articles, reports, statistics, etc) are optional reading material for your own interest and context, unless otherwise noted.
+"External" links (outside the casebook website, e.g., to news articles, reports, or statistics) are optional reading material for your own interest and context, unless otherwise noted.

@@ -28,9 +28,21 @@ published: true
 
 <div id="statute">
 
-2 In this Act, ...
+2 In this Act, 
 
-> (d) "premises" means lands and structures, or either of them, and includes trailers and portable structures designed or used for residence, business or shelter ...
+[...]
+
+> (b) "occupier" includes
+
+>> (i) a person who is in possession of premises, or
+
+>> (ii) a person who has responsibility for and control over the condition of premises or the activities there carried on, or control over persons allowed to enter the premises,
+
+[...]
+
+> (d) "premises" means lands and structures, or either of them, and includes trailers and portable structures designed or used for residence, business or shelter.
+
+[...]
 
 4 Every person who, without legal justification, whether conferred by an enactment or otherwise, remains on premises after being directed to leave by the occupier of the premises or a person authorized by the occupier is guilty of an offence and is liable on summary conviction to a fine of not more than five hundred dollars. 
 
