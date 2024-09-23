@@ -1,6 +1,6 @@
 ---
 class: case
-style: 'Clift v Kane '
+title: 'Clift v Kane'
 short: Clift
 reporter: '(1870), 5 Nfld LR (en banc)'
 year: 1870
@@ -9,13 +9,20 @@ issue: Whether the plaintiff had possession of the seals they killed.
 held: For plaintiff. The majority found that the plaintiff established possession of the seals by killing and seizing them. For wild animals, death is the 'bright line' between qualified and absolute property, so possession was not extinguished by the shifting ice. The dissent argued that killing and seizure, as understood here, do not create absolute property. Wild animals must be secured for possession to be maintained.
 public: true
 tags:
-  - recognition
   - first-possession
-  - abandon-possession
+  - abandonment
 links:
   - url: content/concepts/abandonment.md
-    explanation: How can wild seals be abandoned once in possession?
-published: false
+    explanation: Is it possible to abandon wild seals once possession has established property rights in them? What steps if any would the sealers need to take?
+  - url: content/secondary/locke.md
+    explanation: How does the reasoning of one or both judges in this case reflect Locke's story about possession as the basis of property? 
+  - url: content/cases/armorie.md
+    explanation: What is the basis for the other party's claim to better possession?
+  - url: content/concepts/style.md
+    explanation: How might you characterize the styles of reasoning and argument employed by Judges Hoyles and Robinson in this case? 
+  - url: content/cases/harrison.md
+    explanation: Do the judges styles of reasoning in this case more closely resemble that of Justice Dickson or Justice Laskin? 
+published: true
 ---
 
 

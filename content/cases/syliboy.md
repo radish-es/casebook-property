@@ -1,8 +1,8 @@
 ---
 class: case
-style: R v Syliboy
+title: R v Syliboy
 short: Syliboy
-reporter: '1928 CanLII 352 (NS SC), [1929] 1 DLR 307'
+reporter: '1928 CanLII 352 (NSSC)'
 year: 1928
 facts: Mi'kmaq Grand Chief Syliboy was convicted for hunting out of season. He submitted that, per the 1752 Peace and Friendship Treaty, he had the right to hunt at any time. 
 issue: What is the effect of the 1752 treaty?
@@ -13,10 +13,12 @@ sources:
     source_url: 'https://canlii.ca/t/gw8w1'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - recognition
   - treaty
   - terra-nullius
-published: false
+links:
+  - url: content/concepts/terra-nullius.md
+    explanation: The idea that Anglo-Canadian law is paramount plays a key role in the Court's reasoning. How is this connected to the doctrine of terra nullius?
+published: true
 ---
 
 
@@ -29,6 +31,8 @@ The defendant, who is the grand chief of the Mick Macks of Nova Scotia was convi
 The Treaty relied upon is that of 1752, made between Governor Hopson of the Province of Nova Scotia and His Majesty’s Council on behalf of His Majesty, and “Major’ Jean Baptiste Cope, chief Sachem of the Tribe of Mick Mack Indians Inhabiting the Eastern Coast of the said Province, and Andrew Hadley Martin, Gabriel Martin & Francis Jeremiah, Members and Delegates of the said Tribe:” (1 Nova Scotia Archives, p. 683). Article 4 in part says: — “It is agreed that the said Tribe of Indians shall not be hindered from but have free liberty to hunt and fish as usual.”
 
 Observe the date 1752. Cape Breton between 1748 and 1763 was not part of Nova Scotia. It was owned and governed by the French, while Nova Scotia was a colony of Great Britain. It will be remembered that defendant is a Cape Breton Indian and that the offence alleged against him was committed in Cape Breton. Assuming for the time that the Treaty is still in force in Nova Scotia proper, can defendant claim protection under it? Unless there is something more than I have stated, clearly not. But, say his counsel, the Mick Mack Tribe throughout Nova Scotia, including Cape Breton, is one and indivisible, and the Treaty was made with the tribe, and a very bright and intelligent young Indian testifies that two of the signatories to it were Cape Breton Indians. The language of the Treaty not only lends no support to this contention, but shows that it is untenable, and I am satisfied that the young Indian is mistaken.
+
+<!--
 
 ”The following Treaty of Peace,” reads the minute of Council, “was Signed, Ratifyed and Exchanged with the Mick Mack Tribe of Indians, Inhabiting the Eastern Parts of this Province:” (1 Archives, pp. 682-3) computed to be ninety in number, — Cope himself claimed authority over only forty. (1 Archives, p. 671). Eight years before there had been three hundred Indians engaged in the attack on Canso (2 Nova Scotia Historical Society Collections, p. 15), all from “the Eastern Parts of this Province” which shows that Cope and the others who joined with him in the Treaty, really represented only a small portion even of these very Indians they claimed to represent. Notice further, how Cope is described as “chief Sachem of the Tribe of Mick Mack Indians Inhabiting the Eastern Coast of the said Province,” (i.e., Nova Scotia proper) and his fellow signatories as “Members and Delegates of the said Tribe.” Article 3 seems conclusive on the point. There it is provided (p. 683): — “That the said Tribe” (i.e. the tribe inhabiting the eastern coast of Nova Scotia) “shall use their utmost endeavours to bring in the other Indians to Renew and Ratify this Peace.” In the proclamation bringing the Treaty into force, Cope is described as “Chief Sachem of the Chibenaccadie (Shubenacadie) Tribe of Mick Mack Indians, Inhabiting the Eastern Coast of this Province,” and his associates as “Delegates of the said Tribe:” (1 Archives, pp. 685-6).
 
@@ -55,6 +59,10 @@ He quotes in support of his contention Woolsey on International Law, 5th ed., p.
 The treaty we are discussing was not made with the signatories alone but “with their heirs, and the heirs of their heirs forever,” which seems to me to bring that portion of it giving to one of the contracting parties the right to hunt within Woolsey’s exception. In other words it is my opinion and if it were necessary I would so hold that assuming the Treaty of 1752 to be a treaty the right referred to was only suspended during the war and would become operative again when peace came. Quite recently some Canadians in the U.S. Courts have invoked and successfully invoked the provisions of the Jay Treaty, 1794, 1 Malloy’s Treaties, p. 590, though the war of 1812 has intervened.
 
 A treaty such as that with which we are dealing if made today is one that would require to be ratified by Parliament before becoming effective, and would be invalid until such ratification: (6 Hals., pp. 440-1, para. 679). Though there was authority in Cornwallis’ commission to summon a parliament for Nova Scotia, we all know that none was summoned for some years after the treaty was signed. It is a fair inference I think that after parliament had been assembled and began to legislate this treaty should have been ratified, or otherwise it would lose its validity. At any rate it was not very long after Parliament assumed its functions that a statute was passed which ignored the Treaty and treated it as non-existent.
+
+-->
+
+[...]
 
 In 1794 the first of our many Game Acts was passed, 1794 (N.S.), c. 4. It provided that no person within a certain period each year should kill partridge or black duck but Indians and poor settlers. It might be argued that the exception goes to show that the Indians had a special right by treaty, but if they had such a right why mention it in the statute? It would seem to me that the proper interpretation would be that they having no such right by treaty were given it by statute. However that may be the next statute on the subject makes the point clear.
 
@@ -84,9 +92,3 @@ There is abundant evidence also that the Indians have been for many years receiv
 On no ground that has been advanced, and I am sure everything has been said or done that with any chance of success could have been said or done, can defendant in my opinion succeed. Such sympathy as a Judge is permitted to have is with defendant. I would gladly allow the appeal if I could find any sound reason for doing so, but I cannot and must confirm the conviction. The very capable Magistrate who heard the case below has, I am pleased to see, fixed the penalty at the very lowest figure that the Act allows. Even so I venture to express the hope that the authorities will not enforce the conviction.
 
 I have no doubt whatever that defendant honestly believed that the treaty was valid and that he was entitled under it to kill muskrat or have their pelts in his possession at any time, and as I pointed out, a year ago or rather in 1926 it was no offence on November 4 to have green muskrat pelts in one’s possession. While everyone is presumed to know the law and to know the exact limits of the close season, it is more than likely — is it not a certainty — that the untutored mind of the defendant was not aware that in 1927 the close season had been lengthened to November 15? Of course, ignorance of the law excuses no one, but surely ignorance of the law under such circumstances can be urged as a plea for most lenient treatment — for in such a case as this waiving both penalty and costs.
-
-{{% callout alert %}}
-
-*Unlike in *St. Catherine's Milling*, the trial court in *Syliboy* had before it considerable first-hand oral evidence from Grant Chief Syliboy and others as to their interpretations of the 1752 treaty. Those perspectives are almost entirely discounted or ignored in Justice Patterson's decision—a move that is underwritten by the judge's insistence on seeing the Indigenous signatories as individuals entering into an agreement or contract with the British state, rather than as representatives of sovereign power.*
-
-{{% /callout %}}

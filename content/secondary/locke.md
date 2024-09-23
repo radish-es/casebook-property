@@ -1,6 +1,8 @@
 ---
-title: 'John Locke, Second Treatise on Government'
+title: > 
+  Locke's Second Treatise on Government
 short: Locke
+source: From Project Gutenberg, digitized by Dave Gowan. John Locke’s “Second Treatise of Government” was published in 1690. The complete unabridged text has been republished several times in edited commentaries. This text is recovered entirely from the paperback book, “John Locke Second Treatise of Government”, Edited, with an Introduction, By C.B. McPherson, Hackett Publishing Company, Indianapolis and Cambridge, 1980. None of the McPherson edition is included in the e-text below; only the original words contained in the 1690 text are included. The 1690 edition text is in the public domain.
 class: secondary
 tags:
   - recognition
@@ -8,12 +10,10 @@ tags:
   - first-possession
 links:
   - url: content/cases/clift.md
-    explanation: The judges in this case apply Locke's theory of possession to hunting wild seals.
-  - url: content/cases/stcatherines-hc.md
-    explanation: Locke's approach to possession applied to Indigenous lands 
-  - url: content/secondary/royal-proclamation.md
-    explanation: Related to issues of sovereignty
-published: false
+    explanation: To what extent is Locke's justification for possession as the basis of property reflected in this case? Is it easy to extend Locke's story about appropriating the acorn to the context of seal hunting?
+  - url: content/concepts/liberalism.md
+    explanation: Locke's theory of possession and property illustrates that basic dilemma of liberalism. What is that dilemma?
+published: true
 ---
 
 Whether we consider natural reason, which tells us, that men, being once born, have a right to their preservation, and consequently to meat and drink, and such other things as nature affords for their subsistence: or revelation, which gives us an account of those grants God made of the world to Adam, and to Noah, and his sons, it is very clear, that God, as king David says, Psal. cxv. 16. has given the earth to the children of men; given it to mankind in common. But this being supposed, it seems to some a very great difficulty, how any one should ever come to have a property in any thing: I will not content myself to answer, that if it be difficult to make out property, upon a supposition that God gave the world to Adam, and his posterity in common, it is impossible that any man, but one universal monarch, should have any property upon a supposition, that God gave the world to Adam, and his heirs in succession, exclusive of all the rest of his posterity. But I shall endeavour to shew, how men might come to have a property in several parts of that which God gave to mankind in common, and that without any express compact of all the commoners.

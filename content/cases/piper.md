@@ -1,6 +1,6 @@
 ---
 class: case
-style: Piper v Stevenson
+title: Piper v Stevenson
 short: Piper
 reporter: '1913 CanLII 615 (ON CA), [1913] 12 DLR 820'
 year: 1913
@@ -18,7 +18,7 @@ tags:
   - adverse-possession
   - title
   - trespass
-published: false
+published: true
 ---
 
 ### Clute J. —
