@@ -5,7 +5,7 @@ short: Argument Styles
 description: An introduction to the style of Anglo-Canadian legal reasoning.
 published: true
 tags:
-  - Legal reasoning
+  - style
 links:
   - url: content/cases/harrison.md
     explanation: The two judges in this dispute very much disagree about how it should be resolved. How would you describe the different styles of reasoning employed by the judges? What are the basic characteristics and underlying assumptions of these two different styles?

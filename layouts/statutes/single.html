@@ -6,6 +6,12 @@
 
   {{ if isset .Params "reporter" }}<p>{{ .Params.Reporter }}</p>{{ end }}
 
+{{if isset .Params "tags" }}
+  {{ range .Params.Tags}}
+      <div class="list-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . | humanize }}</a></div>
+  {{ end }}
+{{ end }}
+
   <hr>
 
   {{- .Content -}}

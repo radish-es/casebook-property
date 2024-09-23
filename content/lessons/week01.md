@@ -18,7 +18,7 @@ objectives:
   - objective: >-
       Start to describe two different, historically-rooted styles of common law reasoning.
     explanation: This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
-description: This is a sample lesson.
+description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
 ---
 
 For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of the world--both corporeal and not--property offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
