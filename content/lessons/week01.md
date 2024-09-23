@@ -51,7 +51,7 @@ You will quickly notice that this casebook looks quite different from most of th
 
 1. **Problem-based learning:** all of your reading and our classroom meetings will be based on problems --  both hypothetical or drawn from real-world events, or some mix of the two. These problems are designed to help you focus on how to use the course materials (cases, statues, articles, etc) to identify relevant legal questions and to encourage you to explore different ways to answer those questions.  
 
-2. **Hypertext:** rather than working through a linear progression of reading material, as in a printed book, this casebook requires you to follow pathways of connection (links) between different components of the course. As a result of this structure, there is no single order in which to engage the course materials that are assigned weekly. Part of what you will be asked to do in this course is to develop your own understanding of how each piece or component is connected to each other and to the whole. The practice and skill of working with material in this way is a critical one for legal analysis. 
+2. **Hypertext:** rather than working through a linear progression of reading material, as in a printed book, this casebook requires you to follow pathways of connection (links) between different components of the course. As a result of this structure, there is no single order in which to engage the course materials that are assigned weekly. Part of what you will be asked to do in this course is to develop your own understanding of how each piece or component is connected to each other and to the whole. The practice of working with material in this way is a critical one for legal analysis. 
 
 ## Our First Problem
 
