@@ -5,7 +5,7 @@ class: concept
 tags:
   - abandonment
   - possession
-published: true
+published: false
 ---
 
 Just as it is possible to acquire property by first possession, property rights can also be "given up" through a processes called *abandonment*. In *Clift v Kane*, Chief Justice Hoyles explains the principle through the following quote:

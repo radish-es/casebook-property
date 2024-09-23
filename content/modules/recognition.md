@@ -1,7 +1,7 @@
 ---
 title: Problem of Recognition
 linktitle: Recognition
-published: true
+published: false
 type: docs
 class: module
 ---

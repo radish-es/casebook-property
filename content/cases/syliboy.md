@@ -2,23 +2,23 @@
 class: case
 title: R v Syliboy
 short: Syliboy
-reporter: '1928 CanLII 352 (NSSC)'
+reporter: 1928 CanLII 352 (NSSC)
 year: 1928
-facts: Mi'kmaq Grand Chief Syliboy was convicted for hunting out of season. He submitted that, per the 1752 Peace and Friendship Treaty, he had the right to hunt at any time. 
+facts: Mi'kmaq Grand Chief Syliboy was convicted for hunting out of season. He submitted that, per the 1752 Peace and Friendship Treaty, he had the right to hunt at any time.
 issue: What is the effect of the 1752 treaty?
-held: The court found that the treaty was not made with the Mi'kmaq nation as a whole and did not extend to Cape Breton, that the treaty was never ratified by parliament, that it was ignored by subsequent statutes, and that the Mi'kmaq nation was not an independent power, so could not sign a treaty. As such, it was found to be invalid in the face of the Lands and Forests Act.  
+held: The court found that the treaty was not made with the Mi'kmaq nation as a whole and did not extend to Cape Breton, that the treaty was never ratified by parliament, that it was ignored by subsequent statutes, and that the Mi'kmaq nation was not an independent power, so could not sign a treaty. As such, it was found to be invalid in the face of the Lands and Forests Act.
 public: true
 sources:
   - source_name: CanLII
-    source_url: 'https://canlii.ca/t/gw8w1'
-    license: 'https://www.canlii.org/en/info/terms.html#license'
+    source_url: https://canlii.ca/t/gw8w1
+    license: https://www.canlii.org/en/info/terms.html#license
 tags:
   - treaty
   - terra-nullius
 links:
   - url: content/concepts/terra-nullius.md
     explanation: The idea that Anglo-Canadian law is paramount plays a key role in the Court's reasoning. How is this connected to the doctrine of terra nullius?
-published: true
+published: false
 ---
 
 
