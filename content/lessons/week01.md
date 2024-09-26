@@ -3,7 +3,7 @@ title: Introduction to the Course
 short: Week 1
 published: true
 class: lesson
-weight: 
+weight: 1
 image: /imgs/kaleidoscope.jpg
 imgcaption:  Malcolm Lightbody on Unsplash
 objectives:

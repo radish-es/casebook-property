@@ -14,11 +14,10 @@ sources:
     license: https://www.canlii.org/en/info/terms.html#license
     attribution: ""
 tags:
-  - recognition
   - adverse-possession
   - title
   - trespass
-published: false
+published: true
 ---
 
 ### Clute J. —

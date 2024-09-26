@@ -18,7 +18,7 @@ tags:
 links:
   - url: content/concepts/terra-nullius.md
     explanation: The idea that Anglo-Canadian law is paramount plays a key role in the Court's reasoning. How is this connected to the doctrine of terra nullius?
-published: false
+published: true
 ---
 
 

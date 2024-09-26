@@ -13,9 +13,11 @@ links:
     explanation: Starting from the premise that a wild animal is "unowned", what would Locke say is the basis for the hunter's claim that the fox is their property?
   - url: content/cases/clift.md
     explanation: What does the common law require the hunter to do to establish possession in the wowkwis? Do the judges in this case agree on the answer to this question?
+  - url: content/concepts/netukulimk.md
+    explanation: How might this principle of Mi'kmaw law be applied to address the legal dispute here?
   - url: content/cases/armorie.md
     explanation: There is more than one claim to property in the fox in our problem. How can the reasoning in this case help us to determine who has the better claim?
-published: false
+published: true
 ---
 West Eggleston is back in the news after the surprising events surrounding a fox hunt. 
 

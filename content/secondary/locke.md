@@ -13,7 +13,7 @@ links:
     explanation: To what extent is Locke's justification for possession as the basis of property reflected in this case? Is it easy to extend Locke's story about appropriating the acorn to the context of seal hunting?
   - url: content/concepts/liberalism.md
     explanation: Locke's theory of possession and property illustrates that basic dilemma of liberalism. What is that dilemma?
-published: false
+published: true
 ---
 
 Whether we consider natural reason, which tells us, that men, being once born, have a right to their preservation, and consequently to meat and drink, and such other things as nature affords for their subsistence: or revelation, which gives us an account of those grants God made of the world to Adam, and to Noah, and his sons, it is very clear, that God, as king David says, Psal. cxv. 16. has given the earth to the children of men; given it to mankind in common. But this being supposed, it seems to some a very great difficulty, how any one should ever come to have a property in any thing: I will not content myself to answer, that if it be difficult to make out property, upon a supposition that God gave the world to Adam, and his posterity in common, it is impossible that any man, but one universal monarch, should have any property upon a supposition, that God gave the world to Adam, and his heirs in succession, exclusive of all the rest of his posterity. But I shall endeavour to shew, how men might come to have a property in several parts of that which God gave to mankind in common, and that without any express compact of all the commoners.
