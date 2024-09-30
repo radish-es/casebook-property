@@ -23,24 +23,15 @@ description: This first lesson of the course will introduce you to the course st
 
 Last week, we drew an analogy between law and language, noting that the "vocabulary" of Anglo-Canadian legal arguments resembles a set of typical, highly patterned argument types used by jurists to debate and reason through a problem or dispute. Our discussion of this vocabulary left us with a nagging question: *How can these back-and-forth arguments ever help us to resolve a problem, to decide which judgement or decision is more convincing or persuasive?* If every legal argument has predictable counter-arguments, how does one side ever "win out" over the other?
 
-From a historical perspective, the answer to this question depends--in part--on *when* we are asking it. In other words, the question of *persuasiveness* is closely tied to the question of 
+From a historical perspective, the answer to this question depends--in part--on *when* we are asking it. In other words, the question of *persuasiveness* is closely tied to the concept of legal styles that emerge from and evolve over particular periods of time. For much of our course, we will draw this link by exploring two contrasting styles of Anglo-Canadian legal thought that are both based on its basic grammar. We will call this basic grammatical structure "liberalism".  
 
-For much of this course, 
-
-
-we will look at two contrasting styles of legal thought. Following legal scholars in the critical tradition, we will calls these ***classical*** and ***modern*** styles respectively.[^kennedy2002]  While legal arguments made in each of these styles share a basic structure or "grammar" that situates them in the common law tradition, they differ dramatically in terms of "style"—that is, how this basic grammar is employed and presented to persuade its audience.[^stein2018]
-
-For our purposes, we'll simply call this basic grammar of the common law "liberalism". Liberalism can mean many things, but we will describe it as a structure for legal and political thought that rests on one basic dilemma:
-
-
+Liberalism can mean many things, but we can start by describing it as a structure for legal and political thought that rests on one basic dilemma:
 
 ## The Basic Dilemma of Liberalism
 
-As a structure of legal thought, liberalism holds that all human beings should be free to pursue their own ends and, in doing so, to compete with one another to pursue those ends. The dilemma of liberalism arises when we recognize that society can only benefit from free competition when it limits individual freedoms to some degree. In other words, individual freedom for any one person—as measured by the degree to which that person is free *from* societal control—is simply impossible without putting societal limits on the freedoms of everyone else.
+Liberalism holds that all human beings should be free to pursue their own ends and, in doing so, to compete with one another to pursue those ends. The dilemma of liberalism arises when we recognize that society can only benefit from free competition when it limits individual freedoms to some degree. In other words, individual freedom for any one person—as measured by the degree to which that person is free *from* societal control—is simply impossible without putting societal limits on the freedoms of everyone else.
 
-
-Common law judges and lawyers have, historically, tried to "resolve" the dilemma of liberalism in different ways. The two styles of common law we will explore in this course--classical and modern--are defined by their different approaches to this basic dilemma. In particular, we can use the following three questions to identify and explore which style(s) is/are operating in a given case or context:[^stein2018]
-
+Anglo-Canadian jurists have, historically, tried to "resolve" the dilemma of liberalism in different ways. The two styles of common law we will explore in this course--classical and modern--are defined by their different approaches to this basic dilemma. In particular, we can use the following three questions to identify and explore which style(s) is/are operating in a given case or context:[^stein2018]
 
 ### Three Questions of Common Law Style
 
