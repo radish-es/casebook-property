@@ -33,7 +33,7 @@ In the end we need something more than just these basic patterns of call-and-res
 
 A good way to think about all this is by way of analogy to language.[^stein2018b] Learning to speak a new language requires you to learn a whole new set of words that make up the language—i.e., its *vocabulary*. But to actually learn to *use* the language, you need to learn not only its vocabulary but also its *grammatical structure*—i.e., how the words fit together to form coherent thoughts expressed in that linguistic context. 
 
-The recurring forms of legal argument and counter-argument your will learn to recognize are the basic units of Anglo-Canadian legal vocabulary. Styles of legal argument refer to how this vocabulary uses the system's deeper grammatical structure to engage in positions or perspectives seem more or less persuasive. 
+The recurring forms of legal argument and counter-argument your will learn to recognize are the basic units of Anglo-Canadian legal vocabulary. Styles of legal argument refer to how this vocabulary is used according to the system's deeper grammatical structure to engage in positions or perspectives that seem more or less persuasive to their audience(s). 
 
 [^kennedy1991]: Duncan Kennedy, "A semiotics of legal argument" (1991) 42 *Syracuse Law Review* 75.
 
