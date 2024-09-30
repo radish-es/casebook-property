@@ -17,7 +17,7 @@ tags:
   - possession
 links:
   - url: content/statutes/protection-property.md
-    explanation: How does Nova Scotia's Act compare to the Petty Trespass statutes in the Manitoba and Ontario statues considered by the court in this case? Are there similarities and/or differences? Do they matter?
+    explanation: How does Nova Scotia's Act compare to what you know about the Petty Trespass statutes considered by the court in this case? Are there similarities and/or differences? Do they matter?
   - url: content/concepts/trespass.md
     explanation: Although a claim in the tort of trespass is not being made in this case, why is this civil cause of action still relevant to at least one of the judges?
   - url: content/concepts/style.md
