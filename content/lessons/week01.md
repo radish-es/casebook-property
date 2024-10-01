@@ -21,7 +21,7 @@ objectives:
 description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
 ---
 
-For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of the world--both corporeal and not--property offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
+For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of land and other "things"--both corporeal and not--property offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
 
 There are likewise many ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach the subject from a historical perspective–one that puts the critical emphasis on the role of land relationships in Canada’s political economy as the legal ground that determines so much about who benefits from the economic system and who does not.
 
