@@ -25,7 +25,7 @@ For first-year law students, "property" can be a kaleidoscopic subject: fragment
 
 There are likewise many ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach the subject from a historical perspective–one that puts the critical emphasis on the role of land relationships in Canada’s political economy as the legal ground that determines so much about who benefits from the economic system and who does not.
 
-This first week of the course introduces you to the core method of problem-based learning in the course and starts to develop some key questions and themes we will explore throughout the year. 
+This first week of the course introduces you to the core method of problem-based learning in the course and starts to develop some of the key questions and themes that we will explore throughout the year. 
 
 ## Read the Syllabus
 
