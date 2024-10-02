@@ -17,7 +17,7 @@ links:
   - url: content/secondary/locke.md
     explanation: How does the reasoning of one or both judges in this case reflect Locke's story about possession as the basis of property?
   - url: content/cases/armorie.md
-    explanation: What is the basis for the other party's claim to better possession?
+    explanation: Is it correct to say that the court in Clift decides who owns the seals and who does not? Is it possible that both parties have legal entitlements to the seals, though one might receive priority over the other? 
   - url: content/concepts/style.md
     explanation: How might you characterize the styles of reasoning and argument employed by Judges Hoyles and Robinson in this case?
   - url: content/cases/harrison.md

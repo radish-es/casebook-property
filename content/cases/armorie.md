@@ -12,6 +12,8 @@ tags:
   - possession
   - abandonment
 links:
+  - url: content/cases/asher.md
+    explanation: Does the principle about the relative nature of possession in a found object from Armorie extend to land?
   - url: content/cases/clift.md
     explanation: Why is it that the chimney sweep can claim an entitlement to the jewel in the first place? What action does he take to ground this claim? How is this claim different from or the same as that of the seal hunters in Clift?
 published: true

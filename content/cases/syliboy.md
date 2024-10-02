@@ -16,8 +16,12 @@ tags:
   - treaty
   - terra-nullius
 links:
+  - url: content/statutes/wildlife.md
+    explanation: What is the relationship between the treaty rights of a Mi'kmaw hunter and provincial legislation that regulates hunting wildlife? Are treaty rights about "ownership" of wild animals or something different?
   - url: content/concepts/terra-nullius.md
     explanation: The idea that Anglo-Canadian law is paramount plays a key role in the Court's reasoning. How is this connected to the doctrine of terra nullius?
+  - url: content/concepts/netukulimk.md
+    explanation: Can you envision an alternative approach to resolving this case that refers to or relies on the concept of Netukulimk? How might this reasoning work?
 published: true
 ---
 

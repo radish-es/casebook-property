@@ -12,7 +12,9 @@ links:
   - url: content/cases/clift.md
     explanation: To what extent is Locke's justification for possession as the basis of property reflected in this case? Is it easy to extend Locke's story about appropriating the acorn to the context of seal hunting?
   - url: content/concepts/liberalism.md
-    explanation: Locke's theory of possession and property illustrates that basic dilemma of liberalism. What is that dilemma?
+    explanation: Locke's theory of possession and property illustrates the basic dilemma of liberalism. What is this dilemma?
+  - url: content/statutes/wildlife.md
+    explanation: How does provincial wildlife legislation in Nova Scotia rely on Locke's idea of the "state of nature"?
 published: true
 ---
 

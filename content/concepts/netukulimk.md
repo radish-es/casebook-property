@@ -9,8 +9,12 @@ tags:
   - treaty
   - ecosystems
 links:
+  - url: content/secondary/locke.md
+    explanation: Compare the description here of Netukulimk with Locke's idea of first possession as the basis for property. 
   - url: content/cases/syliboy.md
     explanation: In what ways is the description of Mi'kmaw law here at odds with the court's assumptions and appoarch in the Syliboy case?
+  - url: content/concepts/liberalism.md
+    explanation: To what extent might Netukulimk and Western liberalism be seen as representing different legal "grammers"? 
 published: true
 ---
 
