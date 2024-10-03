@@ -6,5 +6,5 @@ weight: 6
 bookCollapseSection: true
 ---
 
-Secondary sources.
+Secondary sources such as excerpts from journal articles, websites or other media.
 
