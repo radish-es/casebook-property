@@ -8,11 +8,11 @@ image: /imgs/patterns.jpg
 imgcaption:  Elyse Loewen, CC BY NC SA 4.0
 objectives:
   - objective: >-
-      Identify the role that possession plays in addressing the problem of recognition and connect this with the basic dilemma of Western liberalism.  
+      Identify the role that possession plays in addressing the 'problem of recognition' and connect this role with the basic dilemma of Western liberalism.  
     explanation: >-
       
   - objective: >-
-      Compare possession as the basis of property with Mi'kmaw legal relationships to land and ecosystems based on the concept of Netukulimk.
+      Compare possession as the basis of property with Mi'kmaw legal relationships to land and ecosystems encapsulated by the concept of Netukulimk.
     explanation: >-
       
   - objective: >-
@@ -20,16 +20,16 @@ objectives:
     explanation:  
 
   - objective: >-
-      Begin to develop a historical understanding of common law courts' approaches to Mi'kmaw treaty rights as a tool of colonialism and explain the connection to issues of property. 
+      Begin to develop a historical understanding of common law courts' approaches to Mi'kmaw treaty rights as an example of colonialism in law and explain their significance in resolving a dispute about possession of a wild animal. 
     explanation: 
 description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
 ---
 
-## Problem of Recognition
+## The Problem of Recognition
 
-This week we start to explore a fundamental problem in the law of property: the problem of *recognition*. How do (and should) relationships to land get recognized? Which kinds of relations "count" and which do not? And what does this tell us about who benefits? 
+This week we start to explore a fundamental problem in the law of property: the problem of *recognition*. How do (and should) relationships to land get recognized in law? Which kinds of relations "count" and which do not? And what does this tell us about the question of who benefits? 
 
-From an Anglo-Canadian legal perspective, a significant emphasis is afforded to the act of *possession*. It is by possessing something that a person gains recognition of certain legal entitlements--a relationship that is at once physical (an act of control) and psychological (a matter of intention). But this is not the only possible kind of relationship that property law might recognize and prioritize. In fact, much of the history of common law property involves a colonial project of possession and control developed to mask Indigenous legal relationships to land that reveal very different logics of recognition. 
+From an Anglo-Canadian legal perspective, significant attention is paid to acts of *possession*, as you saw from our discussion of *Harrison v Carswell* last week. It is by possessing something that a person gains recognition of certain legal entitlements--a relationship that is at once physical (an act of control) and psychological (a matter of intention). But this is not the only possible kind of relationship that property law might recognize and prioritize. In fact, much of the history of common law property involves the colonial project of possession and control developed to mask or make invisible Indigenous legal relationships to land that reveal very different logics of recognition. 
 
 The materials this week will help us to explore the problem of recognition from perspectives both inside and outside Anglo-Canadian law. 
 
@@ -37,7 +37,7 @@ The materials this week will help us to explore the problem of recognition from 
 
 Last week, we drew an analogy between law and language, noting that the "vocabulary" of Anglo-Canadian legal arguments resembles a set of typical, highly patterned arguments used by jurists to debate and reason through a problem or dispute. Our discussion of this vocabulary left us with a nagging question: *How can these back-and-forth legal arguments ever help us to actually resolve a problem, to decide which judgement or decision or outcome is more persuasive?* If every legal argument has predictable counter-arguments, how does one side of the argument ever "win out" over the other?
 
-From a historical perspective, the answer to this question depends--in part--on *when* we are asking it. In other words, the question of *persuasiveness* is closely tied to the concept of legal styles that emerge from and evolve over particular periods of time. For much of our course, we will draw this link by exploring two contrasting styles of Anglo-Canadian legal thought that are both based on its basic grammatical structure, which we will introduce this week as the basic structure of Western liberalism.  
+From a historical perspective, the answer to this question has often depended--in part--on *when* we are asking it. In other words, the question of *persuasiveness* is closely tied to the concept of legal styles that emerge from and evolve over particular historical periods of legal thought. For much of our course, we will draw this link by exploring two contrasting styles of Anglo-Canadian legal thought that are both rooted in its basic grammatical structure, which we will introduce this week as the basic structure of Western liberalism.  
 
 ## Our Problem this Week
 
