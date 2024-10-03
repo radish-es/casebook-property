@@ -15,7 +15,6 @@ sources:
     attribution: ""
 tags:
   - adverse-possession
-  - title
   - trespass
   - abandonment
 published: true

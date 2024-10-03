@@ -10,7 +10,6 @@ held: For plaintiff. The plaintiff inhereted Thomas's title through Lucy, which 
 public: true
 tags:
   - possession
-  - title
 published: true
 links:
   - url: content/cases/piper.md

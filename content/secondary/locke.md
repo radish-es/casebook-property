@@ -5,9 +5,9 @@ short: Locke
 source: From Project Gutenberg, digitized by Dave Gowan. John Locke’s “Second Treatise of Government” was published in 1690. The complete unabridged text has been republished several times in edited commentaries. This text is recovered entirely from the paperback book, “John Locke Second Treatise of Government”, Edited, with an Introduction, By C.B. McPherson, Hackett Publishing Company, Indianapolis and Cambridge, 1980. None of the McPherson edition is included in the e-text below; only the original words contained in the 1690 text are included. The 1690 edition text is in the public domain.
 class: secondary
 tags:
-  - recognition
+  - possession
+  - wild-animals
   - terra-nullius
-  - first-possession
 links:
   - url: content/cases/clift.md
     explanation: To what extent is Locke's justification for possession as the basis of property reflected in this case? Is it easy to extend Locke's story about appropriating the acorn to the context of seal hunting?
