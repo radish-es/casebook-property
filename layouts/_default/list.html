@@ -10,7 +10,7 @@
   
     {{ range .Pages }}
         
-            {{ if or (eq  .Params.Class "case") (eq  .Params.Class "statute") (eq  .Params.Class "concept") (eq  .Params.Class "lesson") }}
+            {{ if or (eq  .Params.Class "case") (eq  .Params.Class "statute") (eq  .Params.Class "concept") (eq  .Params.Class "lesson") (eq  .Params.Class "secondary") }}
                 <div class="list-page">
                     <!--<div class="list-page-label">{{ .File.BaseFileName }}</div>-->
                     <h3><a href="{{ .Permalink }}">{{ .Params.Title }}{{if isset .Params "reporter" }}, {{ .Params.Reporter }}{{end}}</a></h3>
