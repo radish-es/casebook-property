@@ -41,24 +41,4 @@ From a historical perspective, the answer to this question has often depended--i
 
 ## Our Problem this Week
 
-We return to our [hypothetical setting of West Eggleston]({{< ref "problems/wowkwis" >}}) to begin unpacking the problem of recognition and its connection to legal style. Remember, you can read the assigned material in any order you choose by following the links on each page, but note that all of the material assigned is mandatory and you should review all of it before our first class of the week.
-
-<!--
-
-## The Basic Dilemma of Liberalism
-
-A fundamental tenant of liberal thought holds that all human beings should be free to pursue their own ends and, in doing so, to compete with one another to pursue those ends. The dilemma of liberalism arises when we recognize that society can only benefit from free competition among individuals when it limits individual freedoms to some degree. In other words, individual freedom for any one person--as measured by the degree to which that person is free *from* societal control--is simply impossible without putting societal limits on the freedoms of everyone else.
-
-Anglo-Canadian jurists have, historically, tried to "resolve" the dilemma of liberalism in different ways. The two styles of common law we will explore in this course--classical and modern--are defined by their different approaches to this basic dilemma. In particular, we can use the following three questions to identify and explore which style(s) is/are operating in a given case or context:[^stein2018]
-
-### Three Questions of Common Law Style
-
-1. **Competition vs Control**: which "side" of the basic liberal dilemma does the judge or jurist emphasize, prioritize or privileged--free competition or societal limitations on that freedom?
-
-2. **Public vs Private**: to what extent are the "public" and "private" spheres treated as separate and distinct? Does the the line between these spheres appear clear and sharp, or blurred (maybe even erased)? 
-
-3. **Formalist vs Functionalist**: by what process does the common law develop, i.e. how is law made? Is law "discovered" from settled principles or "determined" according to its capacity to meet social/political/economic circumstances? 
-
-We will use these three questions throughout the course to study the different ways that classical and modern styles of thought manifest in judicial decisions and other sources of property law.
-
--->
+We return to our hypothetical setting of West Eggleston for this week's problem, *[Wowkwis]({{< ref "problems/wowkwis" >}})*, to begin unpacking the problem of recognition and its connection to legal style. Remember, you can read the assigned material in any order you choose by following the links on each page, but note that all of the material assigned is mandatory and you should review all of it before our first class of the week.
