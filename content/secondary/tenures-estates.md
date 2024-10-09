@@ -37,12 +37,6 @@ Descendibility of the fee simple having been settled early in the history of Eng
 
 Various other statutes and common-law developments over the centuries culminated in the system of possessory estates and future interests that were imported into the North American English colonies, and thus into the independent American states (excluding Louisiana). Underlying them all is a fundamental distinction that traces back to the “radical title” asserted by William the Conqueror in 1066: there is a conceptual difference between the ownership of land and the ownership of a legal interest in that land […]
 
-{{% callout alert %}} 
-
-The excerpt above describing the long feudal history of tenures and estates identifies a key premise of common law property in land. There is, in essence, no place in the common law for the idea of *absolute, private landownership*—either in the sense of owning the land directly or in the sense of owning underlying or radical title. At most, private owners can hold an *estate in land*—that is, a legal interest interposed between the owner and the land subject to the owner's property rights. An estate in land can, and often does, give private owners the entire beneficial interest in the land. But this is not the same thing, from a legal perspective, as *absolute* ownership of the land. Recall the significance of this distinction between underlying (or radical) title and a beneficial interest in the dispute surrounding Aboriginal title in the *St. Catherine's Milling case*.
-
-{{% /callout %}}
-
 ### Basic Estates and Future Interests
 
 We will begin by examining two possessory estates—the **fee simple absolute** and the **life estate**—and two future interests ... —the **reversion** and the **remainder**.
