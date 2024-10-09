@@ -1,14 +1,15 @@
 ---
-style: 'Royal Proclamation (October 7, 1763)'
+title: 'Royal Proclamation (1763)'
 short: Royal Proclamation
-class: secondary
+class: statute
 public: true
 tags:
-  - recognition
-  - terra-nullius
   - aboriginal-title
-published: false
+  - terra-nullius
+published: true
 ---
+
+![](/imgs/rp1763.jpg)
 
 And whereas it is just and reasonable, and essential to our Interest, and the Security of our Colonies, that the several Nations or Tribes of Indians with whom We are connected, and who live under our Protection, should not be molested or disturbed in the Possession of such Parts of Our Dominions and Territories as, not having been ceded to or purchased by Us, are reserved to them, or any of them, as their Hunting Grounds,--We do therefore, with the Advice of our Privy Council, declare it to be our Royal Will and Pleasure, that no Governor or Commander in Chief in any of our Colonies of Quebec, East Florida, or West Florida, do presume, upon any Pretence whatever, to grant Warrants of Survey, or pass any Patents for Lands beyond the Bounds of their respective Governments, as described in their Commissions: as also that no Governor or Commander in Chief in any of our other Colonies or Plantations in America do presume for the present, and until our further Pleasure be known, to grant Warrants of Survey, or pass Patents for any Lands beyond the Heads or Sources of any of the Rivers which fall into the Atlantic Ocean from the West and North West, or upon any Lands whatever, which, not having been ceded to or purchased by Us as aforesaid, are reserved to the said Indians, or any of them.
 
@@ -24,4 +25,4 @@ And we do hereby authorize, enjoin, and require the Governors and Commanders in 
 
 And we do further expressly conjoin and require all Officers whatever, as well Military as those Employed in the Management and Direction of Indian Affairs, within the Territories reserved as aforesaid for the use of the said Indians, to seize and apprehend all Persons whatever, who standing charged with Treason, Misprisions of Treason, Murders, or other Felonies or Misdemeanors, shall fly from Justice and take Refuge in the said Territory, and to send them under a proper guard to the Colony where the Crime was committed of which they, stand accused, in order to take their Trial for the same.
 
-Given at our Court at St. James's the 7th Day of October 1763, in the Third Year of our Reign.
+*Given at our Court at St. James's the 7th Day of October 1763, in the Third Year of our Reign.* 
