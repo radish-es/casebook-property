@@ -14,6 +14,12 @@ tags:
   - radical-title
   - terra-nullius
 published: true
+links:
+  - url: content/statutes/indian-act.md
+    explanation: What role do reserve lands play in the courts' reasoning in St. Catherine's Milling? 
+  - url: content/concepts/tenure.md
+    explanation:  How does the doctrine of tenure shape the courts' approach to Indigenous land rights? Are these rights the same as or different than a common law 'estate in land'?
+
 ---
 
 ## Background to the Case

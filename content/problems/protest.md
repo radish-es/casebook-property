@@ -14,6 +14,7 @@ links:
   - url: content/concepts/trespass.md
     explanation: Trespass is a term you hear a lot in day-to-day life. Where does this concept come from and what does it mean from a legal perspective?
 published: true
+weight: 1
 ---
 
 West Eggleston ("West Egg", for short) is a small, coastal residential community in rural Nova Scotia that recently attracted a short-lived but very public protest outside its gates.

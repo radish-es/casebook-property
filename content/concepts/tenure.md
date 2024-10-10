@@ -1,7 +1,6 @@
 ---
 title: Tenure and Estates
 short: Tenures and Estates
-reporter: ''
 sources:
   - source_name: 'Open Source Property: A Free Casebook'
     source_url: opensourceproperty.org

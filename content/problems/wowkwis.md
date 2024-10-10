@@ -18,6 +18,7 @@ links:
   - url: content/cases/clift.md
     explanation: What does the common law require the hunter to do to establish possession in the fox? How do the judges in this case disagree on the answer?
 published: true
+weight: 2
 ---
 West Eggleston is back in the news after claims by a Mi'kmaw hunter that one of its residents unlawfully interfered with a fox (*wowkwis*, in Mi'kmaq) hunt in which the hunter was exercising their constitutionally-protected treaty rights. The population of *wowkwis* has been growing rapidly in the area in recent years, exceeding the carrying capacity of the landscape, disrupting the ecosystem balance among its prey and other predators, and causing more and more interactions with human settlements. As a consequence, the Assembly of Nova Scotia Mi’kmaw Chiefs issued a statement underlining the significant role Mi'kmaw hunters play in establishing and sustaining healthy forest ecosystems. 
 
