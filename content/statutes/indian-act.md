@@ -13,6 +13,10 @@ tags:
 class: statute
 public: true
 published: true
+description: Federal legislation establishing the structure of land rights in reserve lands. 
+links:
+  - url: content/cases/stcatherines.md
+    explanation: How do these provisions of the federal Indian Act reflect the concepts of beneficial title and underlying or radical title discussed in St. Catherine's Milling? 
 ---
 
 18 (1) Subject to this Act, reserves are held by Her Majesty for the use and benefit of the respective bands for which they were set apart, and subject to this Act and to the terms of any treaty or surrender, the Governor in Council may determine whether any purpose for which lands in a reserve are used or are to be used is for the use and benefit of the band.

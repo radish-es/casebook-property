@@ -6,7 +6,13 @@ public: true
 tags:
   - aboriginal-title
   - terra-nullius
+links:
+  - url: content/concepts/tenure.md
+    explanation: To what extent is the Royal Proclamation based on the structure of feudal land tenure? 
+  - url: content/cases/stcatherines.md
+    explanation: What roles does the Royal Proclamation play in the courts' reasoning in this case? 
 published: true
+description: Issued by King George III in 1763 following the Treaty of Paris, by which Britain acquired control over French territories in North America. 
 ---
 
 ![](/imgs/rp1763.jpg)
