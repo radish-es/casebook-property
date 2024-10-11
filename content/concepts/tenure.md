@@ -18,6 +18,9 @@ public: true
 tags:
   - tenure
   - estates
+links:
+  - url: content/cases/stcatherines.md
+    explanation: The feudal concepts of land tenure and estates in land set the stage for the courts' approaches to Indigenous land rights in the St. Catherine's Milling case. How do these feudal concepts relate to the idea of beneficial title described by some of the judges? 
 published: true
 ---
 

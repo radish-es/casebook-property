@@ -26,7 +26,7 @@ objectives:
   - objective: >-
       Discuss and critically analyze the assumptions that underlie title as a form of legal recognition.
     explanation:  
-description: 
+description: Building on the previous lesson's exploration of possession and title, this week we focus on the various meanings of "title" and their application in the context of Indigenous land rights recognized by Anglo-Canadian law.
 ---
 
 ## The Legal Imprimatur of Title
