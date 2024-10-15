@@ -11,6 +11,8 @@ links:
     explanation: To what extent is the Royal Proclamation based on the structure of feudal land tenure? 
   - url: content/cases/stcatherines.md
     explanation: What roles does the Royal Proclamation play in the courts' reasoning in this case? 
+  - url: content/cases/syliboy.md
+    explanation: The Royal Proclamation also plays an important role in the Syliboy case. How does the judge in this case use it to deny the existence and application of Grand Chief Syliboy's treaty rights? 
 published: true
 description: Issued by King George III in 1763 following the Treaty of Paris, by which Britain acquired control over French territories in North America. 
 ---
