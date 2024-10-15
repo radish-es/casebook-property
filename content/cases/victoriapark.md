@@ -1,17 +1,16 @@
 ---
 class: case
-style: 'Victoria Park Racing and Recreational Grounds Co Ltd v Taylor '
+title: "Victoria Park Racing and Recreational Grounds Co Ltd v Taylor "
 short: Victoria Park
-reporter: '(1937), 58 CLR 479'
+reporter: (1937), 58 CLR 479
 year: 1937
 facts: The defendant owned land near the plaintiff's racetrack. He placed a platform on his land to watch the races and charged people admission and broadcasted the race by telephone. The plaintiff took action in nuisance.
 issue: Whether a spectacle is a protected property right.
 held: For defendant. The majority found that there was no right to a spectacle, no general right to privacy, and no copyright to the facts being broadcast. The defendant's actions did not amount to interference with the land. As such, there was no nuisance.The dissent argued that nuisance ought to expanded to include privacy from such spying.
 public: true
 tags:
-  - use
   - nuisance
-published: false
+published: true
 ---
 
 
@@ -56,7 +55,7 @@ The plaintiff also argued, though it did not plead, that the defendants were gui
 
 Copyright, where it exists, exists for fifty years from the death of the author (*Copyright Act 1912-1935*, sched., s. 3). Much more argument than has been produced in this case would be required to convince me that because the plaintiff caused those numbers to be exhibited for a few minutes upon a notice board, everybody in Australia was thereafter for a term of fifty years from somebody's death precluded from reproducing them in any material form (_Copyright Act_, sched., ss. 1 (2) and 2 (1)). The law of copyright does not operate to give any person an exclusive right to state or to describe particular facts. A person cannot by first announcing that a man fell off a bus or that a particular horse won a race prevent other people from stating those facts. The _Copyright Act 1912-1935_ gives protection only to "original literary dramatic musical and artistic work" (See sched., s. 1). What the law of copyright protects is some originality in the expression of thought (Halsbury's Laws of England, 2nd ed., vol. 7, p. 521). The plaintiff has no rights by virtue of the statute, and common law rights to copyright are abrogated by s. 31 of the schedule to the Act. In my opinion, the claim based upon copyright fails.
 
-I agree with the judgment of Nicholas J. and with the reasons which he gave for it.---> In my opinion the appeal should be dismissed.
+I agree with the judgment of Nicholas J. and with the reasons which he gave for it.--> In my opinion the appeal should be dismissed.
 
   
 ### Rich J. —
