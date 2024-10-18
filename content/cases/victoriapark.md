@@ -11,9 +11,10 @@ public: true
 tags:
   - nuisance
 published: true
+links:
+  - url: content/concepts/liberalism.md
+    explanation: What features of the classical style are apparent in each of the judgments in Victoria Park? How do the underlying assumptions of the style drive the disagreements between the judges?
 ---
-
-
 
 ### Latham C.J. —
 
