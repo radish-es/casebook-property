@@ -9,6 +9,8 @@ imgcaption: Annie Spratt on Unsplash
 links:
   - url: content/cases/victoriapark.md
     explanation: To what extent is a claim in nuisance based on interference by genetic drift a novel claim, analogous to the one in the Victoria Park case? How might the novel claim in this week's problem be addressed by a court?
+  - url: content/concepts/sticks.md
+    explanation: How does the metaphor of the "bundle of sticks" help us to understand the focus this week on a property holder's "right to exclude"? 
   - url: content/cases/shelfer.md
     explanation: Distinct from the issue of whether or not a nuisance has been perpetrated by the defendant is the issue of remedy. What choices of remedy for a claim in nuisance are available and how does the Shelfer court purport to address this choice?
   - url: content/cases/black.md
