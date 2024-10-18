@@ -15,6 +15,11 @@ sources:
 tags:
   - nuisance 
 published: true
+links:
+  - url: content/cases/shelfer.md
+    explanation: At least one judge in this case cites the Shelfer decision. What legal framework does Shelfer provide and how is it applied, if at all, by the judges in Canada Paper v Brown?
+  - url: content/cases/black.md
+    explanation: The facts here seem similar in many respects to those in Black v Canadian Copper Co. Why do the courts reach different conclusions on the issue of remedy? 
 ---
 
 

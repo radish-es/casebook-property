@@ -11,6 +11,11 @@ public: true
 tags:
   - nuisance
 published: true
+links:
+  - url: content/cases/black.md
+    explanation: The court in Black v Canadian Copper Co appears to apply the test in Shelfer. What does it conclude? 
+  - url: content/cases/canada-paper.md
+    explanation: The court in Canada Paper Co v Brown applies the test in Shelfer. What does it conclude? 
 ---
 
 
