@@ -2,8 +2,8 @@
 title: GMOs in West Egg
 short: GMOs
 class: problem
-description: This hypo concerns a market gardener's attempts to prevent pollination of their crops from GMO varieties grown by their neighbour. 
-summary: This hypo concerns a market gardener's attempts to prevent pollination of their crops from GMO varieties grown by their neighbour. 
+description: This hypo concerns a market gardener's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
+summary: This hypo concerns a market gardener's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
 image: /imgs/tomatoes.jpg
 imgcaption: Annie Spratt on Unsplash
 links:
