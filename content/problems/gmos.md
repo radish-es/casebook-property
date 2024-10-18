@@ -8,11 +8,11 @@ image: /imgs/tomatoes.jpg
 imgcaption: Annie Spratt on Unsplash
 links:
   - url: content/cases/victoriapark.md
-    explanation: To what extent is a claim in nuisance based on interference by genetic drift a novel claim, analogous to the one in the Victoria Park case? How might the novel claim in this week's problem be addressed by a court?
+    explanation: To what extent is a claim in nuisance based on interference by genetic drift a novel claim, analogous to the one in the Victoria Park case? How might such a novel claim be addressed by a court taking Victoria Park as precedent?
   - url: content/concepts/sticks.md
     explanation: How does the metaphor of the "bundle of sticks" help us to understand the focus this week on a property holder's "right to exclude"? 
   - url: content/cases/shelfer.md
-    explanation: Distinct from the issue of whether or not a nuisance has been perpetrated by the defendant is the issue of remedy. What choices of remedy for a claim in nuisance are available and how does the Shelfer court purport to address this choice?
+    explanation: Distinct from the issue of whether or not a nuisance has been caused by the defendant is the issue of remedy. What choices of remedy for a claim in nuisance are available and how does the Shelfer court purport to address this choice?
   - url: content/cases/black.md
     explanation: The court in this case faces the task of justifying a remedy in damages for a nuisance claim related to environmental harms. What are those justifications and how do they different from other cases you read this week?
   - url: content/cases/canada-paper.md
@@ -31,4 +31,4 @@ After complaining to the neighbouring farmer that "genetic drift" from their GMO
 
 The heritage tomato grower from West Egg ultimately decided to bring a claim in nuisance against the GMO farmer, asking for an injunction to restrain the defendant from operating a tomato greenhouse facility using GMO tomatoes on their land. 
 
-**The main cases you will read this week (*Victoria Park*, *Canadian Copper*, and *Canadian Paper*) are each good examples of the classical style. Write a judgment resolving this dispute written in the classical style and applying the legal principles you learned from the readings, then explain briefly how you have relied on the assumptions implicit in the classical style to arrive at a decision.**
+**The main cases you will read this week (*Victoria Park*, *Canadian Copper*, and *Canadian Paper*) are each good examples of the classical style. Write a judgment resolving this dispute written in the classical style and applying the legal principles you learned from the readings. Be sure to identify and explain your proposed remedy. Then explain briefly how you have relied on the assumptions implicit in the classical style to arrive at a decision.**
