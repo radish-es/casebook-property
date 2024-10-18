@@ -1,6 +1,6 @@
 ---
 class: case
-style: 'Black v Canadian Copper Co. '
+title: 'Black v Canadian Copper Co.'
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
 year: 1917
@@ -9,10 +9,13 @@ issue: What type of remedy is appropriate.
 held: Damages, rather than an injunction, are justified, because the vapours are inherent to mining nickel and the mine is central to the community.
 public: true
 tags:
-  - use
   - nuisance
-  - land-use-regulation
-published: false
+published: true
+links:
+  - url: content/cases/shelfer.md
+    explanation: Justice Middleton cites the Shelfer case in discussing the court's discretion on the issue of remedy. What legal framework does the Shelfer provide and how is it applied by the court in Black v Canadian Copper?
+  - url: content/cases/canada-paper.md
+    explanation: The facts here seem similar in many respects to those in Canada Paper Co v Brown. Why do the courts reach different conclusions on the issue of remedy? 
 ---
 
 
@@ -43,12 +46,6 @@ All evidence taken in the first four actions was to be available in any of them 
 > An action by a man named Ostroski and his wife who own a small farm near the town of Coniston, where the Mond smelter Is situated. Ostroski and his wife kept a boarding house for men employed at the Mond works and this farm was originally intended mainly to supply vegetables for use at their boarding house.
 
 In all these actions claims were originally made for an injunction but at different times this claim has been abandoned and now the cases resolve themselves mainly, if not altogether, into assessments of damages. The difficulty is to ascertain what damage, if any, has been done by the omission of the smoke vapours from the roast beds and smelter stacks. While the admission of counsel makes my task easy so far as the granting of an injunction is concerned, I may say that in view of all that has occurred, I should not have granted an injunction interfering with the carrying on of the works in question.
-
-{{% callout alert %}}
-
-As Justice Middleton explains in the paragraph above, the parties to this action actually agreed on the issue of remedy—damages, rather than an injunction, should be awarded. Much of the decision (which I have omitted) therefore concerns the quantum of damages. Despite the agreement on remedy among the parties, Justice Middleton devotes considerable space in his judgement to why he thinks damages in lieu of an injunction are appropriate in this case. He is clearly aware of this as a live issue in the courts at the time and is sensitive to the challenge of providing a clear rationale for choosing between one option or the other against the background of *Shelfer*. 
-
-{{% /callout %}}
 
 Smelter smoke may, no doubt, be a nuisance, and in addition to being disagreeable it may cause injury to vegetation and in some circumstances I have no doubt an injunction ought to be granted. For reasons which will appear later, I am of the opinion that the mines cannot be operated without the production of smoke from the roast yards and smelters which contains very large quantities of sulphur dioxide.
 

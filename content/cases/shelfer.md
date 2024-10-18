@@ -1,6 +1,6 @@
 ---
 class: case
-style: Shelfer v City of London Electrical Lighting Co.
+title: Shelfer v City of London Electrical Lighting Co.
 short: Shelfer
 reporter: '[1895] 1 Ch 287'
 year: 1895
@@ -9,17 +9,17 @@ issue: What type of remedy is appropriate?
 held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant.
 public: true
 tags:
-  - use
   - nuisance
-published: false
+published: true
+links:
+  - url: content/cases/black.md
+    explanation: The court in Black v Canadian Copper Co appears to apply the test in Shelfer. What does it conclude? 
+  - url: content/cases/canada-paper.md
+    explanation: The court in Canada Paper Co v Brown applies the test in Shelfer. What does it conclude? 
 ---
 
 
-{{% callout alert %}}
-
-The defendant in this case, the City of London Electric Lighting Company, operated large engines and other heavy machinery that caused damage to the foundations of a pub, the *Waterman's Arms*, leased by the plaintiff, Shelfer, as well as a lot of noise and other "annoyances". There was no question about the existence of the nuisance—the only issue before the court was what type of remedy should be available to the plaintiff.
-
-{{% /callout %}}
+*The defendant in this case, the City of London Electric Lighting Company, operated large engines and other heavy machinery that caused damage to the foundations of a pub, the Waterman's Arms, leased by the plaintiff, Shelfer, as well as a lot of noise and other "annoyances". There was no question about the existence of the nuisance—the only issue before the court was what type of remedy should be available to the plaintiff.*
 
 ### A. L. Smith L.J. — 
 
@@ -51,7 +51,7 @@ There are, however, cases in which this rule may be relaxed, and in which damage
 
 In any instance in which a case for an injunction has been made out, if the plaintiff by his acts or laches has disentitled himself to an injunction the Court may award damages in its place. So again, whether the case be for a mandatory injunction or to restrain a continuing nuisance, the appropriate remedy may be damages in lieu of an injunction, assuming a case for an injunction to be made out.
 
-In my opinion, it may be stated as a good working rule that (1) If the injury to the plaintiff’s legal rights is small, (2) And is one which is capable of being estimated in money, (3) And is one which can be adequately compensated by a small money payment, (4) And the case is one in which it would be oppressive to the defendant to grant an injunction, then damages in substitution for an injunction may be given.
+In my opinion, it may be stated as a good working rule that (1) If the injury to the plaintiff’s legal rights is small, (2) and is one which is capable of being estimated in money, (3) and is one which can be adequately compensated by a small money payment, (4) and the case is one in which it would be oppressive to the defendant to grant an injunction, then damages in substitution for an injunction may be given.
 
 There may also be cases in which, though the four above-mentioned requirements exist, the defendant by his conduct, as, for instance, hurrying up his buildings so as if possible to avoid an injunction, or otherwise acting with a reckless disregard to the plaintiff’s rights, has disentitled himself from asking that damages may be assessed in substitution for an injunction.
 
