@@ -35,7 +35,7 @@ Consider the following framework as you develop your answer to this week's probl
 
 - Start with the basic definition in Nova Scotia's *Expropriation Act*. This statute tells us something (but not everything) about how expropriation is defined.
 
-- How do the parties, courts and legislatures in the *McLaren v Caldwell* saga frame and understand that case as one about expropriation? 
+- How do the parties, courts and legislatures in the *McLaren v Caldwell* saga frame and understand that case as one about expropriation? How could this frame be applied to understand our weekly problem? 
 
 **Issue 2 - Statutory Interpretation: Making sense of section 5A of the *Public Highway Act***
 
