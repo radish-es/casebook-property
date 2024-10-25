@@ -41,7 +41,7 @@ Consider the following framework as you develop your answer to this week's probl
 
 - The question here is whether or not the amendment to the *Act* actually applies to the roads in West Egg. 
 
-- That question is similar to the one asked in *McLaren v Caldwell**. What principle of statutory interpretation does the Supreme Court of Canada provide in that case that might help to answer this question in our problem?
+- That question is similar to the one asked in *McLaren v Caldwell*. What principle of statutory interpretation does the Supreme Court of Canada provide in that case that might help to answer this question in our problem?
 
 **Issue 3: - Compensation for Expropriation: Applying the *Expropriation Act***
 
