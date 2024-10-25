@@ -1,19 +1,12 @@
 ---
-title: House of Commons Debates
+title: House of Commons Debate (Rivers and Streams Bill)
 short: House Debates
 class: secondary
 tags:
-  - use
   - riparian-rights
-  - dejure-expropriation
-published: false
+  - expropriation
+published: true
 ---
-
-
-
-
-
-Disallowance of streams bill.
 
 ### Mr. McCarthy —
 

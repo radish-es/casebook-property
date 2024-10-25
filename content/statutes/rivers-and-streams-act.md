@@ -1,12 +1,14 @@
 ---
-style: 'An Act for Protecting the Public Interest in Rivers, Streams and Creeks'
+title: 'An Act for Protecting the Public Interest in Rivers, Streams and Creeks'
 short: Rivers and Streams Act
 reporter: '(1881), c 11'
 tags:
-  - use
   - riparian-rights
 class: statute
-published: false
+links:
+  - url: content/secondary/house-debates.md
+    explanation: After Ontario passed this legislation in 1881, the issue came before the federal parliament as to whether it should 'disallow' the statue. Consider these excerpts from the parliamentary debates (Hansard).
+published: true
 ---
 
 
