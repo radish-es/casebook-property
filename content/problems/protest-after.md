@@ -17,7 +17,7 @@ published: true
 weight: 6
 ---
 
-After the events of the [protest at West Eggleston]({{< ref "problems/protest" >}}), some MLAs and their allies began to pressure the provincial government to expand the freedom of members of the public to engage in peaceful protest and other forms of collective association. As a result of these efforts, the legislature passed an amendment to the *Public Highways Act*, RSNS 1989 c 371 which reads:
+After the events of the [protest at West Eggleston]({{< ref "problems/protest" >}}), some MLAs and their allies began to pressure the provincial government to expand the access to places where members of the public can engage in peaceful protest and other forms of collective association. As a result of these efforts, the legislature passed an amendment to the *Public Highways Act*, RSNS 1989 c 371 which reads:
 
 > 5A Where members of the public are exercising their freedom of collective association on roads, lanes, paths or highways, the provisions of the *Protection of Property Act*, RSNS 1989, c 363 are of no force or effect. 
 
