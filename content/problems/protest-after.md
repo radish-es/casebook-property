@@ -45,6 +45,6 @@ Consider the following framework as you develop your answer to this week's probl
 
 **Issue 3: - Compensation for Expropriation: Applying the *Expropriation Act***
 
-- If section 5A of the *Public Highway Act* could be interpreted as applying to the roads in West Egg, what claim might the co-op board make under the provincial *Expropriation Act*?
+- If there is an argument that section 5A of the *Public Highway Act* should be interpreted as applying to the roads in West Egg, what claim might the co-op board make under the provincial *Expropriation Act*?
 
 - Based on what you know from the wording of the *Expropriation Act*, do you thin such a claim would be successful and why? What more would you need to know in order to answer this confidently question? 
