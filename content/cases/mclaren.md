@@ -16,8 +16,10 @@ tags:
   - riparian-rights
   - expropriation
 links:
+  - url: content/concepts/water-rights.md
+    explanation: In order to understand what is going on in this case, it is helpful to start with a basic understanding of 'riparian rights'.
   - url: content/statutes/rivers-and-streams-act.md
-    explanation: In response to the Supreme Court's decision in McLaren v Caldwell, the Ontario legislature enacts this legislation. How does it change or clarify the legislation that was at issue in the case before the courts?
+    explanation: In response to the Supreme Court's decision in McLaren v Caldwell, the Ontario legislature enacted the Rivers and Streams Act. How did this new legislation change or clarify the statutory provision(s) at issue in the McLaren case?
 published: true
 ---
 
