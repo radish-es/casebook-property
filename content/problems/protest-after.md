@@ -2,7 +2,7 @@
 title: After the West Egg Protest
 short: After Protest
 class: problem
-description: 
+description: Returning to the context of protests on West Egg's roads, this problem looks a hypothetical legislative changes through the lens of expropriation. 
 summary: 
 image: /imgs/path.jpg
 imgcaption: Lili Popper on Unsplash.
