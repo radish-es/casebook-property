@@ -7,7 +7,7 @@ tags:
 class: statute
 links:
   - url: content/secondary/house-debates.md
-    explanation: After Ontario passed this legislation in 1881, the issue came before the federal parliament as to whether it should 'disallow' the statue. Consider these excerpts from the parliamentary debates (Hansard).
+    explanation: After Ontario passed this legislation in 1881, the issue came before the federal parliament as to whether it should 'disallow' the statue. Consider these excerpts from the parliamentary debates (Hansard) between opposing political parties for what they tell us about how this statute and the McLaren case relate to the issue of expropriation.
 published: true
 ---
 

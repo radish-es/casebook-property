@@ -6,6 +6,10 @@ tags:
   - riparian-rights
   - expropriation
 published: true
+source: The excepts below are taken from a parliamentary debate between a member of the governing Conservatives (McCarthy) and a member of the Liberal party in opposition (Blake). The speakers are debating the question of whether or not Parliament should exercise its authority to "disallow" the Rivers and Streams Act passed by Ontario in 1881 in response to the Supreme Court's decision in McLaren v Caldwell. 
+links:
+  - url: content/statutes/rivers-and-streams-act.md
+    explanation: This excerpt from the Parliamentary debates concerns the question of whether or not to disallow the provincial Rivers and Streams Act passed by Ontario in 1881. 
 ---
 
 ### Mr. McCarthy —
