@@ -128,4 +128,6 @@ But, in my opinion, as I have suggested, the Legislature merely intended that al
 
 […]
 
+*Appeal allowed.*
+
 [^vict1849]: *An act to provide for the construction of aprons to mill dams over certain streams in this Province, and to make further provision in respect thereof* (1849), 12 Vict, c 87, s 5.
