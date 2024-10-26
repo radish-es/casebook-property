@@ -8,9 +8,9 @@ image: /imgs/path.jpg
 imgcaption: Lili Popper on Unsplash.
 links:
   - url: content/statutes/expropriation-act.md
-    explanation: This statute establishes the right to compensation for expropriation by a statutory authority, such as provincial legislature or municipal council.
+    explanation: This statute defines expropriation and establishes the right to compensation when expropriation is carried out by a statutory authority, such as provincial legislature or municipal council.
   - url: content/cases/mclaren.md
-    explanation: McLaren v Caldwell is one of the earliest disputes about the power of governments to take away sticks from a property owner's bundle of rights. What principle(s) of interpretation found in this case could help the co-op board to resolve its legal questions? 
+    explanation: McLaren v Caldwell is one of the earliest disputes in Canadian law about the power of governments to take away sticks from a property owner's bundle of rights. What principle(s) of interpretation found in this case could help the co-op board to resolve its legal questions? 
   - url: content/statutes/protection-property.md
     explanation: Recall that this statute establishes a quasi-criminal cause of action in trespass.
 published: true
