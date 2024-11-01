@@ -14,7 +14,7 @@ This is the official course schedule. Please note that the schedule is subject t
 | 3 | Oct 15/17  | [Title as Recognition]({{< ref "lessons/week03"  >}})  | [Indian Act]({{< ref "statutes/indian-act"  >}}) <br/> [Royal Proclamation (1763)]({{< ref "statutes/royal-proclamation"  >}}) <br/> [St. Catherine's Milling v R]({{< ref "cases/stcatherines"  >}}) <br/> [Tenures and Estates]({{< ref "concepts/tenure"  >}}) |
 | 4 | Oct 22/24  | [Nuisance and the Right to Exclude]({{< ref "lessons/week04"  >}})  | [Black v Canadian Copper Co.]({{< ref "cases/black"  >}}) <br/> [Bundle of Sticks]({{< ref "concepts/sticks"  >}}) <br/> [Canada Paper Co. v Brown]({{< ref "cases/canada-paper"  >}}) <br/> [Shelfer v City of London Electrical]({{< ref "cases/shelfer"  >}}) <br/> [Victoria Park Racing v Taylor]({{< ref "cases/victoriapark"  >}}) |
 | 5 | Oct 29/31  | [Excluding the State]({{< ref "lessons/week05"  >}})   | [Expropriation Act]({{< ref "statutes/expropriation-act"  >}}) <br/> [House of Commons Debates]({{< ref "secondary/house-debates"  >}})  <br/> [McLaren v Caldwell]({{< ref "cases/mclaren"  >}}) <br/> [Riparian Rights]({{< ref "concepts/water-rights"  >}}) <br/> [Rivers and Streams Act]({{< ref "statutes/rivers-and-streams-act"  >}}) |
-| 6 | Nov 5/7  |   |
+| 6 | Nov 5/7  | [Mid-term Rapid Review]({{< ref "problems/review01"  >}}) | *No additional readings* |
 |  | Reading Break  |   |
 | 7 | Nov 19/21  |   |
 | 8 | Nov 26/28  |   |
