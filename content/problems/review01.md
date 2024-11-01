@@ -10,7 +10,6 @@ published: true
 weight: 7
 ---
 
-
 ## Week 1: Intro to the Course
 
 - A mid-twentieth century dispute at a shopping mall seems like an unusual place to start our course. Why do we read *Harrison v Carswell* as our first case? 
