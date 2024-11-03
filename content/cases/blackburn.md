@@ -1,6 +1,6 @@
 ---
 class: case
-style: Blackburn v McCallum
+title: Blackburn v McCallum
 short: Blackburn
 reporter: '1903 CanLII 68 (SCC), [1903] 33 SCR 65'
 year: 1903
@@ -14,19 +14,12 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
 tags:
-  - transfer
-  - bequest
+  - alienation
   - estates
-published: false
+published: true
 ---
 
-
-
-
-
-
-
-### Davies J. —
+## Davies J. —
 
 The question raised for our decision in this case is whether a general prohibition on alienation attached to a devise in fee of lands which prohibition would, if unlimited, be bad by the rules of Common Law, is made good by being limited as to time. I am of opinion that it is not. The will of Donald Chisholm after devising his farm of 100 acres to his two sons William and Hugh in fee and equally dividing it between them, contained the following provision: 
 
@@ -46,7 +39,7 @@ We have of course been pressed by the case of *Earls v. McAlpine* decided by the
 
 The appeal should be allowed with costs and it should be declared that Hugh Chisholm took a fee simple absolute by his father’s will in the lands devised to him and was able to convey the same in fee notwithstanding the restriction in the will. And also that the fee simple in the lands was subject to sale under execution as against Hugh Chisholm for his debts.
 
-### Mills J. —
+## Mills J. —
 
 […]
 
