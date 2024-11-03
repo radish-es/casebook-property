@@ -28,8 +28,6 @@
 		{"type":"file","file":"cases/hodge.md","id":"3c9ddb013951912e","x":4133,"y":149,"width":400,"height":251,"color":"5"},
 		{"type":"file","file":"cases/nakashima.md","id":"fe1ec6b1368b085d","x":2434,"y":1078,"width":400,"height":201,"color":"2"},
 		{"type":"file","file":"secondary/tenures-estates.md","id":"2df8acb9b05757c8","x":9789,"y":-284,"width":400,"height":289,"color":"3"},
-		{"type":"file","file":"cases/walker.md","id":"e11a4400f7913aeb","x":10380,"y":-284,"width":400,"height":289,"color":"3"},
-		{"type":"file","file":"cases/blackburn.md","id":"aef3ed302424bf62","x":10962,"y":-284,"width":400,"height":289,"color":"3"},
 		{"type":"file","file":"statutes/indian-act.md","id":"f63e7522ca507b9e","x":10404,"y":173,"width":400,"height":226,"color":"3"},
 		{"type":"file","file":"cases/cobalt.md","id":"63f3c9bb07777814","x":7429,"y":993,"width":400,"height":301,"color":"5"},
 		{"type":"file","file":"cases/schoolboard.md","id":"79172390a229eda8","x":5289,"y":993,"width":400,"height":301,"color":"5"},
@@ -65,7 +63,9 @@
 		{"type":"file","file":"cases/piper.md","id":"cebbd7b48185d87a","x":2967,"y":-1033,"width":408,"height":185,"color":"2"},
 		{"type":"file","file":"cases/stcatherines-jcpc.md","id":"a730bec75bcfa903","x":44,"y":-819,"width":387,"height":230,"color":"2"},
 		{"id":"2ef88bbec96d0832","type":"text","text":"Pierson v Post","x":302,"y":-1560,"width":250,"height":79},
-		{"type":"file","file":"cases/syliboy.md","id":"6a4b6e109e54b044","x":-519,"y":-517,"width":400,"height":200,"color":"2"}
+		{"type":"file","file":"cases/syliboy.md","id":"6a4b6e109e54b044","x":-519,"y":-517,"width":400,"height":200,"color":"2"},
+		{"type":"file","file":"cases/walker.md","id":"e11a4400f7913aeb","x":10457,"y":-428,"width":400,"height":289,"color":"3"},
+		{"type":"file","file":"cases/blackburn.md","id":"aef3ed302424bf62","x":11000,"y":-428,"width":400,"height":289,"color":"3"}
 	],
 	"edges":[
 		{"id":"3a2c8a43cbe636ff","fromNode":"1075a798e8f5b58a","fromSide":"right","toNode":"1d9b990893683533","toSide":"left","label":"exclusion vs\ndamages"},
