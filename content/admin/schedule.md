@@ -16,7 +16,7 @@ This is the official course schedule. Please note that the schedule is subject t
 | 5 | Oct 29/31  | [Excluding the State]({{< ref "lessons/week05"  >}})   | [Expropriation Act]({{< ref "statutes/expropriation-act"  >}}) <br/> [House of Commons Debates]({{< ref "secondary/house-debates"  >}})  <br/> [McLaren v Caldwell]({{< ref "cases/mclaren"  >}}) <br/> [Riparian Rights]({{< ref "concepts/water-rights"  >}}) <br/> [Rivers and Streams Act]({{< ref "statutes/rivers-and-streams-act"  >}}) |
 | 6 | Nov 5/7  | [Mid-term Rapid Review]({{< ref "problems/review01"  >}}) | *No additional readings* |
 |  | Reading Break  |   |
-| 7 | Nov 19/21  |   |
+| 7 | Nov 19/21  | Alienation, Exit and Control  | [Basic Estates and Future Interests]({{< ref "concepts/basic-estates"  >}}) <br/>  [Blackburn v McCallum]({{< ref "cases/blackburn"  >}}) <br/> [Conveyancing Act]({{< ref "statutes/conveyancing-act"  >}}) <br/> [Re Walker]({{< ref "cases/walker"  >}}) <br/> [Tulk v Moxhay]({{< ref "cases/tulk"  >}}) <br/> [Wills Act]({{< ref "statutes/wills-act"  >}}) <br/>  |
 | 8 | Nov 26/28  |   |
 | 9 | Dec 3  |   |
 
