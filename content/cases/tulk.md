@@ -1,6 +1,6 @@
 ---
 class: case
-style: 'Tulk v Moxhay '
+title: 'Tulk v Moxhay '
 short: Tulk
 reporter: '(1848), 41 ER 1143 (Ch)'
 year: 1848
@@ -9,15 +9,10 @@ issue: Whether the restrictive covenant is valid.
 held: For plaintiff. Restrictive covenants run with the land, so are durable beyond the ownership of the contracting parties.
 public: true
 tags:
-  - use
   - restrictive-covenant
   - servitude
-  - easement
-published: false
+published: true
 ---
-
-
-
 
 *In the year 1808 the Plaintiff, being then the owner in fee of the vacant piece of ground in Leicester Square, as well as of several of the houses forming the Square, sold the piece of ground by the description of "Leicester Square garden or pleasure ground, with the equestrian statue then standing in the centre thereof, and the iron railing and stone work round the same," to one Elms in fee: and the deed of conveyance contained a covenant by Elms, for himself, his heirs, and assigns, with the Plaintiff, his heirs, executors, and administrators, "that Elms, his heirs, and assigns should, and would from time to time, and at all times thereafter at his and their own costs and charges, keep and maintain the said piece of ground and square garden, and the iron railing round the same in its then form, and in sufficient and proper repair as a square garden and pleasure ground, in an open state, uncovered with any buildings, in neat and ornamental order; and that it should be lawful for the inhabitants of Leicester Square, tenants of the Plaintiff, on payment of a reasonable rent for the same, to have keys at their own expense and the privilege of admission therewith at any time or times into the said square garden and pleasure ground."*
 
@@ -37,20 +32,4 @@ With respect to the observations of Lord Brougham in *Keppell v. Bailey*, he nev
 
 I think the cases cited before the Vice-Chancellor and this decision of the Master of the Rolls perfectly right, and, therefore, that this motion must be refused, with costs.
 
-{{< spoiler text="Learn more" id="more" >}}
-
-**Runs with the land:** The key to *Tulk v Moxhay* might be summarized by the idea that covenants "run with the land". 
-
-- Even though a restrictive covenant starts it's life as a kind of contractual agreement between neighbouring landowners, it can continue to live as a durable property right beyond that particular contractual relationship (if it meets certain criteria described below).
-
-- In this sense, covenants are perhaps between described as forging a relationship between *two pieces of land*. 
-
-**Dominant and servient tenements:** Two distinctive "parties" to this relationship are needed to fully understand the structure of this relationship where covenants run with the land.
-
-- **Servient tenement:** The land that *bears the burden* of the covenant. It is the land that is subject to one or more restrictions on use according to the covenant's terms.
-
-- **Dominant tenement:** The land that *enjoys the benefits* of the covenant. It is the land that gains something from the covenant (such as the benefit of peace and quiet in our easier example). 
-
-Every valid covenant must have a servient and a dominant tenement and these underline the basic structure of a restrictive covenant as a durable relationship between two pieces of land. 
-
-{{< /spoiler >}}
+*Motion dismissed.*

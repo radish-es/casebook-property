@@ -18,8 +18,12 @@ public: true
 tags:
   - estates
 links:
-  - url: content/cases/stcatherines.md
-    explanation: The feudal concepts of land tenure and estates in land set the stage for the courts' approaches to Indigenous land rights in the St. Catherine's Milling case. How do these feudal concepts relate to the idea of beneficial title described by some of the judges? 
+  - url: content/cases/walker.md
+    explanation: Can you identify one or more of the different interests described in the current excerpt in Re Walker? 
+  - url: content/cases/blackburn.md
+    explanation: How does the testamentary bequest in Blackburn constructed using the interests described in this excerpt? 
+  - url: content/concepts/tenure.md
+    explanation: Recall the underlying structure and rationale for the common law doctrine of estates.
 published: true
 ---
 

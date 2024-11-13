@@ -16,6 +16,9 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
+links:
+  - url: content/statutes/wills-act.md
+    explanation: How do the rules of interpretation in the Wills Act and the Conveyancing Act differ? Do these difference matter?
 published: true
 ---
 

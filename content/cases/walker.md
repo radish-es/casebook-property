@@ -13,6 +13,11 @@ tags:
   - estates
   - fee-simple
   - life-estate
+links:
+  - url: content/concepts/basic-estates.md
+    explanation: This short excerpt will give you a better understand of the basic concepts at play in the Walker case. 
+  - url: content/cases/blackburn.md
+    explanation: Both Walker and Blackburn address the idea of "restraints on alienation". Are such restraints ever allowed, and if so, when? 
 published: true
 ---
 

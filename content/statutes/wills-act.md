@@ -16,11 +16,14 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
+links:
+  - url: content/statutes/conveyancing-act.md
+    explanation: How do the rules of interpretation in the Wills Act and the Conveyancing Act differ? Do these difference matter?
 published: true
 ---
 
 <div id="statute">
 
-27 Where any real property is devised to any person without any words of limitation, such devise shall be construed to pass the fee simple or [either] the whole estate or interest which the testator had the power to dispose of by will in such real property, unless a contrary intention appears by the will.
+27 Where any real property is devised to any person without any words of limitation, such devise shall be construed to pass the fee simple or the whole estate or interest which the testator had the power to dispose of by will in such real property, unless a contrary intention appears by the will.
 
 </div>
