@@ -1,26 +1,27 @@
 ---
 class: case
-style: Re Walker
+title: Re Walker
 short: Walker
 reporter: '(1925), 56 OLR 517'
 year: 1925
-facts: The testator left his property to his wife, using the language of a fee simple estate. However, he added conditions on alienation to the bequest that would come into place upon his wife's death.
+facts: The testator left his property to his spouse, using the language of a fee simple estate. However, he added conditions on alienation to the bequest that would come into place upon his spouse's death.
 issue: Whether the conditions on the fee simple estate were valid.
 held: The conditions here were invalid, because they attempted to place a restraint on alienation on a fee simple, which is repugnant to the estate.
 public: true
 tags:
-  - transfer
+  - alienation
   - estates
-  - bequest
-  - tenure
-published: false
+  - fee-simple
+  - life-estate
+links:
+  - url: content/concepts/basic-estates.md
+    explanation: This short excerpt will give you a better understand of the basic concepts at play in the Walker case. 
+  - url: content/cases/blackburn.md
+    explanation: Both Walker and Blackburn address the idea of "restraints on alienation". Are such restraints ever allowed, and if so, when? 
+published: true
 ---
 
-
-
-
-
-### Middleton J.A. —
+## Middleton J.A. —
 
 An appeal from the judgment of Mr. Justice Riddell pronounced on the 27th September, 1924, declaring that the estate of the late Ellen Fitze Walker does not include any part of the estate of the late John Walker undisposed of by her at the time of her death.
 
