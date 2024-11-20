@@ -1,6 +1,6 @@
 ---
 class: case
-style: Nakashima v R
+title: Nakashima v R
 short: Nakashima
 reporter: 1947 CanLII 600 (CA EXC), 1947 CarswellNat 47, [1947] 4 D.L.R. 487, [1947] Ex. C.R. 486
 year: 1947
@@ -20,6 +20,7 @@ tags:
   - trusts
   - japanese-canadian-internment
 published: false
+
 ---
 
 
