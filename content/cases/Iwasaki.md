@@ -1,6 +1,6 @@
 ---
 class: case
-style: Iwasaki v R
+title: Iwasaki v R
 short: Iwasaki
 reporter: 1968 CanLII 1297 (CA EXC), 1 Ex CR 281
 year: 1968
@@ -14,17 +14,14 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - recognition
-  - transfer
-  - dejure-expropriation
   - trusts
-  - japanese-canadian-internment
-  - uncertainty
-published: false
+links:
+  - url: content/secondary/adams-stangerross.md
+    explanation: The authors in this excerpt disagree with the court's conclusion in Iwasaki related to the characterization of a trust and breach of that trust. What aspects of the Orders in Council issued are important for making that argument?
+  - url: content/cases/mclaren.md
+    explanation: Nowhere is the Iwasaki decision does the plaintiff claim or the court discuss the idea that the Canadian government expropriated the property of Japanese Canadians. Why do you think such a claim was omitted? 
+published: true
 ---
-
-
-
 
 ### Sheppard, D.J. —
 
@@ -54,7 +51,7 @@ and by repealing s. 12 and substituting therefor the following: 
 
 > (2) The Custodian may, notwithstanding anything contained in this Regulation, order that all or any property whatsoever, situated in any protected area of British Columbia, belonging to any person of the Japanese race shall, for the purpose of protecting the interests of the owner or any other person, be vested in the Custodian, and the Custodian shall have full power to administer such property for the benefit of all such interested persons, and shall release such property upon being satisfied that the interests aforesaid will not be prejudiced thereby. 
 
-> (3) For the purposes of the control and management of such property by the Custodian, the Consolidated Regulations Respecting Trading with the Enemy, (1939) shall apply mutatis mutandis to the same extent as if the property belonged to an enemy within the meaning of the said Consolidated Regulations. 
+> (3) For the purposes of the control and management of such property by the Custodian, the Consolidated Regulations Respecting Trading with the Enemy, (1939) shall apply *mutatis mutandis* to the same extent as if the property belonged to an enemy within the meaning of the said Consolidated Regulations. 
 
 The *Consolidated Regulations Respecting Trading with the Enemy (1939*) (ex. 83), which are incorporated by reference by s. 12(3), defines Custodian by s. 23(1), vests the property of the enemy in the Custodian, and by s. 24 (2) provides: 
 
@@ -142,7 +139,7 @@ In *Barnes v. Addy* (1874), L.R. 9 Ch. 244 and in *Mara v. Browne*, [1896] 1 
 
 > Now in this case we have to deal with certain persons who are trustees, and with certain other persons who are not trustees. That is a distinction to be borne in mind throughout the case. Those who create a trust clothe the trustee with a legal power and control over the trust property, imposing on him a corresponding responsibility. That responsibility may no doubt be extended in equity to others who are not properly trustees, if they are found either making themselves trustees *de son tort*, or actually participating in any fraudulent conduct of the trustee to the injury of the *cestui que trust*. But, on the other hand, strangers are not to be made constructive trustees merely because they act as the agents of trustees in transactions within their legal powers, transactions, perhaps of which a Court of Equity may disapprove, unless those agents receive and become chargeable with some part of the trust property, or unless they assist with knowledge in a dishonest and fraudulent design on the part of the trustees. Those are the principles, as it seems to me, which we must bear in mind in dealing with the facts of this case. If those principles were disregarded, I know not how any one could, in transactions admitting of doubt as to the view which a Court of Equity might take of them, safely discharge the office of solicitor, of banker, or of agent of any sort to trustees. 
 
-Equity does not give damages: *Erlanger v. New Sombrero Phosphate Co*. (1878), 3 App. Cas. 1218, except where provided by *Lord Cairns Act*, 1858 (U.K.), c. 27, s. 2, in lieu of injunction or specific performance and that is not this case. However, this suppliant alleges a trust and breach thereof as the basis of his petition, hence the claim for damages may be read as a claim for the personal remedy of account as The remedy arising out of a trust. The pleadings may be taken to allege: 
+Equity does not give damages: *Erlanger v. New Sombrero Phosphate Co*. (1878), 3 App. Cas. 1218, except where provided by *Lord Cairns Act*, 1858 (U.K.), c. 27, s. 2, in lieu of injunction or specific performance and that is not this case. However, this suppliant alleges a trust and breach thereof as the basis of his petition, hence the claim for damages may be read as a claim for the personal remedy of account as the remedy arising out of a trust. The pleadings may be taken to allege: 
 
 I. A trust in the Custodian to the suppliant under Orders in Council 1665 and 2483. 
 
@@ -152,7 +149,7 @@ III. For such breach the Crown is responsible in account.
 
 Those allegations have not been made good. 
 
-### I. The suppliant contends that the lands vested in the Custodian as trustee and that trust is inferred under the following circumstances:
+**I. The suppliant contends that the lands vested in the Custodian as trustee and that trust is inferred under the following circumstances**
 
 The suppliant contends that the trust arises because any vesting under Orders in Council 1665 and 2483 is subject to the provisions of s. 12 (P.C. 2483) (ex. 11) which provide that the vesting is "as a protective measure only" and limited to "the control and management of the Custodian" [s-s. (1)] and "for the purpose of protecting the interests of the owner or other person" (s. 12(2)) and to administer "for the benefit of all such interested persons and shall release such property upon being satisfied that the interests aforesaid will not be prejudiced thereby" (s. 12 (2)). "For the purpose of control and management" the *Consolidated Regulations* are made applicable (s. 12(3)). 
 
@@ -170,6 +167,10 @@ It therefore follows that the Custodian is under no trust in favour of an alien 
 
 The *Nakashima* case refers to *Consolidated Regulations Respecting Trading with the Enemy (1939)* contained in Order in Council 3959 of August 21, 1940 (ex. 95). Those Regulations were cancelled on November 13, 1943, and *Revised Regulations Respecting Trading with the Enemy (1943)* [P.C. 8526, [1943] 4 C.W.O.R. 713] were substituted therefor (ex. 28), but these *Revised Regulations (1943)* have not lessened the powers of the Custodian in that the equivalent sections are included sometimes under different numbers. The Custodian is vested with the property (s. 21(1)) and all the rights of the enemy (here evacuee) (s. 21(2) and s. 22), with power of sale (ss. 38, 40(1)), with discretion to release (s. 39) and to deal with property (ss. 21(2), 38, 39); vested property is excepted from attachment (s. 49); the Custodian is not liable for charge or tax (s. 50) and may deduct his charges (s. 44). There appears to be no material lessening of the powers of the Custodian by the *Revised Regulations (1943)* and hence it is immaterial whether there is applicable to the Custodian the *Consolidated Regulations*, P.C. 3959, referred to in the *Nakashima* case or the *Revised Regulations (1943).* Both depend upon the *War Measures Act*, R.S.C. 1927, c. 206, s. 3(2) and hence are conditioned that once the Governor in Council has considered "that the Order is necessary or advisable for any of the purposes mentioned that is the end of the matter": *Nakashima* case, p. 504 D.L.R., p. 504 Ex. C.R. 
 
+[...]
+
+<!--
+
 The suppliant contends that the Orders in Council 1665, 2483 and 469 are void in that the words "any person of the Japanese race", are so vague and indefinite as to be without clear meaning, and as such race is the basis of application of Orders in Council, therefore the Orders in Council are void. If that contention were sound, the contention would put the suppliant out of Court in that the suit would be for the Custodian's wrongful taking of the lands and the remedy would be by rescission as in *Richards v. Collins*, *supra*, but not for trust as alleged in the petition; in this proceeding there could be no rescission for want of necessary parties such as Salt Spring Lands Ltd. 
 
 In support of his contention the suppliant has cited *Noble and Wolf v. Alley*, [1951] 1 D.L.R. 321, [1951] S.C.R. 64; in that judgment other words excluding sale to designated races appeared in a restrictive covenant which covenant the Court was asked to enforce specifically by way of injunction, and this the Court refused to do because a restrictive covenant to be enforced must have the same clarity as the Court requires in a condition subsequent to a grant. As a condition subsequent is subsequent to and in derogation of an absolute grant, the condition subsequent must be clearly expressed else it is defeated by the preceding intention to grant. Hence, that case is distinguishable as different words are there used in other circumstances, that is, in a restrictive covenant. Here the words "any person of the Japanese race" appear in Orders in Council, which Orders in Council have been held valid in the *Nakashima* case. Also, in *Reference re Deportation of Japanese*, the words "persons of the Japanese race" appear in Order in Council P.C. 7355 [[1945] 4 S.O.R. 365] and in the recitals of Order in Council P.C. 7357 [[1945] 4 S.O.R. 369], and the words "of the Japanese race" appear in s. 2 of Order in Council 7355 and in ss. 2 and 4 of Order in Council 7357; and all Orders in Council were held valid in the Supreme Court of Canada ([1946] 3 D.L.R. 321, [1946] S.C.R. 248) and in the Judicial Committee of the Privy Council ([1947] 1 D.L.R. 577, [1947] A.C. 87). Under such judgments the words must be taken to be not vague or indefinite and not affecting the validity of the Orders in Council. 
@@ -184,7 +185,7 @@ The suppliant contends that there is no evidence that he is of the Japanese race
 
 Order in Council 9760 (ex. 3) required every person of the Japanese race to register with a Justice of the Peace or the R.C.M.P. There was an order to leave the protected area (ex. 9). The suppliant registered to leave (ex. 12) and was evacuated (ex. 19) as shown by letter of September 17, 1942, by the suppliant's solicitor. The suppliant's lands were vested in the Custodian because he was of the Japanese race (ex. 22). Finally, under Order in Council 1810, a commission was set up to hear claims of persons of the Japanese race (ex. 58) of which the suppliant was notified (ex. 63). The suppliant then appeared as a person of the Japanese race with counsel before the commissioner and there gave evidence (ex. 86). Following the hearing the lands were valued by the commissioner at $12,000 (ex. 73) and the excess over the previous selling price was paid to the suppliant or on his order (exs. 77, 78 and 80) and he gave a release (ex. 75). The suppliant was of the Japanese race; that is more readily found than the alternative, that he received money under false pretences. 
 
-### II. The suppliant further contends that there was a breach of trust: the suppliant contends that Order in Council 469 is void as in derogation of the War Measures Act, R.S.C. 1927, c. 206, s. 3(2), which reads:
+**II. The suppliant further contends that there was a breach of trust: the suppliant contends that Order in Council 469 is void as in derogation of the War Measures Act, R.S.C. 1927, c. 206, s. 3(2), which reads:**
 
 > (2) All orders and regulations made under this section shall have the force of law, and shall be enforced in such manner and by such courts, officers and authorities as the Governor in Council may prescribe, and may be varied, extended or revoked by any subsequent order or regulation; but if any order or regulation is varied, extended or revoked, neither the previous operation thereof nor anything duly done thereunder, shall be affected thereby, nor shall any right, privilege, obligation or liability acquired, accrued, accruing or incurred thereunder be affected by such variation, extension or revocation. 
 
@@ -222,7 +223,7 @@ The position of this Custodian is stronger than that of the bank manager in *Ba
 
 There is neither alleged nor proved any bad faith by the Custodian in the case at bar and the finding of the commissioner, Bird, J.A., precludes any bad faith in selling the property. Hence as there was no trust there could be no breach and assuming a trust, there was no breach proven in this instance. 
 
-### Defences
+**Defences**
 
 The Crown as respondent relies upon the limitation that any action for the recovery of land must be commenced within 20 years: *Statute of Limitations*, R.S.B.C. 1960, c. 370, s. 16. Here no land may be recovered because of the absence of necessary parties, and it has not been argued whether or not the remedy *in personam* has been barred by analogy after some shorter period, as in *Knox v. Gye* (1871), L.R. 5 H.L. 656. Hence the defence by limitation need not be decided. 
 
@@ -247,3 +248,5 @@ The basis of the suppliant's complaint is without foundation. The complaint is t
 Further, the suppliant contended before the commissioner that the lands were of greater value than that realized by the Custodian; and the commissioner reported the additional value of the lands and that value so found was paid to the suppliant under a release under seal of all his claims. That release still stands. 
 
 In conclusion, there is no merit in the suppliant's petition of right, therefore the proceeding is dismissed with costs payable by the suppliant to the Crown as respondent. 
+
+-->

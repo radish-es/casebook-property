@@ -2,7 +2,7 @@
 title: Restraining Alienation
 short: Restraining Alienation
 class: problem
-description: 
+description: West Egg's residents confront challenges around the legal tools available to restrain alienation and thereby influence the future of their community. 
 summary: 
 image: /imgs/cottage.jpg
 imgcaption: Matthew Feeney on Unsplash.
