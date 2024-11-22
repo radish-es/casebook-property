@@ -2,10 +2,10 @@
 title: A Letter to the Prime Minister
 short: Letter
 class: problem
-description: 
+description: A letter to Prime Minister WIlliam Lyon Mackenzie King serves at the starting point for addressing the history of Japanese-Canadian dispossession and internment. 
 summary: 
-image: 
-imgcaption: 
+image: /imgs/vancouver-escorted.jpg
+imgcaption: Japanese Canadian children being escorted by Vancouver police. Vancouver Public Library @ Flickr Commons.
 links:
   - url: content/concepts/trusts.md
     explanation: The concept of a "trust" is one with a long history--this short excepts provides brief background and a sketch of the structures involved. 
@@ -13,11 +13,13 @@ links:
     explanation: The dispossession of Japanese Canadians from British Columbia during WWII involved a complex legal structure designed to hold, and ultimately alienate (or "liquidate"), their property. This article explains some background to these events and argues for a particular legal interpretation of the property arrangements involved.
   - url: content/cases/iwasaki.md
     explanation: Here the court is pressed to interpret the taking of Japanese Canadians' property as giving rise to a form of legal trust. 
+  - url: content/cases/duthie.md
+    explanation: What exactly do the obligations of a trustee look like? To whom are those obligations owed?
 published: true
 weight: 9
 ---
 
-In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter to Prime Minister William Lyon Mackenzie King, protesting the forced sale of her home in Victoria, British Columbia:[^findlay2023]
+In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter to Prime Minister William Lyon Mackenzie King, protesting the forced sale of her home in Victoria, British Columbia under the wartime legal regime that had emerged to dispossess Japanese Canadians of their property and "liquidate" their belongings:[^findlay2023]
 
 > Dear Sir:
 >
@@ -45,7 +47,6 @@ In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter t
 
 **(1) How might the federal government's "promises", described by Toyo Takahashi, be interpreted as giving rise to a legal trust, in which the Director of the Office of the Custodian acts as the trustee of Takahashi's property? What would be the implications of such an interpretation? Why was it rejected by the Canadian courts?**
 
-**(2) How does Toyo Takahashi's letter link together ideas about "recognition", "property ownership" and "Canadian citizenship"?**
-
+**(2) What does Toyo Takahashi's letter suggest about the link between the "problem of recognition" in property law, ownership, and the idea of Canadian citizenship?** 
 
 [^findlay2023]: Quoted in Katlin Findlay, Trevor Wideman and Yasmin Amaratunga, "'After All Our Efforts at Good Citizenship': Propriety, Property, and Belonging in the Dispossession of Japanese Canadians, 1940s" (2023) 104:1 *The Canadian Historical Review* 76 at 84-85.

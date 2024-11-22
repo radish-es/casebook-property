@@ -12,6 +12,9 @@ class: secondary
 public: true
 tags:
   - trusts
+links:
+  - url: content/cases/iwasaki.md
+    explanation: The conclusion put forward here by Adams and Stranger-Ross regarding the role of trusts in the dispossession of Japanese Canadians is rejected by the court in Iwasaki. Why? 
 published: true
 ---
 

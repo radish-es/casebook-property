@@ -3,6 +3,7 @@ title: Alienation, Exit and Control
 short: Week 7
 published: true
 class: lesson
+description: Having now studied some of the historical basis for problems of recognition and exclusion, this week we move on to examine the context of exit, i.e. how owners transfer their rights in land and thereby disentangle themselves (wholly or partially) from property relations.
 weight: 7
 image: /imgs/exit.jpg
 imgcaption:  Michael Jasmund on Unsplash

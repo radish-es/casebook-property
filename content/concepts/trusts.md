@@ -18,8 +18,12 @@ public: true
 tags:
   - trusts
 links:
-  - url: content/cases/stcatherines.md
-    explanation: The feudal concepts of land tenure and estates in land set the stage for the courts' approaches to Indigenous land rights in the St. Catherine's Milling case. How do these feudal concepts relate to the idea of beneficial title described by some of the judges? 
+  - url: content/cases/duthie.md
+    explanation: What exactly do the obligations of a trustee look like? To whom are those obligations owed? 
+  - url: content/cases/iwasaki.md
+    explanation: In this case, the claimant argues that orders in council passed pursuant to the War Measures Act created a trust and that the federal appointees responsible for the property of Japanese-Canadians acted in breach of that trust. 
+  - url: content/secondary/adams-stangerross.md
+    explanation: The authors in this excerpt argue that the concept of a "trust" should have been applied to analyze the federal government's treatment of Japanese Canadians' property. How might the different components of a trust be mapped onto this context?
 published: true
 ---
 
