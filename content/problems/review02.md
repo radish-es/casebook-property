@@ -32,7 +32,7 @@ weight: 9
 
 - Explain the significance and function of the distinction between "law" and "equity" using trust and the restrictive covenant as examples
 
--In *Iwasaki v R*, the Court finds that "the powers, and particularly the discretionary powers of the Custodian are inconsistent with any trust." Do you agree? Explain. 
+- In *Iwasaki v R*, the Court finds that "the powers, and particularly the discretionary powers of the Custodian are inconsistent with any trust." Do you agree? Explain. 
 
 - Why do you think the claimant in *Iwasaki v R* omitted any claim that their property was unlawfully expropriated?
 
