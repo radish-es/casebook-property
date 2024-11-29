@@ -18,5 +18,5 @@ This is the official course schedule. Please note that the schedule is subject t
 |  | Reading Break  |   |
 | 7 | Nov 19/21  | [Alienation, Exit and Control]({{< ref "lessons/week07"  >}})  | [Basic Estates and Future Interests]({{< ref "concepts/basic-estates"  >}}) <br/>  [Blackburn v McCallum]({{< ref "cases/blackburn"  >}}) <br/> [Conveyancing Act]({{< ref "statutes/conveyancing-act"  >}}) <br/> [Re Walker]({{< ref "cases/walker"  >}}) <br/> [Tulk v Moxhay]({{< ref "cases/tulk"  >}}) <br/> [Wills Act]({{< ref "statutes/wills-act"  >}}) <br/>  |
 | 8 | Nov 26/28  |  [Trusts, Property and Citizenship]({{< ref "lessons/week08"  >}})  | [Duthie v Gallagher & Duthie]({{< ref "cases/duthie"  >}}) <br/> [Iwasaki v R]({{< ref "cases/iwasaki"  >}}) <br/> [The Unlawful Dispossession of Japanese Canadians]({{< ref "secondary/adams-stangerross"  >}}) <br/> [Trusts]({{< ref "concepts/trusts"  >}}) <br/>  |
-| 9 | Dec 3  |  [End-of-term Rapid Review]({{< ref "problems/review02"  >}})  |
+| 9 | Dec 3  |  [End-of-term Rapid Review]({{< ref "problems/review02"  >}})  | *No additional readings* |
 
