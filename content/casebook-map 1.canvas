@@ -7,7 +7,7 @@
 		{"type":"file","file":"cases/didow.md","id":"a9d6587ee5ae1caa","x":146,"y":1279,"width":400,"height":321,"color":"2"},
 		{"type":"file","file":"cases/tsilhqotin.md","id":"dd8f1cf3d5ddc495","x":1501,"y":1117,"width":400,"height":322,"color":"2"},
 		{"type":"file","file":"cases/beals.md","id":"c8be208155a93b3f","x":2434,"y":-303,"width":400,"height":183,"color":"2"},
-		{"type":"file","file":"cases/mclaren-scc.md","id":"a43ed11a53732d33","x":4682,"y":9,"width":400,"height":215,"color":"5"},
+		{"type":"file","file":"cases/mclaren.md","id":"a43ed11a53732d33","x":4682,"y":9,"width":400,"height":215,"color":"5"},
 		{"type":"file","file":"cases/pennsylvania-coal.md","id":"c2153a368d941806","x":4682,"y":583,"width":400,"height":226,"color":"5"},
 		{"type":"file","file":"cases/cappy.md","id":"7b38e31a4635fa06","x":6242,"y":993,"width":400,"height":301,"color":"5"},
 		{"type":"file","file":"cases/saintromuald.md","id":"625ad610c5ce3510","x":6880,"y":993,"width":400,"height":301,"color":"5"},
@@ -17,7 +17,6 @@
 		{"type":"file","file":"cases/canada-paper.md","id":"be3d0d7321a294d1","x":5908,"y":-601,"width":400,"height":178,"color":"5"},
 		{"type":"file","file":"cases/tulk.md","id":"b1ae2b77e454a8ef","x":6242,"y":-316,"width":400,"height":230,"color":"5"},
 		{"type":"text","text":"Explaining Use and Exclusion","id":"096150cd985b9150","x":3250,"y":-230,"width":250,"height":84,"color":"5"},
-		{"type":"file","file":"secondary/house-debates.md","id":"271584b66df0fe9c","x":5341,"y":-4,"width":400,"height":306,"color":"5"},
 		{"type":"file","file":"secondary/treaty1725.md","id":"cec614f7c3a70b78","x":-1107,"y":446,"width":400,"height":200,"color":"2"},
 		{"type":"text","text":"Modern Treaty","id":"20340792460c2f54","x":-644,"y":1219,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"Trachuk\n","id":"10a1088ed034defc","x":963,"y":893,"width":250,"height":60,"color":"2"},
@@ -64,7 +63,9 @@
 		{"type":"file","file":"cases/walker.md","id":"e11a4400f7913aeb","x":10457,"y":-428,"width":400,"height":289,"color":"3"},
 		{"type":"file","file":"cases/blackburn.md","id":"aef3ed302424bf62","x":11000,"y":-428,"width":400,"height":289,"color":"3"},
 		{"type":"file","file":"secondary/adams-stangerross.md","id":"be64891bf5be5bf2","x":12317,"y":-694,"width":400,"height":400,"color":"3"},
-		{"type":"file","file":"cases/Iwasaki.md","id":"6f3c9c54a0922f1f","x":11718,"y":-529,"width":400,"height":203,"color":"3"}
+		{"type":"file","file":"cases/Iwasaki.md","id":"6f3c9c54a0922f1f","x":11718,"y":-529,"width":400,"height":203,"color":"3"},
+		{"id":"989ab058390a0981","type":"text","text":"Term 2 Topics\n\nAboriginal title\nRight to shelter\nVested rights\nDefacto exprorpiatio\nPossession\nAdverse possession\nRestrictive covenants\nQualified estates\n","x":-2427,"y":-930,"width":250,"height":690},
+		{"type":"file","file":"secondary/house-debates.md","id":"271584b66df0fe9c","x":5440,"y":-63,"width":400,"height":306,"color":"5"}
 	],
 	"edges":[
 		{"id":"3a2c8a43cbe636ff","fromNode":"1075a798e8f5b58a","fromSide":"right","toNode":"1d9b990893683533","toSide":"left","label":"exclusion vs\ndamages"},

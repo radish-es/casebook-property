@@ -4,14 +4,14 @@ style: R v Cappy
 short: Cappy
 reporter: 1952 CarswellOnt 287, 1952 CanLII 280 (ON CA)
 year: 1952
-facts: The defendant a stadium in 1951 and began to conduct stock car racing on it. IN 1948, the municipality had passed a bylaw that prohibited the use of land for non-residential puproses except where they were a continuation of pre-existing use. The stadium had previously been used for entertainment purposes, including some racing of other kinds, but not stock car racing. 
+facts: The defendant a stadium in 1951 and began to conduct stock car racing on it. In 1948, the municipality had passed a bylaw that prohibited the use of land for non-residential purposes except where they were a continuation of pre-existing use. The stadium had previously been used for entertainment purposes, including some racing of other kinds, but not stock car racing.
 issue: Whether stock car racing amounted to a continuation of pre-existing use.
-held: For defendant. The majority found that the bylaw should be interpreted broadly, and that the stadium continued to be used for the same purpose, entertainment. The dissent argued that the premises were remade for stock car racing, and the switch changed the character of the land. 
+held: For defendant. The majority found that the bylaw should be interpreted broadly, and that the stadium continued to be used for the same purpose, entertainment. The dissent argued that the premises were remade for stock car racing, and the switch changed the character of the land.
 public: true
-sources: 
+sources:
   - source_name: CanLii
-    source_url: 'https://canlii.ca/t/gwclr'
-    license: 'https://www.canlii.org/en/info/terms.html#license'
+    source_url: https://canlii.ca/t/gwclr
+    license: https://www.canlii.org/en/info/terms.html#license
 tags:
   - use
   - land-use-regulation
