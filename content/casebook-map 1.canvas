@@ -41,7 +41,6 @@
 		{"type":"file","file":"statutes/cusma.md","id":"6b5d5ecf718a7f69","x":8078,"y":1761,"width":400,"height":253,"color":"5"},
 		{"type":"file","file":"cases/harrison.md","id":"d9795b7d31033bdb","x":3175,"y":-663,"width":400,"height":292,"color":"5"},
 		{"type":"text","text":"What is the nature of state power to control land uses? What is the \"police power\" or power to regulate land for the general welfare?","id":"9c0dd863998b0b1d","x":3833,"y":194,"width":250,"height":206,"color":"5"},
-		{"type":"text","text":"Nova Scotia Expropriation Act","id":"09d377d87e840d4c","x":5669,"y":449,"width":250,"height":60},
 		{"type":"text","text":"Police power issue: Court is really asking, \"does the change in use represent a new threat or risk of harm of the kind the police power is meant to address?\" -- Binnie thinks no, there is no new threat presented; Gothier thinks yes, the new threat is one to \"public morals\" (as determine by the local government). The disagreement may well chalk up to the question of whether or not the general welfare powers of the city include powers over moral regulation.","id":"515d1250daa8bfcd","x":6928,"y":521,"width":444,"height":277},
 		{"type":"file","file":"cases/belfast.md","id":"d44413955fd063df","x":5141,"y":342,"width":400,"height":275,"color":"5"},
 		{"type":"file","file":"context/mikmaw-land-tenure.md","id":"63489014487ba353","x":-1600,"y":420,"width":400,"height":252,"color":"2"},
@@ -64,7 +63,7 @@
 		{"type":"file","file":"cases/blackburn.md","id":"aef3ed302424bf62","x":11000,"y":-428,"width":400,"height":289,"color":"3"},
 		{"type":"file","file":"secondary/adams-stangerross.md","id":"be64891bf5be5bf2","x":12317,"y":-694,"width":400,"height":400,"color":"3"},
 		{"type":"file","file":"cases/Iwasaki.md","id":"6f3c9c54a0922f1f","x":11718,"y":-529,"width":400,"height":203,"color":"3"},
-		{"id":"989ab058390a0981","type":"text","text":"Term 2 Topics\n\nAboriginal title\nRight to shelter\nVested rights\nDefacto exprorpiatio\nPossession\nAdverse possession\nRestrictive covenants\nQualified estates\n","x":-2427,"y":-930,"width":250,"height":690},
+		{"id":"989ab058390a0981","type":"text","text":"Term 2 Topics\n\n1. Expropriation/police power / Acquired rights\n\t1. Hodge\n\t2. OD Cars v Belfast\n\t3. Mariner Estate\n\t4. Holmes?\n\t5. Cappy\n\t6. St. Romauld\n3. Aboriginal title\n4. Right to shelter / housing rights\n5. Restrictive covenants/Qualified estates \n6. Possession / adverse possession\n7. Trusts / Reserve lands / Geurin\n8. Review? Planning? Expropriation? \n\n\n\n","x":-2427,"y":-930,"width":387,"height":690},
 		{"type":"file","file":"secondary/house-debates.md","id":"271584b66df0fe9c","x":5440,"y":-63,"width":400,"height":306,"color":"5"}
 	],
 	"edges":[
