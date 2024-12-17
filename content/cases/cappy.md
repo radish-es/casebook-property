@@ -13,10 +13,8 @@ sources:
     source_url: https://canlii.ca/t/gwclr
     license: https://www.canlii.org/en/info/terms.html#license
 tags:
-  - use
-  - land-use-regulation
   - acquired-rights
-published: false
+published: true
 ---
 
 

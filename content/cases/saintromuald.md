@@ -14,10 +14,8 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - use
-  - land-use-regulation
   - acquired-rights
-published: false
+published: true
 ---
 
 

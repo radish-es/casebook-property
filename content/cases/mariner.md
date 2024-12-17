@@ -16,10 +16,8 @@ sources:
     source_url: 'https://decisia.lexum.com/nsc/nsca/en/item/13502/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 tags:
-  - use
-  - land-use-regulation
   - defacto-expropriation
-published: false
+published: true
 ---
 
 
