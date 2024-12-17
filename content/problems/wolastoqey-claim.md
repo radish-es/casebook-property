@@ -21,7 +21,7 @@ weight: 3
 
 In 2021, the Wolastoqey Nation filed an original Statement of Claim against the Province of New Brunswick and other parties, including seven of the largest forestry companies in the province and their subsidiaries, for a declaration of Aboriginal title--i.e., constitutionally recognized and affirmed land rights--in their traditional territory, for recovery of certain lands held by the companies, for damages and compensation from the Crown, and other remedies. 
 
-For our problem this week, please review the relevant portions of the Statement of Claim, reproduced below. Then read carefully ["The Wolastoqey Aboriginal Title Claim: Information for the public"](https://www2.gnb.ca/content/gnb/en/corporate/promo/wolastoqey-aboriginal-title-claim.html) statement posted by the Province of New Brunswick on its website. 
+For our problem this week, please review the relevant portions of the Statement of Claim, reproduced below. Then read carefully ["The Wolastoqey Aboriginal Title Claim: Information for the public"](https://web.archive.org/web/20241003181914/https://www2.gnb.ca/content/gnb/en/corporate/promo/wolastoqey-aboriginal-title-claim.html) statement posted by the Province of New Brunswick on its website. 
 
 1. **In what ways is the reasoning of the various courts in the *St. Catherine's Milling* case reflected in Government of New Brunswick's public statement? Why does this matter, given that the common law doctrine of Aboriginal title has changed significantly in the century or more since *St. Catherine's Milling* was decided (as we will see later in the course)?**
 
