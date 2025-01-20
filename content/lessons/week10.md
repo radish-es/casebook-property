@@ -14,12 +14,17 @@ objectives:
 ---
 
 Expropriation/police power / Acquired rights
-	1. Hodge
-	2. OD Cars v Belfast
+	
 	3. Mariner Estate
+	( CPR? short excerpt?)
+	4. Anapolis Group
 	4. Holmes?
 	5. Cappy
 	6. St. Romauld
+
+
+
+
 
 
 ## Our Problem this Week

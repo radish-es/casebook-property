@@ -1,6 +1,6 @@
 ---
 class: case
-style: Annapolis Group Inc. v Halifax Regional Municipality
+title: Annapolis Group Inc. v Halifax Regional Municipality
 short: Annapolis Group
 reporter: 2022 SCC 36
 year: 2022
@@ -17,12 +17,12 @@ tags:
   - land-use-regulation
   - defacto-expropriation
   - trespass
-published: false
+published: true
 ---
 
-### Côté, Brown JJ. --
+## Côté, Brown JJ. --
  
-#### I. Overview
+### I. Overview
 
 This appeal calls upon the Court to clarify the circumstances in which state regulation of land use may effect a *de facto* or (as we will refer to it) “constructive” taking of private property. 
 
@@ -32,9 +32,9 @@ Although unsuccessful at first instance, Halifax persuaded the Nova Scotia Court
 
 We would allow Annapolis’ appeal. 
 
-> [...]
+[...]
 
-#### II. Factual Background
+### II. Factual Background
 
 Over time from the 1950s, Annapolis acquired the subject property, comprising 965 acres of land ("Annapolis Lands" or "Lands"), with the intention of eventually securing enhanced development rights and reselling it.
 
@@ -48,11 +48,11 @@ At issue in this appeal is Annapolis’ allegation of a constructive taking. Spe
 
 On March 11, 2019, Halifax moved for partial summary judgment of Annapolis’ claim, pursuant to r. 13 of the Nova Scotia Civil Procedure Rules. In its motion, Halifax sought the dismissal of Annapolis’ constructive taking claim and urged the motion judge to find that, as a matter of law, a constructive taking cannot result from Halifax refusing to amend the Planning Strategy and associated land use by-laws. Annapolis resisted the motion, arguing that its claim raises genuine issues of material fact requiring a trial.
 
-> [...]
+[...]
 
-#### V. Analysis
+### V. Analysis
 
-##### A. Overview of the Law of Takings
+#### A. Overview of the Law of Takings
 
 It is useful to begin with a brief overview of the law of takings. Given the facts of this appeal, our focus is on expropriation through regulation — which, again, we refer to as a “constructive taking” in preference to other commonly applied terms such as “*de facto*” or “regulatory taking”, as in our view it more accurately captures the nature of the state action at issue and the effect on the landowner (see e.g., M. Lavoie, “Canadian Common Law and Civil Law Approaches to Constructive Takings: A Comparative Economic Perspective” (2010), 42 Ottawa L. Rev. 229).
 
@@ -64,17 +64,17 @@ A series of lower court judgments affirm that, in general, Canadian courts requi
 
 At common law, taking of property by the state must be authorized by law, and triggers a presumptive right to compensation which can be displaced only by clear statutory language showing a contrary intention — that is, an intention *not* to compensate (see P. A. Warchuk, “Rethinking Compensation for Expropriation” (2015), 48 U.B.C. L. Rev. 655, at pp. 656 and 678-81). This was recognized in *Attorney-General v. De Keyser’s Royal Hotel*, [1920] A.C. 508 (H.L.), wherein Lord Atkinson stated: “The recognized rule for the construction of statutes is that, unless the words of the statute clearly so demand, a statute is not to be construed so as to take away the property of a subject without compensation” (p. 542). 
 
-> [...]
+[...]
 
 This legal backdrop brings us to *CPR*, and its elaboration of the common law rule in the form of a two-part test for showing a constructive taking: “... (1) an acquisition of *a beneficial interest* in the property or flowing from it, and (2) removal of all reasonable uses of the property ...” (para. 30 (emphasis added), citing *Mariner*, at p. 716; *Manitoba Fisheries* ; *Tener* ). The issues present in this appeal require us to consider the meaning of a “beneficial interest in the property or flowing from it” under the first part of that test. In bringing greater clarity to this aspect of the *CPR* test, we do not change the doctrine of constructive takings, but simply apply it to the facts of the present dispute. As we will explain, the Court in *CPR* did not use “beneficial interest” in the technical sense that it carries in the domain of equity. Rather, a “beneficial interest” is to be more broadly understood as an “advantage” — hence the Court’s coupling of “beneficial interest” with the phrase “or flowing from [the property]”. Clearly, if the interest acquired by the state can be one which *flows from* the property, what must be shown by the property owner can fall short of an *actual* acquisition by the state.
 
 Further, we must also decide the relevance, if any, under the second part of the test of the public authority’s intended use of the land.
 
-##### B. “Beneficial Interest"
+#### B. “Beneficial Interest"
 
 The Court of Appeal, it will be recalled, held that the first part of the test stated in *CPR* — the “acquisition of a beneficial interest in the property or flowing from it” — requires Annapolis to show that Halifax *actually acquired* the Lands. Deciding whether this is so requires that we give meaning to the expression “beneficial interest”, as it was used in *CPR*. In our view, that meaning is best appreciated by considering the authorities upon which *CPR* relied in stating that condition, and especially this Court’s decisions in *Manitoba Fisheries* and *Tener* . As we will explain, doing so reveals that actual acquisition is not necessary; rather, the obtaining by Halifax of an *advantage* in respect of the Lands suffices.
 
-> [...]
+[...]
 
 In our view, the foregoing jurisprudence — upon which the *CPR* test was expressly stated as resting — supports an understanding of “beneficial interest” as concerned with the *effect* of a regulatory measure on the landowner, and not with whether a proprietary interest was actually acquired by the government. Conversely, that same jurisprudence supports the view that “beneficial interest”, as that term appears in the first part of the test stated in *CPR*, refers *not* to actual acquisition of the equity that rests with the beneficial owner of property connoting rights of use and enjoyment, but to an “advantage” flowing to the state. We say this for two reasons.
 
@@ -88,7 +88,7 @@ As a final observation, we acknowledge that, in addition to *Manitoba Fisheries*
 
 *Mariner* illustrates that regulation alone will not satisfy the test for a constructive taking; there must be something more “beyond drastically limiting use or reducing the value of the owner’s property” (p. 716). When this threshold is crossed — that is, where all reasonable uses have been removed — a regulation may be, “*in effect*, confiscation” (p. 727 (emphasis added)). To be clear, *Mariner* does not stray from focussing on both the *effect* of the taking and the *advantage* acquired by the government, as required by this Court’s jurisprudence and affirmed in the test set out in *CPR*. Rather, and consistent with both *Manitoba Fisheries* and *Tener* , *Mariner* asked whether the *effect* of the regulation was to remove an interest in land (*Mariner*, at p. 722, referring to *Tener* ).
 
-> [...]
+[...]
 
 In sum, we affirm that the test to show a constructive taking is that stated by *CPR*, properly understood. The reviewing court must decide: (1) whether the public authority has acquired a *beneficial interest* in the property or flowing from it (i.e. an advantage); and (2) whether the state action has removed all reasonable uses of the property. This gives effect to this Court’s acknowledgement of a common law right to compensation where the two-part *CPR* test is satisfied. It accords with imperatives of justice and fairness, which underpin the court’s assessment of expropriation claims, and remedies situations where cases do not neatly fit within the expropriation legislative framework and would otherwise “fall between the cracks” (Warchuk, at pp. 686 and 690).
 
@@ -100,9 +100,11 @@ b. The nature of the land and its historical or current uses. Where, for example
 
 c.  The substance of the alleged advantage. The case law reveals that an advantage may take various forms. For example, permanent or indefinite denial of access to the property or the government’s permanent or indefinite occupation of the property would constitute a taking (*Sun Construction* , at para. 15). Likewise, regulations that leave a rights holder with only notional use of the land, deprived of all economic value, would satisfy the test. It could also include confining the uses of private land to public purposes, such as conservation, recreation, or institutional uses such as parks, schools, or municipal buildings.
 
-> [...]
+[...]
 
-##### D. Intention
+<!--
+
+#### D. Intention
 
 The courts below disagreed on whether the intention of a public authority is relevant to the analysis of constructive taking claims. The motion judge, at para. 35, cited this Court’s definition of disguised expropriation articulated in Lorraine, at para. 2, which included “an ulterior motive”, and concluded that this was equally applicable to finding a constructive taking at common law (para. 36). The Court of Appeal, however, held that “[m]otive is not a material fact in the context of a [constructive] expropriation claim” (para. 82).
 
@@ -118,11 +120,13 @@ The Quebec Court of Appeal’s decision in *Benjamin* further illustrates how in
 
 In short, the underlying objective pursued by a public authority may provide supporting evidence for a constructive taking claim. But it is neither necessary nor sufficient. The case law indicates that the assessment of intent has proved helpful in distinguishing between mere regulations in the public interest and takings requiring compensation at common law. What ultimately matters, however, *irrespective* of matters of intent, is whether the state-imposed restrictions on the property conferred an advantage on the state that *effectively* amounts to a taking (*Tener*, at pp. 563-65, per Estey J., and pp. 551-52, per Wilson J.; *Manitoba Fisheries* , at p. 118).
 
-##### E. Application
+-->
 
-> [...]
+#### E. Application
 
-###### (1) Halifax’s Alleged Acquisition of a Beneficial Interest in the Annapolis Lands
+[...]
+
+##### (1) Halifax’s Alleged Acquisition of a Beneficial Interest in the Annapolis Lands
 
 First, it is disputed whether Halifax is promoting the Annapolis Lands as a public park, for instance by encouraging public use and holding them out as a park, as Annapolis alleges. This disputed fact is material because, if proven, it would tend to support Annapolis’ claim that Halifax acquired a “beneficial interest” in the Lands, as we have explained it. Preserving a park in its natural state may constitute an advantage accruing to the state, thus satisfying the “acquisition” element of *CPR*.
 
@@ -134,7 +138,7 @@ A similar claim in *Steer Holdings* failed, but for reasons which distinguish it
 
 As we have explained, and as the cases confirm, the doctrine of constructive takings looks to the *effects* of state action; it does not require a formal acquisition of a proprietary interest by the state. The absence of such a proprietary interest does not preclude the argument that, *in effect*, Halifax has functionally treated the Annapolis Lands as if they were a park for the benefit of the public. If proven, this fact would support Annapolis’ claim that Halifax acquired a beneficial interest in its property. It is, therefore, plainly material.
 
-###### (2) Halifax’s Alleged Removal of All Reasonable Uses of the Annapolis Lands
+##### (2) Halifax’s Alleged Removal of All Reasonable Uses of the Annapolis Lands
 
 Second, it is disputed whether Halifax, by allegedly treating the Annapolis Lands as a public park, has eliminated all uses of the Lands except serviced development, which is conditional upon the approval of Annapolis’ secondary planning applications.
 
@@ -158,13 +162,13 @@ Lastly, we reiterate that provincial legislatures remain free, as they always ha
 
 In light of the foregoing, the Court of Appeal erred in striking Annapolis’ claim related to the alleged constructive taking. There are genuine issues of material fact to be tried.
 
-#### VI. Disposition
+### VI. Disposition
 
 We would allow the appeal, set aside the Court of Appeal’s partial summary judgment order, and restore the motion judge’s order dismissing Halifax’s motion for partial summary judgment, with costs throughout. Annapolis’ claim against Halifax, in its entirety, may proceed to trial.
 
-### Kasirer, Jamal JJ. (dissenting) --
+## Kasirer, Jamal JJ. (dissenting) --
 
-#### I. Overview
+### I. Overview
 
 We have had the advantage of reading the reasons of our colleagues Côté and Brown JJ. With respect for their views, we conclude that the appeal should be dismissed.
 
@@ -182,11 +186,11 @@ Second, we disagree with our colleagues’ view that a public authority’s “i
 
 Here, Annapolis’ *de facto* taking claim arises from Halifax’s refusal to “up-zone” (in French: “*procéder à un rezonage pour usage plus intensif*”) land — to re-zone to enlarge the permissible uses of land, in this case so that Annapolis may commercially develop the land for housing — in connection with about 1,000 acres of vacant and treed land owned by Annapolis (”Annapolis Lands”). Annapolis’ proposed use for commercial development is impermissible and has been impermissible for many years. Annapolis now alleges that a Halifax municipal council resolution in 2016 refusing to up-zone the land to permit development — a regular occurrence in municipalities across Canada — and Halifax’s alleged acts of trespass in encouraging the public to hike, canoe, and swim on the lands, give rise to claims for *de facto* taking, abuse of public office, and unjust enrichment.
 
-> [...]
+[...]
 
 Annapolis’ core claim is that Halifax’s refusal to up-zone its land to permit residential development, along with the fact that Halifax acted deliberately to secure the advantage of using the Annapolis Lands as a public park, constitutes a *de facto* taking. However, a refusal to up-zone, in the circumstances of this case, cannot establish a *de facto* taking unless this Court departs from the common law requirements that Halifax has acquired a beneficial interest involving the property and that Halifax has removed all reasonable uses of the property. We decline to alter the settled law to allow Annapolis to proceed with its claim. We are respectfully of the view that by acceding to Annapolis’ plea to set aside this Court’s decision in *CPR* as a governing precedent, our colleagues’ opinion risks radically changing the complexion of municipal planning law by providing, in like up-zoning contexts, a windfall to developers who speculate at municipal taxpayers’ expense.
 
-#### II. Background
+### II. Background
 
 We take no issue with our colleagues’ summary of the factual background and the decisions below, but we wish to highlight the precise conduct of Halifax that Annapolis alleges constitutes a *de facto* taking: (1) refusing to up-zone the Annapolis Lands and to zone the lands as a park, and (2) encouraging the public to trespass.
 
@@ -210,7 +214,11 @@ Only the *de facto* taking claim is in issue on this appeal. Annapolis alleges t
 
 As we will explain, none of these pleaded acts, alone or in combination, amount to a *de facto* taking.
 
-> [...]
+[...]
+
+### III. Analysis
+
+[...]
 
 Our colleagues’ reformulation of the acquisition requirement and departure from *CPR* as precedent has significant ramifications. It dramatically expands the potential liability of municipalities engaged in land use regulation in the public interest and throws into question the settled law that a refusal to up-zone is not a *de facto* taking.
 
@@ -224,11 +232,11 @@ This settled law, which our colleagues propose now to set aside, was helpfully s
 
 See also S. E. Hamill, “Common Law Property Theory and Jurisprudence in Canada” (2015), 40 Queen’s L.J. 679, at p. 703 (”So long as the owner can continue to use their property as they always have, they cannot be considered to have suffered a legally recognizable loss”); S. M. Makuch, N. Craik and S. B. Leisk, *Canadian Municipal and Planning Law* (2nd ed. 2004), at p. 212 (”the courts would be well advised to remain true to their traditional approach, which is in keeping with the general assumptions of no compensation for planning decisions and of allowing municipalities to allocate the benefits and burdens of planning”).
 
-> [...]
+[...]
 
-#### IV. Application
+### IV. Application
 
-> [...]
+[...]
 
 Neither Halifax’s 2016 municipal resolution refusing to up-zone the Annapolis Lands nor Halifax’s alleged acts of encouraging the public to trespass raises any genuine issue of material fact that Halifax has acquired a beneficial interest in the lands or flowing from them.
 
@@ -238,7 +246,7 @@ Halifax’s adoption of a municipal resolution refusing to up-zone the lands als
 
 We also respectfully disagree with our colleagues’ suggestion, at para. 65, that Halifax’s alleged encouragement of trespass changes this conclusion. For example, at the hearing of the appeal, Annapolis insisted that Halifax has distributed promotional material encouraging people to hike at Fox Lake, which is within the Annapolis Lands. Annapolis claimed that this was an example of Halifax’s “use [of] the Annapolis Lands as a Regional Park” (outline of argument, at para. 5, in condensed book, at p. 2). We disagree. A public authority does not and cannot acquire a proprietary interest by encouraging others to trespass. If these allegations were made out at trial, Halifax might well expose itself to liability on some other basis. But this allegation cannot ground a claim for a *de facto* taking.
 
-> [...]
+[...]
 
 Even if Annapolis could establish that Halifax has acquired a beneficial interest in the Annapolis Lands or flowing from them, it cannot meet the second requirement of the test for a *de facto* taking: there is no genuine issue of material fact that Halifax has deprived Annapolis of all reasonable uses of its lands. This in itself is fatal to Annapolis’ appeal given that the two requirements in *CPR* are cumulative.
 
@@ -260,11 +268,11 @@ Our colleagues respond to the zoning and uses of the Annapolis Lands having not 
 
 More importantly, even if Annapolis could somehow show that Halifax will never up-zone the lands, that could not establish that Annapolis has lost all reasonable uses of those lands. The lands have never been used for serviced development — they have always been vacant and treed. Our colleagues’ assertion amounts to saying that a refusal to up-zone vacant land can give rise to a *de facto* taking merely if all “*potential* reasonable uses” are prohibited (para. 45 (emphasis in original)). That would upset the settled law reflected in *Manitoba Fisheries* , *Tener* , *Mariner* , and *CPR*, and it would eliminate Halifax’s statutory and common law protection from liability for refusing to up-zone. In *CPR*, this Court specifically noted that removal of all reasonable uses of the land must be assessed in relation to both its potential uses as well as the “nature of the land and the range of reasonable uses to which it has actually been put” (para. 34, quoting *Mariner*, at p. 717). That statement applies equally in this case.
 
-##### C. Conclusion
+#### C. Conclusion
 
 We conclude that there is no genuine issue of material fact that Halifax has acquired a beneficial interest in the Annapolis Lands or flowing from them or that Halifax has deprived Annapolis of all reasonable uses of its lands. In view of the settled law, the pleading of a *de facto* taking has no real chance of success. Like the Nova Scotia Court of Appeal, we would grant partial summary judgment dismissing the claim for *de facto* taking.
 
-#### V. Disposition
+### V. Disposition
 
 We would dismiss the appeal with costs throughout.
 

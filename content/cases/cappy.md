@@ -1,6 +1,6 @@
 ---
 class: case
-style: R v Cappy
+title: R v Cappy
 short: Cappy
 reporter: 1952 CarswellOnt 287, 1952 CanLII 280 (ON CA)
 year: 1952

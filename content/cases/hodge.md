@@ -1,6 +1,6 @@
 ---
 class: case
-style: Hodge v the Queen
+title: Hodge v the Queen
 short: Hodge
 reporter: 1883 CarswellOnt 6 (JCPC), [1883] UKPC 59
 year: 1883
