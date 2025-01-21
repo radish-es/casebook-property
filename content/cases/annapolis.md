@@ -13,13 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/jshfv'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - use
-  - land-use-regulation
-  - defacto-expropriation
-  - trespass
+  - constructive-takings
 links:
   - url: content/cases/cpr.md
-    explanation: The majority in the Annapolis decision claim that they have clarified, but not changed, the test for de facto expropriation from CPR. Is this an accurate claim? Would the City of Vancouver in CPR be found to have gained an "advantage" according to the majority's view in Annapolis? 
+    explanation: The majority in the Annapolis decision claim that they have clarified, but not changed, the test for constructive expropriation from CPR. Is this an accurate claim? Would the City of Vancouver in CPR be found to have gained an "advantage" according to the majority's view in Annapolis? 
   - url: content/cases/mclaren.md
     explanation: How does the majority in Annapolis (citing De Keyser's Royal Hotel) draw on the principle of statutory interpretation articulated by the Supreme Court in McLaren v Caldwell? Does it alter this principle in any way?
 published: true

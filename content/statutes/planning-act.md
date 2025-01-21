@@ -1,7 +1,7 @@
 ---
 title: Planning Act
 short: Planning Act
-reporter: 'RSNS 1989, c 156'
+reporter: 'CCSM, c P80'
 description: Governs the expropriation ('taking') of land.
 tags:
   - expropriation

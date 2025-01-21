@@ -14,10 +14,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - use
-  - land-use-regulation
-  - defacto-expropriation
-  - trespass
+  - constructive-takings
 links:
   - url: content/cases/annapolis.md
     explanation: In the Annapolis case, the Supreme Court further "clarifies" the emerging test for de facto expropriation established in CPR. Is that clarified test consistent with the result in CPR on its facts?
