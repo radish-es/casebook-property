@@ -17,6 +17,13 @@ sources:
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 tags:
   - defacto-expropriation
+links:
+  - url: content/statutes/expropriation-act.md
+    explanation: How does Justice Cromwell's decision in Mariner fill in the interpretive "gaps" in Nova Scotia's expropriation statute in cases of de facto expropriation? 
+  - url: content/cases/cpr.md
+    explanation: In this case, the Supreme Court picks up on the analysis in Mariner as the basis for a new test in cases of de facto expropriation. Does it reach the right result?
+  - url: content/concepts/liberalism.md
+    explanation: In what ways is Justice Cromwell's decision in this case consistent with the modern style of Anglo-Canadian legal thought? 
 published: true
 ---
 

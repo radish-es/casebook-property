@@ -14,6 +14,9 @@ sources:
     license: https://www.canlii.org/en/info/terms.html#license
 tags:
   - acquired-rights
+links:
+  - url: content/cases/saintromuald.md
+    explanation: Is the finding in Cappy consistent with the Supreme Court's test for acquired rights estblished in Saint-Romuald? 
 published: true
 ---
 

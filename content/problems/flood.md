@@ -1,5 +1,5 @@
 ---
-title: Flooding
+title: Flood on the Red River
 short: Flooding
 class: problem
 description: A flood in Winnipeg.
@@ -8,7 +8,13 @@ image: /imgs/red-river-floodway.jpg
 imgcaption: Engineers and Geoscientists of Manitoba, https://heritage.enggeomb.ca
 links:
   - url: content/statutes/expropriation-act.md
-    explanation: This statute defines expropriation and establishes the right to compensation when expropriation is carried out by a statutory authority, such as provincial legislature or municipal council.
+    explanation: Assume that the Nova Scotia and Manitoba expropriation statutes are equivalent. Recall from our earlier study of this legislation that it leaves much to interpretation in cases of de facto expropriation.
+  - url: content/cases/mariner.md
+    explanation: How does Justice Cromwell's decision in the Mariner case provide a framework for addressing the de facto expropriation issues raised in this problem? How does that framework evolve in subsequent cases?
+  - url: content/statutes/planning-act.md
+    explanation: In Manitoba, the Planning Act establishes the statutory basis for owners who want to claim that they are exercising an 'acquired right" (or, 'legal non-conforming use') in the face of changes to a zoning bylaw. How might such a provision help the claimant in this hypo?
+  - url: content/cases/cappy.md
+    explanation: What is an 'acquired right' (or, 'legal non-conforming use')? What is the basis for these rights and how are they connected to issues of expropriation? 
 published: true
 weight: 10
 ---
@@ -27,12 +33,14 @@ The following hypothetical builds on a recent case before the Manitoba Court of 
 
 > The floodway gates were operated from October 9 to November 7, 2019, resulting in the anticipated severe unnatural flooding for miles upstream, including the property. The flooding was immediate and severe, completely flooding the "Haunted House" feature of the business within hours.
 
-Suppose that, in addition to the facts described above, the Department is empowered under provincial regulations pursuant to *The Red River Floodway Act*, CCSM, c R32, to operate the floodway when "the expected benefits of doing so clearly and substantially outweigh the expected costs". However, because the flooding in this particular year was so extreme, operation of the floodway did nothing to actually reduce downstream flooding as anticipated and resulting in widespread damage to many homes and businesses within the City of Winnipeg. 
+Suppose that, in addition to the facts described above, the Department is empowered under provincial regulations pursuant to *The Red River Floodway Act*, CCSM, c R32, to operate the floodway when "the expected benefits of doing so clearly and substantially outweigh the expected costs". However, because the flooding in this particular year was so extreme, operation of the floodway did nothing to actually reduce downstream flooding as anticipated and resulted in widespread damage to many homes and businesses within the City of Winnipeg. 
 
-Meanwhile, although the A Maze in Corn Inc. was initially resigned to closing their business when the floods hit, members of the public using the river for recreation soon discovered that they could access and maneuver through the half-submerged corn maze by boat. A few posts on social media turned this into a major local attraction. After about a week of trying to prevent this activity by erecting signs around the property, the business relented and even started to charge a small admission fee to boaters in order to offset some of their losses from the flooding. By the end of November, the flood waters had receded and the business could again operate the corn maze and petting zoo in their normal fashion. 
+Meanwhile, although the A Maze in Corn Inc. was initially resigned to closing their business when the floods hit, members of the public using the river for recreation soon discovered that they could access and maneuver through the half-submerged corn maze by boat. A few posts on social media turned this into a major local attraction. By the end of November, the flood waters had receded and the business could again operate the corn maze and petting zoo in their normal fashion. 
 
-Soon after the flood, in April of the following year, the regional municipality encompassing St. Adolphe decided that it needed to take further steps to prevent flood losses among its residents in the future. It enacted a new municipal plan and zoning bylaw that required all land within 100 metres of the banks of the Red River to "remain unused in its natural state" and removed all pre-existing uses, which included both agricultural and commercial uses. The following season, A Maze in Corn Inc. decided that it would restructure its business, relocating an existing barn and other infrastructure to about 50 metres from the riverbank and starting a medium-sized, pasture-raised pork farm--about which a few of the neighbours complained due to some modest new smells in mid-summer. 
+After the flood, in April of the following year, the regional municipality encompassing St. Adolphe decided that it needed to take further steps to prevent flood losses among its residents in the future. It enacted a new municipal plan and zoning bylaw that required all land within 100 metres of the banks of the Red River to "remain unused in its natural state" and removed all pre-existing uses, which included both agricultural and commercial uses. The following season, after the bylaw was passed, A Maze in Corn Inc. decided that it would restructure its business, relocating an existing barn and other infrastructure to about 50 metres from the riverbank and starting a medium-sized, pasture-raised pork farm--about which a few of the neighbours complained due to some modest new smells in mid-summer. 
 
-**Would *A Maze in Corn Inc.* likely be successful in making a claim for compensation against either the province or the municipality? Whether or not it was successful in doing so, would the business be prohibited by the new municipal bylaw from operating its hog farm?** 
+**Would *A Maze in Corn Inc.* likely be successful in making a claim for compensation against either the province or the municipality? Whether or not it was successful in doing so, would the business be prohibited by the new municipal bylaw from operating its hog farm?**
+
+For the purposes of this hypothetical, you can assume that Manitoba's legislation governing expropriation is the same as Nova Scotia's *[Expropriation Act]({{< ref "statutes/expropriation-act"  >}})*.
 
 [^1]: *A Maze in Corn Inc v. Manitoba Emergency Measures Organization et al*, 2023 MBCA 92, 2023 CarswellMan 372, [2024] 3 W.W.R. 385, 2023 A.C.W.S. 5307
