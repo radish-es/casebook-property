@@ -13,11 +13,8 @@ objectives:
     explanation: >-
 ---
 
-Commonwealth
-Adams
-Bamberger
-The Regional Municipality of Waterloo v Persons Unknown and to be Ascertained, 2023 ONSC 670
-[Waterloo].
+
+
 
 ## Our Problem this Week
 
