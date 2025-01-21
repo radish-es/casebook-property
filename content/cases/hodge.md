@@ -1,6 +1,6 @@
 ---
 class: case
-style: Hodge v the Queen
+title: Hodge v the Queen
 short: Hodge
 reporter: 1883 CarswellOnt 6 (JCPC), [1883] UKPC 59
 year: 1883
@@ -13,13 +13,8 @@ sources:
     source_url: 'https://www.bailii.org/uk/cases/UKPC/1883/1883_59.html'
     license: 'https://www.bailii.org/bailii/copyright.html'
 tags:
-  - use
-  - land-use-regulation
 published: false
 ---
-
-
-
 
 ### Judgement of the Lords of the Judicial Committee of the Privy Council
 

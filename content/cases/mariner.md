@@ -1,6 +1,6 @@
 ---
 class: case
-style: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
+title: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
 short: Mariner
 reporter: 1999 NSCA 98 (CanLII)
 year: 1999
@@ -16,20 +16,21 @@ sources:
     source_url: 'https://decisia.lexum.com/nsc/nsca/en/item/13502/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 tags:
-  - use
-  - land-use-regulation
-  - defacto-expropriation
-published: false
+  - constructive-takings
+links:
+  - url: content/statutes/expropriation-act.md
+    explanation: How does Justice Cromwell's decision in Mariner fill in the interpretive "gaps" in Nova Scotia's expropriation statute in cases of constructive takings? 
+  - url: content/cases/cpr.md
+    explanation: In this case, the Supreme Court picks up on the analysis in Mariner as the basis for a new test in cases of constructive expropriation. Does it reach the right result?
+  - url: content/concepts/liberalism.md
+    explanation: In what ways is Justice Cromwell's decision in this case consistent or inconsistent with the modern style of Anglo-Canadian legal thought? 
+published: true
 ---
 
 
+## Cromwell J.A. (Glube C.J.N.S. concurring) —
 
-
-{{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach" >}}
-
-### Cromwell J.A. (Glube C.J.N.S. concurring) —
-
-#### I. Introduction:
+### I. Introduction
 
 This case involves a collision of important interests. On one side, there are the interests of the respondents in the enjoyment of their privately owned land at Kingsburg Beach. On the other is the public interest in the protection and preservation of environmentally fragile and ecologically significant beach, dune and beach ridge resources. In the background of this case is the policy issue of how minutely government may control land without buying it. But in the foreground is the narrower issue of whether the stringent land use regulations applied by the Province to the respondents’ lands is an expropriation of them within the meaning of the *Expropriation Act*, R.S.N.S. 1989, c. 156.
 
@@ -43,9 +44,9 @@ In my respectful view, the learned trial judge erred in each of these conclusion
 
 [...]
 
-#### III. Analysis:
+### III. Analysis
 
-##### (a) De facto Expropriation:
+#### (a) De facto Expropriation
 
 The respondents’ claim that what was, in form, a designation of their land under the *Beaches Act* is, in fact, a taking of their land by a statutory authority within the meaning of the *Expropriation Act*. This claim of *de facto* expropriation, or as it is known in United States constitutional law, regulatory taking, does not have a long history or clearly articulated basis in Canadian law. We were referred to only three Canadian cases in which such a claim was made successfully, only two of which dealt with the expropriation of land.
 
@@ -73,6 +74,8 @@ Considerations of a claim of *de facto* expropriation must recognize that the ef
 
 [...]
 
+<!--
+
 ##### (b) The Effects of Regulation:
 
 In my opinion, where a regulatory regime is imposed on land, its *actual application* in the specific case must be examined, not the potential, but as yet unexploited, range of possible regulation which is authorized. This point is demonstrated by the *Tener* case. The Court was clear in that case that the taking occurred as a result of the denial of the permit, not by the designation under the  *Park Act* which required the permit to be obtained.
@@ -83,7 +86,9 @@ The declaration sought and granted by the trial judge in this case was that the 
 
 My determination that the trial judge erred in this way does not resolve the appeal. The broader question of whether the designation, *together with* the decisions made under the regulatory regime it imposed, constitute an expropriation was argued at trial and in this Court. That broader question is, therefore, properly before us.
 
-##### (c) Is loss of economic value loss of land under the *Expropriation Act*?
+-->
+
+#### (c) Is loss of economic value loss of land under the *Expropriation Act*?
 
 The trial judge found that the respondents had been deprived of land. His main conclusion appears to have been that the loss of “virtually all economic value” constituted the loss of an interest in land. He also found, however, that the “... fee simple in the [respondents’] lands has been stripped of its whole bundle of rights.” Both aspects of his holding are before us in this appeal and, in my respectful view, both are in error.
 
@@ -92,6 +97,10 @@ The judge found as a fact that the plaintiffs had lost virtually all economic va
 The judge further found that the loss of virtually all economic value was the loss of land within the meaning of the *Expropriation Act*. This holding contains two key elements: that the loss of all economic value is the loss of land within the meaning of the *Act*, and further, that the loss of virtually all economic value is a taking of land as those phrases appear in the *Expropriation Act*.
 
 I will address in this part of my reasons the first of these holdings. Does the loss of economic value of land constitute the loss of land within the meaning of the *Expropriation Act*?
+
+[...]
+
+<!--
 
 The  *Expropriation Act* does not define land exhaustively, but states that land *includes “..any estate, term, easement, right or interest in*, to, over or affecting land”: section 3(1)(i). This provision, especially the emphasized text, suggests that a broad, non-technical approach to the definition of land was intended. This is consistent with the compensatory objectives of the *Expropriation Act* and with the long-established interpretative approach to such legislation. As Cory, J. said in *Dell Holdings Ltd. v. Toronto Area Transit Operating Authority*, [1997] 1 S.C.R. 32 (S.C.C.):
 
@@ -163,11 +172,13 @@ As noted by Cory, J., the common law recognized this distinction. Wilson, J. des
 
 > *Where land has been taken the statute will be construed in light of a presumption in favour of compensation* (see Todd, *The Law of Expropriation and Compensation in Canada*, pp. 32-33) *but no such presumption exists in the case of injurious affection where no land has been taken* (see Todd, *supra*, at pp. 292 *et seq.*; Challies, *The Law of Expropriation* (2nd ed.), pp. 132 *et seq.*). In such a case the right to compensation has been severely circumscribed by the courts (see *The Queen v. Loiselle*, [1962] S.C.R. 624) and, *although the policy considerations reflected in the restrictive approach to recovery for injurious affection simpliciter have been seriously questioned* (see Todd, “The Mystique of Injurious Affection in the Law of Expropriation” (1967), *U.B.C.L. Rev.* - C. *de* D. 125), *the concern over the indeterminate scope of the liability remains if recovery is permitted for any injury to private land resulting from the non-negligent, authorized acts of public authorities*. (emphasis added)
 
+-->
+
 The important point is this. While the distinction between the value of land and interests in land is, in one sense highly technical, it is, nonetheless, deeply imbedded in the scheme of compensation provided for under the *Expropriation Act*. It is fundamental to the entitlement to compensation under the *Act* claimed by the respondents. This is so because the distinction defines the line between cases in which governmental interference with the enjoyment of land is compensable under the *Act* and cases in which it is not. An impressive argument may be made supporting a broader approach to compensation for governmental interference with the enjoyment of land. The logic of drawing the line based on whether an interest in land has been lost may, as noted by Wilson, J. above, be seriously questioned. Nonetheless, the *Expropriation Act* draws the line in this way. It is, therefore, necessary to give the legislation an interpretation consistent with the words employed and the underlying policy decision which they reflect.
 
 I conclude, therefore, that the learned trial judge erred in holding that the loss of virtually all economic value of the respondents’ land, was the loss of an interest in land within the meaning of the *Expropriation Act*.
 
-##### (d) Loss of the “bundle of rights”
+#### (d) Loss of the “bundle of rights”
 
 That brings me to the trial judge’s holding that the effect of the designation and the way it was applied here was to strip the fee simple of its whole bundle of rights. The cases have long recognized that at a certain point, regulation is, in effect, confiscation. The law insists that the substance of the situation, not simply its form, be examined. As noted in *Nilsson*, restrictions on the use of land may be so stringent and all-encompassing that they have the effect of depriving the owner of his or her interest in the land, although leaving paper title undisturbed.
 
@@ -193,7 +204,7 @@ The respondents in this case proved at trial that they would not be allowed to b
 
 I would conclude, therefore, that the respondents failed to establish that they had been deprived of land within the meaning of the *Expropriation Act*.
 
-##### (e) Acquisition of Land
+#### (e) Acquisition of Land
 
 As noted, there must not only be a taking away of land from the owner but also the acquisition of land by the expropriating authority for there to be an expropriation within the meaning of the *Act*.
 
@@ -211,10 +222,9 @@ The respondents also rely heavily on *Manitoba Fisheries Ltd.*. In my opinion, t
 
 It is true that, as the respondents submit, the goodwill did not flow to the Crown but to the new corporation. However, the new corporation was created by federal legislation as part of the monopoly scheme and was admitted to be an agent of the federal Crown: see p. 463. The Supreme Court of Canada, not surprisingly, did not draw a distinction between the corporation created by the Crown as its agent and the Crown itself in these circumstances. The crucial point, to my way of thinking, is that the asset which was, in effect, lost by *Manitoba Fisheries Ltd.* was the asset gained, in effect, by the new federal corporation.
 
-The respondents also rely on the decision at trial in *Casamiro Resource Corp. v. British Columbia (Attorney General*) (1990), 43 L.C.R. 246 (B.C. S.C. [In Chambers]), at 248. The learned trial judge in that case stated, relying on *Manitoba Fisheries Ltd.*, *supra*,
-that whether the Crown acquired the mineral rights or not was irrelevant. There is no discussion of this point in the judgment on the appeal to which I have referred above. While not doubting the result in *Casamiro Resource Corp.*, which was upheld on appeal, this statement of the trial judge in *Casamiro Resource Corp.* is, with respect, clearly wrong. Contrary to what his statement suggests, for there to be an expropriation, there must be an acquisition as well as a *deprivation*. Moreover, the reliance on *Manitoba Fisheries Ltd.* for a contrary position by the trial judge in *Casamiro Resource Corp.* is, with respect, misplaced for the reasons I have already developed. As noted, there was in *Manitoba Fisheries Ltd.* an acquisition, in effect, of the goodwill by the federal authority.
+The respondents also rely on the decision at trial in *Casamiro Resource Corp. v. British Columbia (Attorney General*) (1990), 43 L.C.R. 246 (B.C. S.C. [In Chambers]), at 248. The learned trial judge in that case stated, relying on *Manitoba Fisheries Ltd.*, *supra*, that whether the Crown acquired the mineral rights or not was irrelevant. There is no discussion of this point in the judgment on the appeal to which I have referred above. While not doubting the result in *Casamiro Resource Corp.*, which was upheld on appeal, this statement of the trial judge in *Casamiro Resource Corp.* is, with respect, clearly wrong. Contrary to what his statement suggests, for there to be an expropriation, there must be an acquisition as well as a *deprivation*. Moreover, the reliance on *Manitoba Fisheries Ltd.* for a contrary position by the trial judge in *Casamiro Resource Corp.* is, with respect, misplaced for the reasons I have already developed. As noted, there was in *Manitoba Fisheries Ltd.* an acquisition, in effect, of the goodwill by the federal authority.
 
- I conclude that for there to be a taking, there must be, in effect, as Estey, J. said in *Tener*, an acquisition of an interest in land and that enhanced value is not such an interest.
+I conclude that for there to be a taking, there must be, in effect, as Estey, J. said in *Tener*, an acquisition of an interest in land and that enhanced value is not such an interest.
 
 The respondents further submit that their lands have been effectively pressed into public service and that this is sufficient to constitute an acquisition of land. The judgment of the United States Supreme Court in *Lucas v. South Carolina*, 112 S. Ct. 2886 (U.S. S.C. 1992) is relied on. I do not think that case assists us here.
 
@@ -236,9 +246,15 @@ There was no evidence that the economic value of the Crown’s land was enhanced
 
 I conclude that the trial judge erred on this aspect of the case. In my respectful view, regulation enhancing the value of public property, if established, is not an acquisition of “land” within the meaning of the *Expropriation Act*.
 
+[...]
+
+<!--
+
 ##### (f) The Section 12 Argument
 
 The appellant also submits that even if there was an expropriation, compensation is precluded by s. 12 of the *Beaches Act*. In my view, the short answer to that argument is found in ss. 4(1) and (3) of the *Expropriation Act*. Even assuming a direct conflict between s. 12 of the *Beaches Act* and s. 24 of the *Expropriation Act*, ss. 4(1) and (3) of the latter *Act*, in my opinion, make it clear that the provisions of the *Expropriation Act* apply. Had I found there to have been an expropriation, s. 12 of the *Beaches Act*, in my opinion, would not preclude compensation under the *Expropriation Act*.
+
+-->
 
 #### IV. Disposition:
 

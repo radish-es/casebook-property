@@ -1,6 +1,6 @@
 ---
 class: case
-style: R v Cappy
+title: R v Cappy
 short: Cappy
 reporter: 1952 CarswellOnt 287, 1952 CanLII 280 (ON CA)
 year: 1952
@@ -13,10 +13,11 @@ sources:
     source_url: https://canlii.ca/t/gwclr
     license: https://www.canlii.org/en/info/terms.html#license
 tags:
-  - use
-  - land-use-regulation
   - acquired-rights
-published: false
+links:
+  - url: content/cases/saintromuald.md
+    explanation: Is the finding in Cappy consistent with the Supreme Court's test for acquired rights estblished in Saint-Romuald? 
+published: true
 ---
 
 

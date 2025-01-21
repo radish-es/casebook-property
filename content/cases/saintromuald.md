@@ -1,6 +1,6 @@
 ---
 class: case
-style: Saint-Romuald (City) v Olivier
+title: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
 year: 2001
@@ -14,10 +14,8 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - use
-  - land-use-regulation
   - acquired-rights
-published: false
+published: true
 ---
 
 

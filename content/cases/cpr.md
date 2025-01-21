@@ -1,6 +1,6 @@
 ---
 class: case
-style: Canadian Pacific Railway Co. v Vancouver (City)
+title: Canadian Pacific Railway Co. v Vancouver (City)
 short: CPR
 reporter: 2006 SCC 5 (CanLII)
 year: 2006
@@ -14,20 +14,20 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - use
-  - land-use-regulation
-  - defacto-expropriation
-  - trespass
-published: false
+  - constructive-takings
+links:
+  - url: content/cases/annapolis.md
+    explanation: In the Annapolis case, the Supreme Court further "clarifies" the emerging test for de facto expropriation established in CPR. Is that clarified test consistent with the result in CPR on its facts?
+published: true
 ---
 
 
 
 
 
-### McLachlin C.J.C. —
+## McLachlin C.J.C. —
 
-#### 1. Introduction
+### 1. Introduction
 
 Over a century ago, in 1886, the provincial Crown granted the Canadian Pacific Railway Company (”CPR”) a corridor of land for the construction of a railway line from False Creek, in the City of Vancouver (”City”), south to Steveston, on Lulu Island (named after Miss Lulu Sweet, a young actress in the first theatrical company to visit British Columbia). It is this corridor of land, now known as the “Arbutus Corridor”, that lies at the heart of this appeal.
 
@@ -68,13 +68,20 @@ The by-law outlined the uses to which the corridor could be put (s. 2.1):
 The effect of the by-law was to freeze the redevelopment potential of the corridor and to confine CPR to uneconomic uses of the land. CPR regards this effect as unfair and unreasonable. It does not allege that the City acted in bad faith. However, it argues: (1) that the by-law is *ultra vires* City and should be struck down; (2) that the City is obligated to compensate CPR for the land; and (3) that the by-law suffers from procedural irregularities and should be struck down on that account.
 
 The Chambers Judge held the by-law to be *ultra vires* the City, declined a declaration that the City must compensate CPR and found it unnecessary to consider the procedural issues ((2002), 33 M.P.L.R. (3d) 214 (B.C. S.C. [In Chambers]). The British Columbia Court of Appeal rejected all three arguments and allowed the City’s appeal ((2004), 26 B.C.L.R. (4th) 220 (B.C. C.A.)). CPR now appeals to this Court. Despite considerable sympathy for CPR’s position, I conclude that under the *Vancouver Charter*, the City was entitled to refuse compensation and to pass the by-law, and that the courts have no option but to uphold it. I would therefore dismiss the appeal.
-#### 2. Issues
+
+<!-- #### 2. Issues
 
 1. Was the ODP By-law beyond the statutory powers of the City?
 2. If not, must the City compensate CPR for the land?
 3. Should the by-law be set aside for procedural irregularities?
 
-#### 3. Analysis
+-->
+
+[...]
+
+### 3. Analysis
+
+<!--
 
 ##### 3.1 Was the By-law Beyond the Statutory Powers of the City?
 
@@ -110,7 +117,11 @@ Finally, CPR argues that the by-law is invalid because its effect is not to desi
 
 I conclude that CPR’s contention that the by-law is invalid because it goes beyond the City’s powers under the *Vancouver Charter* cannot be accepted.
 
-##### 3.2 Compensation
+-->
+
+[...]
+
+#### 3.2 Compensation
 
 CPR argues there is a presumption that the Legislature intended any taking of property to be compensated. It argues that the ODP By-law, by limiting its use, constitutes an effective taking of its land. It cannot use the land for any economically viable purpose. It cannot, it says, even run a railway because the by-law precludes maintenance of its track. In these circumstances, the City has effectively “taken” its land and must compensate it, CPR urges.
 
@@ -136,7 +147,7 @@ I add this. Even if the facts of this case could be seen to support an inference
 
 […]
 
-#### Conclusion
+### Conclusion
 
 While one may sympathize with CPR’s position, none of its arguments withstand scrutiny. The City did not exceed the powers granted it by the *Vancouver Charter*. Neither the *Vancouver Charter* nor principles of common law require it to compensate CPR for the ODP By-law’s effects on its land. Finally, the City’s conduct in enacting the by-law complied with the requirements of fair process.
 
