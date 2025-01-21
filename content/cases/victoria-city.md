@@ -1,6 +1,6 @@
 ---
 class: case
-style: Victoria (City) v Adams
+title: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
 year: 2008
@@ -20,11 +20,8 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 tags:
-  - use
-  - recognition
   - shelter-rights
-  - housing-rights
-published: false
+published: true
 ---
 
 

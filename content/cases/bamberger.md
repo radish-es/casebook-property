@@ -1,6 +1,6 @@
 ---
 class: case
-style: Bamberger v Vancouver (Board of Parks and Recreation)
+title: Bamberger v Vancouver
 short: Bamberger
 reporter: 2022 BCSC 49
 year: 2022
@@ -20,11 +20,8 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 tags:
-  - use
-  - recognition
   - shelter-rights
-  - housing-rights
-published: false
+published: true
 ---
 
 
