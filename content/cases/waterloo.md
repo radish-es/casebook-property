@@ -14,6 +14,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
   - shelter-rights
+links:
+  - url: content/cases/heegsma.md
+    explanation: This case and the court's decision in Heegsma v Hamilton are clearly at odds. What do you think is the heart of the disagreement between the judges in these cases? To what extend is this disagreement premised on or presupposed by the Adams framework?
 published: true
 ---
 
@@ -225,7 +228,7 @@ when addressing homeless encampment issues.
 
 ### Section 7 of the Charter
 
-Section 76 of the *Charter* provides:
+Section 7 of the *Charter* provides:
 
 > Everyone has the right to life, liberty and security of the person and
 the right not to be deprived thereof except in accordance with the
@@ -236,26 +239,26 @@ balance of probabilities that the impugned legislation deprives him or
 her of either life, liberty, of security of the person, and that the
 deprivation is not in accordance with the principles of fundamental
 justice. Should the claimant be successful in this respect, then the
-burden shifts to the respondent, under , to justify the deprivation as a
+burden shifts to the respondent, under section 1, to justify the deprivation as a
 "reasonable" limit that is "demonstrably justified in a free and
 democratic society: see *Michaud*, at para. 60. The same principles
-apply in regard to : see *Abbotsford (City) v. Shantz*, at para.226.
+apply in regard to section 15(1) of the *Charter*: see *Abbotsford (City) v. Shantz*, at para.226.
 
 I add one qualification to the above analysis described by the
-Ontario Court of Appeal in in *R. v. Michaud*, based on the statement of Chief Justice McLachlin in *Charkaoui*, who explained, at para. 12, that the first of the two steps to be established
+Ontario Court of Appeal in *R. v. Michaud*, based on the statement of Chief Justice McLachlin in *Charkaoui*, who explained, at para. 12, that the first of the two steps to be established
 by the moving party are meant to examine whether "there has been or
 could be a deprivation of the right to life, liberty or security of the
 person."
 
 #### **Section 7 and the History of the "Right to Shelter" Cases**
 
-81      As homelessness continues to be a growing and problematic issue
+As homelessness continues to be a growing and problematic issue
 across Canada, the jurisprudence has continued to develop. In *Bamberger
 v. Vancouver (Board of Parks and Recreation)*, Justice Kirchner
 summarized the development of the British Columbia caselaw regarding the
 'right to shelter' at paragraphs 11-20:
 
-> In BCSC, Madam Justice Ross found a Victoria bylaw prohibiting
+> In *Adams* BCSC, Madam Justice Ross found a Victoria bylaw prohibiting
 homeless persons from erecting temporary shelters in Victoria parks
 infringed their right to life, liberty, and security of the person, as
 guaranteed by . She found the number of homeless persons in Victoria far
@@ -301,7 +304,7 @@ impractical for many of the City's homeless. They simply cannot abide by
 the rules required in many of the facilities that I have discussed
 above, and lack the means to pay the required rents at others.
 
-> More recently, in , Hinkson C.J.S.C. stated:
+> More recently, in *Stewart*, Hinkson C.J.S.C. stated:
 
 >> It is apparent that very few of the emergency shelter beds are
 low barrier, and it appears that many of the homeless persons in the
@@ -320,7 +323,7 @@ in which to do so" but held that a "minimally impairing response to
 balancing that need with the interests of other users" of the parks
 would be to allow overnight sheltering between 7:00 p.m. and 9:00 a.m.
 
-> However, in *Adamson No. 1* and , Hinkson C.J.S.C. declined to
+> However, in *Adamson No. 1* and *Stewart*, Hinkson C.J.S.C. declined to
 grant injunctions to close specific homeless encampments and made no
 specific qualification that those sheltering in the parks could only do
 so during overnight hours. In *Adamson No. 1*, Hinkson C.J.S.C. did not
@@ -338,7 +341,7 @@ hours. He took judicial notice of the fact that "Prince George can be
 very cold in the fall and winter, and that people with nowhere warm to
 stay must find ways of keeping warm to stay alive": *Stewart* at para. 64.
 
-> Thus, while neither *Adamson No. 1* nor purport to expand the
+> Thus, while neither *Adamson No. 1* nor *Stewart* purport to expand the
 scope of the constitutional right to daytime sheltering, it was not
 specifically enjoined in either case.
 
@@ -350,7 +353,7 @@ indoor shelter spaces within a given jurisdiction.
 While the Region acknowledges the British Columbia
 jurisprudence, it submits that these decisions have been distinguished
 by Ontario decisions on the basis of an *obiter* comment of the British
-Columbia Court of Appeal in *Adams** and the Region
+Columbia Court of Appeal in *Adams* and the Region
 urges me to follow these Ontario rulings.
 
 The British Court of Appeal stated, at para. 109:
@@ -370,8 +373,7 @@ follows at para. 162:
 outside of parks to accommodate the homeless, the Bylaw provisions that
 we are concerned with might well be valid.
 
-In the recent Ontario decisions of *Black v. Toronto (City)*
-and *Poff v. City of Hamilton* homeless individuals sought an
+In the recent Ontario decisions of *Black v. Toronto (City)*, 2020 ONSC 6398, 152 O.R. (3d) 529 [Black] and *Poff v. City of Hamilton*, 2021 ONSC 7224 [Poff]  homeless individuals sought an
 injunction to prevent the municipality from evicting them from city
 parks. In both instances, the Ontario Courts considered the British
 Columbia decisions and distinguished them on the basis of a factual
@@ -390,10 +392,10 @@ to house all the city's homeless people.". This, according to Justice
 Goodman, at para. 236, "is not the situation in ."
 
 Given these factual findings, and in following the suggested
-path of the British Columbia Court of Appeal in , the Ontario Courts
+path of the British Columbia Court of Appeal in *Adams*, the Ontario Courts
 ruled that there was no breach of section 7.
 
-In the alternative, to urge my following the and decisions, the
+In the alternative, to urge my following the *Black and *Poff* decisions, the
 Region submits that provided I find that there is adequate capacity in
 the shelter system to accommodate the residents of the Encampment, I
 should nonetheless find that the By-Law does not violate the rights of
@@ -442,7 +444,7 @@ rules that cannot be followed due to addictions, or cannot accommodate
 mental or physical disability, they are not low barrier and accessible
 to the individuals they are meant to serve. Although not binding on me,
 I adopt and follow the decisions of the British Columbia Supreme Court
-in *Shantz*, *Prince George (City) v Stewarrt* and *Bamberger*, all of which hold that in order for the
+in *Shantz*, *Prince George (City) v Stewart* and *Bamberger*, all of which hold that in order for the
 shelter spaces to be truly available, they must in fact be low barrier
 or accessible to accommodate the homeless population.
 

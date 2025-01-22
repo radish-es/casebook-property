@@ -1,5 +1,5 @@
 ---
-title: A Municipal Bylaw
+title: Sheltering in Public Spaces Bylaw 
 short: Bylaw
 class: problem
 description: Municipal by-law regarding sheltering on public property. 
@@ -8,9 +8,9 @@ image: /imgs/cridge.jpg
 imgcaption: 
 links:
   - url: content/cases/victoria-city.md
-    explanation: A
-  - url: content/cases/victoria-city.md
-    explanation: A
+    explanation: This early decision on the right to shelter under section 7 of the Charter laid much of the groundwork for subsequent developments in the law. What are the fundamentals of this approach? Is it vulnerable any way? How do you think it is informed by the modern style?
+  - url: content/cases/committee.md
+    explanation: In one of the seminal cases on the Charter-protected freedom of expression, the Supreme Court address some important aspects of 'public property' and some of the potential constitutional limitations on government ownership of such spaces. How might these be relevant to the design of the model municipal bylaw? 
 published: true
 weight: 11
 ---

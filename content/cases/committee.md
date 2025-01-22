@@ -14,6 +14,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
   - public-property
+links:
+  - url: content/cases/victoria-city.md
+    explanation: Is Justice L'Heureux-Dubé's view here on the nature of and limitations on government-owned property consistent with the approach to the right to shelter developed in Victoria (City) v Adams and subsequent cases? 
 published: true
 ---
 
