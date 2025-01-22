@@ -1,6 +1,6 @@
 ---
 class: case
-style: Stuartburn (Municipality) v Kiansky
+title: Stuartburn (Municipality) v Kiansky
 short: Stuartburn
 reporter: 2001 MBQB 94 (CanLII)
 year: 2001
@@ -14,16 +14,11 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: 'Not an official version. '
 tags:
-  - transfer
   - estates
-  - bequest
-published: false
+published: true
 ---
 
-
-
-
-### Wright J. —
+## Wright J. —
 
 This is an application by the Rural Municipality of Stuartburn (”the Municipality”) for a declaration that its Reeve, the respondent David Theodore Kiansky (”Kiansky”) is disqualified from holding office.
 

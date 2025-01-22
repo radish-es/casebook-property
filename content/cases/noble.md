@@ -1,6 +1,6 @@
 ---
 class: case
-style: Noble et al v Alley
+title: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
 year: 1950
@@ -13,16 +13,11 @@ sources:
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - use
   - restrictive-covenant
-  - servitude
   - public-policy
   - uncertainty
-published: false
+published: true
 ---
-
-
-
 
 ### The judgment of Kerwin and Taschereau J.J. was delivered by Kerwin J. —
 

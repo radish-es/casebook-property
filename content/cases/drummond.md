@@ -1,6 +1,6 @@
 ---
 class: case
-style: Re Drummond Wren
+title: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
 year: 1945
@@ -13,13 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/g1d4b'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - use
   - restrictive-covenant  
   - public-policy
-published: false
+published: true
 ---
-
-
 
 ### Mackay J. —
 
