@@ -1,6 +1,6 @@
 ---
 class: case
-style: Victoria (City) v Adams
+title: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
 year: 2008
@@ -20,31 +20,20 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 tags:
-  - use
-  - recognition
   - shelter-rights
-  - housing-rights
-published: false
+links:
+  - url: content/cases/waterloo.md
+    explanation: Starting with the Region of Waterloo case, a couplet of recent decisions from Ontario have reviewed the evolving jurisprudence in BC since Adams. What aspects of the doctrine established in Adams are expanding and/or being challenged in these Ontario cases?
+published: true
 ---
 
+## Ross J. —
 
-
-
-
-
-### Ross J. —
-
-#### I Introduction
+### I Introduction
 
 This litigation arises from what Senior District Judge Atkins in *Pottinger v. Miami (City)*, 810 F. Supp. 1551 (U.S. Dist. Ct. S.D. Fla. 1992) at 1554 described as:
 
 > ... an inevitable conflict between the need of homeless individuals to perform essential, life-sustaining acts in public and the responsibility of the government to maintain orderly, aesthetically pleasing public parks and streets.
-
-{{< spoiler text="The court's framing" id="frame-case" >}}
-
-<audio controls><source src="https://www.dropbox.com/s/npydmccut0i5of1/week13_minilecture03.mp3?raw=1" type="audio/mpeg"></audio>
-
-{{< /spoiler >}}
 
 The particular issue in this litigation concerns the prohibition against erecting temporary shelter on public property that is contained in the Parks Regulation Bylaw and the Streets and Traffic Bylaw (the “Bylaws”) of the City of Victoria (the “City”). Natalie Adams, Yann Chartier, Amber Overall, Alymanda Wawai, Conrad Fletcher, Sebastien Matte, Simon Ralph, Heather Turnquist and David Arthur Johnston (the “Defendants”), who are all homeless people living in the City, contend that this prohibition infringes the rights of homeless people to life, liberty and security of the person in a manner not in accordance with the principles of fundamental justice, contrary to s. 7 of the *Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982*, [*Charter*] being Schedule B to the *Canada Act 1982*, (U.K.), 1982, c. 11. The intervener, the British Columbia Civil Liberties Association (the “BCCLA”), supports the defendants in this contention.
 
@@ -64,7 +53,7 @@ The following findings were made on the basis of the evidence submitted at trial
 
 On the basis of this evidentiary record and for the reasons that follow, I have found that a significant number of people in the City of Victoria have no choice but to sleep outside in the City’s parks or streets. The City’s Bylaws prohibit those homeless persons from erecting even the most rudimentary form of shelter to protect them from the elements. The prohibition on erecting shelter is in effect at all times, in all public places in the City. I have found further that the effect of the prohibition is to impose upon those homeless persons, who are among the most vulnerable and marginalized of the City’s residents, significant and potentially severe additional health risks. In addition, sleep and shelter are necessary preconditions to any kind of security, liberty or human flourishing. I have concluded that the prohibition on taking a temporary abode contained in the Bylaws and operational policy constitutes an interference with the life, liberty and security of the person of these homeless people. I have concluded that the prohibition is both arbitrary and overbroad and hence not consistent with the principles of fundamental justice. I finally have concluded further that infringement is not justified pursuant to s. 1 of the *Charter*.
 
-#### II History of the Litigation
+### II History of the Litigation
 
 This action was commenced by the City in October 2005 as an action to obtain a civil injunction to enforce municipal bylaws respecting parks and public space.
 
@@ -124,7 +113,7 @@ The persons who were staying in the Tent City did not respond to the notice. The
 
 […]
 
-#### III The Bylaws
+### III The Bylaws
 
 The City is authorized to regulate, prohibit and impose requirements in relation to public places pursuant to ss. 8(3) and 62 of the *Community Charter*, which provide:
 
@@ -234,11 +223,11 @@ He deposed that the City does not prohibit people from creating shelter for them
 
 The parties agreed to proceed on the basis that the current state of the law is reflected in the combination of the Bylaws and the operational policy described by Mr. McCliggott. The focus of the constitutional inquiry is directed to the gap between what is permitted by the Bylaws and operational policy of the City and what is prohibited by those Bylaws and the policy.
 
-#### IV Facts
+### IV Facts
 
-##### A. The Homeless in Victoria
+#### A. The Homeless in Victoria
 
-###### 1. The Number of Homeless in Victoria
+##### 1. The Number of Homeless in Victoria
 
 There have been several recent studies that have attempted to identify the number of homeless people in Victoria. All of the studies recognised the difficulties in conducting an accurate survey of this population such that all efforts to count are likely to result in underestimates. The most recent, thorough and comprehensive of these studies is the Mayor’s Task Force Report.
 
@@ -248,7 +237,7 @@ The Mayor’s Task Force Report concluded at p. 7 that “without the addition o
 
 A survey of the homeless in Victoria was conducted on January 15, 2005, in which 150 community volunteers were assigned to survey specific geographical routes in the Greater Victoria area between the hours of midnight and 6:00 a.m. On that night the temperatures dropped to minus 10°C. The survey identified 700 homeless people. One hundred and sixty-eight people were found sleeping outside. The survey identified 47 children dependent upon someone who was homeless.
 
-###### 2. Profile of the Homeless Population
+##### 2. Profile of the Homeless Population
 
 The Homeless Needs Survey taken in 2007 and cited in the Mayor’s Task Force Report provided further information with respect to the composition of the homeless population in Greater Victoria.
 
@@ -283,7 +272,7 @@ The Mayor’s Task Force Report contained a Report of the Expert Panel. The Repo
 
 - 25 percent of homeless residents have co-occurring disorders (mental illness and substance use problem)
 
-###### 3. Shelter Beds in Victoria
+##### 3. Shelter Beds in Victoria
 
 The Report of the Gap Analysis Team described the number and distribution of shelter beds in Victoria at p. 15:
 
@@ -305,17 +294,17 @@ It is clear that even including the Extreme Weather Protocol shelter spaces, the
 
 The City submits that in fact the number of shelter beds is sufficient to meet demand, at least during the time when the Extreme Weather Protocol is in effect. The City relied upon the rough draft of the 2007/08 Victoria Area Extreme Weather Protocol Final Report in support of this contention. [Note: the final draft of this Report was not in evidence.] The Report notes that the Extreme Weather Protocol was in effect on 81 nights during the period between November 21, 2007, and April 20, 2008. […]
 
-#### VI Analysis
+### VI Analysis
 
 […]
 
 
 
-##### A. Section 7
+#### A. Section 7
 
 […]
 
-###### 3. Does this Claim Follow Within the Scope of Section 7?
+##### 3. Does this Claim Follow Within the Scope of Section 7?
 
 […]
 
@@ -349,17 +338,11 @@ Mr. Hogya’s opinion is that in addition to ground insulation, the necessary mi
 
 The point of each alternative is that it is necessary to secure overhead protection. However, the Bylaw and the operational policy prohibit the erection of even temporary overhead protection in the form of tents, tarps strung up or cardboard boxes. I find that the difference between what is prohibited and what is permitted is not string, but overhead protection, and it is in my view clear on the evidence that overhead protection is required to provide protection from the risk of exposure.
 
-{{< spoiler text="Shelter Availability and Individuals' Choices" id="individ-choices" >}}
-
-<audio controls><source src="https://www.dropbox.com/s/8jo53hk1bqs7720/week13_minilecture04.mp3?raw=1" type="audio/mpeg"></audio>
-
-{{< /spoiler >}}
-
-[…]
+[...]
 
 I have found that a significant number of people in the City of Victoria have no choice but to sleep outside in the City’s parks or streets. The City’s Bylaws prohibit those homeless persons from erecting even the most rudimentary form of shelter to protect them from the elements. The prohibition on erecting shelter is in effect at all times, in all public places in the City. I have found further that the effect of the prohibition is to impose upon those homeless persons, who are among the most vulnerable and marginalized of the City’s residents, significant and potentially severe additional health risks. In addition, sleep and shelter are necessary preconditions to any kind of security, liberty or human flourishing. I have concluded that the prohibition on taking a temporary abode contained in the Bylaws and operational policy constitutes an interference with the life, liberty and security of the person of these homeless people. Finally, I have concluded that the prohibition is both arbitrary and overbroad and hence not consistent with the principles of fundamental justice.
 
-[…]
+[...]
 
 #### VIII Disposition
 
@@ -369,4 +352,4 @@ Accordingly, this Court declares that:
 
 (b) Sections 13(1) and (2),14(1) and (2), and 16(1) of the Parks Regulation Bylaw No. 07-059 and ss. 73(1) and 74(1) of the Streets and Traffic Bylaw No. 92-84 are of no force and effect insofar and only insofar as they apply to prevent homeless people from erecting temporary shelter.
 
-[…]
+[...]
