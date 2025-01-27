@@ -1,5 +1,5 @@
 ---
-title: Constructive Takings 
+title: Constructive Takings and Acquired Rights
 short: Week 10
 published: true
 class: lesson
