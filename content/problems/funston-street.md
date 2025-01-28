@@ -4,18 +4,22 @@ short: Funston
 class: problem
 description: Restrictive covenants in Houston.
 summary: 
-image: 
-imgcaption: 
+image: /imgs/brykerwoods.jpg
+imgcaption: Scan of the Brykerwoods neighborhood's restrictive covenant - KUT News
 links:
-  - url: content/statutes/expropriation-act.md
-    explanation: Assume that the Nova Scotia and Manitoba expropriation statutes are equivalent. Recall from our earlier study of this legislation that it leaves much to interpretation in cases of constructive expropriation.
+  - url: content/cases/drummond.md
+    explanation: Case
+  - url: content/cases/stuartburn.md
+    explanation: Case
+  - url: content/cases/canada-trust.md
+    explanation: Case
 published: true
 weight: 12
 ---
 
 Please listen to this [NPR Radio documentary about 3000 Funston Street,](https://www.kut.org/austin/2021-09-10/west-austin-affordable-housing-lawsuit) a piece of vacant land in the Brykerwoods neighbourhood of Austin, Texas. The podcast tells the story of how a restrictive covenant is shaping urban development in the context of the city's long-term strategy to improve access to affordable housing and achieve a more equitable distribution of that housing across the municipality. If you prefer, the website also contains a print version of the radio documentary.  
 
-The provisions of the restrictive covenant at 3000 Funston Street are included on the website — they are as follows:
+The provisions of the restrictive covenant at 3000 Funston Street are included on the website--they are as follows:
 
 > All lots in Brukenwoods Annex shall be subject to the following restrictions, covenants and conditions:
 >
@@ -39,12 +43,14 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 10. Invalidation of any one of these covenants by judgement or court order shall in no wise affect any of the other provisions which shall remain in full force and effect. 
 
-Both Canada and the United States have a long, troubling history of upholding the type of racially restrictive covenants seen in Clause 5 of the 3000 Funston Street covenant. These clauses are no longer enforceable in Canadian law (though in some places, like this [West Vancouver neighbourhood,](https://www.cbc.ca/news/canada/british-columbia/land-covenants-1.5442686) such clauses formally remain on title).
-
 **Suppose that the facts surrounding 3000 Funston Street take place in a Canadian city like Halifax. Which provisions of the restrictive covenant above might limit the use of the land for the development of affordable housing as envisioned by the City of Austin? Would such provisions be valid and enforceable in Canadian law?**
+
+Both Canada and the United States have a long, troubling history of upholding the type of racially restrictive covenants seen in Clause 5 of the 3000 Funston Street covenant. These clauses are no longer enforceable in Canadian law (though in some places, like this [West Vancouver neighbourhood](https://www.cbc.ca/news/canada/british-columbia/land-covenants-1.5442686), such clauses formally remain on title).
 
 <!-- Will stipulated that property cannot be sold to members of certain faith groups.-->
 
-Now suppose that one of the residents of 3000 Funston Street makes the following testamentary bequest:
+But suppose that one of the residents of 3000 Funston Street makes a will, naming their two surviving adult children as the sole beneficiaries. The will establish a private trust with the eldest child as trustee, the terms of which stipulate that the youngest only receive their share of the trust property if and when they divorce and cease to cohabitate with their spouse. If the youngest child fails to meet this condition within five years of the testator’s decease, the whole residue of the estate will pass to the other beneficiary.
 
-> I leave my land to my aunt in trust for my eldest daughter, on the condition that 
+After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator "disapproved" of them having married their spouse, who was born in Sri Lanka and recently immigrated to Canada. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s beliefs.
+
+**How would you describe the property interests created in this will? Do you think the plaintiff is likely to succeed in challenging the will?**

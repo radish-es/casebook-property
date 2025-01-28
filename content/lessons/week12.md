@@ -20,7 +20,7 @@ objectives:
 - Future and Qualified Interests
 - Canada Trust Co
 - McCorkill
-- BMO? 
+
 
 ## Our Problem this Week
 
