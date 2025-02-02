@@ -12,9 +12,9 @@ links:
   - url: content/cases/drummond.md
     explanation: Could the emerging doctrine described in Re Drummond Wren apply to the facts at 3000 Funston Street? How far does that doctrine extend?
   - url: content/cases/stuartburn.md
-    explanation: Case
+    explanation: This case provides some further conceptual tools and definitions to help describe and understand what kinds of property interests are sometimes created in a grant or bequest of property.
   - url: content/cases/canada-trust.md
-    explanation: Case
+    explanation: How might the testamentary bequest here be dealt with under the doctrine expressed in Canada Trust?
 published: true
 weight: 12
 ---

@@ -20,6 +20,9 @@ sources:
 tags:
   - public-policy
   - trusts
+links:
+  - url: content/cases/mccorkill.md
+    explanation: Does the Court in McCorkill extend the public policy doctrine expressed by the court in Canada Trust? 
 published: true
 ---
 

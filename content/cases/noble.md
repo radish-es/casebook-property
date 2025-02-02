@@ -7,7 +7,6 @@ year: 1950
 facts: A racially restrictive covenant was attached to land forming part of a summer resort development.
 issue: Whether the restrictive covenant was valid.
 held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land.
-summary: This case—decided just five years after Re Drummond Wren—addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause.
 public: true
 sources:
   - source_name: CanLII
@@ -17,14 +16,17 @@ tags:
   - restrictive-covenant
   - public-policy
   - uncertainty
+links:
+  - url: content/cases/canada-trust.md
+    explanation: Albeit in a different legal context, the Ontario Court of Appeal in Canada Trust addresses the broad question of whether and how Anglo-Canadian property law can confront attempts by owners to control their property toward discriminatory ends. 
 published: true
 ---
+*This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
 
-### The judgment of Kerwin and Taschereau J.J. was delivered by Kerwin J. —
 
-[*"*]
+### Kerwin J. (dissenting) —
 
-[…]
+[...]
 
 In the Courts below emphasis was laid upon the decision of Mackay J. in *Re Drummond Wren*, and it was considered that the motion was confined to the consideration of whether that case, if rightly decided, covered the situation. The motion was for an order declaring that the objection to the covenant made on behalf of the purchaser had been fully answered by the vendor and that the same did not constitute a valid objection to the title or for such further and other order as might seem just. The objection was:
 
@@ -54,7 +56,7 @@ It was a forward step that the rigour of the common law should be softened by th
 
 The appeal should be allowed with costs here and in the Court of Appeal. There should be no costs of the original motions in the Supreme Court of Ontario.
 
-### The judgment of Rand, Kellock and Fauteux J.J. was delivered by Rand J. —
+### Rand J. (majority) —
 
 Covenants enforceable under the rule of *Tulk v. Moxhay*, are properly conceived as running with the land in equity and, by reason of their enforceability, as constituting an equitable servitude or burden on the servient land. The essence of such an incident is that it should touch or concern the land as contradistinguished from a collateral effect. In that sense, it is a relation between parcels, annexed to them and, subject to the equitable rule of notice, passing with them both as to benefit and burden in transmissions by operation of law as well as by act of the parties.
 

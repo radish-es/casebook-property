@@ -17,7 +17,7 @@ tags:
   - public-policy
 links:
   - url: content/cases/noble.md
-    explanation: The validity criteria described in this mini-lecture extend and build upon those established in the Tulk v Moxhay.
+    explanation: On similar facts, Noble and Wolfe v Alley comes before the Ontario Court of Appeal just a few years later. Does the Court follow Re Drummond Wren? Why or why not?
 published: true
 ---
 
