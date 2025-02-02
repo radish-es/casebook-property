@@ -7,8 +7,10 @@ summary:
 image: /imgs/brykerwoods.jpg
 imgcaption: Scan of the Brykerwoods neighborhood's restrictive covenant - KUT News
 links:
+  - url: content/concepts/covenants-running.md
+    explanation: How do modern courts assess the validity (and therefore enforceability) of a covenant running with the land in equity?
   - url: content/cases/drummond.md
-    explanation: Case
+    explanation: Could the emerging doctrine described in Re Drummond Wren apply to the facts at 3000 Funston Street? How far does that doctrine extend?
   - url: content/cases/stuartburn.md
     explanation: Case
   - url: content/cases/canada-trust.md
@@ -51,6 +53,6 @@ Both Canada and the United States have a long, troubling history of upholding th
 
 But suppose that one of the residents of 3000 Funston Street makes a will, naming their two surviving adult children as the sole beneficiaries. The will establish a private trust with the eldest child as trustee, the terms of which stipulate that the youngest only receive their share of the trust property if and when they divorce and cease to cohabitate with their spouse. If the youngest child fails to meet this condition within five years of the testator’s decease, the whole residue of the estate will pass to the other beneficiary.
 
-After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator "disapproved" of them having married their spouse, who was born in Sri Lanka and recently immigrated to Canada. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s beliefs.
+After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator--in their words--"disapproved" of them having married their spouse, who was born in Southeast Asia and immigrated to Canada as a teenager. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s racist beliefs.
 
-**How would you describe the property interests created in this will? Do you think the plaintiff is likely to succeed in challenging the will?**
+**How would you describe the property interests created in the bequest? Do you think the plaintiff is likely to succeed in challenging the will?**

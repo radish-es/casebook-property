@@ -7,6 +7,7 @@ year: 1950
 facts: A racially restrictive covenant was attached to land forming part of a summer resort development.
 issue: Whether the restrictive covenant was valid.
 held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land.
+summary: This case—decided just five years after Re Drummond Wren—addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause.
 public: true
 sources:
   - source_name: CanLII
@@ -21,9 +22,7 @@ published: true
 
 ### The judgment of Kerwin and Taschereau J.J. was delivered by Kerwin J. —
 
-[*This case—decided just five years after Re Drummond Wren—addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
-
-*The Ontario Court of Appeal upheld the restrictive covenant and explicitly rejected the application of the public policy doctrine relied on by Justice Mackay in Re Drummond Wren. On what grounds go Justices Kerwin and Taschereau at the Supreme Court overturn the Court of Appeal's decision? Is Re Drummond Wren applied? Rejected? What do you think is the reason from the Supreme Court's approach in this case?*]
+[*"*]
 
 […]
 

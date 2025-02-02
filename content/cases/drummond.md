@@ -15,6 +15,9 @@ sources:
 tags:
   - restrictive-covenant  
   - public-policy
+links:
+  - url: content/cases/noble.md
+    explanation: The validity criteria described in this mini-lecture extend and build upon those established in the Tulk v Moxhay.
 published: true
 ---
 
