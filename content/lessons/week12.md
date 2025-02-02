@@ -26,14 +26,6 @@ In the last few weeks, we have emphasized that modern, forward-looking land use 
 
 Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Testamentary bequests are another common legal mechanism through which such control is enacted and extended. We will return to and build on our study of these different tool from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style. 
 
-- Covenants running in equity
-- Re Drummond Wren
-- Noble and Wolfe v Alley
-- Stuartburn v Kiansky
-- Future and Qualified Interests
-- Canada Trust Co
-- McCorkill
-
 
 ## Our Problem this Week
 
