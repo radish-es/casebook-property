@@ -234,7 +234,7 @@ Section 7 of the *Charter* provides:
 the right not to be deprived thereof except in accordance with the
 principles of fundamental justice.
 
-The onus is on the rights claimant under to establish on a
+The onus is on the rights claimant to establish on a
 balance of probabilities that the impugned legislation deprives him or
 her of either life, liberty, of security of the person, and that the
 deprivation is not in accordance with the principles of fundamental
@@ -242,13 +242,10 @@ justice. Should the claimant be successful in this respect, then the
 burden shifts to the respondent, under section 1, to justify the deprivation as a
 "reasonable" limit that is "demonstrably justified in a free and
 democratic society: see *Michaud*, at para. 60. The same principles
-apply in regard to section 15(1) of the *Charter*: see *Abbotsford (City) v. Shantz*, at para.226.
+apply in regard to section 15(1) of the *Charter*: see *Abbotsford (City) v. Shantz*, at para. 226.
 
 I add one qualification to the above analysis described by the
-Ontario Court of Appeal in *R. v. Michaud*, based on the statement of Chief Justice McLachlin in *Charkaoui*, who explained, at para. 12, that the first of the two steps to be established
-by the moving party are meant to examine whether "there has been or
-could be a deprivation of the right to life, liberty or security of the
-person."
+Ontario Court of Appeal in *R. v. Michaud*, based on the statement of Chief Justice McLachlin in *Charkaoui*, who explained, at para. 12, that the first of the two steps to be established by the moving party are meant to examine whether "there has been or could be a deprivation of the right to life, liberty or security of the person."
 
 #### **Section 7 and the History of the "Right to Shelter" Cases**
 
@@ -261,7 +258,7 @@ summarized the development of the British Columbia caselaw regarding the
 > In *Adams* BCSC, Madam Justice Ross found a Victoria bylaw prohibiting
 homeless persons from erecting temporary shelters in Victoria parks
 infringed their right to life, liberty, and security of the person, as
-guaranteed by . She found the number of homeless persons in Victoria far
+guaranteed by section 7. She found the number of homeless persons in Victoria far
 outnumbered the available shelter beds such that many of Victoria's
 homeless were forced to sleep outside. Despite this, the city's bylaw
 prohibited anyone from erecting temporary shelters, including tents,
