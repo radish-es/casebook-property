@@ -273,7 +273,7 @@ prevent homeless people from erecting temporary overnight shelter in
 parks when the number of homeless people exceeds the number of available
 shelter beds in the City of Victoria": *Adams* BCCA at para. 166.
 
-> The constitutional right as articulated in was thus circumscribed
+> The constitutional right as articulated in *Adams* was thus circumscribed
 in two respects: (1) the right is exercisable when the number of
 homeless outnumbered the available indoor sheltering spaces, and (2) the
 right to erect a temporary shelter is confined to overnight hours.
@@ -288,7 +288,7 @@ Adamson*; *Nanaimo (City) v. Courtoreille*; *Vancouver Fraser Port Authority v.
 Brett*; and, most recently, *Prince George (City) v.
 Stewart*.
 
-> The basic constitutional right as framed in has remained largely
+> The basic constitutional right as framed in *Adams* has remained largely
 unchanged. However, it is now recognized that it is not just the
 *number* of available indoor sheltering spaces that frames
 the right but also whether those spaces are truly
@@ -312,7 +312,7 @@ these shelter spaces are in fact accessible to all of the occupants of
 the encampments.
 
 > The question of sheltering in public parks during daytime hours
-has also arisen in the cases since , but the jurisprudence, thus far,
+has also arisen in the cases since *Adams*, but the jurisprudence, thus far,
 has not extended the right to include it, at least not expressly. In
 *Shantz* at para. 276, Hinkson C.J.S.C. found "there is a legitimate
 need for people to shelter and rest during the day and no indoor shelter
@@ -392,7 +392,7 @@ Given these factual findings, and in following the suggested
 path of the British Columbia Court of Appeal in *Adams*, the Ontario Courts
 ruled that there was no breach of section 7.
 
-In the alternative, to urge my following the *Black and *Poff* decisions, the
+In the alternative, to urge my following the *Black* and *Poff* decisions, the
 Region submits that provided I find that there is adequate capacity in
 the shelter system to accommodate the residents of the Encampment, I
 should nonetheless find that the By-Law does not violate the rights of
