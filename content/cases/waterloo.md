@@ -16,7 +16,7 @@ tags:
   - shelter-rights
 links:
   - url: content/cases/heegsma.md
-    explanation: This case and the court's decision in Heegsma v Hamilton are clearly at odds. What do you think is the heart of the disagreement between the judges in these cases? To what extend is this disagreement premised on or presupposed by the Adams framework?
+    explanation: This case and the court's decision in Heegsma v Hamilton are clearly at odds. What do you think is the heart of the disagreement between the judges in these cases? To what extent is this disagreement premised on or presupposed by the Adams framework?
 published: true
 ---
 
