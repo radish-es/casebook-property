@@ -243,7 +243,7 @@ The Homeless Needs Survey taken in 2007 and cited in the Mayor’s Task Force Re
 
 The Gap Analysis Report included the following results of that survey at p. 7:
 
-{{< figure src="/media/adams_table.jpg" caption="Table 1: Homeless and unstably housed people identified through Homeless Needs Survey">}}
+{{< figure src="/imgs/adams-table.jpg" caption="Table 1: Homeless and unstably housed people identified through Homeless Needs Survey">}}
 
 
 As noted in this chart, that survey identified 791 persons who were homeless, as opposed to being unstably housed. Of those, 108 were youths between the ages of 16-25 and 59 were children under the age of 16. The surveyors, however, were of the view that this represents a significant underestimate and that the correct figure for homeless young people is likely between 250-300. The survey identified 74 homeless people who had children staying with them. Nineteen percent of those persons surveyed with children were homeless as opposed to being unstably housed.
