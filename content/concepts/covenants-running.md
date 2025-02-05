@@ -7,9 +7,9 @@ tags:
 published: true
 links:
   - url: content/cases/tulk.md
-    explanation: The validity criteria described in this mini-lecture extend and build upon those established in the Tulk v Moxhay.
+    explanation: The validity criteria described in this mini-lecture extend and build upon those established in the Tulk v Moxhay, where the court's focus was on the requirement of "notice".
   - url: content/cases/noble.md
-    explanation: At least one of the criteria described here--"touch and concern"--is applied in Noble and Wolfe v Alley. What is the relationship between this and the public policy doctrine?
+    explanation: Two of the criteria described here--intention ("annexation") and "touch and concern"--are applied in Noble v. Alley. What is the relationship between these criteria and the public policy doctrine expressed in Re Drummond Wren?
 ---
 
 {{< vimeo 671486180 >}}

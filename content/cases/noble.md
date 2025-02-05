@@ -4,9 +4,9 @@ title: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
 year: 1950
-facts: A racially restrictive covenant was attached to land forming part of a summer resort development.
+facts: A racially restrictive covenant concerned land forming part of a summer resort development.
 issue: Whether the restrictive covenant was valid.
-held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land.
+held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land, and did not touch and concern the land.
 public: true
 sources:
   - source_name: CanLII
@@ -18,13 +18,12 @@ tags:
   - uncertainty
 links:
   - url: content/cases/canada-trust.md
-    explanation: Albeit in a different legal context, the Ontario Court of Appeal in Canada Trust addresses the broad question of whether and how Anglo-Canadian property law can confront attempts by owners to control their property toward discriminatory ends. 
+    explanation: The Ontario Court of Appeal in Canada Trust addresses the same broad question of whether and how Anglo-Canadian property law can confront attempts by owners to control their property toward discriminatory ends. How does the Court of Appeal's approach to this question differ from the Supreme Court in Noble v Alley?
 published: true
 ---
 *This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
 
-
-### Kerwin J. (dissenting) —
+### Kerwin J. (concurring) --
 
 [...]
 
@@ -62,9 +61,17 @@ Covenants enforceable under the rule of *Tulk v. Moxhay*, are properly conceived
 
 But by its language, the covenant here is directed not to the land or to some mode of its use, but to transfer by act of the purchaser; its scope does not purport to extend to a transmission by law to a person within the banned class. If, for instance, the grantee married a member of that class, it is not suggested that the ordinary inheritance by a child of the union would be affected. Not only, then, it is not a covenant touching or concerning the land, but by its own terms it fails in annexation to the land. The respondent owners are, therefore, without any right against the proposed vendor.
 
-On its true interpretation, the covenant is a restraint on alienation. […]
+On its true interpretation, the covenant is a restraint on alienation. The grantor company which has disposed of all its holdings in the sub-division has admittedly ceased to carry on business and by force of the provisions of *The Companies’ Act*, R.S.O. 1937, c. 251, s. 28 its powers have become forfeited; but by ss. (4) they may, on such conditions as may be exacted, be revived by the Lieutenant-Governor in Council. Assuming the grantor would otherwise be entitled to enforce the covenant in equity against the original covenantor—and if he would not the point falls—it becomes necessary to deal with the question whether for the purposes of specific performance the covenant is unenforceable for uncertainty.
 
-The effect of the covenant, if enforceable, would be to annex a partial inalienability as an equitable incident of the ownership, to nullify an area of proprietary powers. In both cases there is the removal of part of the power to alienate; and I can see no ground of distinction between the certainty required in the one case and that of the other. The uncertainty is, then, fatal to the validity of the covenant before us as a defect of or objection to the title.
+It is in these words: See clause (f) p—?
+
+The lands and premises herein described shall never be sold, assigned, transferred, leased, rented or in any manner whatsoever alienated to, and shall never be occupied or used in any manner whatsoever by any person of the Jewish, Hebrew, Semitic, Negro or coloured race or blood, it being the intention and purpose of the Grantor, to restrict the ownership, use, occupation and enjoyment of the said recreational development, including the lands and premises herein described, to persons of white or Caucasian race not excluded by this clause.
+
+If this language were in the form of a condition, the holding in *Clayton v. Ramsden*, would be conclusive against its sufficiency. In that case the House of Lords dealt with a condition in a devise by which the donee became divested if she should marry a person “not of Jewish parentage and of the Jewish faith” and held it void for uncertainty. I am unable to distinguish the defect in that language from what we have here: it is impossible to set such limits to the lines of race or blood as would enable a court to say in all cases whether a proposed purchaser is or is not within the ban. As put by Lord Cranworth in *Clavering v. Ellison*, at p. 289 the condition “must be such that the Court can see from the beginning, precisely and distinctly, upon the happening of what event it was that the preceding estate was to determine.”
+
+The effect of the covenant, if enforceable, would be to annex a partial inalienability as an equitable incident of the ownership, to nullify an area of proprietary powers.
+
+In both cases there is the removal of part of the power to alienate; and I can see no ground of distinction between the certainty required in the one case and that of the other. The uncertainty is, then, fatal to the validity of the covenant before us as a defect of or objection to the title.
 
 I would, therefore, allow the appeal and direct judgment to the effect that the covenant is not an objection to the title of the proposed vendor, with costs to the appellants in this Court and in the Court of Appeal.
 

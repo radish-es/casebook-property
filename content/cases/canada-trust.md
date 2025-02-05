@@ -23,14 +23,10 @@ tags:
 links:
   - url: content/cases/mccorkill.md
     explanation: Does the Court in McCorkill extend the public policy doctrine expressed by the court in Canada Trust? 
+  - url: content/cases/drummond.md
+    explanation: While Re Drummond Wren deals with a restrictive covenant, is the doctrine expressed in that case the same or similar to the one described here? How?  
 published: true
 ---
-
-
-
-
-
-
 
 ### Robins J.A.  —
 
