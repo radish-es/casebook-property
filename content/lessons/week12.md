@@ -5,8 +5,8 @@ published: true
 class: lesson
 description: Covenants and Qualifications
 weight: 12
-image: 
-imgcaption: 
+image: /imgs/subdivision.jpg
+imgcaption: Avi Waxman on Unsplash
 objectives:
   - objective: >-
       Identify and apply the full set of criteria for the burdens of a valid restrictive covenant to run with the land.
@@ -24,8 +24,7 @@ objectives:
 
 In the last few weeks, we have emphasized that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts. But this story about the move from private enforcement to public land-use control needs to be complicated a little further. Certain conventional, “private” forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the restrictive covenant.
 
-Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Testamentary bequests are another common legal mechanism through which such control is enacted and extended. We will return to and build on our study of these different tool from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style. 
-
+Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Both testamentary bequests and *inter vivos* transfers of an estate in land are common legal mechanism through which such control is enacted and extended. We will return to and build on our study of these different tool from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style. 
 
 ## Our Problem this Week
 
