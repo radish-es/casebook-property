@@ -12,7 +12,7 @@ objectives:
       Identify and apply the full set of criteria for the burdens of a valid restrictive covenant to run with the land.
     explanation: >-
   - objective: >-
-      Distringuish between future and qualified interests in land.
+      Distinguish between future and qualified interests in land.
     explanation: >-
   - objective: >-
       Describe how the doctrine of public policy developed in early cases dealing with discriminatory restrictive covenants and link this development to the features of the modern style.
