@@ -1,6 +1,6 @@
 ---
 class: case
-style: McCorkill v McCorkill (Estate)
+title: McCorkill v McCorkill (Estate)
 short: McCorkill
 reporter: 2014 NBQB 148 (CanLII)
 year: 2014
@@ -14,21 +14,17 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - transfer
   - public-policy
-  - bequest
-published: false
+published: true
 ---
 
+*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*
 
-
-> [*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*]
-
-### Grant J. —
+## Grant J. —
 
 > […]
 
-#### Applicant’s Grounds
+### Applicant’s Grounds
 
 In her amended Notice of Application, Ms. McCorkill sets out the following as the grounds of her application:
 
@@ -44,7 +40,7 @@ In her amended Notice of Application, Ms. McCorkill sets out the following as th
 >
 > v. Canada has also signed on, and committed to, other international declarations and covenants which specifically protect individuals against any discrimination, advocacy of national, racial or religious hatred and incitement to discrimination and violence; ...
 
-#### Analysis and Decision
+### Analysis and Decision
 
 > […]
 
@@ -66,7 +62,7 @@ In my view engaging in activity which is prohibited by Parliament through the en
 
 I find that the information the NA disseminates is hate propaganda which is every bit as “malodorous, malicious and evil” as the material excerpted by Dickson, C.J. in *R. v. Andrews*, *supra*. and which is of the kind targeted by the *Criminal Code* which makes its dissemination illegal. It follows, therefore, and I further find, that the dissemination of it by the NA violates the public policy of Canada.
 
-##### B. Should the court declare the bequest to be invalid, given that it is made to a beneficiary whose activities are contrary to public policy, but not made for specific purposes?
+#### B. Should the court declare the bequest to be invalid, given that it is made to a beneficiary whose activities are contrary to public policy, but not made for specific purposes?
 
 The respondent and CAFE also submit that cases where the courts have struck wills down as being against public policy are limited and only involve cases where the bequest itself is objectionable such as in the case of *Wishart Estate, Re*, *supra*. They submit that the jurisprudence deals with repugnant conditions that are attached to bequests, not to the quality of the beneficiary as a person or organization. They submit that even in cases where a person has a criminal record, they are still entitled to receive a bequest, the obvious exception being where the crime, such as murder, was committed in order to obtain the bequest. On that issue see Tarnow, N.M. *Unworthy Heirs: The Application of the Public Policy Rule in the Administration of Estates*, (1980), 58 Can. Bar Rev. 582.
 
@@ -90,7 +86,7 @@ They further submit that since Mr. McCorkill would have been entitled to give mo
 
 Finally, the respondent submits that there is no evidence before the Court that if the will is upheld the National Alliance will use the money against any minority groups. They support CAFE’s submissions and, in particular, submit that voiding this bequest would set a dangerous precedent.
 
-#### Analysis and Decision
+### Analysis and Decision
 
 While the jurisprudence on voiding bequests on the grounds of public policy tends to deal with conditions attached to specific bequests, in my opinion the facts of this case are so strong that they render this case indistinguishable from those.
 
@@ -128,6 +124,6 @@ Moreover, the jurisprudence concerning cases that are contrary to public policy 
 
 I therefore find that while the voiding of a bequest based on the character of the beneficiary is, and will continue to be, an unusual remedy, where, as here, the beneficiary’s *raison d’être* is contrary to public policy, it is the appropriate remedy.
 
-#### Disposition
+### Disposition
 
 In summary, I find that the purposes of the National Alliance and the activities and communications which it undertakes to promote its purposes are both illegal in Canada and contrary to the public policy of both Canada and New Brunswick. Consequently, I declare the residual bequest to it in the will of Harry Robert McCorkill to be void. [...]

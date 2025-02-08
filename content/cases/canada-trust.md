@@ -1,6 +1,6 @@
 ---
 class: case
-style: Canada Trust Co v Ontario (Human Rights Commission)
+title: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
 reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
 year: 1990
@@ -18,17 +18,15 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
 tags:
-  - transfer
   - public-policy
-  - bequest
-published: false
+  - trusts
+links:
+  - url: content/cases/mccorkill.md
+    explanation: Does the Court in McCorkill extend the public policy doctrine expressed by the court in Canada Trust? 
+  - url: content/cases/drummond.md
+    explanation: While Re Drummond Wren deals with a restrictive covenant, is the doctrine expressed in that case the same or similar to the one described here? How?  
+published: true
 ---
-
-
-
-
-
-
 
 ### Robins J.A.  —
 

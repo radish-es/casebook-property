@@ -1,6 +1,6 @@
 ---
 class: case
-style: Re Drummond Wren
+title: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
 year: 1945
@@ -13,13 +13,13 @@ sources:
     source_url: 'https://canlii.ca/t/g1d4b'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - use
   - restrictive-covenant  
   - public-policy
-published: false
+links:
+  - url: content/cases/noble.md
+    explanation: On similar facts, Noble and Wolfe v Alley comes before the Ontario Court of Appeal just a few years later. Does the Court follow Re Drummond Wren? Why or why not?
+published: true
 ---
-
-
 
 ### Mackay J. —
 
