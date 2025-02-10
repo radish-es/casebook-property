@@ -18,6 +18,8 @@ tags:
 links:
   - url: content/cases/noble.md
     explanation: On similar facts, Noble and Wolfe v Alley comes before the Ontario Court of Appeal just a few years later. Does the Court follow Re Drummond Wren? Why or why not?
+  - url: content/cases/tulk.md
+    explanation: Notice that the judge here does not cite Tulk v Moxhay but rather focuses heavily on the statutory context. Is there a reason for this?
 published: true
 ---
 
