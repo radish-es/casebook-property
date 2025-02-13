@@ -53,4 +53,4 @@ But suppose that one of the residents of Funston Street makes a will, naming the
 
 After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator--in the testator's words--"disapproved" of the youngest child having married their spouse, who was born in Southeast Asia and immigrated to Canada as a teenager. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s racist views.
 
-**How would you describe the property interests created in the bequest? Do you think the plaintiff is likely to succeed in challenging the will?**
+**How would you describe the property interests created in the bequest? Do you think the youngest child is likely to succeed in challenging the will?**
