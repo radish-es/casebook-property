@@ -63,8 +63,8 @@
 		{"type":"file","file":"cases/blackburn.md","id":"aef3ed302424bf62","x":11000,"y":-428,"width":400,"height":289,"color":"3"},
 		{"type":"file","file":"secondary/adams-stangerross.md","id":"be64891bf5be5bf2","x":12317,"y":-694,"width":400,"height":400,"color":"3"},
 		{"type":"file","file":"cases/Iwasaki.md","id":"6f3c9c54a0922f1f","x":11718,"y":-529,"width":400,"height":203,"color":"3"},
-		{"id":"989ab058390a0981","type":"text","text":"Term 2 Topics\n\n1. Expropriation/police power / Acquired rights\n\t2. OD Cars v Belfast\n\t3. Mariner Estate\n\t4. Annapolis\n\t5. Halifax Charter, general welfare powers\n\t6. Holmes?\n\t7. Cappy\n\t8. St. Romauld\n\t9. \n2. Aboriginal title\n3. Right to shelter / housing rights\n4. Restrictive covenants/Qualified estates \n5. Possession / adverse possession\n6. Trusts / Reserve lands / Geurin\n7. Review? Planning? Expropriation? \n\n\n\n","x":-2427,"y":-930,"width":387,"height":690},
-		{"type":"file","file":"secondary/house-debates.md","id":"271584b66df0fe9c","x":5440,"y":-63,"width":400,"height":306,"color":"5"}
+		{"type":"file","file":"secondary/house-debates.md","id":"271584b66df0fe9c","x":5440,"y":-63,"width":400,"height":306,"color":"5"},
+		{"id":"989ab058390a0981","type":"text","text":"Term 2 Topics\n\n1. Expropriation/police power / Acquired rights\n\t2. OD Cars v Belfast\n\t3. Mariner Estate\n\t4. Annapolis\n\t5. Halifax Charter, general welfare powers\n\t6. Holmes?\n\t7. Cappy\n\t8. St. Romauld\n\t9. \n2. Aboriginal title\n3. Right to shelter / housing rights\n4. Restrictive covenants/Qualified estates \n5. Possession / adverse possession\n6. Trusts / Reserve lands / Geurin\n7. Review? Planning? Expropriation? \n\nPost reading week:\n- Review / Modern st\\yle\n- Possession\n- Title (AND)\n- Aboriginal title\n- Reserve lands / treaty rights\n- \n\n\n\n","x":-2460,"y":-760,"width":387,"height":860}
 	],
 	"edges":[
 		{"id":"3a2c8a43cbe636ff","fromNode":"1075a798e8f5b58a","fromSide":"right","toNode":"1d9b990893683533","toSide":"left","label":"exclusion vs\ndamages"},
