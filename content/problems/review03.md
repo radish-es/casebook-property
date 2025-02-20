@@ -7,6 +7,9 @@ summary: We will use our time in class to do a help identify key gaps in your kn
 image: 
 imgcaption: 
 published: true
+links:
+  - url: content/secondary/holmes.md
+    explanation: What is Justice Holmes saying in this article? How might his approach be understood as laying the basis for the "modern" style of Anglo-Canadian legal thought?
 weight: 13
 ---
 
