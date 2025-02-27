@@ -55,7 +55,7 @@ weight: 13
 
 - In what sense are possessory and future interests (i.e. property "vested in interest") both "present interests"? 
 
-- Classify the property interests created in the following devise in trust: "to A for life, then to B for life, then to C if they graduate high school." What is the potential problem with this devise? How might that problem be avoided? 
+- Classify the property interests created in the following devise: "to A for life, then to B for life, then to C if they graduate high school." What is the potential problem with this devise? How might that problem be avoided? 
 
 - How did the courts in *Re Drummond Wren* and *Noble v Alley* differ in their approach to striking down the racially restrictive covenants in each case? Does this difference matter, and if so why? 
 
