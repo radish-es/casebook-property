@@ -1,6 +1,6 @@
 ---
 class: case
-style: Keefer v Arillotta
+title: Keefer v Arillotta
 short: Keefer
 reporter: '13 O.R. (2d) 680'
 year: 1976
@@ -13,15 +13,16 @@ sources:
     source_url: 'https://canlii.ca/t/g1jf9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
-  - recognition
   - adverse-possession
-  - easement
-  - servitude
-  - title
-published: false
+links:
+  - url: content/cases/piper.md
+    explanation: The Ontario Court of Appeal in Keefer builds on the legal framework that is early developed in Piper. What is the test for adverse possession that emerges from the Court of Appeal's analysis? 
+  - url: content/cases/kosicki.md
+    explanation: How does the law of adverse possession differ with respect to private and public land?
+published: true
 ---
 
-### Wilson, J.A. -- 
+## Wilson, J.A. -- 
 
 This is an appeal from an order of His Honour Judge Nicholls holding that the respondents had acquired a possessory title to a portion of the appellants’ land subject to an easement remaining in the appellants.
 
@@ -33,11 +34,11 @@ The facts are more fully set out in the reasons for judgment of the learned tria
 
 3. The conduct of the owners.
 
-#### The nature and location of the land in issue
+### The nature and location of the land in issue
 
 It is unnecessary to describe the land by its metes and bounds description. Suffice it to say that it is a narrow strip of land 8 ft. wide by 105 ft. deep running between the residential property of the respondents to the south and the business premises of the appellants to the north. The most easterly 41 ft. of the strip running back from the street line is a stone driveway. Extending westward from the driveway is a grassy area running up to a frame garage owned by the respondents and located at the rear of the strip. A concrete walk-way adjacent to the appellants’ store runs up the side of the store alongside the stone driveway to a set of steps which lead up to a concrete landing giving access to an apartment located over the store. To the west of the steps and concrete landing is an entrance door to an addition which was built on to the rear of the store in 1949 by the appellants’ predecessors in title.
 
-#### The chain of title
+### The chain of title
 
 The appellants’ and the respondents’ properties were initially owned by one Martin Cloy. In 1918 Mr. Cloy conveyed the property now owned by the respondents to one Elzear Lynch together with a right of way of ingress and egress over a portion of his own property, the strip of land in issue on this appeal. In each subsequent conveyance of that property, including the conveyance made in July of 1957 to the respondents, the right of way over the appellants’ land was granted.
 
@@ -45,7 +46,7 @@ When Mr. Cloy died in July of 1921, the land he had retained, now owned by the a
 
 It is accordingly clear, so far as the chain of title to the respective properties is concerned, that the respondents took their property in 1973 subject to the right of way of the appellants over the strip of land in issue on this appeal and the appellants obtained their right of way down through the chain of title to their own property but also by express grant in Douglas Cloy’s quitclaim deed made in March of 1958.
 
-#### The conduct of the owners
+### The conduct of the owners
 
 The learned trial Judge made a number of important findings with respect to the use of the strip of land made over the years by the owners of the two adjoining properties.
 
@@ -65,7 +66,7 @@ The tenants of the apartment above the store entered from the street by the conc
 
 Mr. Cloy testified that both he and his father had put gravel on the driveway over the years, but he acknowledged that the last time he had put gravel on was probably in 1956. Because of the store’s being closed in the winters from December to March every year when he and his family went to Florida, no trucks or customers’ cars would be parked in the driveway during the winter months. His evidence was that they had been wintering in Florida for the past 18 years.
 
-#### The issue
+### The issue
 
 His Honour Judge Nicholls, after reviewing the evidence of user by both owners over the years, stated:
 
