@@ -17,7 +17,7 @@ objectives:
 
 ---
 
-This week we return, in part, to where we started our study of property law this year: the law of possession. Recall that John Locke's labour theory of possession and property was an archetype of the classical style and has been a significant influence on common law principles in this area. 
+This week we return, in part, to where we started our study of property law this year: the law of possession. Recall that John Locke's labour theory of possession and property was an archetype of the classical style and has been a significant influence on common law principles in this area. We now want to understand how the common law's approach to possession has evolved in the modern style. 
 
 ## Our Problem this Week
 

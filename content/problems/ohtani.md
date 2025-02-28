@@ -11,6 +11,8 @@ links:
     explanation: What are the possible rules of first possession canvased in Popov that might apply to our problem this week? 
   - url: content/cases/armorie.md
     explanation: Why does this week's problem ask who has the 'better' claim to the baseball rather than who 'owns' the ball? Who are all the possible parties to this dispute?
+  - url: content/cases/keefer.md
+    explanation: As part of this week's material(but separate from the problem), we will review and update our understanding of the common law principles about adverse possession. 
 
 published: true
 weight: 13
@@ -24,3 +26,4 @@ Then watch the following excerpts of news coverage and video evidence from these
 
 **Who has the better claim to Ohtani's 50/50 baseball and what is the appropriate remedy in this case?** 
 
+Note: in addition to this week's problem on first possession, please also read the material on adverse possession (*Keefer* and *Kosicki*). Those cases do not address the problem but we will cover them in class.
