@@ -1,6 +1,6 @@
 ---
 class: case
-style: Popov v Hayashi
+title: Popov v Hayashi
 short: Popov
 reporter: (Cal Sup 2002)
 year: 2002
@@ -9,20 +9,20 @@ issue: Who is entitled to the ball?
 held: Popov and Hayashi each had possessory interest in the ball. Popov had a pre-possessory interest supporting a qualified right to the ball; Hayashi had possession through his subsequent control of the ball. As such, the ball should be sold and the proceeds equitably divided between the two. 
 public: true
 tags:
-  - recognition
   - first-possession
-  - relative-possession
-  - abandon-possession
-  - conversion
-published: false
+links:
+  - url: content/cases/clift.md
+    explanation: How does the style of reasoning in this case compare to that employed by the judges in Clift v Kane? 
+  - url: content/secondary/locke.md
+    explanation: Does Justice McCarthy's analysis accord with a Lockean view of first possession?
+published: true
 ---
 
+{{< youtube af4dRPV_dUc >}}
 
+## McCarthy J. —
 
-
-### McCarthy J. —
-
-#### Facts
+### Facts
 
 In 1927, Babe Ruth hit sixty home runs. That record stood for thirty four years until Roger Maris broke it in 1961 with sixty one home runs. Mark McGwire hit seventy in 1998. On October 7, 2001, at PacBell Park in San Francisco, Barry Bonds hit number seventy three. That accomplishment set a record which, in all probability, will remain unbroken for years into the future.
 
@@ -64,7 +64,7 @@ It is important to point out what the evidence did not and could not show. Neith
 
 Perhaps the most critical factual finding of all is one that cannot be made. We will never know if Mr. Popov would have been able to retain control of the ball had the crowd not interfered with his efforts to do so. Resolution of that question is the work of a psychic, not a judge.
 
-#### Legal Analysis
+### Legal Analysis
 
 Plaintiff has pled causes of actions for conversion, trespass to chattel, injunctive relief and constructive trust.
 
@@ -117,16 +117,6 @@ These rules are contextual in nature. The are crafted in response to the unique 
 The opposite is true of a baseball hit into the stands of a stadium. Not only is it physically possible for a person to acquire unequivocal dominion and control of an abandoned baseball, but fans generally expect a claimant to have accomplished as much. The custom and practice of the stands creates a reasonable expectation that a person will achieve full control of a ball before claiming possession. There is no reason for the legal rule to be inconsistent with that expectation. Therefore Gray’s Rule is adopted as the definition of possession in this case.
 
 The central tenant of Gray’s Rule is that the actor must retain control of the ball after incidental contact with people and things. Mr. Popov has not established by a preponderance of the evidence that he would have retained control of the ball after all momentum ceased and after any incidental contact with people or objects. Consequently, he did not achieve full possession.
-
-{{< spoiler text="Mini-Lecture: Gray's Rule vs FInkelman/Bernhardt's Rule" id="one" >}}
-
-{{% callout exercise %}} 
-
-{{< vimeo 684772872 >}}
-
-{{% /callout %}}
-
-{{< /spoiler >}}
 
 That finding, however, does not resolve the case. The reason we do not know whether Mr. Popov would have retained control of the ball is not because of incidental contact. It is because he was attacked. His efforts to establish possession were interrupted by the collective assault of a band of wrongdoers.
 
@@ -187,14 +177,3 @@ The court therefore declares that both plaintiff and defendant have an equal and
 The parties are ordered to meet and confer forthwith before Judge Richard Kramer to come to an agreement as to how to implement this decision. If no decision is made by December 30, 2002, the parties are directed to appear before this court on that date at 9:00 am.
 
 The court retains jurisdiction to issue orders consistent with this decision. The ball is to remain in the custody of the court until further order.
-
-
-{{< spoiler text="Mini-Lecture: The Result in Popov"  id="two"  >}}
-
-{{% callout exercise %}} 
-
-{{< vimeo 684773141 >}}
-
-{{% /callout %}}
-
-{{< /spoiler >}}
