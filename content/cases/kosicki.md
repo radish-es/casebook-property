@@ -23,7 +23,7 @@ published: true
 
 Can private landowners gain title over municipal parkland through
 adverse possession? This is the central question raised on this appeal.
-T he application judge answered this question by finding that municipal
+The application judge answered this question by finding that municipal
 parkland is immune to adverse possession. While I would not accept such
 an immunity arises at common law, I conclude the application judge was
 correct in finding that the municipal parkland at issue in this case was
@@ -140,9 +140,9 @@ c. L.15 ("*RPLA*") affects this analysis, and specifically whether, as
 the appellants argue, the operation of the *RPLA* supersedes the common
 law and governs this dispute.
 
-#### (1) The Common Law Scheme for Adverse Possession Claims***
+#### **(1) The Common Law Scheme for Adverse Possession Claims**
 
-In *Nelson (City) v. Mowatt*2017 SCC 8, \[2017\] 1 S.C.R. 138,
+In *Nelson (City) v. Mowatt *2017 SCC 8, \[2017\] 1 S.C.R. 138,
 at para. 17, Brown J. describes the common law basis for adverse
 possession as follows:
 
@@ -159,8 +159,8 @@ claimant had (i) actual, open, notorious, constant, continuous and
 peaceful possession of the subject land for the statutory period of 10
 years; (ii) an intention to exclude the true owner from possession; and
 (iii) effective exclusion of the true owner for the entire 10-year
-statutory period: *Billimoria v. Mistry*2022 ONCA 276, 470 D.L.R. (4th)
-406, at para. 27, citing *Vivekanandan v. Terzian*2020 ONCA 110, 443
+statutory period: *Billimoria v. Mistry* 2022 ONCA 276, 470 D.L.R. (4th)
+406, at para. 27, citing *Vivekanandan v. Terzian* 2020 ONCA 110, 443
 D.L.R. (4th) 678, at para. 21.
 
 Canadian courts have treated adverse possession in the context
@@ -227,11 +227,11 @@ For example, the power to acquire land for a housing project does not
 permit a council to acquire shares in the corporation which owns the
 necessary land.
 
-> [The right of ownership in real property held by a city or town for the
+> *The right of ownership in real property held by a city or town for the
 common benefit or use of its inhabitants or of the Queen's subjects in
 general (i.e., a highway) is of such a public character that it cannot,
 as a general rule, be lost by adverse possession over the prescriptive
-period.]{.underline} \[Footnotes omitted; emphasis added.\]
+period.* \[Footnotes omitted; emphasis added.\]
 
 In *Hughes v. Fredericton (City)* 216 N.B.R. (2d) 387, at para.
 10, aff'd 225 N.B.R. (2d) 264 (C.A.), the court cited the emphasized
@@ -243,11 +243,10 @@ public, and *generally* not available for adverse possession:
 Fredericton was zoned for parkland and there was a clear intention that
 it was acquired for public use. It would be difficult, if not
 impossible, for a claimant to acquire such land by adverse possession.
-[As soon as the land was zoned for parkland for public use, it was held
-in trust by the City for the public.]{.underline} \[Emphasis added.\]
+*As soon as the land was zoned for parkland for public use, it was held
+in trust by the City for the public.* \[Emphasis added.\]
 
-#### The Development of the Public Benefit Test in the Common Law of Adverse
-Possession in Relation to Public Lands*
+#### **The Development of the Public Benefit Test in the Common Law of Adverse Possession in Relation to Public Lands**
 
 Faced with the fact-specific analysis of adverse possession in
 the context of municipal land, where it is generally not available for
@@ -306,11 +305,11 @@ earlier precedents and proposed the following test, at para. 119:
 which meet the following factors are immune from claims of neighbouring
 landowners based on prescriptive rights or adverse possession:
 
-> \[(i)\] the land was purchased by or dedicated to the municipality for
+> (i) the land was purchased by or dedicated to the municipality for
 the use or benefit of the public, or as here, for the use or benefit of
 an entire subdivision as well as the public at large; and
 
-> \[(ii)\] since its acquisition by the municipality, the land has been
+> (ii) since its acquisition by the municipality, the land has been
 used by and of benefit to the public.
 
 Howden J. set out the rationale underlying the "public benefit"
@@ -326,8 +325,8 @@ quality title for the public benefit, fairness and justice require that
 no two people should be able to deprive the public of that benefit.
 
 The approach developed in *Warkentin* to the "public benefit"
-test subsequently was adopted in *Richard v. Niagara Falls*2018 ONSC
-7389(Ont. S.C.J.), 4 R.P.R. (6th) 238, aff'd on other grounds, 2019 ONCA
+test subsequently was adopted in *Richard v. Niagara Falls* 2018 ONSC
+7389 (Ont. S.C.J.), 4 R.P.R. (6th) 238, aff'd on other grounds, 2019 ONCA
 531. In that case, a claim for adverse possession of municipal land was
 not made out because the applicants failed to prove that their use of
 the land was inconsistent with the city's intended use. Henderson J.,
@@ -335,8 +334,8 @@ after citing *Warkentin*, stated in *obiter*, at para. 27:
 
 > \[I\]n order to be immune from such a claim for adverse possession, the
 municipality must show that the land was purchased or dedicated for the
-use of the public, [and that the land has been used by and of benefit to
-the public.]{.underline} \[Emphasis added.\]
+use of the public, *and that the land has been used by and of benefit to
+the public.* \[Emphasis added.\]
 
 In *Richard*, Henderson J. incorporated the "public benefit"
 test into the third factor of the test for adverse possession (i.e.,
@@ -370,7 +369,7 @@ municipal parkland, at pp. 228-229:
 
 > Most adverse possession claims involve disputes between private property
 owners. In this case, the Teises claim adverse possession of municipally
-owned land. I [have some discomfort in upholding a possessory title to
+owned land. I *have some discomfort in upholding a possessory title to
 land that the Town would otherwise use to extend its public park for the
 benefit of its residents. Still, the Town did not suggest that
 municipally owned park land cannot be extinguished by adverse possession
@@ -378,7 +377,7 @@ or even that different, more stringent requirements must be met when the
 land in dispute is owned by a municipality and would be used for a
 public park. This case was argued before the trial judge and in this
 court on the footing that the ordinary principles of adverse possession
-law applied.]{.underline} The application of those principles to the
+law applied.* The application of those principles to the
 evidence and the trial judge's findings of fact justify extinguishing
 the Town's title to the ploughed strip and the laneway.
 
@@ -490,9 +489,9 @@ which is why they sought to purchase the property from the City.
 Generally, if a claimant acknowledges the right of the true
 owner, then possession will not be adverse. "Acknowledgment of title
 will thus stop the clock from running": *McClatchie v. Rideau Lakes
-(Township)*2015 ONCA 233, 53 R.P.R. (5th) 169, at para. 12, citing
+(Township)* 2015 ONCA 233, 53 R.P.R. (5th) 169, at para. 12, citing
 *Teis*, at p. 221, and see also *1043 Bloor Inc. v. 1714104 Ontario
-Inc.*2013 ONCA 91, 114 O.R. (3d) 241, at para. 73. In this case,
+Inc.* 2013 ONCA 91, 114 O.R. (3d) 241, at para. 73. In this case,
 however, the relevant time period was not when the appellants sought to
 purchase the Disputed Land, but rather when the previous owners first
 fenced it off.
@@ -530,7 +529,7 @@ The appellants argue that the application judge's decision
 deprives them of the protection afforded by ss. 4 and 15 of the *RPLA*
 and therefore should be rejected.
 
-50      Section 4 of the *RPLA* reads:
+Section 4 of the *RPLA* reads:
 
 > 4\. No person shall make an entry or distress, or bring an action to
 recover any land or rent, but within ten years next after the time at
@@ -672,7 +671,7 @@ principles continue to govern the law of adverse possession; by
 contrast, I read the history of that law as disclosing that a statutory
 codification and reformation of the law in the area took place almost
 two hundred years ago, a view that I think is supported by the decision
-of the Supreme Court of Canada in *Nelson (City) v. Mowatt*2017 SCC 8,
+of the Supreme Court of Canada in *Nelson (City) v. Mowatt* 2017 SCC 8,
 \[2017\] 1 S.C.R. 138, at para. 17.
 
 As a result of those different views, my colleagues think it
@@ -710,8 +709,7 @@ parties to this appeal.
 
 Courts have become very powerful in this country. Yet, there is
 little that holds judges accountable for the exercise of their powers.
-The other branches of government--the legislatures and the executives--
-are accountable to the people for their decisions through various
+The other branches of government--the legislatures and the executives--are accountable to the people for their decisions through various
 mechanisms, including the review of their conduct by the courts. By
 contrast, no one supervises the courts and the judges who populate them.
 (Whether that is a good thing or bad thing, I leave for others to debate
