@@ -142,7 +142,7 @@ law and governs this dispute.
 
 #### **(1) The Common Law Scheme for Adverse Possession Claims**
 
-In *Nelson (City) v. Mowatt *2017 SCC 8, \[2017\] 1 S.C.R. 138,
+In *Nelson (City) v. Mowatt* 2017 SCC 8, \[2017\] 1 S.C.R. 138,
 at para. 17, Brown J. describes the common law basis for adverse
 possession as follows:
 
@@ -424,7 +424,7 @@ benefit. According to the City, as held by the application judge,
 municipal parkland of this kind should be treated as immune from adverse
 possession.
 
- I see the proper approach to adverse possession of municipal
+I see the proper approach to adverse possession of municipal
 parkland lying between the two positions of the parties in this appeal.
 Under this approach, while municipal parkland is generally unavailable
 for adverse possession, it may become available exceptionally where the
@@ -432,7 +432,7 @@ municipality has waived its presumptive rights over the property either
 expressly or by acknowledging or acquiescing to a private landowner's
 adverse possession of parkland.
 
-#### The Application of the Common Law of Adverse Possession to the Facts of this Case
+#### **The Application of the Common Law of Adverse Possession to the Facts of this Case**
 
 Applying the "public benefit" test to the record before her, the
 application judge concluded that, "The City was unable to provide
@@ -523,7 +523,7 @@ Based on this reframed test, I conclude the application judge
 came to the correct result by finding adverse possession at common law
 was unavailable against the municipal parkland in this case.
 
-#### (2) The Statutory Scheme for Adverse Possession Claims
+#### **(2) The Statutory Scheme for Adverse Possession Claims**
 
 The appellants argue that the application judge's decision
 deprives them of the protection afforded by ss. 4 and 15 of the *RPLA*
@@ -633,7 +633,7 @@ creating a new judge-made rule, the application judge erred in law. She
 should have granted the appellants the relief they sought; they were
 entitled to it under the existing law.
 
- My colleagues support the approach taken by the application
+My colleagues support the approach taken by the application
 judge, albeit they tweak her judge-made test a bit. I respectfully but
 very strongly disagree with my colleagues' decision and their analysis.
 I therefore dissent.
