@@ -12,7 +12,7 @@ objectives:
       Explain the structure of property rights on reserve lands.
     explanation: >-
   - objective: >-
-      Analyze how property rights on reserve land are affected by development of a Land Code under the FNLMA. 
+      Analyze how property rights on reserve land are affected by development of a Land Code under the FAFNLMA. 
     explanation: >-
   - objective: >-
       Compare changes in the common law doctrine of Aboriginal title to mid-century.
@@ -24,4 +24,4 @@ Over the next two weeks, we return to the context of Indigenous lands and land r
 
 ## Our Problem this Week
 
-Our problem this week looks at the adoption of a Land Code by the Membertou First Nation under the farmework of the federal *First Nations Land Management Regime*: ***[Membertou's Transition to the FNLMA]({{< ref "problems/membertou" >}})***.
+Our problem this week looks at the adoption of a Land Code by the Membertou First Nation under the farmework of the federal *Framework Agreement on First Nations Land Management Act* regime: ***[Membertou's Transition to the FAFNLMA]({{< ref "problems/membertou" >}})***.
