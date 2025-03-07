@@ -14,7 +14,7 @@ public: true
 published: true
 description: Federal legislation enabling First Nations to opt out of the lands-related provisions of the Indian Act. 
 links:
-  - url: content/statutes/india-act.md
+  - url: content/statutes/indian-act.md
     explanation: What provisions of the Indian Act are affected by this legislation when a First Nation decides to develop its own Land Code? 
 ---
 
