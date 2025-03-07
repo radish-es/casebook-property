@@ -24,4 +24,4 @@ Over the next two weeks, we return to the context of Indigenous lands and land r
 
 ## Our Problem this Week
 
-Our problem this week looks at the adoption of a Land Code by the Membertou First Nation under the farmework of the federal *Framework Agreement on First Nations Land Management Act* regime: ***[Membertou's Transition to the FAFNLMA]({{< ref "problems/membertou" >}})***.
+Our problem this week looks at the adoption of a Land Code by the Membertou First Nation under the  the federal *Framework Agreement on First Nations Land Management*: ***[Membertou's Transition to the First Nations Land Management Framework]({{< ref "problems/membertou" >}})***.
