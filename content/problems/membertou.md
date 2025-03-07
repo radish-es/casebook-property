@@ -1,25 +1,30 @@
 ---
-title: the Membertou First Nation's Transition to the FNLMA
+title: Membertou's Transition to the FNLMA
 short: Membertou First Nation and the FNLMA
-description: Questions and materials on the Membertou First Nation's adoption of the *FNLMA*
+description: Membertou First Nation's adoption of the FNLMA
 class: problem
 tags:
-  - use
   - reserve-lands
-  - indigenous-law
-  - treaty
-published: false
+image: /imgs/membertou.jpg
+imgcaption: Membertou Convention Centre, Verne Equinox, CC BY-SA 3.0
+links:
+  - url: content/statutes/indian-act.md
+    explanation: The federal Indian Act establishes several features of property and governance on reserve lands. How would you describe this structure and what has chanced under the Membertou Land Code?
+  - url: content/cases/guerin.md
+    explanation: The Supreme Court in Guerin describes how the common law doctrine of Aboriginal title has changed since St Catherine's Milling and explains its relevance to emerging principles and relationships around reserve lands.
+  - url: content/secondary/fnlma-yellowhead.md
+    explanation: What concerns have been raised about the FNLMA regime? Might these explain some of the diverse decisions being made by First Nations with respect to reserve lands governance?
+weight: 15
+published: true
 ---
 
+Please read [this CBC News article,](https://www.cbc.ca/news/politics/indian-act-horrible-existence-senator-christmas-1.4149551) in which former Senator Dan Christmas, the first Mi'kmaw member of the Canadian Senate, describes challenges the Membertou First Nation has faced with respect to lands governance under the federal *Indian Act* and how his community has responded to these challenges.
 
+As the article notes, Membertou has recently opted out of the lands-related provisions of the *Indian Act* and opted into an alternative federal regime, the *First Nations Lands Management Act* (*FNLMA*). The *FNLMA* provides a framework for participating First Nations to create their own Land Code dealing with property and governance on their reserve lands.
 
-Please read [this CBC News article,](https://www.cbc.ca/news/politics/indian-act-horrible-existence-senator-christmas-1.4149551) in which Senator Dan Christmas, the first Mi'kmaq member of the Canadian Senate, describes some of the challenges the Membertou First Nation has faced with respect to lands governance under the federal *Indian Act* and how his community has responded to these challenges. 
+Membertou adopted its current Land Code under the *FNLMA* in 2019. Some key provisions from this Land Code are excerpted below.
 
-As the article notes, Membertou has recently opted out of the lands-related provisions of the *Indian Act* and opted into an alternative federal legislative regime, the *First Nations Lands Management Act* (*FNLMA*). The *FNLMA* provides a framework for participating First Nations to create their own Land Code dealing with property rights and governance on their reserve lands.
-
-Membertou adopted its current Land Code under the *FNLMA* in 2019. Some key provisions from this Land Code are excerpted below. 
-
-### *Membertou Land Code*, 2019 (excerpts)
+## *Membertou Land Code*, 2019 (excerpts)
 
 **Preamble**
 
@@ -49,7 +54,7 @@ NOW THEREFORE, this Land Code is hereby enacted as the fundamental land law of M
 
 […]
 
-7.1 The Council may, in accordance with this Land Code, make laws respecting the development, conservation, protection, management, use and possession of Membertou Land, Waters and Resources, and Interests and Licenses in relation to those Membertou Land, Waters and Resources. This power includes the power to make laws in relation to any matter necessary or ancillary to the making of laws in relation to Membertou Lands, Water and Resources.
+7.1 The [Band] Council may, in accordance with this Land Code, make laws respecting the development, conservation, protection, management, use and possession of Membertou Land, Waters and Resources, and Interests and Licenses in relation to those Membertou Land, Waters and Resources. This power includes the power to make laws in relation to any matter necessary or ancillary to the making of laws in relation to Membertou Lands, Water and Resources.
 
 […]
 
@@ -85,12 +90,8 @@ NOW THEREFORE, this Land Code is hereby enacted as the fundamental land law of M
 
 (c) transfers in accordance with the Membertou Family Homes Law, 2016. reserve law.
 
----
+## Questions
 
-The materials we study will help you to address the following questions in the context of housing and business development on the Membertou First Nation's reserve lands under its *Land Code*:
+1. **How are the problems described by Senator Christmas shaped by Anglo-Canadian legal structures of property and lands governance defined under the *Indian Act* and by court decisions interpreting this legislation?**
 
-1. How are the barriers described by Senator Christmas shaped by the legal structure of property rights and lands governance defined under the *Indian Act* and by the Supreme Court of Canada in *Guerin*, below? 
-
-2. How does the Membertou *Land Code* under the *FNLMA* change the structure of property rights and lands governance on Membertou's reserve lands? What does it not change? What are the potential consequences (benefits or challenges) of this move for community housing and business development?
-
-3. What possibilities, if any, does adopting a land code under the *FNLMA* open up for the development and application of Mi'kmaw laws related to housing? What questions would you ask to understand more about this issue?
+2. **How does the Membertou *Land Code* under the *FNLMA* change the structure of property and lands governance on Membertou's reserve lands? What does it not change? Why do you think some Nations have opted into the *FNLMA* regime while others have declined to do so?**

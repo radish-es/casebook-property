@@ -1,6 +1,6 @@
 ---
 class: case
-style: Guerin v R
+title: Guerin v R
 short: Guerin
 reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
 year: 1984
@@ -14,36 +14,32 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - recognition
   - duty-to-consult
   - reserve-lands
   - aboriginal-title
-published: false
+links:
+  - url: content/cases/stcatherines.md
+    explanation: What has changed with respect to the common law doctrine of Aboriginal title between St Cahterine's Milling and Guerin? 
+  - url: content/cases/southwind.md
+    explanation: The fiduciary duty identified in Guerin has been an important basis for the Crown's obligations in dealing with reserve lands under the federal Indian Act. 
+published: true
 ---
 
+[*This case concerns the lease of reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to surrender 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to Band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the Band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*]
 
-
-
-
-{{% callout alert %}}
-
-*This case concerns the lease of reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to "surrender" 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*
-
-{{% /callout %}}
-
-### Dickson J. —
+## Dickson J. —
 
 The question is whether the appellants, the Chief and Councillors of the Musqueam Indian Band, suing on their own behalf and on behalf of all other members of the band, are entitled to recover damages from the federal Crown in respect of the leasing to a golf club of land on the Musqueam Indian Reserve. Collier J., of the Trial Division of the Federal Court, declared that the Crown was in breach of trust. He assessed damages at $10,000,000. The Federal Court of Appeal allowed a Crown appeal, set aside the judgment of the Trial Division and dismissed the action.
 
-#### I. General
+### I. General
 
 Before adverting to the facts, reference should be made to several of the relevant sections of the *Indian Act*, R.S.C. 1952 c.149 as amended. Section 18(1) provides in part that reserves shall be held by Her Majesty for the use of the respective Indian bands for which they were set apart. Generally, lands in a reserve shall not be sold, alienated, leased or otherwise disposed of until they have been surrendered to Her Majesty by the band for whose use and benefit in common the reserve was set apart (s.37). A surrender may be absolute or qualified, conditional or unconditional (s.38(2)). To be valid, a surrender must be made to Her Majesty, assented to by a majority of the electors of the band, and accepted by the Governor in Council (s.39(1)).
 
 The gist of the present action is a claim that the federal Crown was in breach of its trust obligations in respect of the leasing of approximately 162 acres of reserve land to the Shaughnessy Heights Golf Club of Vancouver. The band alleged that a number of the terms and conditions of the lease were different from those disclosed to them before the surrender vote and that some of the lease terms were not disclosed to them at all. The band also claimed failure on the part of the federal Crown to exercise the requisite degree of care and management as a trustee.
 
-> […]
+[...]
 
-#### IV. Fiduciary Relationship
+### IV. Fiduciary Relationship
 
 The issue of the Crown’s liability was dealt with in the courts below on the basis of the existence or non-existence of a trust. In dealing with the different consequences of a “true” trust, as opposed to a “political” trust, Le Dain J. noted that the Crown could be liable only if it were subject to an “equitable obligation enforceable in a court of law”. I have some doubt as to the cogency of the terminology of “higher” and “lower” trusts, but I do agree that the existence of an equitable obligation is the *sine qua non* for liability. Such an obligation is not, however, limited to relationships which can be strictly defined as “trusts”. As will presently appear, it is my view that the Crown’s obligations *vis-à-vis* the Indians cannot be defined as a trust. That does not, however, mean that the Crown owes no enforceable duty to the Indians in the way in which it deals with Indian land.
 
@@ -53,7 +49,7 @@ The fiduciary relationship between the Crown and the Indians has its roots in th
 
 An Indian band is prohibited from directly transferring its interest to a third party. Any sale or lease of land can only be carried out after a surrender has taken place, with the Crown then acting on the band’s behalf. The Crown first took this responsibility upon itself in the Royal Proclamation of 1763. It is still recognized in the surrender provisions of the *Indian Act*. The surrender requirement, and the responsibility it entails, are the source of a distinct fiduciary obligation owed by the Crown to the Indians. In order to explore the character of this obligation, however, it is first necessary to consider the basis of aboriginal title and the nature of the interest in land which it represents.
 
-##### (a) The Existence of Indian Title
+#### **(a) The Existence of Indian Title**
 
 In *Calder v. Attorney General of British Columbia*, [1973] S.C.R. 313, this Court recognized aboriginal title as a legal right derived from the Indians’ historic occupation and possession of their tribal lands. With Judson and Hall JJ. writing the principal judgments, the Court split three-three on the major issue of whether the Nishga Indians’ aboriginal title to their ancient tribal territory had been extinguished by general land enactments in British Columbia. The Court also split on the issue of whether the Royal Proclamation of 1763 was applicable to Indian lands in that Province. Judson and Hall JJ. were in agreement, however, that aboriginal title existed in Canada (at least where it had not been extinguished by appropriate legislative action) independently of the Royal Proclamation. Judson J. stated expressly that the Proclamation was not the “exclusive” source of Indian title (pp.322-23, 328). Hall J. said (at p.390) that “aboriginal Indian title does not depend on treaty, executive order or legislative enactment”.
 
@@ -71,7 +67,7 @@ The principle that a change in sovereignty over a particular territory does not 
 
 It does not matter, in my opinion, that the present case is concerned with the interest of an Indian band in a reserve rather than with unrecognized aboriginal title in traditional tribal lands. The Indian interest in the land is the same in both cases: see *Attorney General of Quebec v. Attorney General of Canada*, [1921] 1 A.C. 401 at pp.410-11(the *Star Chrome* case). It is worth noting, however, that the reserve in question here was created out of the ancient tribal territory of the Musqueam band by the unilateral action of the Colony of British Columbia, prior to Confederation.
 
-##### (b) The Nature of Indian Title
+#### **(b) The Nature of Indian Title**
 
 In the *St. Catherine’s Milling* case, *supra*, the Privy Council held that the Indians had a “personal and usufructuary right” in the lands which they had traditionally occupied. Lord Watson said that “there has been all along vested in the Crown a substantial and paramount estate, underlying the Indian title, which became a *plenum dominium* whenever the title was surrendered or otherwise extinguished” (at p.55). He reiterated this idea, stating that the Crown “has all along had a present proprietary estate in the land, upon which the Indian title was a mere burden” (at p.58). This view of aboriginal title was affirmed by the Privy Council in the *Star Chrome* case. In *Amodu Tijani*, *supra*, Viscount Haldane, adverting to the *St. Catherine’s Milling* and *Star Chrome* decisions, explained the concept of a usufructuary right as “a mere qualification of or burden on the radical or final title of the Sovereign...” (p.403). He described the title of the Sovereign as a pure legal estate, but one which could be qualified by a right of “beneficial user” that did not necessarily take the form of an estate in land. Indian title in Canada was said to be one illustration “of the necessity for getting rid of the assumption that the ownership of land naturally breaks itself up into estates, conceived as creatures of inherent legal principle.” Chief Justice Marshall took a similar view in *Johnson v. McIntosh*, *supra*, saying, “All our institutions recognize the absolute title of the Crown, subject only to the Indian right of occupancy...” (p.588).
 
@@ -89,7 +85,7 @@ It appears to me that there is no real conflict between the cases which characte
 
 Indians have a legal right to occupy and possess certain lands, the ultimate title to which is in the Crown. While their interest does not, strictly speaking, amount to beneficial ownership, neither is its nature completely exhausted by the concept of a personal right. It is true that the *sui generis* interest which the Indians have in the land is personal in the sense that it cannot be transferred to a grantee, but it is also true, as will presently appear, that the interest gives rise upon surrender to a distinctive fiduciary obligation on the part of the Crown to deal with the land for the benefit of the surrendering Indians. These two aspects of Indian title go together, since the Crown’s original purpose in declaring the Indians’ interest to be inalienable otherwise than to the Crown was to facilitate the Crown’s ability to represent the Indians in dealings with third parties. The nature of the Indians’ interest is therefore best characterized by its general inalienability, coupled with the fact that the Crown is under an obligation to deal with the land on the Indians’ behalf when the interest is surrendered. Any description of Indian title which goes beyond these two features is both unnecessary and potentially misleading.
 
-##### (c) The Crown’s Fiduciary Obligation
+#### **(c) The Crown’s Fiduciary Obligation**
 
 The concept of fiduciary obligation originated long ago in the notion of breach of confidence, one of the original heads of jurisdiction in Chancery. In the present appeal its relevance is based on the requirement of a “surrender” before Indian land can be alienated.
 
@@ -117,7 +113,7 @@ The Crown’s fiduciary obligation to the Indians is therefore not a trust. To s
 
 The discretion which is the hallmark of any fiduciary relationship is capable of being considerably narrowed in a particular case. This is as true of the Crown’s discretion *vis-à-vis* the Indians as it is of the discretion of trustees, agents, and other traditional categories of fiduciary. The *Indian Act* makes specific provision for such narrowing in ss.18(1) and 38(2). A fiduciary obligation will not, of course, be eliminated by the imposition of conditions that have the effect of restricting the fiduciary’s discretion. A failure to adhere to the imposed conditions will simply itself be a *prima facie* breach of the obligation. In the present case both the surrender and the Order-in-Council accepting the surrender referred to the Crown leasing the land on the band’s behalf. Prior to the surrender the band had also been given to understand that a lease was to be entered into with the Shaughnessy Heights Golf Club upon certain terms, but this understanding was not incorporated into the surrender document itself. The effect of these so-called oral terms will be considered in the next section.
 
-##### (d) Breach of the Fiduciary Obligation
+#### **(d) Breach of the Fiduciary Obligation**
 
 The trial judge found that the Crown’s agents promised the band to lease the land in question on certain specified terms and then, after surrender, obtained lease on different terms. The lease obtained was much less valuable. As already mentioned, the surrender document did not make reference to the “oral” terms. I would not wish to say that those terms had nonetheless somehow been incorporated as conditions into the surrender. They were not formally assented to by a majority of the electors of the band, nor were they accepted by the Governor in Council, as required by s.39(1)(b) and s.39(1)(c). I agree with Le Dain J. that there is no merit in the appellants’ submission that for purposes of s.39 a surrender can be considered independently of its terms. This makes no more sense than would a claim that a contract can have an existence which in no way depends on the terms and conditions that comprise it.
 
@@ -127,6 +123,6 @@ While the existence of the fiduciary obligation which the Crown owes to the Indi
 
 In obtaining without consultation a much less valuable lease than that promised, the Crown breached the fiduciary obligation it owed the band. It must make good the loss suffered in consequence.
 
-> […]
+[...]
 
 *Appeal allowed.*
