@@ -94,5 +94,5 @@ NOW THEREFORE, this Land Code is hereby enacted as the fundamental land law of M
 
 1. **How are the problems described by Senator Christmas shaped by Anglo-Canadian legal structures of property and lands governance defined under the *Indian Act* and by court decisions interpreting this legislation?**
 
-2. **How does the Membertou *Land Code* under the *FAFNLMA* change the structure of property and lands governance on Membertou's reserve lands? What does it not change? Why do you think some Nations have opted into the *FAFNLMA* regime while others have declined to do so?**
+2. **How does the Membertou *Land Code* change the structure of property and lands governance on Membertou's reserve lands? What does it not change? Why do you think some Nations have opted into the *First Nations Land Management* regime while others have declined to do so?**
 
