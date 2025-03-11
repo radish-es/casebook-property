@@ -192,7 +192,7 @@ forge business relationships with industry which lead to the development
 of reserve land.  
   
 The increased profits derived from reserve land eventually flow into the
-Canadian economy, thereby showing *why *Canada remains invested in
+Canadian economy, thereby showing *why* Canada remains invested in
 removing barriers to business on-reserve. Study results show that First
 Nations operating within the First Nations Land Management Act report an increase in businesses owned by external partners. But, importantly, First Nations need to be aware of how
 the increase in market control may negatively impact their lands and
@@ -211,7 +211,7 @@ assimilation".
 ### Limitations of *Indian Act* Settler Colonial Governance
 
 It should be noted that it is band councils elected under the *Indian
-Act *that have the power to opt into the First Nations Land Management
+Act* that have the power to opt into the First Nations Land Management
 Regime. Though it is generally agreed upon that First Nations need to
 able to exert more jurisdiction and control over governance, we are
 being offered this increased control through an imposed governance
