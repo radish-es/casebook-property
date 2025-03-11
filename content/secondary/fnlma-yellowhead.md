@@ -22,7 +22,7 @@ and Indigenous Peoples." But tellingly, they framed their platform as
 the emerging era of sectoral self-governance, the First Nations Land
 Management Regime has become a key feature not only in the federal
 government's notion  of the "right thing," but also their plans to chip away at the *Indian
-Act *and make First Nations more "economically independent." Of course,
+Act* and make First Nations more "economically independent." Of course,
 this economic growth or independence does not include a redistribution
 of land or resources, rather it is an expectation that First Nations
 should support their members through economic activities exclusively on
