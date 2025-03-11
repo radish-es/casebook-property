@@ -77,8 +77,7 @@ Second, since this report is meant to be a resource for communities, we
 critically examine the *process* of creating and ratifying a Land Code.
 Much of the criticism of FNLMA stems from the ratification process and
 whether it constitutes proper consent. Later we write about the
-*implications* of this regime for Treaty and non-Treaty  
-First Nations, as well as the larger landscape of Indigenous governance
+*implications* of this regime for Treaty and non-Treaty First Nations, as well as the larger landscape of Indigenous governance
 in Canada.
   
 ### Political Economy of the First Nations Land Management Regime
@@ -86,7 +85,7 @@ in Canada.
 Current and proposed Canadian legislation, including the voluntary
 *First Nations Land Management Act* and proposals for First Nations
 private property ownership, seek to alter the relationship communities
-have to their reserve land bases by  
+have to their reserve land bases by 
 offering a mechanism for First Nations to take over the 'everyday'
 management of those lands. Under a community developed Land Code, First
 Nations are able to act at the "speed of business", set terms for land
@@ -110,7 +109,7 @@ Through the First Nations Land Management Regime, the federal government
 offloads fiscal, fiduciary, and environmental responsibilities and
 serves to benefit from the increased business capacity of First Nations.
 Though KPMG found that no First Nations that entered the process would
-choose to go back to land  management under the *Indian Act* (which is not actually an option),  
+choose to go back to land  management under the *Indian Act* (which is not actually an option), 
 First Nations who have ratified a Land Code have critiqued the cost and
 effort bore solely by the First Nation to develop land policies and
 laws, as well as higher insurance borne solely by First Nations to cover
@@ -134,7 +133,7 @@ Indigenous economic philosophies, supports the deregulation of society
 through a consolidation of power and profit for corporations, over
 human, community needs (not to mention needs of the land). Some
 Indigenous scholars identify neoliberalism as a new form of colonization
-affecting  
+affecting 
 Indigenous peoples, which can lead to increasing social inequality.
 Instead of the social, political, cultural, legal and economic spheres
 interacting in balance within a society, neoliberalism embeds those 
@@ -157,8 +156,7 @@ rights for  First Nations would enable effective integration into the Canadian
 economy.
   
 Since the publication of *Beyond the Indian Act: Restoring Aboriginal
-Property Rights*, there have been few published Indigenous nation-
-specific rebuttals or suggested alternatives that account for a
+Property Rights*, there have been few published Indigenous nation-specific rebuttals or suggested alternatives that account for a
 continuous relationship to territory. Flanagan's main argument within
 that text is that First Nations must convert their reserve lands to
 fee-simple in order to reach economic independence. This led to the
