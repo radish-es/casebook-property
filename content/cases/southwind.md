@@ -34,7 +34,7 @@ The project was also a tragedy for the Lac Seul First Nation
 (LSFN). The LSFN's reserve (Reserve) is located on the southeastern
 shore of Lac Seul. Almost one-fifth of its best land was flooded and its
 members were "deprived of their livelihood, robbed of their natural
-resources, and driven out of their home\[s\]" ().
+resources, and driven out of their home\[s\]" (2017 FC 906, [2018] 4 C.N.L.R. 63).
 
 Canada was aware from the outset that flooding Lac Seul by 10
 feet would cause "very considerable" damage to the Reserve. In the late
@@ -52,7 +52,7 @@ compensation, and without the lawful authorization required.
 Since the *Royal Proclamation, 1763* (G.B.), 3 Geo. 3 (reproduced
 in R.S.C. 1985, App. II, No. 1), Indigenous interests in land, including
 reserve land, cannot be taken or used without legal authorization from
-the Crown. The , permitted expropriation for public works, but only with
+the Crown. The *Indian Act*, R.S.C. 1927, c. 98, permitted expropriation for public works, but only with
 the approval of Cabinet through the Governor in Council. Treaty No. 3
 (1873), that set aside the reserve land for the LSFN, required "due
 compensation" for any taking or appropriation. In addition, this Court
@@ -453,7 +453,7 @@ it does arise. The fiduciary duty may arise when the Crown exercises
 discretionary control over cognizable Indigenous interests or where the
 conditions of a private law *ad hoc* fiduciary relationship are met
 (*Williams Lake Indian Band v. Canada (Aboriginal Affairs and Northern
-Development)*2018 SCC 4, \[2018\] 1 S.C.R. 83, at para. 44; *Manitoba
+Development)* 2018 SCC 4, \[2018\] 1 S.C.R. 83, at para. 44; *Manitoba
 Metis*, at paras. 48-50; *Wewaykum*, at para. 85).
 
 The fiduciary duty itself is shaped by the context to which it
