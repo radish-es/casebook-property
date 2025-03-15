@@ -3,7 +3,7 @@ title: Reserve Lands in Transition
 short: Week 15
 published: true
 class: lesson
-description: Return to issues of possession.
+description: Study of reserve lands, governing statutory regimes and land reform options.
 weight: 15
 image: 
 imgcaption: 
