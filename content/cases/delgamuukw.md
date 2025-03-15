@@ -1,6 +1,6 @@
 ---
 class: case
-style: Delgamuukw v British Columbia
+title: Delgamuukw v British Columbia
 short: Delgamuukw
 reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
 year: 1997
@@ -14,15 +14,14 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - recognition
   - aboriginal-title
-  - indigenous-law
-published: false
+links:
+  - url: content/cases/tsilhqotin.md
+    explanation: In Tsilhqot'in, the Supreme Court continued to develop the framework established in Delgamuukw, resulting in the first successful claim in an Anglo-Canadian court. 
+published: true
 ---
 
-
-
-
+## Lamer C.J.C --
 
 ### II. Facts
 
@@ -92,7 +91,7 @@ Although cases involving aboriginal title have come before this Court and Privy 
 
 Although the courts have been less than forthcoming, I have arrived at the conclusion that the content of aboriginal title can be summarized by two propositions: first, that aboriginal title encompasses the right to exclusive use and occupation of the land held pursuant to that title for a variety of purposes, which need not be aspects of those aboriginal practices, customs and traditions which are integral to distinctive aboriginal cultures; and second, that those protected uses must not be irreconcilable with the nature of the group’s attachment to that land. For the sake of clarity, I will discuss each of these propositions separately.
 
-***Aboriginal title encompasses the right to use the land held pursuant to that title for a variety of purposes, which need not be aspects of those aboriginal practices, cultures and traditions which are integral to distinctive aboriginal cultures.***
+*Aboriginal title encompasses the right to use the land held pursuant to that title for a variety of purposes, which need not be aspects of those aboriginal practices, cultures and traditions which are integral to distinctive aboriginal cultures.*
 
 The respondents argue that aboriginal title merely encompasses the right to engage in activities which are aspects of aboriginal practices, customs and traditions which are integral to distinctive aboriginal cultures of the aboriginal group claiming the right and, at most, adds the notion of exclusivity; i.e., the exclusive right to use the land for those purposes. However, the uses to which lands held pursuant to aboriginal title can be put are not restricted in this way. This conclusion emerges from three sources: (i) the Canadian jurisprudence on aboriginal title, (ii) the relationship between reserve lands and lands held pursuant to aboriginal title, and (iii) the *Indian Oil and Gas Act*, R.S.C. 1985, c. I-7. As well, although this is not legally determinative, it is supported by the critical literature. In particular, I have profited greatly from Professor McNeil’s article, “The Meaning of Aboriginal Title”, supra.
 

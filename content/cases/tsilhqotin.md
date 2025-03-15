@@ -1,6 +1,6 @@
 ---
 class: case
-style: Tsilhqot’in Nation v. British Columbia
+title: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
 reporter: 2014 SCC 44 (CanLII)
 year: 2014
@@ -14,22 +14,13 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 tags:
-  - recognition
-  - use
-  - transfer
   - aboriginal-title
-  - indigenous-law
-  - terra-nullius
-  - duty-to-consult
-published: false
+published: true
 ---
 
+## McLachlin C.J.C. —
 
-
-
-### McLachlin C.J.C. —
-
-#### I. Introduction
+### I. Introduction
 
 What is the test for Aboriginal title to land? If title is established, what rights does it confer? Does the British Columbia *Forest Act*, R.S.B.C. 1996, c. 157, apply to land covered by Aboriginal title? What are the constitutional constraints on provincial regulation of land under Aboriginal title? Finally, how are broader public interests to be reconciled with the rights conferred by Aboriginal title? These are among the important questions raised by this appeal.
 
@@ -47,7 +38,7 @@ These reasons conclude:
 
 - In this case, the Province’s land use planning and forestry authorizations were inconsistent with its duties owed to the Tsilhqot’in people.
 
-#### II. The Historic Backdrop
+### II. The Historic Backdrop
 
 For centuries, people of the Tsilhqot’in Nation — a grouping of six bands sharing common culture and history — have lived in a remote valley bounded by rivers and mountains in central British Columbia. They lived in villages, managed lands for the foraging of roots and herbs, hunted and trapped. They repelled invaders and set terms for the European traders who came onto their land. From the Tsilhqot’in perspective, the land has always been theirs.
 
@@ -63,7 +54,7 @@ In 2012, the British Columbia Court of Appeal held that the Tsilhqot’in claim 
 
 The Tsilhqot’in now ask this Court for a declaration of Aboriginal title over the area designated by the trial judge, with one exception. A small portion of the area designated by the trial judge consists of either privately owned or underwater lands and no declaration of Aboriginal title over these lands is sought before this Court. With respect to those areas designated by the trial judge that are not privately owned or submerged lands, the Tsilhqot’in ask this Court to restore the trial judge’s finding, affirm their title to the area he designated, and confirm that issuance of forestry licences on the land unjustifiably infringed their rights under that title.
 
-####  III. The Jurisprudential Backdrop
+###  III. The Jurisprudential Backdrop
 
 In 1973, the Supreme Court of Canada ushered in the modern era of Aboriginal land law by ruling that Aboriginal land rights survived European settlement and remain valid to the present unless extinguished by treaty or otherwise: *Calder v. British Columbia (Attorney General)*, [1973] S.C.R. 313 (S.C.C.). Although the majority in *Calder* divided on whether title had been extinguished, its affirmation of Aboriginal rights to land led the Government of Canada to begin treaty negotiations with First Nations without treaties — mainly in British Columbia — resuming a policy that had been abandoned in the 1920s: P. W. Hogg, “The Constitutional Basis of Aboriginal Rights”, M. Morellato, ed., in *Aboriginal Law Since Delgamuukw* (2009), 3.
 
@@ -95,7 +86,7 @@ The jurisprudence just reviewed establishes a number of propositions that touch 
 
 Against this background, I turn to the issues raised in this appeal.
 
-####  IV. Pleadings in Aboriginal Land Claims Cases
+###  IV. Pleadings in Aboriginal Land Claims Cases
 
 The Province, to its credit, no longer contends that the claim should be barred because of defects in the pleadings. However, it may be useful to address how to approach pleadings in land claims, in view of their importance to future land claims.
 
@@ -111,9 +102,9 @@ Third, cases such as this require an approach that results in decisions based on
 
 > <span id="tsil-proof"></span>
 
-#### V. Is Aboriginal Title Established?
+### V. Is Aboriginal Title Established?
 
-##### A. The Test for Aboriginal Title
+#### A. The Test for Aboriginal Title
 
 How should the courts determine whether a semi-nomadic indigenous group has title to lands? This Court has never directly answered this question. The courts below disagreed on the correct approach. We must now clarify the test.
 
@@ -137,7 +128,7 @@ Should the three elements of the *Delgamuukw* test be considered independently, 
 
 In my view, the concepts of sufficiency, continuity and exclusivity provide useful lenses through which to view the question of Aboriginal title. This said, the court must be careful not to lose or distort the Aboriginal perspective by forcing ancestral practices into the square boxes of common law concepts, thus frustrating the goal of faithfully translating pre-sovereignty Aboriginal interests into equivalent modern legal rights. Sufficiency, continuity and exclusivity are not ends in themselves, but inquiries that shed light on whether Aboriginal title is established.
 
-###### 1. Sufficiency of Occupation
+##### 1. Sufficiency of Occupation
 
 The first requirement — and the one that lies at the heart of this appeal — is that the occupation be *sufficient* to ground Aboriginal title. It is clear from *Delgamuukw* that not every passing traverse or use grounds title. What then constitutes *sufficient* occupation to ground title?
 
@@ -169,13 +160,13 @@ The Province argues that this Court in *R. v. Marshall*, 2005 SCC 43, [2005] 2 S
 
 The Court in *Marshall; Bernard* confirmed that nomadic and semi-nomadic groups could establish title to land, provided they establish sufficient physical possession, which is a question of fact. While “[n]ot every nomadic passage or use will ground title to land”, the Court confirmed that *Delgamuukw* contemplates that “regular use of definite tracts of land for hunting, fishing or otherwise exploiting its resources” could suffice (para. 66). While the issue was framed in terms of whether the common law test for possession was met, the Court did not resile from the need to consider the perspective of the Aboriginal group in question; sufficient occupation is a “question of fact, depending on all the circumstances, in particular the nature of the land and the manner in which it is commonly used” (*ibid.*).
 
-###### 2. Continuity of Occupation
+##### 2. Continuity of Occupation
 
 Where present occupation is relied on as proof of occupation pre-sovereignty, a second requirement arises — continuity between present and pre-sovereignty occupation.
 
 The concept of continuity does not require Aboriginal groups to provide evidence of an unbroken chain of continuity between their current practices, customs and traditions, and those which existed prior to contact (*Van der Peet*, at para. 65). The same applies to Aboriginal title. Continuity simply means that for evidence of present occupation to establish an inference of pre-sovereignty occupation, the present occupation must be rooted in pre-sovereignty times. This is a question for the trier of fact in each case.
 
-###### 3. Exclusivity of Occupation
+##### 3. Exclusivity of Occupation
 
 The third requirement is *exclusive* occupation of the land at the time of sovereignty. The Aboriginal group must have had “the *intention and capacity to retain exclusive control*” over the lands (*Delgamuukw*, at para. 156, quoting McNeil, *Common Law Aboriginal Title*, at p. 204 (emphasis added)). Regular use without exclusivity may give rise to usufructory Aboriginal rights; for Aboriginal title, the use must have been exclusive.
 
@@ -185,11 +176,11 @@ As with sufficiency of occupation, the exclusivity requirement must be approache
 
 > A consideration of the [A]boriginal perspective may also lead to the conclusion that trespass by other [A]boriginal groups does not undermine, and that presence of those groups by permission may reinforce, the exclusive occupation of the [A]boriginal group asserting title. For example, the [A]boriginal group asserting the claim to [A]boriginal title may have trespass laws which are proof of exclusive occupation, such that the presence of trespassers does not count as evidence against exclusivity. As well, [A]boriginal laws under which permission may be granted to other [A]boriginal groups to use or reside even temporarily on land would reinforce the finding of exclusive occupation. Indeed, if that permission were the subject of treaties between the [A]boriginal nations in question, those treaties would also form part of the [A]boriginal perspective.
 
-###### 4. Summary
+##### 4. Summary
 
 The claimant group bears the onus of establishing Aboriginal title. The task is to identify how pre-sovereignty rights and interests can properly find expression in modern common law terms. In asking whether Aboriginal title is established, the general requirements are: (1) “sufficient occupation” of the land claimed to establish title at the time of assertion of European sovereignty; (2) continuity of occupation where present occupation is relied on; and (3) exclusive historic occupation. In determining what constitutes sufficient occupation, one looks to the Aboriginal culture and practices, and compares them in a culturally sensitive way with what was required at common law to establish title on the basis of occupation. Occupation sufficient to ground Aboriginal title is not confined to specific sites of settlement but extends to tracts of land that were regularly used for hunting, fishing or otherwise exploiting resources and over which the group exercised effective control at the time of assertion of European sovereignty.
 
-##### B. Was Aboriginal Title Established in this Case?
+#### B. Was Aboriginal Title Established in this Case?
 
 The trial judge applied a test of regular and exclusive use of the land. This is consistent with the correct legal test. This leaves the question of whether he applied it appropriately to the evidence in this case.
 
@@ -233,21 +224,17 @@ In my view, this criticism is misplaced. It is clear that no declaration of titl
 
 I conclude that the trial judge was correct in his assessment that the Tsilhqot’in occupation was both sufficient and exclusive at the time of sovereignty. There was ample direct evidence of occupation at sovereignty, which was additionally buttressed by evidence of more recent continuous occupation.
 
-{{< spoiler text="Mini-Lecture: Proving Aboriginal Title" id="proving" >}}
-
 {{< vimeo 687181885 >}}
-
-{{< /spoiler >}}
 
 > <span id="tsil-content"></span>
 
-#### VI. What Rights Does Aboriginal Title Confer?
+### VI. What Rights Does Aboriginal Title Confer?
 
 As we have seen, *Delgamuukw* establishes that Aboriginal title “encompasses the right to exclusive use and occupation of the land held pursuant to that title for a variety of purposes” (at para. 117), including non-traditional purposes, provided these uses can be reconciled with the communal and ongoing nature of the group’s attachment to the land. Subject to this inherent limit, the title-holding group has the right to choose the uses to which the land is put and to enjoy its economic fruits (para. 166).
 
 I will first discuss the legal characterization of the Aboriginal title. I will then offer observations on what Aboriginal title provides to its holders and what limits it is subject to.
 
-##### A. The Legal Characterization of Aboriginal Title
+#### A. The Legal Characterization of Aboriginal Title
 
 The starting point in characterizing the legal nature of Aboriginal title is Justice Dickson’s concurring judgment in *Guerin*, discussed earlier. At the time of assertion of European sovereignty, the Crown acquired radical or underlying title to all the land in the province. This Crown title, however, was burdened by the pre-existing legal rights of Aboriginal people who occupied and used the land prior to European arrival. The doctrine of *terra nullius* (that no one owned the land prior to European assertion of sovereignty) never applied in Canada, as confirmed by the *Royal Proclamation* (*1763*), R.S.C. 1985, App. II, No. 1. The Aboriginal interest in land that burdens the Crown’s underlying title is an independent legal interest, which gives rise to a fiduciary duty on the part of the Crown.
 
@@ -257,7 +244,7 @@ What remains, then, of the Crown’s radical or underlying title to lands held u
 
 The characteristics of Aboriginal title flow from the special relationship between the Crown and the Aboriginal group in question. It is this relationship that makes Aboriginal title *sui generis* or unique. Aboriginal title is what it is — the unique product of the historic relationship between the Crown and the Aboriginal group in question. Analogies to other forms of property ownership — for example, fee simple — may help us to understand aspects of Aboriginal title. But they cannot dictate precisely what it is or is not. As La Forest J. put it in *Delgamuukw*, at para. 190, Aboriginal title “is not equated with fee simple ownership; nor can it be described with reference to traditional property law concepts”.
 
-##### B. The Incidents of Aboriginal Title
+#### B. The Incidents of Aboriginal Title
 
 Aboriginal title confers ownership rights similar to those associated with fee simple, including: the right to decide how the land will be used; the right of enjoyment and occupancy of the land; the right to possess the land; the right to the economic benefits of the land; and the right to pro-actively use and manage the land.
 
@@ -267,15 +254,11 @@ The rights and restrictions on Aboriginal title flow from the legal interest Abo
 
 The right to control the land conferred by Aboriginal title means that governments and others seeking to use the land must obtain the consent of the Aboriginal title holders. If the Aboriginal group does not consent to the use, the government’s only recourse is to establish that the proposed incursion on the land is justified under s. 35 of the *Constitution Act, 1982.*
 
-{{< spoiler text="Mini-Lecture: Content and Source" id="source" >}}
-
 {{< vimeo 687182514 >}}
-
-{{< /spoiler >}}
 
 > <span id="tsil-infringe"></span>
 
-##### C. Justification of Infringement
+#### C. Justification of Infringement
 
 To justify overriding the Aboriginal title-holding group’s wishes on the basis of the broader public good, the government must show: (1) that it discharged its procedural duty to consult and accommodate, (2) that its actions were backed by a compelling and substantial objective; and (3) that the governmental action is consistent with the Crown’s fiduciary obligation to the group: *Sparrow*.
 
@@ -305,13 +288,9 @@ Second, the Crown’s fiduciary duty infuses an obligation of proportionality in
 
 In summary, Aboriginal title confers on the group that holds it the exclusive right to decide how the land is used and the right to benefit from those uses, subject to one carve-out — that the uses must be consistent with the group nature of the interest and the enjoyment of the land by future generations. Government incursions not consented to by the title-holding group must be undertaken in accordance with the Crown’s procedural duty to consult and must also be justified on the basis of a compelling and substantial public interest, and must be consistent with the Crown’s fiduciary duty to the Aboriginal group.
 
-{{< spoiler text="Mini-Lecture: Infringement" id="infringe" >}}
-
 {{< vimeo 687182923 >}}
 
-{{< /spoiler >}}
-
-##### D. Remedies and Transition
+#### D. Remedies and Transition
 
 Prior to establishment of title by court declaration or agreement, the Crown is required to consult in good faith with any Aboriginal groups asserting title to the land about proposed uses of the land and, if appropriate, accommodate the interests of such claimant groups. The level of consultation and accommodation required varies with the strength of the Aboriginal group’s claim to the land and the seriousness of the potentially adverse effect upon the interest claimed. If the Crown fails to discharge its duty to consult, various remedies are available including injunctive relief, damages, or an order that consultation or accommodation be carried out: *Carrier Sekani Tribal Council v. British Columbia (Utilities Commission)*, 2010 SCC 43, [2010] 2 S.C.R. 650 (S.C.C.), at para. 37.
 
@@ -321,13 +300,13 @@ The practical result may be a spectrum of duties applicable over time in a parti
 
 Once title is established, it may be necessary for the Crown to reassess prior conduct in light of the new reality in order to faithfully discharge its fiduciary duty to the title-holding group going forward. For example, if the Crown begins a project without consent prior to Aboriginal title being established, it may be required to cancel the project upon establishment of the title if continuation of the project would be unjustifiably infringing. Similarly, if legislation was validly enacted before title was established, such legislation may be rendered inapplicable going forward to the extent that it unjustifiably infringes Aboriginal title.
 
-##### E. What Duties Were Owed by the Crown at the Time of the Government Action?
+#### E. What Duties Were Owed by the Crown at the Time of the Government Action?
 
 Prior to the declaration of Aboriginal title, the Province had a duty to consult and accommodate the claimed Tsilhqot’in interest in the land. As the Tsilhqot’in had a strong *prima facie* claim to the land at the time of the impugned government action and the intrusion was significant, the duty to consult owed by the Crown fell at the high end of the spectrum described in *Haida* and required significant consultation and accommodation in order to preserve the Tsilhqot’in interest.
 
 With the declaration of title, the Tsilhqot’in have now established Aboriginal title to the portion of the lands designated by the trial judge with the exception as set out in para. 9 of these reasons. This gives them the right to determine, subject to the inherent limits of group title held for future generations, the uses to which the land is put and to enjoy its economic fruits. As we have seen, this is not merely a right of first refusal with respect to Crown land management or usage plans. Rather, it is the right to proactively use and manage the land.
 
-#### VII. Breach of the Duty to Consult
+### VII. Breach of the Duty to Consult
 
 The alleged breach in this case arises from the issuance by the Province of licences permitting third parties to conduct forestry activity and construct related infrastructure on the land in 1983 and onwards, before title was declared. During this time, the Tsilhqot’in held an interest in the land that was not yet legally recognized. The honour of the Crown required that the Province consult them on uses of the lands and accommodate their interests. The Province did neither and breached its duty owed to the Tsilhqot’in.
 
@@ -337,7 +316,7 @@ I add this. Governments and individuals proposing to use or exploit land, whethe
 
 […]
 
-#### IX. Conclusion
+### IX. Conclusion
 
 I would allow the appeal and grant a declaration of Aboriginal title over the area at issue, as requested by the Tsilhqot’in. I further declare that British Columbia breached its duty to consult owed to the Tsilhqot’in through its land use planning and forestry authorizations.
 
