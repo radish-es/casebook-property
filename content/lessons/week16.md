@@ -9,7 +9,16 @@ image:
 imgcaption: 
 objectives:
   - objective: >-
-      Explain 
+      Identify and apply the common law test for proof of Aboriginal title.
+    explanation: >-
+  - objective: >-
+      Describe contemporary courts' understandings of the source and nature of Aboriginal title, including tensions with analogies to conventional property concepts.
+    explanation: >-
+  - objective: >-
+      Describe and critique the Supreme Court's test for infringement of Aboriginal title.
+    explanation: >-
+    - objective: >-
+      Identify the different ways in which terra nullius continues to underpin the common law framework for Aboriginal title claims.
     explanation: >-
 
 
