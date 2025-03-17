@@ -15,11 +15,11 @@ published: true
 weight: 16
 ---
 
-Please review this [Statement of Claim](https://dal.brightspace.com/d2l/le/content/343528/viewContent/4811532/View) by Mi'gmawe'l Tplu'taqnn Inc. (MTI), representing eight Mi'kmaw communities in New Brunswick seeking a declaration of Aboriginal title in their territorial lands. 
+Please review this [Statement of Claim](https://dal.brightspace.com/d2l/le/content/343528/viewContent/4811532/View) by Mi'gmawe'l Tplu'taqnn Inc. (MTI), representing eight Mi'gmaq First Nations in New Brunswick seeking a declaration of Mi'gmaq Title in their territorial lands. 
 
 **What is the legal framework under which the New Brunswick Court of Queen's Bench will assess MTI's claim? Based on the facts presented in the Statement of Claim, what key challenges or uncertainties might the claimants encounter under this framework?**
 
-The contemporary doctrine of Aboriginal title is complex and contains several elements that we have not yet encountered in our historical study of this area of law. Below is a map of the case materials to help you develop your understanding of this area of law with an eye toward addressing this week's case study.
+The contemporary legal framework for "Aboriginal title" is complex and contains several elements that we have not yet encountered in our historical study of this area of law. Below is a map of the case materials to help you develop your understanding of this area of law with an eye toward addressing this week's case study.
 
 ## Doctrinal Map to Aboriginal Title
 
