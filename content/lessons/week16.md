@@ -10,18 +10,16 @@ imgcaption:
 objectives:
   - objective: >-
       Identify and apply the common law test for proof of Aboriginal title.
-    explanation: >-
+    explanation: >- 
   - objective: >-
       Describe contemporary courts' understandings of the source and nature of Aboriginal title, including tensions with analogies to conventional property concepts.
     explanation: >-
   - objective: >-
       Describe and critique the Supreme Court's test for infringement of Aboriginal title.
     explanation: >-
-    - objective: >-
+  - objective: >-
       Identify the different ways in which terra nullius continues to underpin the common law framework for Aboriginal title claims.
     explanation: >-
-
-
 ---
 
 This week, we complete our study of Indigenous land rights, with a focus on the common law doctrine of Aboriginal title. We have traced the evolution of that doctrine from the Royal Proclamation in 1763, through *St. Catherine's Milling* in the late nineteenth century and *Calder* and *Guerin* in the late twentieth century. The contemporary path of the Aboriginal title doctrine since those cases has been charted through a combination of constitutional reform, litigation in the courts, and negotiation between Indigenous nations and the Crown. 
