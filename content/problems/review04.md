@@ -22,7 +22,7 @@ weight: 17
 
 - What is the test for adverse possession? 
 
-- What the court's criterion of "inconsistent use" in *Keefer v Arillota* and how does this alter the likelihood of adverse possession succeeding in their claims? 
+- What the court's criterion of "inconsistent use" in *Keefer v Arillota* and how does this alter the likelihood of adverse possessors succeeding in their claims? 
 
 - Should municipalities be immune from adverse possession claims? Are they?
 
