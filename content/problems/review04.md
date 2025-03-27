@@ -18,7 +18,7 @@ weight: 17
 
 - How would you characterize the respective legal interests of Popov and Hayashi, and how does this characterization help to resolve the case? Does the court's resolution respond effectively to its motivating concerns? 
 
-- How is the doctrine of adverse possession justified? In some jurisdictions, this doctrine has been abolish. Do you agree with this move? 
+- How is the doctrine of adverse possession justified? In some jurisdictions, this doctrine has been abolished. Do you agree with this move? 
 
 - What is the test for adverse possession? 
 
