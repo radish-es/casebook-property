@@ -25,6 +25,17 @@ objectives:
 description: This lesson addresses the problem of recognition from both Anglo-Canadian and Mi'kmaq legal perspectives. 
 ---
 
+
+## Animals
+
+Allen Greer suggests that early legal encounters between Indigenous peoples and European imperialists in North America were much more concerned with imperial and commercial concerns rather than land settlement per se. Central to this context was the hunting and trading of wild animals. Much of the property law of the time was shaped in this context of encounter.  
+
+
+
+Tina Loo observes that Blackstone's view that wild animals were common property, open to anyone for the taking, was embraced by early colonists in North America, particularly in the Thirteen Colonies. Hunting was framed as an expression of fundamental freedom by colonists and contrasted with Old World restrictions. Colonists in British North America were more permissive of wildlife regulations that curbed hunting access [@loo2006StatesNature, 13-14]. 
+
+
+
 ## The Problem of Recognition
 
 This week we start to explore a fundamental problem in the law of property: the problem of *recognition*. How do (and should) relationships to land get recognized in law? Which kinds of relations "count" and which do not? And what does this tell us about the question of who benefits? 

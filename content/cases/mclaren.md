@@ -15,6 +15,9 @@ sources:
 tags:
   - riparian-rights
   - expropriation
+categories:
+  - takings
+categories_weight: 1
 links:
   - url: content/concepts/water-rights.md
     explanation: In order to understand what is going on in this case, it is helpful to start with a basic understanding of 'riparian rights'.

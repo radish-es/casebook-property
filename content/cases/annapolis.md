@@ -14,6 +14,9 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 tags:
   - constructive-takings
+categories:
+  - takings
+categories_weight: 2
 links:
   - url: content/cases/cpr.md
     explanation: The majority in the Annapolis decision claim that they have clarified, but not changed, the test for constructive expropriation from CPR. Is this an accurate claim? Would the City of Vancouver in CPR be found to have gained an "advantage" according to the majority's view in Annapolis? 
