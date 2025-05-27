@@ -8,29 +8,26 @@
     {{ .Content }}
 
   </article>
-  
 
-    {{ range $name, $taxonomy := .Site.Taxonomies.doctrines }}
+    {{ $sec := .CurrentSection.Title }}
+    {{ $sec }}<br/>
+   
+    {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
         <h3>{{ $name }}</h3>
 
-        {{ $p := where site.Pages "Params.doctrines" "intersect" (slice $name) }}
+        {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
         <ul>
-        {{ range $p }}
-            <li>{{ .Title }}</li>
-    {{- end -}}
-      
-</ul>
+            {{ range $p }}
+                <li>{{ .Title }}</li>
+            {{ end }}
+        </ul>
 
     {{ end }}
   
     
 
 
-    {{ range where .Pages "Params.doctrines" "possession" }}
 
-        {{ .title }}
-
-    {{ end }}
 
 
 </main>

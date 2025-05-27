@@ -1,9 +1,9 @@
 ---
-title: Chapter 1
+title: Chapter 2
 type: docs
-weight: 1
+weight: 2
 bookCollapseSection: false
 published: true
 ---
 
-This is the first chapter.
+This is the second chapter.

@@ -18,6 +18,8 @@ links:
   - url: content/cases/mclaren.md
     explanation: How does the majority in Annapolis (citing De Keyser's Royal Hotel) draw on the principle of statutory interpretation articulated by the Supreme Court in McLaren v Caldwell? Does it alter this principle in any way?
 published: true
+doctrines:
+  - constructive-takings
 ---
 
 ## Côté, Brown JJ. --
