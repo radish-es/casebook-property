@@ -1,0 +1,31 @@
+    {{ $sec := $.Page.CurrentSection.Title }}
+    {{ $secname := .Get "sec-name" }}
+
+    {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
+
+        <h3>Section {{ $secname | humanize }} </h3>
+        
+        <div class="wrapper-casebook">
+        
+            {{ $p := where .Pages "Params.doctrines" "intersect" (slice $secname) }}
+            {{ range $p }}
+        
+            <div class="box a">
+                <ul>
+                  
+                    <li>
+                        <h3><a href="{{ .Permalink }}">{{.Title}}</a></h3>
+                        <p>{{ .Params.description }}</p>
+                    </li>
+                  
+                </ul> 
+            </div>
+
+            {{ end }}
+
+        </div>
+        
+    {{ end }}
+    
+        
+  
