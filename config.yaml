@@ -29,3 +29,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+taxonomies:
+  doctrine: doctrines

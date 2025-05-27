@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h2>
+        {{ partial "docs/title.html" . }}
+    </h2> 
+
+    {{ .Content }}
+
+  </article>
+  
+
+    {{ range $name, $taxonomy := .Site.Taxonomies.doctrines }}
+        <h3>{{ $name }}</h3>
+
+        {{ $p := where site.Pages "Params.doctrines" "intersect" (slice $name) }}
+        <ul>
+        {{ range $p }}
+            <li>{{ .Title }}</li>
+    {{- end -}}
+      
+</ul>
+
+    {{ end }}
+  
+    
+
+
+    {{ range where .Pages "Params.doctrines" "possession" }}
+
+        {{ .title }}
+
+    {{ end }}
+
+
+</main>
+{{ end }}

@@ -8,8 +8,8 @@ facts: Thomas Williamson enclosed land and built a cottage on it. He left it to 
 issue: Who has better title.
 held: For plaintiff. The plaintiff inhereted Thomas's title through Lucy, which included the right to eject. The defendant did not acquire better title through his occupancy.
 public: true
-tags:
-  - possession
+doctrines:
+  - exclusion
 published: true
 links:
   - url: content/cases/piper.md

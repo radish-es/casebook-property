@@ -1,9 +1,10 @@
 ---
-title: Concepts
+title: Textbook
 type: docs
-weight: 7
-bookCollapseSection: true
-bookHidden: true
+weight: 50
+bookFlatSection: true
+bookCollapseSection: false
+published: true
 ---
 
 This section contains short explanations or definitions of key concepts used in the course, with links to related material. 
