@@ -22,7 +22,7 @@
 
         <h3>Section {{ $counter }}. {{ $name | humanize }} </h3>
         
-        <div class="wrapper-textbook">
+        <div class="wrapper-casebook">
         
             {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
             {{ range $p }}

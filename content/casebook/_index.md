@@ -1,5 +1,5 @@
 ---
-title: Textbook
+title: Casebook
 type: docs
 weight: 50
 bookFlatSection: true
