@@ -10,7 +10,6 @@ held: For plaintiff. The majority found that the plaintiff established possessio
 public: true
 doctrines: 
   - possession
-doctrines_weight: 10
 links:
   - url: content/secondary/locke.md
     explanation: How does the reasoning of one or both judges in this case reflect Locke's story about possession as the basis of property?

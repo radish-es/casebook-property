@@ -9,13 +9,16 @@
 
   </article>
 
+    <!-- This piece ranges over the "doctrines" taxonomy within the current subfolder, e.g. Chapter 1 -- note how Hugo uses .CurrentSection.Title to do this-->
+
+    <!-- I think I need to replace this layout template with a shortcode that lists item for a particular taxonomy value -- this would provide for more flexibility and customization -->
+
     {{ $sec := .CurrentSection.Title }}
     {{ $counter := 0 }}
 
-
     {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
         {{ $counter = add $counter 1 }}
-        <h3>{{ $counter }}. {{ $name }}</h3>
+        <h3>Section {{ $counter }}. {{ $name | humanize }} </h3>
 
         {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
         <ul>

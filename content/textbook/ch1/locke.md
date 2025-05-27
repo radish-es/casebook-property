@@ -6,7 +6,6 @@ source: From Project Gutenberg, digitized by Dave Gowan. John Locke’s “Secon
 class: secondary
 doctrines:
   - possession
-doctrines_weight: 20
 links:
   - url: content/textbook/chapter01/clift.md
     explanation: To what extent is Locke's justification for possession as the basis of property reflected in this case? Is it easy to extend Locke's story about appropriating the acorn to the context of seal hunting?
