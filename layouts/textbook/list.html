@@ -10,10 +10,12 @@
   </article>
 
     {{ $sec := .CurrentSection.Title }}
-    {{ $sec }}<br/>
-   
+    {{ $counter := 0 }}
+
+
     {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
-        <h3>{{ $name }}</h3>
+        {{ $counter = add $counter 1 }}
+        <h3>{{ $counter }}. {{ $name }}</h3>
 
         {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
         <ul>

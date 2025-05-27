@@ -11,6 +11,7 @@ public: true
 doctrines:
   - exclusion
 published: true
+bookHidden: true
 links:
   - url: content/cases/piper.md
     explanation: Here the court finds that "possession is good title against all but the true owner". Can possession ever be good against the true owner themselves?
