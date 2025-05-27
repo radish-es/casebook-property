@@ -18,7 +18,7 @@ links:
   - url: content/concepts/abandonment.md
     explanation: Why did was the plaintiff in Armorie not found to have abandoned the jewel when he left it with the goldsmith?
 published: true
-weight: 20
+weight: 21
 bookHidden: true
 ---
 

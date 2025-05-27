@@ -243,3 +243,20 @@ div.suggest-edits a, div.suggest-edits a:visited {
 div.description {
   font-size: 0.7em;
 }
+
+/* Breadcrumbs */
+
+ul.breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: end;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+  display: inline-block;
+  margin: 0 0.25rem;
+  content: ">";
+}
