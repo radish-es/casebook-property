@@ -8,9 +8,8 @@ facts: The plaintiff chimney sweep found a jewel in the course of his work and t
 issue: Relative possession
 held: For the plaintiff. One who finds a chattel is considered its owner against anyone in the world other than its prior and rightful owner.
 public: true
-tags:
+doctrines:
   - possession
-  - abandonment
 links:
   - url: content/cases/asher.md
     explanation: Does the principle about the relative nature of possession in a found object from Armorie extend to land?
@@ -19,6 +18,8 @@ links:
   - url: content/concepts/abandonment.md
     explanation: Why did was the plaintiff in Armorie not found to have abandoned the jewel when he left it with the goldsmith?
 published: true
+weight: 20
+bookHidden: true
 ---
 
 ### Pratt, C.J. --

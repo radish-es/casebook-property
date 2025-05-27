@@ -1,9 +1,9 @@
 {{ define "main" }}
 <main>
   <article>
-    <h2>
+    <h1>
         {{ partial "docs/title.html" . }}
-    </h2> 
+    </h1> 
 
     {{ .Content }}
 
@@ -17,23 +17,32 @@
     {{ $counter := 0 }}
 
     {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
+
         {{ $counter = add $counter 1 }}
+
         <h3>Section {{ $counter }}. {{ $name | humanize }} </h3>
-
-        {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
-        <ul>
+        
+        <div class="wrapper-textbook">
+        
+            {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
             {{ range $p }}
-                <li>{{ .Title }}</li>
+        
+            <div class="box a">
+                <ul>
+                  
+                    <li>
+                        <h3><a href="{{ .Permalink }}">{{.Title}}</a></h3>
+                        <p>{{ .Params.description }}</p>
+                    </li>
+                  
+                </ul> 
+            </div>
+
             {{ end }}
-        </ul>
 
+        </div>
+        
     {{ end }}
-  
-    
-
-
-
-
 
 </main>
 {{ end }}

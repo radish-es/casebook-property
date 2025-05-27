@@ -200,3 +200,46 @@ div.suggest-edits a, div.suggest-edits a:visited {
 .footnotes {
   font-size: 0.75em;
 }
+
+/* Textbook Section/Doctrine Grid */
+
+.wrapper-textbook {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  background-color: #fff;
+  color: #000;
+  border-radius: 0px;
+  padding: 15px;
+  font-size: 1em;
+  border: 1px solid #000
+}
+
+.box a {
+  color: #000;
+  text-decoration: none;
+  
+}
+
+.box h3 {
+  margin: 0;
+  font-size: 1.3em;
+}
+
+.box ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.box li {
+}
+
+div.description {
+  font-size: 0.7em;
+}

@@ -23,7 +23,7 @@ links:
     explanation: Is it possible to abandon wild seals once possession has established property rights in them? What steps if any would the sealers need to take?
 published: true
 bookHidden: true
-weight: 20
+weight: 30
 ---
 
 

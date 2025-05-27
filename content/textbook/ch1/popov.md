@@ -8,14 +8,16 @@ facts: Barry Bonds hit a record-setting home run. The ball flew into the stands,
 issue: Who is entitled to the ball?
 held: Popov and Hayashi each had possessory interest in the ball. Popov had a pre-possessory interest supporting a qualified right to the ball; Hayashi had possession through his subsequent control of the ball. As such, the ball should be sold and the proceeds equitably divided between the two. 
 public: true
-tags:
-  - first-possession
+doctrines:
+  - possession
 links:
   - url: content/cases/clift.md
     explanation: How does the style of reasoning in this case compare to that employed by the judges in Clift v Kane? 
   - url: content/secondary/locke.md
     explanation: Does Justice McCarthy's analysis accord with a Lockean view of first possession?
 published: true
+bookHidden: true
+weight: 40
 ---
 
 {{< youtube af4dRPV_dUc >}}
