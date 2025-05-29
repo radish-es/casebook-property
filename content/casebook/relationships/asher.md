@@ -9,7 +9,7 @@ issue: Who has better title.
 held: For plaintiff. The plaintiff inhereted Thomas's title through Lucy, which included the right to eject. The defendant did not acquire better title through his occupancy.
 public: true
 doctrines:
-  - exclusion
+  - possession
 published: true
 bookHidden: true
 links:

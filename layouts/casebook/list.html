@@ -2,7 +2,7 @@
 <main>
   <article>
     <h1>
-        {{ partial "docs/title.html" . }}
+        {{ partial "docs/title.html" . }}: {{ .Params.subtitle  }}
     </h1> 
 
     {{ .Content }}

@@ -1,6 +1,7 @@
 ---
 type: docs
 Title: Chapter 1
+subtitle: Relationships and Recognition
 weight: 1
 bookCollapseSection: false
 bookTOC: false
@@ -9,14 +10,19 @@ published: true
 
 This is the first chapter.
 
-## Possession
+## First Possession
 
 This is about the law on possession.
 
 {{< casebook-section sec-name="possession" >}}
 
-## Exclusion
+## Finders and Relative Title
 
-This section is about the law on exclusion. 
+## Adverse Possession
 
-{{< casebook-section sec-name="exclusion" >}}
+## Sovereignty and Treaty
+
+This section is about treaty law.
+
+{{< casebook-section sec-name="treaty" >}}
+

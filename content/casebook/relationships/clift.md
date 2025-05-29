@@ -24,6 +24,7 @@ links:
 published: true
 bookHidden: true
 weight: 30
+description: Two ships compete on the ice flows for seal pelts.
 ---
 
 
