@@ -4,15 +4,18 @@
 
     Structure of the array of arrays: {{ . }} <br/><br/>
 
+    {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
 
           {{ range . }}<!-- range over each row in the table -->
             
-              {{ range first 1 .  }}<!-- range over each column in the row but just the first column-->
-                   
-                    {{ with $.Site.GetPage . }}
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ range $index, $col := .  }}<!-- range over each column in the row -->
+                {{ if eq $index 0 }}
+                    {{if eq $col $current}} <!-- test if current page is equal to right-most column-->
+                        {{ with $.Site.GetPage $col }}
+                            {{ .Title }}
+                        {{ end }}
                     {{ end }}
-                
+                {{end}}
               {{ end }}
             <br/>
           {{ end }}
