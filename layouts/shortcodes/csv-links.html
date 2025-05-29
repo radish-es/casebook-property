@@ -7,13 +7,12 @@
 
           {{ range . }}<!-- range over each row in the table -->
             
-              {{ range $index, $col := .  }}<!-- range over each column in the row -->
-                {{ if eq $index 0 }}
-                    {{$col}}
-                    {{ with $.Site.GetPage $col }}
-                        {{ .Title }}
+              {{ range first 1 .  }}<!-- range over each column in the row but just the first column-->
+                   
+                    {{ with $.Site.GetPage . }}
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
                     {{ end }}
-                {{end}}
+                
               {{ end }}
             <br/>
           {{ end }}
