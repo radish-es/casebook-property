@@ -1,0 +1,27 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+
+    Structure of the array of arrays: {{ . }} <br/><br/>
+
+
+          {{ range . }}<!-- range over each row in the table -->
+            
+              {{ range $index, $col := .  }}<!-- range over each column in the row -->
+                {{ if eq $index 0 }}
+                    {{$col}}
+                    {{ with $.Site.GetPage $col }}
+                        {{ .Title }}
+                    {{ end }}
+                {{end}}
+              {{ end }}
+            <br/>
+          {{ end }}
+
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}
