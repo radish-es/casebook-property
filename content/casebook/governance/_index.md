@@ -5,6 +5,8 @@ type: docs
 weight: 2
 bookCollapseSection: false
 published: true
+bookTOC: false
+
 ---
 
 This second chapter is about *governance* -- the legal rules and frameworks that determine how decisions are made about land.
@@ -27,6 +29,8 @@ Starting with McLaren v Caldwell
 
 ## Acquired rights
 
+{{< casebook-section sec-name="acquired-rights" >}}
+
 ## Trespass? Exclusion? Access?
 
-Expropriation de jure?
+{{< casebook-section sec-name="trespass" >}}

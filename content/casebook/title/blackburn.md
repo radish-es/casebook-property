@@ -13,10 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/ggxlb'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
-tags:
+doctrines:
   - alienation
-  - estates
 published: true
+bookHidden: true
 ---
 
 ## Davies J. —

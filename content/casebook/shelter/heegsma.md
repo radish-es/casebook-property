@@ -12,12 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - shelter-rights
-links:
-  - url: content/cases/committee.md
-    explanation: The court in Heegsma does not cite the Supreme Court of Canada's decision in Committee for the Commonwealth of Canada. But there appears to be an implicit conflict between some of the underlying assumptions in these two cases. How would you describe those?
+doctrines:
+  - right-to-shelter
 published: true
+bookHidden: true
 ---
 
 ## Ramsay J. --

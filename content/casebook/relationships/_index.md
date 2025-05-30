@@ -20,6 +20,8 @@ This is about the law on possession.
 
 ## Adverse Possession
 
+{{< casebook-section sec-name="adverse-possession" >}}
+
 ## Sovereignty and Treaty
 
 This section is about treaty law.

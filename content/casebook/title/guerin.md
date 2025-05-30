@@ -13,16 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/1lpfn'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
-  - duty-to-consult
-  - reserve-lands
+doctrines:
   - aboriginal-title
-links:
-  - url: content/cases/stcatherines.md
-    explanation: What has changed with respect to the common law doctrine of Aboriginal title between St Cahterine's Milling and Guerin? 
-  - url: content/cases/southwind.md
-    explanation: The fiduciary duty identified in Guerin has been an important basis for the Crown's obligations in dealing with reserve lands under the federal Indian Act. 
 published: true
+bookHidden: true
 ---
 
 [*This case concerns the lease of reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to surrender 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to Band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the Band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*]

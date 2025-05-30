@@ -13,12 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/1fqz8'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
+doctrines:
   - aboriginal-title
-links:
-  - url: content/cases/tsilhqotin.md
-    explanation: In Tsilhqot'in, the Supreme Court continued to develop the framework established in Delgamuukw, resulting in the first successful claim in an Anglo-Canadian court. 
 published: true
+bookHidden: true
 ---
 
 ## Lamer C.J.C --

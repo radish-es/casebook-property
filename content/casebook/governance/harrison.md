@@ -12,17 +12,10 @@ sources:
     source_url: 'https://canlii.ca/t/1z6gp'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
+doctrines:
   - trespass
-  - possession
-links:
-  - url: content/statutes/protection-property.md
-    explanation: How does Nova Scotia's Act compare to what you know about the Petty Trespass statutes considered by the court in this case? Are there similarities and/or differences? Do they matter?
-  - url: content/concepts/trespass.md
-    explanation: Although a claim in the tort of trespass is not being made in this case, why is this civil cause of action still relevant to at least one of the judges?
-  - url: content/concepts/style.md
-    explanation: How do Justice Dickson's and Justice Laskin's styles of reasoning differ from one another? Can you pinpoint what exactly is different about their apparently conflicting approaches to the case?
 published: true
+bookHidden: true
 ---
 
 

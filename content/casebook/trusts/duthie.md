@@ -8,14 +8,10 @@ facts:
 issue: 
 held: 
 public: true
-tags:
+doctrines:
   - trusts
-links:
-  - url: content/secondary/adams-stangerross.md
-    explanation: In Adams and Stanger-Ross' view, how should the obligations of the trustee of Japanese Canadians' property be conceived? Are these consistent with the characterization in Duthie?
-  - url: content/concepts/trusts.md
-    explanation: The concept of a "trust" is one with a long history--this short excepts provides brief background and a sketch of the structures involved. 
 published: true
+bookHidden: true
 ---
 
 ### Fisher, J. -

@@ -12,17 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g1d4b'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - restrictive-covenant  
-  - public-policy
-links:
-  - url: content/cases/noble.md
-    explanation: On similar facts, Noble and Wolfe v Alley comes before the Ontario Court of Appeal just a few years later. Does the Court follow Re Drummond Wren? Why or why not?
-  - url: content/cases/tulk.md
-    explanation: Notice that the judge here does not cite Tulk v Moxhay but rather focuses heavily on the statutory context. Is there a reason for this?
-  - url: content/cases/blackburn.md
-    explanation: Why does the potential restraint on alienation in this case not fall within the potential exceptions discussed in Blackburn?
+doctrines:
+  - covenants  
 published: true
+bookHidden: true
 ---
 
 ### Mackay J. —

@@ -12,9 +12,10 @@ sources:
   - source_name: CanLii
     source_url: 'https://canlii.ca/t/jshfv'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
+doctrines:
   - adverse-possession
 published: true
+bookHidden: true
 ---
 
 ## Sossin J.A. --

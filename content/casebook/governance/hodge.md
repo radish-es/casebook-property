@@ -12,8 +12,10 @@ sources:
   - source_name: BAILII
     source_url: 'https://www.bailii.org/uk/cases/UKPC/1883/1883_59.html'
     license: 'https://www.bailii.org/bailii/copyright.html'
-tags:
-published: false
+doctrines:
+  - police-power
+published: true
+bookHidden: true
 ---
 
 ### Judgement of the Lords of the Judicial Committee of the Privy Council

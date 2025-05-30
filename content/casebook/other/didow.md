@@ -13,11 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/2dm47'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
-  - use
+doctrines:
   - airspace
-  - trespass
 published: false
+bookhidden: true
 ---
 
 

@@ -5,6 +5,8 @@ type: docs
 weight: 4
 bookCollapseSection: false
 published: true
+bookTOC: false
+
 ---
 
 This is the fourth chapter focused on trusts and equity. 
@@ -13,7 +15,7 @@ This is the fourth chapter focused on trusts and equity.
 
 This section is about title.
 
-{{< casebook-section sec-name="title" >}}
+{{< casebook-section sec-name="trusts" >}}
 
 ## Community Land Trusts
 

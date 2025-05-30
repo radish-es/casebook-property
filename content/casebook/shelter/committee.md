@@ -12,12 +12,13 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - public-property
+doctrines:
+  - right-to-shelter
 links:
   - url: content/cases/victoria-city.md
     explanation: Is Justice L'Heureux-Dubé's view here on the nature of and limitations on government-owned property consistent with the approach to the right to shelter developed in Victoria (City) v Adams and subsequent cases? 
 published: true
+bookHidden: true
 ---
 
 [*The following case dealt with the issue of whether restrictions on political activity (distributing leaflets) at an airport as public property were in violation of the applicants' freedom of expression protected by the Charter. In the course of their decisions, the judges discussed broader principles applicable to understanding limitations on government ownership of property.*]

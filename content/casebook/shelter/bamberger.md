@@ -19,9 +19,10 @@ sources:
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
-tags:
-  - shelter-rights
-published: false
+doctrines:
+  - right-to-shelter
+published: true
+bookHidden: true
 ---
 
 

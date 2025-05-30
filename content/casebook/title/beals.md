@@ -1,10 +1,10 @@
 ---
 class: case
-style: Beals v Nova Scotia (Attorney General)
+title: Beals v Nova Scotia (AG)
 short: Beals
 reporter: ' 2020 NSSC 60 (CanLII)'
 year: 2020
-description: A case about the purpose of the *Land Titles Clarification Act* and its historical context
+description: A case about the purpose of the Land Titles Clarification Act and its historical context
 public: true
 sources:
   - source_name: CanLII
@@ -13,14 +13,11 @@ sources:
   - source_name: the Nova Scotia Supreme Court
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/461507/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
-tags:
-  - recognition
-  - title-clarification
+doctrines:
   - title-registration
-published: false
+published: true
+bookHidden: true
 ---
-
-
 
 ### Bodurtha J. —
 

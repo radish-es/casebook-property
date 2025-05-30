@@ -8,14 +8,10 @@ facts: The plaintiffs brought an action because of harm caused by sulphur dioxid
 issue: What type of remedy is appropriate.
 held: Damages, rather than an injunction, are justified, because the vapours are inherent to mining nickel and the mine is central to the community.
 public: true
-tags:
+doctrines:
   - nuisance
 published: true
-links:
-  - url: content/cases/shelfer.md
-    explanation: Justice Middleton cites the Shelfer case in discussing the court's discretion on the issue of remedy. What legal framework does the Shelfer provide and how is it applied by the court in Black v Canadian Copper?
-  - url: content/cases/canada-paper.md
-    explanation: The facts here seem similar in many respects to those in Canada Paper Co v Brown. Why do the courts reach different conclusions on the issue of remedy? 
+bookHidden: true
 ---
 
 

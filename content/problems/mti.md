@@ -29,12 +29,12 @@ First, start by establishing in your own mind the context of the two leading cas
 
 ### Step 2: Test for Proof of Title
 
-At this step, you are addressing the question of what a plaintiff First Nation needs to demonstrate in order to successfully make out a claim for recognition* of Aboriginal title to a particular territory. Read the linked sections in *[Delgamuukw]({{< ref "cases/delgamuukw#delg-proof"  >}})* and *[Tsilhqot'in]({{< ref "cases/tsilhqotin#tsil-proof" >}})* that deal with the 3-part test for proof of title, and then watch the video at the end of this topic in *Tsilhqot'in*.  
+At this step, you are addressing the question of what a plaintiff First Nation needs to demonstrate in order to successfully make out a claim for recognition* of Aboriginal title to a particular territory. Read the linked sections in *Delgamuukw* and *Tsilhqot'in* that deal with the 3-part test for proof of title, and then watch the video at the end of this topic in *Tsilhqot'in*.  
 
 ### Step 3: Content and Source of Title
 
-At this step, you are addressing the question of what rights are recognized on the part of a plaintiff First Nation if they are successful in making out their claim at Step 2. The step answers the question (which we have encountered several times before in the course): "What *is* Aboriginal title, from the common law's perspective?" Read the linked excepts from *[Delgamuukw]({{< ref "cases/delgamuukw#delg-content" >}})* and *[Tsilhqot'in]({{< ref "cases/tsilhqotin#tsil-content" >}})* addressing these questions of content and source. Then watch the video at the end of the material on source and content in *Tsilhqot'in*.
+At this step, you are addressing the question of what rights are recognized on the part of a plaintiff First Nation if they are successful in making out their claim at Step 2. The step answers the question (which we have encountered several times before in the course): "What *is* Aboriginal title, from the common law's perspective?" Read the linked excepts from *Delgamuukw* and *Tsilhqot'in* addressing these questions of content and source. Then watch the video at the end of the material on source and content in *Tsilhqot'in*.
 
 ### Step 4: Infringement of Title
 
-Finally, once Aboriginal title has been proven and its content and source defined, the courts have left open the possibility that the Crown can justifiably infringe upon the rights associated with that title. What is the test and rationale for infringement? Read the *[Tsilhqot'in]({{< ref "cases/tsilhqotin#tsil-infringe" >}})* court's judgement on infringement and watch the summary video at the end. 
+Finally, once Aboriginal title has been proven and its content and source defined, the courts have left open the possibility that the Crown can justifiably infringe upon the rights associated with that title. What is the test and rationale for infringement? Read the *Tsilhqot'in* court's judgement on infringement and watch the summary video at the end. 

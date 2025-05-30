@@ -12,14 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g1jf9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
+doctrines:
   - adverse-possession
-links:
-  - url: content/cases/piper.md
-    explanation: The Ontario Court of Appeal in Keefer builds on the legal framework that is early developed in Piper. What is the test for adverse possession that emerges from the Court of Appeal's analysis? 
-  - url: content/cases/kosicki.md
-    explanation: How does the law of adverse possession differ with respect to private and public land?
 published: true
+bookHidden: true
 ---
 
 ## Wilson, J.A. -- 

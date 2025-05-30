@@ -5,19 +5,31 @@ type: docs
 weight: 3
 bookCollapseSection: false
 published: true
+bookTOC: false
+
 ---
 
 This is the third chapter, focused on the basic nature of title and its transfer over time.
 
 The private/public theme comes through in the move from estates and qualified transfers to title registration
 
-## Title (Estates, Aboriginal Title, Reserve Lands)
+## Title (Estates)
 
 This section is about title.
 
 {{< casebook-section sec-name="title" >}}
 
-## Alienation / Qualified Transfers
+## Aboriginal Title
+
+{{< casebook-section sec-name="aboriginal-title" >}}
+
+## Alienation 
+
+{{< casebook-section sec-name="alienation" >}}
+
+## Qualified Transfer
+
+{{< casebook-section sec-name="qualified-transfers" >}}
 
 ## Title Registration
 

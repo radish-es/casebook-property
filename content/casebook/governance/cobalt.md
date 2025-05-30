@@ -1,6 +1,6 @@
 ---
 class: case
-style: Cobalt (Town) v Coleman (Township)
+title: Cobalt (Town) v Coleman (Township)
 short: Cobalt
 reporter: 2019 ONCA 134 (CanLII)
 year: 2019
@@ -16,18 +16,15 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2019. Not an official version. '
-tags:
-  - use
-  - land-use-regulation
+doctrines:
   - acquired-rights
-published: false
+published: true
+bookHidden: true
 ---
 
+## Trotter J.A. – 
 
-
-### Trotter J.A. – 
-
-#### A. INTRODUCTION
+### A. Introduction
 
 This appeal concerns a tract of land (“the property”) situated in the Township of Coleman (“Coleman”), in the District of Timiskaming. The property is owned by the nearby Town of Cobalt (“Cobalt”). Recently, Cobalt has been using the property to conduct a large-scale aggregate extraction operation. Coleman objects to this use, alleging that it is not compliant with its current zoning by-law.
 
@@ -35,9 +32,9 @@ Cobalt brought an application seeking a declaration that its use of the property
 
 Cobalt appeals from both orders.
 
-#### B. BACKGROUND
+### B. Background
 
-##### (1) The Property and its Historical Use
+#### (1) The Property and its Historical Use
 
 The property is 114.67 acres in size. A road runs through the property, cutting it into west and east portions, which are zoned differently. The property was transferred by the Province of Ontario to Cobalt on July 4, 1972 by Letters Patent. The Letters contained the following restriction: “IT IS A CONDITION of these Letters Patent that the Land shall be used only as a municipal park.” This restriction was removed in 2002.
 
@@ -45,11 +42,11 @@ From 1972 to 1997, Cobalt used the property as a municipal park and campground, 
 
 Following the closure of the park in 1997, Cobalt was unsure about what it wanted to do with the property. At one point, it considered selling it.  In 2013, Cobalt entered into an agreement with Miller Paving Ltd. (“Miller”) for Miller to extract aggregate from the property. A large-scale aggregate extraction operation is currently ongoing.
 
-##### (2) Applicable Zoning By-Laws
+#### (2) Applicable Zoning By-Laws
 
 Coleman passed its first zoning by-law in 1985 (85-9). Under this by-law, the entirety of the property was zoned as “Open Space”, with specified residential and non-residential uses. Coleman passed another zoning by-law in 2006 (06-01), replacing the 1985 by-law. Under the 2006 by-law, the western part of the property is zoned as “Development” and only permitted “existing non-residential uses” in the Development zone. The eastern part of the property is zoned “Shoreline Residential”. The only permitted non-residential use is “a marine facility”. This is the portion of the property where commercial aggregate extraction currently takes place.
 
-##### (3) The Application Judge’s Reasons
+#### (3) The Application Judge’s Reasons
 
 The application judge provided detailed reasons for his decision. I review only those parts of his decision that are necessary to dispose of this appeal.
 
@@ -75,9 +72,9 @@ Lastly, he concluded that the affidavit evidence established “the diminution o
 
 As the successful party, Coleman sought costs on a full indemnity scale, in the amount of $199,329.84. The application judge accepted Cobalt’s submission that Coleman was attempting to recoup fees over the full course of the long-standing dispute between the parties. Based on the costs associated only with the application, he awarded costs of $85,000, on a partial indemnity scale.
 
-#### C. ANALYSIS
+### C. Analysis
 
-##### (1) The Legality of the Aggregate Extraction Operation
+#### (1) The Legality of the Aggregate Extraction Operation
 
 The appellant accepts that the application judge properly identified the legal principles concerning legal non-conforming uses. However, it alleges that the application judge failed to properly apply those principles to the facts of this case. I disagree.
 
@@ -92,18 +89,20 @@ There was evidence that, once the property was no longer used as a park (post-19
 There is no basis to disturb the application judge’s findings that, until 2013, any aggregate extraction that had occurred on the property was minor and incidental, being ancillary to the essential character of the property as a municipal park and campground. On the record before him, the application judge was entitled to reach this conclusion. In doing so, he committed no palpable and overriding error.
 
 The central issue in this case is whether the commencement of a large-scale commercial extraction operation was a “mere intensification” of an existing use or use of a different kind. As Binnie J. held in _Saint-Romuald_, at para. 25: “In general, merely continuing the precise pre-existing activity, even at an intensified level, is clearly protected, but the intensification may be of such a degree as to create a difference in kind.” In more general terms, Binnie J. explained, at para. 34: 
+
 > The Court’s objective is to maintain a fair balance between the individual landowner’s interest and the community’s interest. The landowner overreaches itself if (i) **the scale or intensity of the activity can be said to bring about a change in the type of use**, as mentioned above, or if (ii) the addition of new activities or the modification of old activities (albeit within the same general land use purpose), is seen by the court as too remote from the earlier activities to be entitled to protection, or if (iii) **the new or modified activities can be shown to create undue additional or aggravated problems for the municipality, the local authorities, or the neighbours, as compared with what went before.** The factors are balanced against one another. [Emphasis added.]
 Binnie J. added that this assessment must be grounded in “objective facts”: at para. 39.
 
 The application judge’s conclusion that Cobalt had failed to discharge its onus turned on item (i), and to a lesser degree item (iii), in the above-quoted passage from _Saint-Romuald_. The evidentiary record permitted the application judge to find that the change in use of the property – from a municipal park and campground (with some incidental extraction of sand and gravel) to a large-scale commercial extraction operation – was “a change in the type of use”. He also observed that the change impacted on the community in an adverse way. Although the evidentiary foundation for this second finding was not nearly as robust, I am not able to conclude that the application judge erred in the balancing required by _Saint-Romuald_.
 
 The situation in this case is analogous to the example provided by Binnie J. at para. 25 of _Saint-Romuald_:
+
 > A family farm which has a few pigs on the fringe of a town may continue as a legal non-conforming use, but the result may be otherwise if it is sought to expand its pork operation into a “factory in the country” type intensive pig farming.  While in one sense the “use” has continued, in another sense its _character_ has been so altered as to become, in terms of its impact on the community, an altogether different use. [Emphasis in original.]
 This example helps to illustrate where the line should be drawn. A determination of whether there is a change in the type of use is not a matter of simply identifying the precise pre-existing use. The character of that use must also be considered. Just as a family pig farm expanded into a pork “factory in the country” becomes a different use, in this case too, the expansion from incidental extraction for municipal purposes to large-scale commercial extraction has altered the character of the use such that it has become a different use altogether.
 
 The application judge did not err in concluding that the extraction operation is not a permitted use under Coleman’s zoning by-law and is not a legal non-conforming use under the _Planning Act_. I would dismiss the appeal from the application judge’s refusal of Cobalt’s request for a declaration.
 
-##### (2) Appeal from the Costs Order
+#### (2) Appeal from the Costs Order
 
 As noted above, the application judge awarded Coleman $85,000 in costs, inclusive. Cobalt argues that the proper award is in the range of $40,000.
 
@@ -111,6 +110,6 @@ I am not persuaded that the application judge made any error in principle, or th
 
 Although the award was substantial, approximately $12,000 was consumed by disbursements. The fees claimed, when considered on a partial indemnity scale, were not disproportionate in the circumstances. I note that the decision resolved a long-standing dispute with a great deal at stake, both monetarily for Cobalt and to the community of Coleman. The application judge’s findings and conclusions on the issue of costs are entitled to deference on appeal: see _Boucher v. Public Accountants Council for the Province of Ontario_ (2004), 2004 CanLII 14579 (ON CA), 71 O.R. (3d) 291 (C.A.), at para. 19. There is no reason to interfere.
 
-#### D. DISPOSITION
+### D. Disposition
 
 I would dismiss the appeal. The parties agreed on the quantum of costs payable to the successful party on appeal. Accordingly, I would award costs to Coleman in the amount of $25,000, inclusive of disbursements and applicable taxes.

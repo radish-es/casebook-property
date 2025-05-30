@@ -17,15 +17,10 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
-tags:
-  - public-policy
-  - trusts
-links:
-  - url: content/cases/mccorkill.md
-    explanation: Does the Court in McCorkill extend the public policy doctrine expressed by the court in Canada Trust? 
-  - url: content/cases/drummond.md
-    explanation: While Re Drummond Wren deals with a restrictive covenant, is the doctrine expressed in that case the same or similar to the one described here? How?  
+doctrines:
+  - qualified-transfers
 published: true
+bookHidden: true
 ---
 
 ### Robins J.A.  —

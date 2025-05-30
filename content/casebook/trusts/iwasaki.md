@@ -13,14 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/jqqth'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
+doctrines:
   - trusts
-links:
-  - url: content/secondary/adams-stangerross.md
-    explanation: The authors in this excerpt disagree with the court's conclusion in Iwasaki related to the characterization of a trust and breach of that trust. What aspects of the Orders in Council issued are important for making that argument?
-  - url: content/cases/mclaren.md
-    explanation: Nowhere is the Iwasaki decision does the plaintiff claim or the court discuss the idea that the Canadian government expropriated the property of Japanese Canadians. Why do you think such a claim was omitted? 
 published: true
+bookHidden: true
 ---
 
 ### Sheppard, D.J. —
