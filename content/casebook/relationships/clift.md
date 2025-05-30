@@ -10,30 +10,11 @@ held: For plaintiff. The majority found that the plaintiff established possessio
 public: true
 doctrines: 
   - possession
-links:
-  - url: content/secondary/locke.md
-    explanation: How does the reasoning of one or both judges in this case reflect Locke's story about possession as the basis of property?
-  - url: content/cases/armorie.md
-    explanation: Is it correct to say that the court in Clift decides who owns the seals and who does not? Is it possible that both parties have legal entitlements to the seals, though one might receive priority over the other? 
-  - url: content/concepts/liberalism.md
-    explanation: How might you characterize the styles of reasoning and argument employed by Judges Hoyles and Robinson in this case?
-  - url: content/cases/harrison.md
-    explanation: Do the judges styles of reasoning in this case more closely resemble that of Justice Dickson or Justice Laskin?
-  - url: content/concepts/abandonment.md
-    explanation: Is it possible to abandon wild seals once possession has established property rights in them? What steps if any would the sealers need to take?
 published: true
 bookHidden: true
 weight: 30
 description: Two ships compete on the ice flows for seal pelts.
 ---
-
-
-
-
-
-
-
-
 
 ### Hoyles C.J.  —
 

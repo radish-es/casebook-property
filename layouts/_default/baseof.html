@@ -97,7 +97,15 @@
 
             {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
 
-            <h4>Contextual Links</h4>
+            <!-- check to see if links exist in CSV, the write heading if so-->
+            {{ $.Store.Set "check" "0" }}
+            {{ range .}}
+              {{ range . }}
+                {{ if eq $current .}}{{ $.Store.Set "check" "1" }}{{ end }}
+              {{ end }}
+            {{ end }}
+            {{ $check := $.Store.Get "check"}}
+            {{if eq $check "1"}}<h4>Contextual Links</h4>{{end}}
 
                   <!--forward links-->
                   {{ range . }}<!-- range over each row in the table -->
