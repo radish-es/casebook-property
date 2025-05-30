@@ -18,9 +18,9 @@
           {{ end }}
 
           <h3>Backward links</h3>
-          {{ range . }}<!-- range over each row in the table -->
+          {{ range . }}
             {{ $item := index . 1 }}  
-            {{if eq $item $current}} <!-- test if current page is equal to right-most column-->
+            {{if eq $item $current}} 
                 {{ $item := index . 0 }} 
                 {{ with $.Site.GetPage $item }}
                     <a href="{{ .Permalink }}">{{ .Title }}</a><br/>

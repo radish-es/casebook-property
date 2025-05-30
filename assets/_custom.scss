@@ -124,6 +124,26 @@ div.suggest-edits a, div.suggest-edits a:visited {
   color: #fff;
 }
 
+.forward {
+  border-width: 1px;
+  border-color: #000;
+  border-style: solid;
+  border-radius: 0px;
+  padding: 15px 15px;
+  margin-top: 10px;
+  background: pink
+}
+
+.backward {
+  border-width: 1px;
+  border-color: #000;
+  border-style: solid;
+  border-radius: 0px;
+  padding: 15px 15px;
+  margin-top: 10px;
+  background: burlywood
+}
+
 /*LIST PAGES*/
 
 .list-page {
