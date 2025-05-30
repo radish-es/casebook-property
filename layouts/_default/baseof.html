@@ -96,6 +96,9 @@
             {{ with . | transform.Unmarshal }}
 
             {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
+
+            <h4>Contextual Links</h4>
+
                   <!--forward links-->
                   {{ range . }}<!-- range over each row in the table -->
                     {{ $item := index . 0 }}  
@@ -104,7 +107,8 @@
                         {{ $descript := index . 2 }}    
                         {{ with $.Site.GetPage $item }}
                         <div class="forward">
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>: {{ $descript }}
+                            <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
+                            <p>{{ $descript }}</p>
                         </div>
                         {{ end }}
                     {{ end }}
@@ -117,7 +121,7 @@
                         {{ $item := index . 0 }} 
                         {{ with $.Site.GetPage $item }}
                         <div class="backward">
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                          <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
                         </div>
                         {{ end }}
                     {{ end }}

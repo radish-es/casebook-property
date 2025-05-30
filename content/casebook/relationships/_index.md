@@ -25,6 +25,3 @@ This is about the law on possession.
 This section is about treaty law.
 
 {{< casebook-section sec-name="treaty" >}}
-
-
-{{< csv-links "links.csv" >}}
