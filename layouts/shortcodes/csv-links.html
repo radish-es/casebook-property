@@ -2,22 +2,30 @@
   {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal }}
 
-    Structure of the array of arrays: {{ . }} <br/><br/>
-
     {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
 
+
+        <h3>Forward links</h3>
           {{ range . }}<!-- range over each row in the table -->
-            
-              {{ range $index, $col := .  }}<!-- range over each column in the row -->
-                {{ if eq $index 0 }}
-                    {{if eq $col $current}} <!-- test if current page is equal to right-most column-->
-                        {{ with $.Site.GetPage $col }}
-                            {{ .Title }}
-                        {{ end }}
-                    {{ end }}
-                {{end}}
-              {{ end }}
-            <br/>
+            {{ $item := index . 0 }}  
+            {{if eq $item $current}} <!-- test if current page is equal to right-most column-->
+                {{ $item := index . 1 }}
+                {{ $descript := index . 2 }}    
+                {{ with $.Site.GetPage $item }}
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>: {{ $descript }}<br/>
+                {{ end }}
+            {{ end }}
+          {{ end }}
+
+          <h3>Backward links</h3>
+          {{ range . }}<!-- range over each row in the table -->
+            {{ $item := index . 1 }}  
+            {{if eq $item $current}} <!-- test if current page is equal to right-most column-->
+                {{ $item := index . 0 }} 
+                {{ with $.Site.GetPage $item }}
+                    <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+                {{ end }}
+            {{ end }}
           {{ end }}
 
     {{ end }}
