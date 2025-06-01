@@ -1,5 +1,5 @@
 ---
-title: Trusts
+title: Introduction to Trusts
 short: Trusts
 sources:
   - source_name: 'Open Source Property: A Free Casebook'
@@ -15,16 +15,10 @@ description: Brief background to the common law doctrines of tenues and estates 
 source: >-
       Adapted from James Grimmelmann, "Trusts and Corporations" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
-tags:
+doctrines:
   - trusts
-links:
-  - url: content/cases/duthie.md
-    explanation: What exactly do the obligations of a trustee look like? To whom are those obligations owed? 
-  - url: content/cases/iwasaki.md
-    explanation: In this case, the claimant argues that orders in council passed pursuant to the War Measures Act created a trust and that the federal appointees responsible for the property of Japanese-Canadians acted in breach of that trust. 
-  - url: content/secondary/adams-stangerross.md
-    explanation: The authors in this excerpt argue that the concept of a "trust" should have been applied to analyze the federal government's treatment of Japanese Canadians' property. How might the different components of a trust be mapped onto this context?
 published: true
+bookHidden: true
 ---
 
 The origin of the trust lies in medieval tax estate planning and tax evasion. (Arguably, nothing has changed in the last six hundred years.) Imagine Osbert, a minor lord in the 15th century, who holds Greenacre as a tenant of Leonard, a slightly less minor lord. Osbert is getting on in years and has started to worry about the future of his family. His elder son, Aylwin, is not showing promising signs of maturity, and Osbert has come to think that Aylwin may be better suited to religious orders than the duties of managing a great estate. But Osbert’s younger son Bartholomew appears to be a fine young gentleman: athletic, patient, and wise in the ways of men. Osbert would like to provide for Aylwin, but would prefer to have Greenacre go to Bartholomew. Osbert’s problem is that the available conveyancing devices don’t work for him. If he does nothing, then Greenacre goes to Alywin at Osbert’s death under the rule of primogeniture in effect in England at the time, according to which the eldest son receives any land his father owned at his death (was “seised of,” in contemporary terminology). A will leaving Greenacre to Bartholomew doesn’t work because land could not be devised by will until the Statute of Wills in 1540. And Osbert doesn’t want to convey Greenacre (or a future interest in Greenacre) to Bartholomew now, because Bartholomew might die before him, or Aylwin might get his act together, or something else could come along to force a change in plan.

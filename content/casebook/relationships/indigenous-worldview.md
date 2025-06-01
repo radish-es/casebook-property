@@ -1,12 +1,10 @@
 ---
 title: '"Possession" from an Indigenous Worldview'
 class: concept
-tags:
-  - recognition
-  - first-possession
-  - relative-possession
-  - indigenous-law
-published: false
+doctrines:
+  - treaty
+published: true
+bookHidden: true
 ---
 
 

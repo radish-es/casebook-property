@@ -18,3 +18,5 @@ A fifth chapter on shelter? (Lease, Right to Shelter, etc?)
 ## Mortgage
 
 ## Housing on Reserve
+
+{{< casebook-section sec-name="reserve-housing" >}}

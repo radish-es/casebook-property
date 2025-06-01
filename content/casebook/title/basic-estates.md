@@ -15,16 +15,10 @@ description: Introduction to the basic common law estates in land and the concep
 source: >-
       Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
-tags:
+doctrines:
   - estates
-links:
-  - url: content/cases/walker.md
-    explanation: Can you identify one or more of the different interests described in the current excerpt in Re Walker? 
-  - url: content/cases/blackburn.md
-    explanation: How does the testamentary bequest in Blackburn constructed using the interests described in this excerpt? 
-  - url: content/concepts/tenure.md
-    explanation: Recall the underlying structure and rationale for the common law doctrine of estates.
 published: true
+bookHidden: true
 ---
 
 We will begin by examining two possessory estates—the **fee simple absolute** and the **life estate**—and two future interests ... —the **reversion** and the **remainder**.

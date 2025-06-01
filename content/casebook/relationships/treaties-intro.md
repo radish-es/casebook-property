@@ -3,11 +3,10 @@ title: Introduction to Treaty Relationships
 short: Treaty Introduction
 class: concept
 description: An introduction to treaty relations, with a focus on Mi'kma'ki
-tags:
-  - transfer
+doctrines: 
   - treaty
-  - terra-nullius
-published: false
+published: true
+bookHidden: true
 ---
 
 

@@ -3,11 +3,10 @@ title: Indigenous Legal Orders and Housing on Reserve Lands
 short: Reserve Housing
 class: concept
 description: A look at Napoleon and Snyder's study of housing on reserve and the role of Indigenous legal orders
-tags: 
-  - transfer
-  - indigenous-law
-  - reserve-lands
-published: false
+doctrines:
+  - reserve-housing
+published: true
+bookHidden: true
 ---
 
 

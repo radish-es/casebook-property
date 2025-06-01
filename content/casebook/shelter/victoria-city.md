@@ -21,10 +21,8 @@ sources:
       endorsement of, the British Columbia Superior Courts.
 doctrines:
   - right-to-shelter
-links:
-  - url: content/cases/waterloo.md
-    explanation: Starting with the Region of Waterloo case, a couplet of recent decisions from Ontario have reviewed the evolving jurisprudence in BC since Adams. What aspects of the doctrine established in Adams are expanding and/or being challenged in these Ontario cases?
 published: true
+bookHidden: true
 ---
 
 ## Ross J. —

@@ -2,10 +2,10 @@
 title: Adverse Possession
 class: concept
 decription: A common law doctrine that allows for a transfer of title by virtue of possession
-tags:
-  - recognition
+doctrines:
   - adverse-possession
-published: false
+published: true
+bookHidden: true
 ---
 
 Adverse possession is an unusual common law doctrine. We have already emphasized the point that legal possession and legal title are distinctive concepts. In general, "mere possession" does not disturb the legal title of the landowner, but the doctrine of adverse possession creates a dramatic exception to this rule. Under the doctrine, when a person has been in possession of land for longer than a period established by statute (called the *limitation period*), they may become the title holder—and the original title holder may end up with nothing. The ultimate effect of adverse possession is to take title out of the hands of the original owner and to put that title into the hands of the person in possession.

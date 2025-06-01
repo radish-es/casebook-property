@@ -2,10 +2,10 @@
 title: Peace and Friendship Treaties
 class: concept
 description: An explanation of peace and friendship treaties and the challenges of treaty interpretation
-tags:
-  - recognition
+doctrines:
   - treaty
-published: false
+published: true
+bookHidden: true
 ---
 
 The early eighteenth-century in what is today Eastern Canada was characterized by political and military struggles and alliances between three powers in the region: the Wabanaki (a political alliance of Mi'kmaw, Wolastoqiyik, and Passamaquoddy peoples, and a separate alliance of communities known as the Abenaki), the British, and the French. 1726 saw the end of a three-year war between New England and the Wabanaki, which had been grounded in concerns about colonial expansion northward (including incursions on Indigenous fishing territories and colonial land settlement). In turn, the British were becoming increasingly motivated to forge friendly relationships with the Wabanaki as counter-weight to French power. This period culminated in the signing of the Treaty of 1725 by various parties between that year and 1726.

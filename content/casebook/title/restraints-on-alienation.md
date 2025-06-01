@@ -2,10 +2,10 @@
 title: Restraints on Alienation
 class: concept
 description: An introduction to restraints on alienation
-tags:
-  - transfer
-  - estates
-published: false
+doctrines:
+  - alienation
+published: true
+bookHidden: true
 ---
 
 #### Introduction ####

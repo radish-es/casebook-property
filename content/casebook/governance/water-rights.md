@@ -3,12 +3,10 @@ title: Riparian Rights
 short: Riparian Rights
 class: concept
 description: An introduction to common law riparian rights, and context for their place in the 19th century lumber industry
-tags:
-  - riparian-rights
-links:
-  - url: content/cases/mclaren.md
-    explanation: These basic concepts around the riparian rights of landowners play a central role in the McLaren v Caldwell case. 
+doctrines:
+  - police-power
 published: true
+bookHidden: true
 ---
 
 A ***riparian owner*** is the owner of land bounding upon a river or other watercourse. The traditional presumption of English common law is that a riparian owner owns the bed of a ***non-navigable*** river or stream to the centre of the watercourse: *ad medium filum aquae*. Consequently, a riparian owner who holds land on both sides of a river considered "non-navigable" owns the entire riverbed and has exclusive rights to the river's use . 

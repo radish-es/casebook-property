@@ -2,13 +2,11 @@
 title: Duty to Consult
 short: Duty
 class: concept
-tags:
-  - use
+doctrines:
   - aboriginal-title
-  - duty-to-consult
-published: false
+published: true
+bookHidden: true
 ---
-
 
 You will note that in the final paragraphs excerpted from *Tsilhqot'in Nation*, the Supreme Court found that the Province of British Columbia breached its duty to consult with the Tsilhqot'in Nation prior to granting forestry licences to third parties on territorial lands. That duty was engaged when the Province began the planning process for removing timber on the land. 
 

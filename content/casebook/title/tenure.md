@@ -15,13 +15,10 @@ description: Brief background to the common law doctrines of tenues and estates 
 source: >-
       Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
-tags:
-  - tenure
+doctrines:
   - estates
-links:
-  - url: content/cases/stcatherines.md
-    explanation: The feudal concepts of land tenure and estates in land set the stage for the courts' approaches to Indigenous land rights in the St. Catherine's Milling case. How do these feudal concepts relate to the idea of beneficial title described by some of the judges? 
 published: true
+bookHidden: true
 ---
 
 According to the common law doctrine of tenure all land under the dominion of the English crown is held “mediately or immediately, of the king”—that is, the crown has “radical title” to all land under its political dominion. William the Conqueror declared that all land in England was literally the king’s property; everyone else had to settle for the privilege of holding it for him—the privilege of *tenure* (from the Norman French word “tenir”—to hold). Tenurial rights were intensely personal in early feudal society: the right to hold land was a privilege granted by the crown in exchange for an oath of allegiance and a promise of military service by the tenant—the oath of homage. The word homage derives from the French word *homme*—literally “man”—precisely because the ceremony surrounding the oath created not only the right of tenure, but a political and military relationship between “lord and man.”  In exchange for the tenant’s loyal support, or *fealty*, the lord warranted the tenant’s right to hold a plot of land, called a fief, or *fee*.

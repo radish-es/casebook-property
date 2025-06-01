@@ -3,9 +3,10 @@ title: Trespass to Land
 class: concept
 description: A brief history of civil and criminal causes of action in trespass to land.
 source: "Adapted from James Grimmelmann, 'Property Torts and Crimes' in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., 'Open Source Property' https://opensourceproperty.org"
-tags:
+doctrines:
   - trespass
 published: true
+bookHidden: true
 ---
 
 The name of the most familiar tort protecting real property, trespass, was originally the name of an entire family of actions that first emerged in the 12th and 13th centuries. A plaintiff would commence his case by going to the royal Chancery and purchasing a writ commanding the defendant to come before the courts and explain why he had done such-and-such a thing against the plaintiff’s rights. The Latin phrases used by the Chancery clerks who filled out the writs – and which the royal courts insisted on when hearing a case – came to define individual forms of action.

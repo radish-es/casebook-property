@@ -4,18 +4,10 @@ class: concept
 description: An explanation of netukulimk as a fundamental concept of Mi'kmaw law and legal systems.
 source: "Excerpted from: Jaime Battiste, Understanding the Progression of Mi'kmaw Law (2008) 31:2 Dalhousie
 LJ 311. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)"
-tags:
-  - mikmaw-law
+doctrines:
   - treaty
-  - ecosystems
-links:
-  - url: content/secondary/locke.md
-    explanation: Compare the description here of Netukulimk with Locke's idea of first possession as the basis for property. 
-  - url: content/cases/syliboy.md
-    explanation: In what ways is the description of Mi'kmaw law here at odds with the court's assumptions and appoarch in the Syliboy case?
-  - url: content/concepts/liberalism.md
-    explanation: To what extent might Netukulimk and Western liberalism be seen as representing different legal "grammers"? 
 published: true
+bookHidden: true
 ---
 
 *Mi'kmaw legal traditions and Netukulimk*
