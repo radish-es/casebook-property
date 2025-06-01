@@ -8,14 +8,10 @@ facts: Shelfer suffered a nuisance from the defendant that affected his property
 issue: What type of remedy is appropriate?
 held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant.
 public: true
-tags:
+doctrines:
   - nuisance
 published: true
-links:
-  - url: content/cases/black.md
-    explanation: The court in Black v Canadian Copper Co appears to apply the test in Shelfer. What does it conclude? 
-  - url: content/cases/canada-paper.md
-    explanation: The court in Canada Paper Co v Brown applies the test in Shelfer. What does it conclude? 
+bookHidden: true
 ---
 
 

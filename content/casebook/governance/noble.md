@@ -13,7 +13,7 @@ sources:
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - restrictive-covenants
+  - covenants
 published: true
 bookHidden: true
 ---

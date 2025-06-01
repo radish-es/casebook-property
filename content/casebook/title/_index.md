@@ -17,7 +17,7 @@ The private/public theme comes through in the move from estates and qualified tr
 
 This section is about title.
 
-{{< casebook-section sec-name="title" >}}
+{{< casebook-section sec-name="estates" >}}
 
 ## Aboriginal Title
 

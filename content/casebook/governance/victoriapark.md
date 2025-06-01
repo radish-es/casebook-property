@@ -8,12 +8,10 @@ facts: The defendant owned land near the plaintiff's racetrack. He placed a plat
 issue: Whether a spectacle is a protected property right.
 held: For defendant. The majority found that there was no right to a spectacle, no general right to privacy, and no copyright to the facts being broadcast. The defendant's actions did not amount to interference with the land. As such, there was no nuisance.The dissent argued that nuisance ought to expanded to include privacy from such spying.
 public: true
-tags:
+doctrines:
   - nuisance
 published: true
-links:
-  - url: content/concepts/liberalism.md
-    explanation: What features of the classical style are apparent in each of the judgments in Victoria Park? How do the underlying assumptions of the style drive the disagreements between the judges?
+bookHidden: true
 ---
 
 ### Latham C.J. —

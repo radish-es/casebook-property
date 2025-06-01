@@ -1,14 +1,11 @@
 ---
 title: Abandonment
-description: an introduction to abandonment
+description: An introduction to abandonment.
 class: concept
-tags:
-  - abandonment
+doctrines:
   - possession
 published: true
-links:
-  - url: content/cases/clift.md
-    explanation: The concept of abandonment--both in general and with respect to wild animals--is discussed as some length in this case. 
+bookHidden: true
 ---
 
 Just as it is possible to acquire property by first possession, property rights can also be "given up" through a processes called *abandonment*. 

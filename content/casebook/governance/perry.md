@@ -1,6 +1,6 @@
 ---
 class: case
-style: Perry v Clissold
+title: Perry v Clissold
 short: Perry
 reporter: '[1906] 4 CLR 374'
 year: 1906

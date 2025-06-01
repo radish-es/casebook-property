@@ -12,12 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - shelter-rights
-links:
-  - url: content/cases/heegsma.md
-    explanation: This case and the court's decision in Heegsma v Hamilton are clearly at odds. What do you think is the heart of the disagreement between the judges in these cases? To what extent is this disagreement premised on or presupposed by the Adams framework?
+doctrines:
+  - right-to-shelter
 published: true
+bookHidden: true
 ---
 
 ## Valente J. --

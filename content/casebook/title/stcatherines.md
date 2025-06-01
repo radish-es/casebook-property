@@ -8,21 +8,10 @@ facts: St. Catherine's Milling conducted logging on land in Ontario. They said t
 issue: Who holds beneficial title to the land? What is the source and content of Aboriginal title?
 held: 
 public: true
-tags:
+doctrines:
   - aboriginal-title
-  - beneficial-title
-  - radical-title
-  - terra-nullius
 published: true
-links:
-  - url: content/statutes/indian-act.md
-    explanation: What role do reserve lands play in the courts' reasoning in St. Catherine's Milling? 
-  - url: content/concepts/tenure.md
-    explanation:  How does the doctrine of tenure shape the courts' approach to Indigenous land rights? Are these rights the same as or different than a common law 'estate in land'?
-  - url: content/concepts/terra-nullius.md
-    explanation:  Although not mentioned explicitly in the case, the doctrine of terra nullius looms large in St. Catherine's Milling. How is that doctrine expressed and utilized here?
-  - url: content/secondary/locke.md
-    explanation:  In what way, if any, is Locke's theory about possession as the basis of property relevant to the courts' reasons in St. Catherine's Milling? 
+bookHidden: true
 
 ---
 

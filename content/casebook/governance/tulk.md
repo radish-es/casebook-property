@@ -8,10 +8,10 @@ facts: Tulk sold a piece of land with the restriction that the garden be maintai
 issue: Whether the restrictive covenant is valid.
 held: For plaintiff. Restrictive covenants run with the land, so are durable beyond the ownership of the contracting parties.
 public: true
-tags:
-  - restrictive-covenant
-  - servitude
+doctrines:
+  - covenants
 published: true
+bookHidden: true
 ---
 
 *In the year 1808 the Plaintiff, being then the owner in fee of the vacant piece of ground in Leicester Square, as well as of several of the houses forming the Square, sold the piece of ground by the description of "Leicester Square garden or pleasure ground, with the equestrian statue then standing in the centre thereof, and the iron railing and stone work round the same," to one Elms in fee: and the deed of conveyance contained a covenant by Elms, for himself, his heirs, and assigns, with the Plaintiff, his heirs, executors, and administrators, "that Elms, his heirs, and assigns should, and would from time to time, and at all times thereafter at his and their own costs and charges, keep and maintain the said piece of ground and square garden, and the iron railing round the same in its then form, and in sufficient and proper repair as a square garden and pleasure ground, in an open state, uncovered with any buildings, in neat and ornamental order; and that it should be lawful for the inhabitants of Leicester Square, tenants of the Plaintiff, on payment of a reasonable rent for the same, to have keys at their own expense and the privilege of admission therewith at any time or times into the said square garden and pleasure ground."*

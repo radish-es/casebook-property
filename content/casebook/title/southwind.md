@@ -12,9 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/jshfv'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - reserve-lands
+doctrines:
+  - aboriginal-title
 published: true
+bookHidden: true
 ---
 
 ## Karakatsanis J.--

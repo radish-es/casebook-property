@@ -8,17 +8,10 @@ facts: The testator left his property to his spouse, using the language of a fee
 issue: Whether the conditions on the fee simple estate were valid.
 held: The conditions here were invalid, because they attempted to place a restraint on alienation on a fee simple, which is repugnant to the estate.
 public: true
-tags:
-  - alienation
+doctrines:
   - estates
-  - fee-simple
-  - life-estate
-links:
-  - url: content/concepts/basic-estates.md
-    explanation: This short excerpt will give you a better understand of the basic concepts at play in the Walker case. 
-  - url: content/cases/blackburn.md
-    explanation: Both Walker and Blackburn address the idea of "restraints on alienation". Are such restraints ever allowed, and if so, when? 
 published: true
+bookHidden: true
 ---
 
 ## Middleton J.A. —

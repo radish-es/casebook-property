@@ -19,8 +19,8 @@ sources:
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
-tags:
-  - shelter-rights
+doctrines:
+  - right-to-shelter
 links:
   - url: content/cases/waterloo.md
     explanation: Starting with the Region of Waterloo case, a couplet of recent decisions from Ontario have reviewed the evolving jurisprudence in BC since Adams. What aspects of the doctrine established in Adams are expanding and/or being challenged in these Ontario cases?

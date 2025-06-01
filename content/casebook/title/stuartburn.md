@@ -13,9 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/4vq5.'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: 'Not an official version. '
-tags:
+doctrines:
   - estates
 published: true
+bookHidden: true
 ---
 
 ## Wright J. —

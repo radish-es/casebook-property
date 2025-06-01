@@ -13,9 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/g7mt9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
+doctrines:
   - aboriginal-title
 published: true
+bookHidden: true
 ---
 
 ## McLachlin C.J.C. —

@@ -1,6 +1,6 @@
 ---
 class: case
-style: >-
+title: >-
   City of Toronto v Board of Trustees of R.C. Separate Schools for City of
   Toronto
 short: School Board
@@ -14,11 +14,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw88h'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - use
-  - land-use-regulation
+doctrines:
   - acquired-rights
-published: false
+published: true
+bookHidden: true
 ---
 
 
