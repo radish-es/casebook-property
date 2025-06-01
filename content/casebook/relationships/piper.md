@@ -13,11 +13,10 @@ sources:
     source_url: https://canlii.ca/t/gw5tl
     license: https://www.canlii.org/en/info/terms.html#license
     attribution: ""
-tags:
+doctrines:
   - adverse-possession
-  - trespass
-  - abandonment
 published: true
+bookHidden: true
 ---
 
 ### Clute J. —

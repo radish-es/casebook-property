@@ -13,13 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/jqmhz'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
-  - recognition
-  - transfer
-  - dejure-expropriation
+doctrines:
   - trusts
-  - japanese-canadian-internment
-published: false
+published: true
+bookHidden: true
 
 ---
 

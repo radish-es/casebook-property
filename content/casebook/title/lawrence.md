@@ -1,6 +1,6 @@
 ---
 class: case
-style: Lawrence v Maple Trust Company
+title: Lawrence v Maple Trust Company
 short: Lawrence
 reporter: 2007 ONCA 74 (CanLII)
 year: 2007
@@ -16,14 +16,11 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2007. Not an official version. '
-tags:
-  - transfer
-  - recognition
+doctrines:
   - title-registration
-  - title
-published: false
+published: true
+bookHidden: true
 ---
-
 
 ### Gillese J.A. – 
 

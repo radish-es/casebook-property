@@ -1,6 +1,6 @@
 ---
 class: case
-style: Pennsylvania Coal Co. v Mahon
+title: Pennsylvania Coal Co. v Mahon
 short: Pennsylvania Coal
 reporter: ' 260 US 393 (1922)'
 year: 1922
@@ -8,11 +8,10 @@ facts: Pennsylvania Coal and Mahon had an agreement for the coal company to mine
 issue: Whether the statute was a valid exercise of police power, or a state taking.
 held: For plaintiff. The majority found that the statute amounted to state taking that requires compensation under the US constitution. The dissent argued that the statute fell within the ambit of police power, as it was for a public purpose.
 public: true
-tags:
-  - use
-  - defacto-expropriation
-  - public-policy
-published: false
+doctrines:
+  - police-power
+published: true
+bookHidden: true
 ---
 
 

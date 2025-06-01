@@ -1,6 +1,6 @@
 ---
 class: case
-style: Monsanto Canada Inc v Schmeiser
+title: Monsanto Canada Inc v Schmeiser
 short: Monsanto
 reporter: 2004 SCC 34 (CanLII)
 year: 2004
@@ -13,11 +13,10 @@ sources:
     source_url: 'https://canlii.ca/t/1h3pt'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
-tags:
-  - recognition
-  - use
-  - relative-possession
-published: false
+doctrines:
+  - trespass
+published: true
+bookHidden: true
 ---
 
 

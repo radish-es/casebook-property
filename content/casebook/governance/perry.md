@@ -8,13 +8,10 @@ facts: A parcel of land was enclosed and continually and exclusively possessed b
 issue: Whether the Clissold estate was owed compensation for expropriation.
 held: A prima facie case for compensation was made out. Clissold's adverse possession gave him good title for the expropriated private property.
 public: true
-tags:
-  - use
-  - recognition
-  - adverse-possession
-  - title
-  - dejure-expropriation
-published: false
+doctrines:
+  - police-power
+published: true
+bookHidden: true
 ---
 
 

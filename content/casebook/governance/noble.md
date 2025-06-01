@@ -12,14 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - restrictive-covenant
-  - public-policy
-  - uncertainty
-links:
-  - url: content/cases/canada-trust.md
-    explanation: The Ontario Court of Appeal in Canada Trust addresses the same broad question of whether and how Anglo-Canadian property law can confront attempts by owners to control their property toward discriminatory ends. How does the Court of Appeal's approach to this question differ from the Supreme Court in Noble v Alley?
+doctrines:
+  - restrictive-covenants
 published: true
+bookHidden: true
 ---
 *This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
 

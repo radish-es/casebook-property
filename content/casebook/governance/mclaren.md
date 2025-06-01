@@ -12,18 +12,10 @@ sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1vp07'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-tags:
-  - riparian-rights
-  - expropriation
-categories:
-  - takings
-categories_weight: 1
-links:
-  - url: content/concepts/water-rights.md
-    explanation: In order to understand what is going on in this case, it is helpful to start with a basic understanding of 'riparian rights'.
-  - url: content/statutes/rivers-and-streams-act.md
-    explanation: In response to the Supreme Court's decision in McLaren v Caldwell, the Ontario legislature enacted the Rivers and Streams Act. How did this new legislation change or clarify the statutory provision(s) at issue in the McLaren case?
+doctrines:
+  - police-power
 published: true
+bookHidden: true
 ---
 
 ## Background to the Case
