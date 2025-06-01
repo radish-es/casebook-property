@@ -10,12 +10,10 @@ sources:
       From Eric M Adams and Jordan Stanger-Ross, "Promises of Law: The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017): 687-740. 'https://digitalcommons.osgoode.yorku.ca/ohlj/vol54/iss3/2'
 class: secondary
 public: true
-tags:
+doctrines:
   - trusts
-links:
-  - url: content/cases/iwasaki.md
-    explanation: The conclusion put forward here by Adams and Stranger-Ross regarding the role of trusts in the dispossession of Japanese Canadians is rejected by the court in Iwasaki. Why? 
 published: true
+bookHidden: true
 ---
 
 While interning Japanese Canadians, the federal government seized control of all of their real and personal property within the "protected area in British Columbia." In the spring of 1943, federal officials began to sell virtually everything that the government had taken, often below market value. Families lost heirlooms, vibrant businesses, and everyday possessions. They lost cars, boats, books, toys, furniture, and cameras. They lost homes and farms. Beyond the tangible, Canadians of Japanese descent lost opportunities, neighbourhoods, and communities. They lost connections to place. They lost retirements, livelihoods, and educations. They lost agency over their property and life choices. They lost, as Rikizo Yoneyama poignantly expressed in a defiant letter to the Minister of Justice, "more than just a home." Japanese Canadians, he lamented, lost "the foundation of security and freedom as Canadian citizens."

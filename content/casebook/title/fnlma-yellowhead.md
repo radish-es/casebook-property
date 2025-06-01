@@ -9,7 +9,10 @@ sources:
     license: 'https://creativecommons.org/licenses/by-nc/2.5/ca/'
     attribution: >-
       Shalene Jobin and Emily Riddle, "The Rise of the First Nations Land Management Regime in Canada - A Critical Analysis" (Yellowhead Institute, 2019)
+doctrines:
+  - reserves
 published: true
+bookHidden: true
 ---
 
 ## Part I: First Nations Land Management Foundations

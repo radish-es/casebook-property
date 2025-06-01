@@ -1,13 +1,12 @@
 ---
-style: Treaty of 1725
+title: Treaty of 1725
 short: 1725 Treaty
 class: secondary_sources
 public: true
-tags:
-  - recognition
-  - transfer
+doctrines:
   - treaty
-published: false
+published: true
+bookHidden: true
 ---
 
 

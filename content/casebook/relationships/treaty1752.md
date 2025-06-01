@@ -1,12 +1,12 @@
 ---
-style: 1752 Treaty of Peace and Friendship
+title: 1752 Treaty of Peace and Friendship
 short: 1752 Treaty
 class: secondary_sources
 public: true
-tags: 
-  - recognition
+doctrines:
   - treaty
-published: false
+published: true
+bookHidden: true
 ---
 
 

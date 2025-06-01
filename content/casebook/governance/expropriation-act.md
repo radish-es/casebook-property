@@ -3,8 +3,8 @@ title: Expropriation Act
 short: Expropriation Act
 reporter: 'RSNS 1989, c 156'
 description: Governs the expropriation ('taking') of land.
-tags:
-  - expropriation
+doctrines:
+  - police-power
 class: statute
 public: true
 sources:
@@ -15,12 +15,8 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-links:
-  - url: content/cases/mclaren.md
-    explanation: The McLaren v Caldwell saga took place before the advent of modern expropriation acts like this on in Nova Scotia. In the absence of a statute requiring compensation for expropriation, how did the parties and the courts' in the McLaren case address this issue?
-  - url: content/cases/mariner.md
-    explanation: The Mariner case was the first contemporary appeals court decision that attempted to interpret Nova Scotia's Expropriation Act in a case of de facto expropriation. In doing so, the Court establishes a framework for analysis. What is the legal "test" for de facto expropriation that emerges from the case and how does this motivated by the modern style?
 published: true
+bookHidden: true
 ---
 
 <div id="statute">

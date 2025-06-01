@@ -1,5 +1,5 @@
 ---
-style: 'North American Free Trade Agreement, Article 1110'
+title: 'North American Free Trade Agreement, Article 1110'
 short: NAFTA
 sources:
   - source_name: The Government of Canada
@@ -10,13 +10,10 @@ sources:
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/nafta-alena/fta-ale/index.aspx?lang=eng&_ga=2.58667178.1230028791.1660227712-1402126720.1660227712
 tags:
-  - use
-  - defacto-expropriation
-  - dejure-expropriation
-  - land-use-regulation
-  - trade-agreements
+  - police-power
 class: statute
-published: false
+published: true
+bookHidden: true
 ---
 
 

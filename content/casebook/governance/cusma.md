@@ -9,13 +9,11 @@ sources:
     attribution: >-
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
-tags:
-  - use
-  - defacto-expropriation
-  - trade-agreements
-  - land-use-regulation
+doctrines:
+  - police-power
 class: statute
-published: false
+published: true
+bookHidden: true
 ---
 
 

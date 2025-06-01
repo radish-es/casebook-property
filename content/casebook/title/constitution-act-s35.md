@@ -6,16 +6,11 @@ sources:
     source_url: 'https://laws-lois.justice.gc.ca/eng/const/page-13.html#h-53'
     license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
-tags:
+doctrines:
   - aboriginal-title
-  - treaty
 class: statute
 published: true
-links:
-  - url: content/cases/delgamuukw.md
-    explanation: The modern framework for Aboriginal title claims under section 35 was established by the Supreme Court in Delgamuukw. 
-  - url: content/cases/tsilhqotin.md
-    explanation: In Tsilhqot'in, the Supreme Court continued to develop the framework established in Delgamuukw, resulting in the first successful claim in an Anglo-Canadian court. 
+bookHidden: true
 ---
 
 ## Section 35

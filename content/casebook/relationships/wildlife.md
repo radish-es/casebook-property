@@ -3,7 +3,7 @@ title: Wildlife Act
 short: Wildlife Act
 reporter: 'RSNS 1989, c 504'
 description: Governs the ownership and hunting of wildlife in the province.
-tags:
+doctrines:
   - possession
 class: statute
 public: true
@@ -15,11 +15,7 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-links:
-  - url: content/cases/syliboy.md
-    explanation: How does this statute relate to the treaty rights claimed by Grand Chief Syliboy? Does understanding this relationship help us to resolve the question of "ownership" in the wowkwis? 
-  - url: content/secondary/locke.md
-    explanation: The statute here refers to a "state of nature". What role does this "state of nature" play in Locke's theory of possession as the basis for property?
+bookHidden: true
 published: true
 ---
 

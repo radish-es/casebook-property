@@ -75,4 +75,4 @@ weight: 13
     
     3. Social consequences of the decision become a primary consideration; formalist reliance on settled principles is diminished.
 
-- Please read the excerpt from *[Oliver Wendell Holmes, "The Path of Law"]({{< ref "secondary/holmes" >}})*. What is Justice Holmes saying in this article? How might his approach be understood as laying the basis for the "modern" style of Anglo-Canadian legal thought?
+- Please read the excerpt from *Oliver Wendell Holmes, "The Path of Law"*. What is Justice Holmes saying in this article? How might his approach be understood as laying the basis for the "modern" style of Anglo-Canadian legal thought?

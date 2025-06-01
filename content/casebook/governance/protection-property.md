@@ -3,7 +3,7 @@ title: Protection of Property Act
 short: Protection of Property Act
 reporter: 'RSNS 1989, c 363'
 description: Among other things, this Act creates a quasi-criminal action in trespass.
-tags:
+doctrines:
   - trespass
 class: statute
 public: true
@@ -15,16 +15,9 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-links:
-  - url: content/concepts/trespass.md
-    explanation: How do the provisions of this Act relate to the civil tort of trespass?
-  - url: content/cases/harrison.md
-    explanation: Note that there are other provincial trespass statutes at issue in this case. How does the wording of these other statutes compare to the Nova Scotia legislation? Why might differences in the wording matter, if at all, according to the two judges in the case?
 published: true
+bookHidden: true
 ---
-
-
-
 
 <div id="statute">
 

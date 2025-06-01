@@ -3,9 +3,8 @@ title: Wills Act
 short: Wills Act
 reporter: 'RSNS 1989, c 505'
 description: A statue addressing the transfer of land title by bequest in Nova Scotia.
-tags:
+doctrines:
   - estates
-  - fee-simple
 class: statute
 public: true
 sources:
@@ -16,10 +15,8 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-links:
-  - url: content/statutes/conveyancing-act.md
-    explanation: How do the rules of interpretation in the Wills Act and the Conveyancing Act differ? Do these difference matter?
 published: true
+bookHidden: true
 ---
 
 <div id="statute">

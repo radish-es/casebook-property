@@ -7,19 +7,13 @@ sources:
     source_url: 'https://laws-lois.justice.gc.ca/eng/acts/i-5/'
     license: ' https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
-tags:
-  - reserve-lands
+doctrines:
+  - reserves
 class: statute
 public: true
 published: true
 description: Federal legislation establishing the structure of land rights in reserve lands. 
-links:
-  - url: content/cases/stcatherines.md
-    explanation: How do these provisions of the federal Indian Act reflect the concepts of beneficial title and underlying or radical title discussed in St. Catherine's Milling? 
-  - url: content/cases/guerin.md
-    explanation: The Supreme Court in Guerin elaborates the fiduciary relationship between Indigenous peoples and the Crown. What are the implications of this relationship for reserve lands?
-  - url: content/statutes/fafnlma.md
-    explanation: Which aspects of this legislation are supplanted for First Nations under the Framework Agreement on First Nations Land Management Act?
+bookHidden: true
 ---
 
 18 (1) Subject to this Act, reserves are held by Her Majesty for the use and benefit of the respective bands for which they were set apart, and subject to this Act and to the terms of any treaty or surrender, the Governor in Council may determine whether any purpose for which lands in a reserve are used or are to be used is for the use and benefit of the band.

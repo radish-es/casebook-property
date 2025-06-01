@@ -27,6 +27,10 @@ This section is about title.
 
 {{< casebook-section sec-name="alienation" >}}
 
+## Reserve Lands 
+
+{{< casebook-section sec-name="reserves" >}}
+
 ## Qualified Transfer
 
 {{< casebook-section sec-name="qualified-transfers" >}}

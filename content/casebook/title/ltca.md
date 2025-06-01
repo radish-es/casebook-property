@@ -1,12 +1,9 @@
 ---
-style: Land Titles Clarification Act
+title: Land Titles Clarification Act
 short: LTCA
 reporter: 'RSNS 1989, c 250'
-tags:
-  - recognition
-  - title-clarification
+doctrines:
   - title-registration
-  - title
 class: statute
 public: true
 sources:
@@ -17,7 +14,8 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-published: false
+published: true
+bookHidden: true
 ---
 
 

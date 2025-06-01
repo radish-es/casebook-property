@@ -22,7 +22,7 @@ objectives:
     explanation: >-  
 ---
 
-This week, will begin to revisit some of last term's topics from the perspective of the modern style of Anglo-Canadian thought. Our primary focus this week will pick up on our discussion of constructive expropriation from the *McLaren v Caldwell*. Recall that these cases involve claimed "takings" of property rights (or "[sticks]({{< ref "concepts/sticks" >}})" from the ownership bundle) by the state, for which the owner would like to receive some form of compensation.
+This week, will begin to revisit some of last term's topics from the perspective of the modern style of Anglo-Canadian thought. Our primary focus this week will pick up on our discussion of constructive expropriation from the *McLaren v Caldwell*. Recall that these cases involve claimed "takings" of property rights (or "sticks" from the ownership bundle) by the state, for which the owner would like to receive some form of compensation.
 
 The line of cases we will read this week develop a more robust common law framework and legal test for resolving these claims about constructive takings. However, this area of the law remains heavily contested.
 

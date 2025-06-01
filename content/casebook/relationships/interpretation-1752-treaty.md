@@ -2,7 +2,10 @@
 title: Early Interpretation of the 1752 Treaty
 short: Early Interpretation
 class: context
-
+doctrines:
+    - treaty
+published: true
+bookHidden: true
 ---
 
 

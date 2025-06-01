@@ -41,6 +41,6 @@ After the flood, in April of the following year, the regional municipality encom
 
 **Would *A Maze in Corn Inc.* likely be successful in making a claim for compensation against either the province or the municipality? Whether or not it was successful in doing so, would the business be prohibited by the new municipal bylaw from operating its hog farm?**
 
-For the purposes of this hypothetical, you can assume that Manitoba's legislation governing expropriation is the same as Nova Scotia's *[Expropriation Act]({{< ref "statutes/expropriation-act"  >}})*.
+For the purposes of this hypothetical, you can assume that Manitoba's legislation governing expropriation is the same as Nova Scotia's *Expropriation Act*
 
 [^1]: *A Maze in Corn Inc v. Manitoba Emergency Measures Organization et al*, 2023 MBCA 92, 2023 CarswellMan 372, [2024] 3 W.W.R. 385, 2023 A.C.W.S. 5307

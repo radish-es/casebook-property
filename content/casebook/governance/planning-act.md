@@ -4,7 +4,7 @@ short: Planning Act
 reporter: 'CCSM, c P80'
 description: Governs the expropriation ('taking') of land.
 tags:
-  - expropriation
+  - police-power
 class: statute
 public: true
 sources:
@@ -15,10 +15,8 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-links:
-  - url: content/cases/cappy.md
-    explanation: How do we know if some change to an existing non-conforming use causes the owner to lose the protections afforded by the doctrine of acquired rights? 
 published: true
+bookHidden: true
 ---
 
 <div id="statute">
