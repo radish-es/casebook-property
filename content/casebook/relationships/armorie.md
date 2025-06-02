@@ -9,7 +9,7 @@ issue: Relative possession
 held: For the plaintiff. One who finds a chattel is considered its owner against anyone in the world other than its prior and rightful owner.
 public: true
 doctrines:
-  - possession
+  - finders
 published: true
 weight: 21
 bookHidden: true

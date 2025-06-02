@@ -1,8 +1,8 @@
 ---
 title: Chapter 3
-subtitle: Title and Transfers
+subtitle: Title, Trusts and Transfers
 type: docs
-weight: 3
+weight: 40
 bookCollapseSection: false
 published: true
 bookTOC: false
@@ -34,6 +34,14 @@ This section is about title.
 ## Qualified Transfer
 
 {{< casebook-section sec-name="qualified-transfers" >}}
+
+## Express Trusts
+
+{{< casebook-section sec-name="trusts" >}}
+
+## Community Land Trusts
+
+{{< casebook-section sec-name="clts" >}}
 
 ## Title Registration
 

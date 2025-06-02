@@ -7,6 +7,7 @@ year: 2001
 facts: The Municipality of Stuartburn sought to disqualify Kiansky from holding office because an elector must be the owner of land in the area. Kiansky had recently sold a property, but held a remainder fee simple interest in another estate. 
 issue: Whether Kiansky's property interest amounts to land ownership.
 held: For defendant. Kiansky's property ownership fits the terms of the act because the language is that of a freehold estate, which encompasses Kiansy's interest. Kiansky's interest is a present right that co-exists with the life estate.
+description: Addressing the question of what forms of interest in land qualify as "ownership" in the context of municipal electoral legislation. 
 public: true
 sources:
   - source_name: CanLII

@@ -2,7 +2,7 @@
 title: Chapter 2
 subtitle: Governance 
 type: docs
-weight: 2
+weight: 30
 bookCollapseSection: false
 published: true
 bookTOC: false

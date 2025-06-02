@@ -1,5 +1,5 @@
 ---
-title: Casebook
+title: The Normal Casebook
 type: docs
 weight: 50
 bookFlatSection: true

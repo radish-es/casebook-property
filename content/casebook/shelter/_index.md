@@ -1,8 +1,8 @@
 ---
-title: Chapter 5
+title: Chapter 4
 subtitle: Shelter
 type: docs
-weight: 5
+weight: 40
 bookCollapseSection: false
 published: true
 bookTOC: false

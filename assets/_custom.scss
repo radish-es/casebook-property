@@ -1,3 +1,7 @@
+/* Variables */
+
+$link-color: #006699;
+
 article p {
   line-height: 1.5;
 }
@@ -24,6 +28,10 @@ h5 {
 
 h6 {
   font-size: 1.1em;
+}
+
+.markdown a:visited, .markdown a, .book-menu a.active {
+  color: $link-color;
 }
 
 /*TOC*/
@@ -237,7 +245,7 @@ div.suggest-edits a, div.suggest-edits a:visited {
   border-radius: 0px;
   padding: 15px;
   font-size: 0.9em;
-  border: 1px solid #000
+  border: 1px solid darkgrey
 }
 
 div.box:hover {
@@ -251,7 +259,8 @@ div.box:hover {
 
 .box h3 {
   margin: 0;
-  font-size: 1.3em;
+  font-size: 1.4em;
+  color: #006699;
 }
 
 .box ul {
