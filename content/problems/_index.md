@@ -1,8 +1,7 @@
 ---
 title: Problems
-type: docs
+type: grid
 weight: 3
-# Can set the section to collapse here
 bookCollapseSection: true
 ---
 

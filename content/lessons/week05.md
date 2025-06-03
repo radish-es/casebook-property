@@ -2,7 +2,8 @@
 title: Excluding the State
 short: Week 5
 published: true
-class: lesson
+type: lesson
+classdate: 8 Nov 2025
 weight: 5
 image: /imgs/dam.jpg
 imgcaption:  Ragged Chutes Dam on the Upper Mississippi River, constructed by Peter McLaren. Cloyne and District Historical Society

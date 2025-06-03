@@ -1,9 +1,9 @@
 ---
 title: Introduction to the Course
-short: Week 1
 published: true
-class: lesson
+type: lesson
 weight: 1
+classdate: 12 Oct 2025
 image: /imgs/kaleidoscope.jpg
 imgcaption:  Malcolm Lightbody on Unsplash
 objectives:

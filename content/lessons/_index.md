@@ -1,6 +1,6 @@
 ---
 title: Lessons
-type: docs
+type: grid
 weight: 2
 bookCollapseSection: true
 ---

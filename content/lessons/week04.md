@@ -2,7 +2,8 @@
 title: Nuisance and the Right to Exclude
 short: Week 4
 published: true
-class: lesson
+type: lesson
+classdate: 1 Nov 2025
 weight: 4
 image: /imgs/canada-paper.jpg
 imgcaption:  Canada Paper Company, Windsor Mills, QC, 1909 (Source, McCord Museum, Montreal).

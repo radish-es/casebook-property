@@ -2,7 +2,8 @@
 title: Title as Recognition
 short: Week 3
 published: true
-class: lesson
+type: lesson
+classdate: 26 Oct 2025
 weight: 3
 image: /imgs/paper.jpg
 imgcaption:   Kelly Sikkema on Unsplash

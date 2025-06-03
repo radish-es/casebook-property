@@ -2,7 +2,8 @@
 title: Recognition, Relationships and Possession
 short: Week 2
 published: true
-class: lesson
+type: lesson
+classdate: 19 Oct 2025
 weight: 2
 image: /imgs/patterns.jpg
 imgcaption:  Elyse Loewen, CC BY NC SA 4.0
