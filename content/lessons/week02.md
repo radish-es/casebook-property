@@ -8,21 +8,10 @@ weight: 2
 image: /imgs/patterns.jpg
 imgcaption:  Elyse Loewen, CC BY NC SA 4.0
 objectives:
-  - objective: >-
-      Identify the role that possession plays in addressing the 'problem of recognition' and connect this role with the basic dilemma of Western liberalism.  
-    explanation: >-
-      
-  - objective: >-
-      Compare possession as the basis of property with Mi'kmaw legal relationships to land and ecosystems encapsulated by the concept of Netukulimk.
-    explanation: >-
-      
-  - objective: >-
-      Describe (1) the common law test for possession and (2) the relative nature of common law possession and apply these to analyze problems. 
-    explanation:  
-
-  - objective: >-
-      Begin to develop a historical understanding of common law courts' approaches to Mi'kmaw treaty rights as an example of colonialism in law and explain their significance in resolving a dispute about possession of a wild animal. 
-    explanation: 
+  - objective: Identify the role that possession plays in addressing the 'problem of recognition' and connect this role with the basic dilemma of Western liberalism.  
+  - objective: Compare possession as the basis of property with Mi'kmaw legal relationships to land and ecosystems encapsulated by the concept of Netukulimk.
+  - objective: Describe (1) the common law test for possession and (2) the relative nature of common law possession and apply these to analyze problems. 
+  - objective: Begin to develop a historical understanding of common law courts' approaches to Mi'kmaw treaty rights as an example of colonialism in law and explain their significance in resolving a dispute about possession of a wild animal. 
 description: This lesson addresses the problem of recognition from both Anglo-Canadian and Mi'kmaq legal perspectives. 
 ---
 

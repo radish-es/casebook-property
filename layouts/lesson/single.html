@@ -2,7 +2,13 @@
 <article>
   <h1>
     <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-  </h1> 
+  </h1>
+
+  {{ if isset .Params "description" }}<p>{{ .Params.description }}</p>{{ end }}
+
+  <hr>
+
+  {{ partial "breadcrumbs.html" . }}
 
   <div class="main-img">
 
@@ -13,28 +19,40 @@
     </figure>
   </div>
 
-  <div class="class_wrapper">
-    <h2>Learning Outcomes</h2>
-
-    <div class="learning_outcomes">
-        
-        <div class="outcomes">
-          <div>
-            <!--<h3 id="learning-outcomes">Learning Outcomes</h2>-->
-            <p>By the end of this week, you should be able to:</p>
-            <ul>
-                {{ range .Params.Objectives }}
-                <li><b>{{ .objective }}</b> {{ .explanation }}</li>
-                {{ end }}
-            </ul>
-          </div>
+  <div class="component-wrapper">
+    <div class="component">
+        <h2>Learning Objectives</h2>
+        <p class="component-explanation">Learning objectives are statements about the skills, knowledge and attitudes learners will acquire or develop when they complete this lesson.</p>
+        <div class="objectives">
+          <p>By the end of this week, you should be able to:</p>
+          <ul>
+              {{ range .Params.Objectives }}
+              <li>{{ .objective }}</li>
+              {{ end }}
+          </ul>
         </div>
-        
     </div>
-
   </div>
 
-  
+  <div class="component-wrapper">
+    <div class="component">
+        <h2>Learning Materials</h2>
+        <p class="component-explanation">These are the materials you will need to prepare this week.</p>
+        <div class="objectives">
+          <ul>
+            {{ range .Params.Materials }}
+              {{ with $.Site.GetPage . }}
+
+                  <li><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></li>
+                {{ end }}
+              {{ end }}
+             
+          </ul>
+        </div>
+    </div>
+  </div>
+
+
 
 
   {{- .Content -}}

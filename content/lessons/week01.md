@@ -7,18 +7,16 @@ classdate: 12 Oct 2025
 image: /imgs/kaleidoscope.jpg
 imgcaption:  Malcolm Lightbody on Unsplash
 objectives:
-  - objective: >-
-      Explain course procedures and expectations.
-    explanation: >-
-      After reading the Course Syllabus closely, can you explain to a classmate who might have missed this first week the key information they will need in order to navigate the course?
-  - objective: >-
-      Become familiar with problem-based, hypertext structure of the casebook and the course readings. 
-    explanation: >-
-      We will begin to study a problem in our first week of the course. Consider how this approach, along with the linked structure of the reading materials, is designed to help you explore and develop a critical analysis of the readings. 
-  - objective: >-
-      Start to describe two different, historically-rooted styles of common law reasoning.
-    explanation: This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
+  - objective: Explain course procedures and expectations. After reading the Course Syllabus closely, can you explain to a classmate who might have missed this first week the key information they will need in order to navigate the course?
+  - objective: Follow the problem-based, hypertext structure of the casebook and the course readings. We will begin to study a problem in our first week of the course. Consider how this approach, along with the linked structure of the reading materials, is designed to help you explore and develop a critical analysis of the readings. 
+  - objective: Start to describe two different, historically-rooted styles of common law reasoning.This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
 description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
+materials:
+  - locke
+  - pierson
+  - sticks
+  - basic-estates
+
 ---
 
 For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of land and other "things"--both corporeal and not--property offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.

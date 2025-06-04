@@ -102,20 +102,33 @@ div.suggest-edits a, div.suggest-edits a:visited {
 
 /* LEARNING OUTCOMES */
 
-.learning_outcomes li:not(:last-child) {
-  margin-bottom: 1em;
+p.component-explanation {
+  color: darkgray;
+  font-style: italic;
 }
 
 /* MODULAR COMPONENTS */
 
-.class_wrapper {
+.component-wrapper {
   border-width: 1px;
   border-color: #000;
   border-style: solid;
-  border-radius: 30px;
+  border-radius: 0px;
   padding: 0 15px;
   margin-top: 10px;
-  background: rgb(242, 241, 241);
+  background: #fff;
+}
+
+.component-wrapper li:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+.component-wrapper  li {
+  line-height: 1.4em;
+}
+
+div.component  {
+  margin: 20px;
 }
 
 .class_label {
