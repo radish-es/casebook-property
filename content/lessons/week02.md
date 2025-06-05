@@ -14,7 +14,12 @@ objectives:
   - objective: Begin to develop a historical understanding of common law courts' approaches to Mi'kmaw treaty rights as an example of colonialism in law and explain their significance in resolving a dispute about possession of a wild animal. 
 description: This lesson addresses the problem of recognition from both Anglo-Canadian and Mi'kmaq legal perspectives. 
 materials:
-  - harrison
+  - locke
+  - treaty1725
+  - treaty1752
+  - pierson
+  - armorie
+  - netukulimk
 ---
 
 

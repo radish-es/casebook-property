@@ -1,5 +1,5 @@
 ---
-title: Treaty of 1725
+title: Peace and Friendship Treaty (1725)
 short: 1725 Treaty
 class: secondary_sources
 public: true

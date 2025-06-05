@@ -18,6 +18,7 @@
         {{ $v := $k.Params.weight }}
         {{ range (site.GetPage "problems").Pages }}
           {{ if eq $v .Params.weight}}
+            <p>Lesson: <a href="{{ $k.RelPermalink }}">{{ $k.Title }}</a></p>
             <p>Problem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
           {{ end }}
         {{ end }}

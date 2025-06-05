@@ -1,5 +1,5 @@
 ---
-title: 1752 Treaty of Peace and Friendship
+title: Peace and Friendship Treaty (1752)
 short: 1752 Treaty
 class: secondary_sources
 public: true

@@ -12,11 +12,7 @@ objectives:
   - objective: Start to describe two different, historically-rooted styles of common law reasoning.This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
 description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
 materials:
-  - locke
-  - pierson
-  - sticks
-  - basic-estates
-  - annapolis
+  - harrison
 
 ---
 
