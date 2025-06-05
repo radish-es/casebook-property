@@ -2,7 +2,7 @@
 title: Right to Shelter
 short: Week 11
 published: true
-class: lesson
+type: lesson
 description: Right to shelter.
 weight: 11
 image: /imgs/crab-park.jpg

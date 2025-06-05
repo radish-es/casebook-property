@@ -2,7 +2,7 @@
 title: Common Law Aboriginal Title
 short: Week 16
 published: true
-class: lesson
+type: lesson
 description: Contemporary doctrine of Aboriginal title.
 weight: 16
 image: 

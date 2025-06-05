@@ -2,7 +2,7 @@
 title: Restrictive Covenants and Qualified Interests
 short: Week 12
 published: true
-class: lesson
+type: lesson
 description: Covenants and Qualifications
 weight: 12
 image: /imgs/subdivision.jpg

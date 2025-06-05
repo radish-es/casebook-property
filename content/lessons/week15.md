@@ -2,7 +2,7 @@
 title: Reserve Lands in Transition
 short: Week 15
 published: true
-class: lesson
+type: lesson
 description: Study of reserve lands, governing statutory regimes and land reform options.
 weight: 15
 image: 
