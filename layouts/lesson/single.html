@@ -59,13 +59,15 @@
 
   <div class="component-wrapper">
     <div class="component">
-        <h2>Weekly Problem</h2>
-        <p class="component-explanation">This is the problem for this week</p>
+      {{ range (site.GetPage "problems").Pages }}
+      {{ if eq .Params.weight $.Params.weight }}
+        <h2>Weekly Problem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ end }}
+    {{end}}
         <div class="problem">
           {{ range (site.GetPage "problems").Pages }}
-            {{ $k := . }}
             {{ if eq .Params.weight $.Params.weight }}
-              <p><a href="{{ $k.RelPermalink }}">{{ $k.Title }}</a></p>
+              <p>{{ if isset .Params "description" }}{{ .Params.description }}{{end}}</p>
             {{ end }}
           {{end}}
         </div>
