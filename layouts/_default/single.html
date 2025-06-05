@@ -10,6 +10,23 @@
 
   {{ partial "breadcrumbs.html" . }}
 
+  <!-- This piece finds out where the current material is listed in a lesson and creates a link to the corresponding problem-->
+  {{ range (site.GetPage "lessons").Pages }}
+    {{ $k := . }}
+    {{ range .Params.materials }}
+      {{ if eq . $.File.BaseFileName }} 
+        {{ $v := $k.Params.weight }}
+        {{ range (site.GetPage "problems").Pages }}
+          {{ if eq $v .Params.weight}}
+            <p>Problem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+          {{ end }}
+        {{ end }}
+      {{end}}
+    {{ end }}
+  {{ end }}
+
+  
+
   {{- .Content -}}
 
 </article>

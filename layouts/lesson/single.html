@@ -50,24 +50,10 @@
             {{ range $k, $v := ($scratch.Get $mapName ) }}
               <li><a href="{{ $v.Permalink }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</a></li>
             {{ end }}
-
-        
-<!-- CODE FOR UNORDERED LIST OF MATERIAL
-            {{ $m := .Params.Materials }}
-            {{ range $m }}
-              {{ with $.Site.GetPage . }}
-                  <li><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></li>
-                {{ end }}
-              {{ end }}
--->
-             
           </ul>
         </div>
     </div>
   </div>
-
-
-
 
   {{- .Content -}}
 
