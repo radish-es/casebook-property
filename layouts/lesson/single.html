@@ -38,7 +38,7 @@
     <div class="component">
         <h2>Learning Materials</h2>
         <p class="component-explanation">These are the materials you will need to prepare this week, listed alphabetically.</p>
-        <div class="objectives">
+        <div class="materials">
           <ul>
             <!-- In order to list materials alphabetically, need to create a map of titles: pages and then range through that map-->
             {{ $m := .Params.Materials }}
@@ -56,6 +56,21 @@
   </div>
 
   {{- .Content -}}
+
+  <div class="component-wrapper">
+    <div class="component">
+        <h2>Weekly Problem</h2>
+        <p class="component-explanation">This is the problem for this week</p>
+        <div class="problem">
+          {{ range (site.GetPage "problems").Pages }}
+            {{ $k := . }}
+            {{ if eq .Params.weight $.Params.weight }}
+              <p><a href="{{ $k.RelPermalink }}">{{ $k.Title }}</a></p>
+            {{ end }}
+          {{end}}
+        </div>
+    </div>
+  </div>
 
 </article>
 {{ end }}
