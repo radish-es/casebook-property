@@ -5,7 +5,7 @@ title: "Land & Lawscapes: An Open Casebook"
 
 module:
   imports:
-  - path: github.com/radish-es/casebook-layouts
+  # - path: github.com/radish-es/casebook-layouts
   # - path: github.com/radish-es/casebook-property-modules
   #   mounts:
   #   - source: content/cases
