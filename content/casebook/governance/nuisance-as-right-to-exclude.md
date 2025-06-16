@@ -5,7 +5,7 @@ class: concept
 description: An introduction to nuisance injunctions as a function of the right to exclude
 doctrines: 
   - nuisance
-published: true
+
 bookHidden: true
 ---
 

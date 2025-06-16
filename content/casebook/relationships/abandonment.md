@@ -4,7 +4,7 @@ description: An introduction to abandonment.
 class: concept
 doctrines:
   - possession
-published: true
+
 bookHidden: true
 ---
 

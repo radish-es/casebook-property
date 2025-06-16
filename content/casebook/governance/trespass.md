@@ -5,7 +5,7 @@ description: A brief history of civil and criminal causes of action in trespass 
 source: "Adapted from James Grimmelmann, 'Property Torts and Crimes' in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., 'Open Source Property' https://opensourceproperty.org"
 doctrines:
   - trespass
-published: true
+
 bookHidden: true
 ---
 

@@ -5,7 +5,7 @@ class: context
 description: Contemporary sources of public policy.
 doctrines:
     - covenants
-published: true
+
 bookHidden: true
 ---
 

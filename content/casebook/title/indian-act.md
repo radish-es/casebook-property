@@ -11,7 +11,7 @@ doctrines:
   - reserves
 class: statute
 public: true
-published: true
+
 description: Federal legislation establishing the structure of land rights in reserve lands. 
 bookHidden: true
 ---

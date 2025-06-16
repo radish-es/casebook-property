@@ -4,7 +4,7 @@ class: concept
 description: A useful metaphor for understanding common law property rights as sticks in a bundle.
 doctrines:
     - trespass
-published: true
+
 bookHidden: true
 ---
 

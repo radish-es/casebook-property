@@ -10,7 +10,7 @@ held: Damages, rather than an injunction, are justified, because the vapours are
 public: true
 doctrines:
   - nuisance
-published: true
+
 bookHidden: true
 ---
 

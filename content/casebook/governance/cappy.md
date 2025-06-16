@@ -15,7 +15,7 @@ sources:
 doctrines:
   - acquired-rights
 bookHidden: true
-published: true
+
 ---
 
 

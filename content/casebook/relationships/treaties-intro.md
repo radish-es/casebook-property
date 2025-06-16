@@ -5,7 +5,7 @@ class: concept
 description: An introduction to treaty relations, with a focus on Mi'kma'ki
 doctrines: 
   - treaty
-published: true
+
 bookHidden: true
 ---
 

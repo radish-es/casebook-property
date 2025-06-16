@@ -5,7 +5,7 @@ subtitle: The Casebook
 weight: 10
 bookCollapseSection: false
 bookTOC: false
-published: true
+
 ---
 
 At the risk of sounding dated, the importance of law "with respect to things" is about land. Too much of current introduction to the subject of property law is 

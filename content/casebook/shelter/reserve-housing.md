@@ -5,7 +5,7 @@ class: concept
 description: A look at Napoleon and Snyder's study of housing on reserve and the role of Indigenous legal orders
 doctrines:
   - reserve-housing
-published: true
+
 bookHidden: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Restrictive Covenants and Qualified Interests
 short: Week 12
-published: true
+
 type: lesson
 description: Covenants and Qualifications
 weight: 12

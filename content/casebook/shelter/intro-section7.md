@@ -5,7 +5,7 @@ short: Section 7 Right to Shelter
 description: An introduction to the right to shelter under s 7 of the *Charter*
 doctrines:
   - right-to-shelter
-published: true
+
 bookHidden: true
 ---
 

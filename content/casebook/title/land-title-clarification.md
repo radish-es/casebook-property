@@ -5,7 +5,7 @@ class: concept
 description: A critical lens on the sufficiency of the *LTCA*
 doctrines:
   - title-registration
-published: true
+
 bookHidden: true
 ---
 

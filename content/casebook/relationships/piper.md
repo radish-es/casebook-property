@@ -15,7 +15,7 @@ sources:
     attribution: ""
 doctrines:
   - adverse-possession
-published: true
+
 bookHidden: true
 ---
 

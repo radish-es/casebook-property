@@ -3,7 +3,7 @@ class: concept
 title: Styles of Argument
 short: Argument Styles
 description: An introduction to the style of Anglo-Canadian legal reasoning.
-published: false
+
 tags:
   - style
 links:

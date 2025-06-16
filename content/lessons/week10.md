@@ -1,7 +1,7 @@
 ---
 title: Constructive Takings and Acquired Rights
 short: Week 10
-published: true
+
 type: lesson
 description: Constructive takings and an introduction to the modern style.
 weight: 10

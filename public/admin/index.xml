@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on Land &amp; Lawscapes: An Open Casebook</title>
+    <link>http://localhost:1313/admin/</link>
+    <description>Recent content in Admin on Land &amp; Lawscapes: An Open Casebook</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/admin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Syllabus</title>
+      <link>http://localhost:1313/admin/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/syllabus/</guid>
+      <description>&lt;p&gt;This document is the official course syllabus for &lt;em&gt;Property in its Historical Context&lt;/em&gt; (LAWS 1015/25), Section B, in the 2024-2025 academic year. The course is taught by Professor Jamie Baxter at the &lt;a href=&#34;https://www.dal.ca/faculty/law.html&#34; target=&#34;_blank&#34; &gt;Schulich School of Law&lt;/a&gt;, Dalhousie University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-information&#34;&gt;&#xA;  General Information&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general-information&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;contact-details&#34;&gt;&#xA;  Contact Details&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#contact-details&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Please &lt;strong&gt;contact me by e-mail&lt;/strong&gt; (&lt;a href=&#34;mailto:jamie.baxter@dal.ca&#34; &gt;jamie.baxter@dal.ca&lt;/a&gt;) about all matters related to the course. My office is &lt;strong&gt;Weldon 326&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;administration&#34;&gt;&#xA;  Administration&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#administration&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Information about course requirements and procedures can be found in this document and the in the &lt;a href=&#34;http://localhost:1313/admin/schedule/&#34; &gt;Course Schedule&lt;/a&gt;. Both of these documents are available in the &amp;ldquo;&lt;a href=&#34;http://localhost:1313/admin/&#34; &gt;Admin&lt;/a&gt;&amp;rdquo; section of the course website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Course Schedule</title>
+      <link>http://localhost:1313/admin/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/schedule/</guid>
+      <description>&lt;p&gt;This is the official course schedule. Please note that the schedule is subject to change. Visit this page for the most recent course information.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Week&lt;/th&gt;&#xA;          &lt;th&gt;Dates&lt;/th&gt;&#xA;          &lt;th&gt;Lesson&lt;/th&gt;&#xA;          &lt;th&gt;Readings&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/admin/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/faq/</guid>
+      <description>&lt;p&gt;This page addresses &amp;ldquo;Frequently Asked Questions&amp;rdquo; about using the &lt;em&gt;Land+Property&lt;/em&gt; casebook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;do-i-need-to-read-the-material-online-using-my-computer&#34;&gt;&#xA;  Do I need to read the material online using my computer?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#do-i-need-to-read-the-material-online-using-my-computer&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;In order to successfully review and prepare the weekly assigned readings, you will need to access the casebook via a browser on your computer. Because of the unique problem-based, hypertext model used in the casebook, this way of accessing the material allows you to draw connections between the readings by following different pathways (links).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

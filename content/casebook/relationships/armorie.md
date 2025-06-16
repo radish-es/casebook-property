@@ -10,7 +10,7 @@ held: For the plaintiff. One who finds a chattel is considered its owner against
 public: true
 doctrines:
   - finders
-published: true
+
 weight: 21
 bookHidden: true
 ---

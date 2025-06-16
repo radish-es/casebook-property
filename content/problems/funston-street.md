@@ -15,7 +15,7 @@ links:
     explanation: This case provides some further conceptual tools and definitions to help describe and understand what kinds of property interests are sometimes created in a grant or bequest of property.
   - url: content/cases/canada-trust.md
     explanation: How might both the restrictive covenants and the testamentary bequest at 3000 Funston Street be dealt with under the doctrine expressed in Canada Trust?
-published: true
+
 weight: 12
 ---
 

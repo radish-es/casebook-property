@@ -10,7 +10,7 @@ held: For plaintiff. The majority found that the statute amounted to state takin
 public: true
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

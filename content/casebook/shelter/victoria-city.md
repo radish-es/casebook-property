@@ -21,7 +21,7 @@ sources:
       endorsement of, the British Columbia Superior Courts.
 doctrines:
   - right-to-shelter
-published: true
+
 bookHidden: true
 ---
 

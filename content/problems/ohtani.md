@@ -14,7 +14,7 @@ links:
   - url: content/cases/keefer.md
     explanation: As part of this week's material(but separate from the problem), we will review and update our understanding of the common law principles about adverse possession. 
 
-published: true
+
 weight: 13
 ---
 

@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

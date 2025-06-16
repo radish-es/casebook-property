@@ -11,7 +11,7 @@ links:
     explanation: Section 35 of the Constitution Act serves as the constitutional basis for recognition of Aboriginal title. 
   - url: content/cases/delgamuukw.md
     explanation: This case was the Supreme Court of Canada's first modern attempt to develop a comprehensive legal framework for common law Aboriginal title. 
-published: true
+
 weight: 16
 ---
 

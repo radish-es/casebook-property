@@ -4,7 +4,7 @@ title: Covenants Running in Equity
 short: Courts of Equity
 tags:
   - restrictive-covenant
-published: true
+
 links:
   - url: content/cases/tulk.md
     explanation: The validity criteria described in this mini-lecture extend and build upon those established in the Tulk v Moxhay, where the court's focus was on the requirement of "notice".

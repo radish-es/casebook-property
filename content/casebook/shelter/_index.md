@@ -4,7 +4,7 @@ subtitle: Shelter
 type: docs
 weight: 40
 bookCollapseSection: false
-published: true
+
 bookTOC: false
 
 ---

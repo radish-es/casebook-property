@@ -17,7 +17,7 @@ links:
     explanation: The court in this case faces the task of justifying a remedy in damages for a nuisance claim related to environmental harms. What are those justifications and how do they different from other cases you read this week?
   - url: content/cases/canada-paper.md
     explanation: Here, the court's majority agrees that an injunction is the appropriate remedy for a claim in nuisance for environmental harms. Why? What distinguishes this case from others on the same issue you read this week?
-published: true
+
 weight: 4
 ---
 

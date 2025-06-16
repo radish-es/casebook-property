@@ -5,7 +5,7 @@ class: secondary_sources
 public: true
 doctrines:
   - treaty
-published: true
+
 bookHidden: true
 ---
 

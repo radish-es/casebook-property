@@ -10,7 +10,7 @@ held: A prima facie case for compensation was made out. Clissold's adverse posse
 public: true
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

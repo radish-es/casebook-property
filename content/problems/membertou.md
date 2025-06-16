@@ -15,7 +15,7 @@ links:
   - url: content/secondary/fnlma-yellowhead.md
     explanation: What concerns have been raised about the FNLMA regime? Might these explain some of the diverse decisions being made by First Nations with respect to reserve lands governance?
 weight: 15
-published: true
+
 ---
 
 Please read [this CBC News article,](https://www.cbc.ca/news/politics/indian-act-horrible-existence-senator-christmas-1.4149551) in which former Senator Dan Christmas, the first Mi'kmaw member of the Canadian Senate, describes challenges the Membertou First Nation has faced with respect to lands governance under the federal *Indian Act* and how his community has responded to these challenges.

@@ -5,7 +5,7 @@ reporter: '(1881), c 11'
 doctrines: 
   - police-power
 class: statute
-published: true
+
 bookHidden: true
 ---
 

@@ -16,7 +16,7 @@ sources:
     attribution: 'Not an official version. '
 doctrines:
   - estates
-published: true
+
 bookHidden: true
 ---
 

@@ -12,7 +12,7 @@ sources:
 doctrines:
   - police-power
 class: statute
-published: true
+
 bookHidden: true
 ---
 

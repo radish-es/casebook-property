@@ -4,7 +4,7 @@ class: concept
 decription: A common law doctrine that allows for a transfer of title by virtue of possession
 doctrines:
   - adverse-possession
-published: true
+
 bookHidden: true
 ---
 

@@ -10,7 +10,7 @@ held: The appropriate remedy here is injunction. Damages instead of an injunctio
 public: true
 doctrines:
   - nuisance
-published: true
+
 bookHidden: true
 ---
 

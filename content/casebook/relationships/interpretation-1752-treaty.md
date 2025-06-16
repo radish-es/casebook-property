@@ -4,7 +4,7 @@ short: Early Interpretation
 class: context
 doctrines:
     - treaty
-published: true
+
 bookHidden: true
 ---
 

@@ -2,7 +2,7 @@
 title: 'Property Law: Making the Market'
 short: Making the Market
 class: concept
-published: false
+
 ---
 
 Throughout the course, we will study several controversies, concepts and legal doctrines that normally make up the field of property law in most Canadian law schools. As in your other courses, you will gain a solid understanding of legal rules "on the books" that address a range of issues (local, national and global) and you will see how those rules have changed and been adapted over time. But we will also address legal rules with a specific goal in mind--one that goes beyond a basic proficiency in the common law or legislation. Our goal is to understand and develop a thoughtful answer to the following question:

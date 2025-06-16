@@ -6,7 +6,7 @@ reporter: (1805) 3 Caines 175
 year: 1805
 doctrines: 
   - possession
-published: true
+
 bookHidden: true
 weight: 40
 description: A fox hunt

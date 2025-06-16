@@ -5,7 +5,7 @@ short: Expropriation
 description: An introduction to expropriation
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

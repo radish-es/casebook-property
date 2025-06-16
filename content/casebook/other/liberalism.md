@@ -4,7 +4,7 @@ class: concept
 description: Basics of the liberal dilemma.
 tags:
   - style
-published: false
+
 links:
   - url: content/concepts/style.md
     explanation: This discussion of liberalism builds on our introduction to different styles of legal argument.

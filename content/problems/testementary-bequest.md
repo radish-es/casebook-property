@@ -6,7 +6,7 @@ tags:
   - transfer
   - estates
   - bequest
-published: false
+
 ---
 
 <a href="https://unsplash.com/photos/y02jEX_B0O0">{{< figure src="/media/will.jpg" caption="Source: Aaron Burden on Unsplash" link="">}}</a>

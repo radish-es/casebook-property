@@ -14,7 +14,7 @@ sources:
     license: 'https://www.bailii.org/bailii/copyright.html'
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

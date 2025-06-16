@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - aboriginal-title
-published: true
+
 bookHidden: true
 ---
 

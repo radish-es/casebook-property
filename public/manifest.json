@@ -1,0 +1,15 @@
+{
+  "name": "Land & Lawscapes: An Open Casebook",
+  "short_name": "Land & Lawscapes: An Open Casebook",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

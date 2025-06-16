@@ -10,7 +10,7 @@ held: Failing to grant a permit because of reasonable statutory restrictions doe
 public: true
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

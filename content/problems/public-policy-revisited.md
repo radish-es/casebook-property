@@ -6,7 +6,7 @@ tags:
   - use
   - restrictive-covenant  
   - public-policy
-published: false
+
 ---
 
 At the end of Week 14, we discussed the Supreme Court's resistance in *Noble and Wolf v Alley* to apply the public policy doctrine to invalidate a discriminatory restrictive covenant. Despite Justice Mackay's robust engagement with this doctrine in *Re Drummond Wren*, it would not receive sustained attention by the Canadian courts until more than three decades later. The Ontario Court of Appeal returned to the challenge of applying the public policy doctrine to "private" property arrangements in *Canada Trust Co v Ontario (Human Rights Commission)*, in the context of a testamentary bequest via a charitable trust.

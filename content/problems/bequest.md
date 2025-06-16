@@ -17,7 +17,7 @@ links:
     explanation: How does contemporary legislation in Nova Scotia affect the interpretation of the will in our problem this week? 
   - url: content/cases/blackburn.md
     explanation: Are all restraints on the alienation (transfer) of property invalid? If some attempts to restrain alienation are valid, how do we distinguish them from those that are clearly invalid?
-published: true
+
 weight: 8
 ---
 

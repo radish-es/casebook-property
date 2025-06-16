@@ -6,7 +6,7 @@ class: concept
 tags:
   - recognition
   - indigenous-law
-published: false
+
 ---
 
 Throughout the year we will examine several features of Canada's liberal market economy in order to address our central question in the course. One of those features is the economy's foundation in the colonial dispossession of Indigenous peoples through the institution of property and we will have much more to discuss on this topic this term and next. But colonialism is not only a *feature* or characteristic of the Canadian economy--it also an ongoing reality that shapes how we learn about law and property, including the frameworks, theories and perspectives we use to make sense of legal rules and disputes. Colonialism shapes the interpretation and application of law, as well as the questions we tend to ask about these processes. 

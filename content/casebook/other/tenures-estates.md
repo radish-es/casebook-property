@@ -17,7 +17,7 @@ tags:
   - transfer
   - tenure
   - estates
-published: false
+
 ---
 
 

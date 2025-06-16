@@ -10,7 +10,7 @@ held: For defendant. The majority found that there was no right to a spectacle, 
 public: true
 doctrines:
   - nuisance
-published: true
+
 bookHidden: true
 ---
 

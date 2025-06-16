@@ -14,7 +14,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - adverse-possession
-published: true
+
 bookHidden: true
 ---
 

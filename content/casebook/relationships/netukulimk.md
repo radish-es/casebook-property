@@ -6,7 +6,7 @@ source: "Excerpted from: Jaime Battiste, Understanding the Progression of Mi'kma
 LJ 311. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)"
 doctrines:
   - treaty
-published: true
+
 bookHidden: true
 ---
 

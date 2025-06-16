@@ -15,7 +15,7 @@ links:
     explanation: In Manitoba, the Planning Act establishes the statutory basis for owners who want to claim that they are exercising an 'acquired right" (or, 'legal non-conforming use') in the face of changes to a zoning bylaw. How might such a provision help the claimant in this hypo?
   - url: content/cases/cappy.md
     explanation: What is an 'acquired right' (or, 'legal non-conforming use')? What is the basis for these rights and how are they connected to issues of expropriation? 
-published: true
+
 weight: 10
 ---
 

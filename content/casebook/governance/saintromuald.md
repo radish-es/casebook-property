@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - acquired-rights
-published: true
+
 bookHidden: true
 ---
 

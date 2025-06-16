@@ -4,7 +4,6 @@ subtitle: Governance
 type: docs
 weight: 30
 bookCollapseSection: false
-published: true
 bookTOC: false
 
 ---

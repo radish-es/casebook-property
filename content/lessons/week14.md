@@ -1,7 +1,7 @@
 ---
 title: Possession, Revisited
 short: Week 14
-published: true
+
 type: lesson
 description: Return to issues of possession.
 weight: 14

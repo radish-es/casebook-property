@@ -7,7 +7,7 @@ class: secondary
 description: John Locke's main discourse on possession as the basis for property.
 doctrines:
   - possession
-published: true
+
 bookHidden: true
 weight: 10
 ---

@@ -1,7 +1,7 @@
 ---
 title: Title as Recognition
 short: Week 3
-published: true
+
 type: lesson
 classdate: 26 Oct 2025
 weight: 3

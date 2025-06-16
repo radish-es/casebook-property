@@ -11,7 +11,7 @@ doctrines:
   - reserves
 class: statute
 public: true
-published: true
+
 description: Federal legislation enabling First Nations to opt out of the lands-related provisions of the Indian Act. 
 bookHidden: true
 ---

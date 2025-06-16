@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - qualified-transfers
-published: true
+
 bookHidden: true
 ---
 

@@ -11,7 +11,7 @@ description: Interpretation of a will addressing the type of common law estate c
 public: true
 doctrines:
   - estates
-published: true
+
 bookHidden: true
 ---
 

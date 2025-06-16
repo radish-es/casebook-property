@@ -1,7 +1,7 @@
 ---
 title: Right to Shelter
 short: Week 11
-published: true
+
 type: lesson
 description: Right to shelter.
 weight: 11

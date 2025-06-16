@@ -5,7 +5,7 @@ class: concept
 tags:
   - recognition
   - first-possession
-published: false
+
 ---
 
 ### Classical First Possession: Locke and Wild Animals ###

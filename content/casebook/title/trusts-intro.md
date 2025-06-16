@@ -17,7 +17,7 @@ source: >-
 public: true
 doctrines:
   - trusts
-published: true
+
 bookHidden: true
 ---
 

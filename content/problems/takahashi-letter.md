@@ -15,7 +15,7 @@ links:
     explanation: Here the court is pressed to interpret the taking of Japanese Canadians' property as giving rise to a form of legal trust. 
   - url: content/cases/duthie.md
     explanation: What exactly do the obligations of a trustee look like? To whom are those obligations owed?
-published: true
+
 weight: 9
 ---
 

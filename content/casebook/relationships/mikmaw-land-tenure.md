@@ -5,7 +5,7 @@ class: context
 description: A contextualization of 1752 treaty in Mi'kmaw law
 doctrines:
     - treaty
-published: true
+
 bookHidden: true
 ---
 

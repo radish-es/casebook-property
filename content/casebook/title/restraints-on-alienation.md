@@ -4,7 +4,7 @@ class: concept
 description: An introduction to restraints on alienation
 doctrines:
   - alienation
-published: true
+
 bookHidden: true
 ---
 

@@ -15,7 +15,7 @@ sources:
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 doctrines:
   - title-registration
-published: true
+
 bookHidden: true
 ---
 

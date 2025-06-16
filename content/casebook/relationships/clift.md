@@ -10,7 +10,7 @@ held: For plaintiff. The majority found that the plaintiff established possessio
 public: true
 doctrines: 
   - possession
-published: true
+
 bookHidden: true
 weight: 30
 description: Two ships compete on the ice flows for seal pelts.

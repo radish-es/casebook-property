@@ -7,7 +7,7 @@ tags:
   - recognition
   - relative-possession
   - title
-published: false
+
 ---
 
 [{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)

@@ -9,7 +9,7 @@ issue: Whether this constituted de fact expropriation under NAFTA.
 held: For plaintiff. De facto expropriation under NAFTA includes the deprivation of economic benefit of property, even without the acquisition of clear benefits to the state. As such, de facto expropriation is made out.
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

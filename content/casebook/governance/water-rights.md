@@ -5,7 +5,7 @@ class: concept
 description: An introduction to common law riparian rights, and context for their place in the 19th century lumber industry
 doctrines:
   - police-power
-published: true
+
 bookHidden: true
 ---
 

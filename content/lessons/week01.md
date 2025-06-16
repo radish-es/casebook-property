@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Course
-published: true
+
 type: lesson
 weight: 1
 classdate: 12 Oct 2025

@@ -7,7 +7,7 @@ tags:
   - recognition
   - conversion
   - abandon-possession
-published: false
+
 ---
 
 [{{< figure src="/media/lab.jpg" caption="Source: Louis Reed on Unsplash" >}}](https://unsplash.com/photos/pwcKF7L4)

@@ -13,7 +13,7 @@ links:
     explanation: How does the reasoning in this case help us to answer the question of whether the West Egg protestors should be convicted of trespass or not? Notice that the two judges in the case disagree on both outcomes and approaches to the problem. 
   - url: content/concepts/trespass.md
     explanation: Trespass is a term you hear a lot in day-to-day life. Where does this concept come from and what does it mean from a legal perspective?
-published: true
+
 weight: 1
 ---
 

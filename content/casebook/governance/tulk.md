@@ -10,7 +10,7 @@ held: For plaintiff. Restrictive covenants run with the land, so are durable bey
 public: true
 doctrines:
   - covenants
-published: true
+
 bookHidden: true
 ---
 

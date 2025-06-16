@@ -12,7 +12,7 @@ sources:
 tags:
   - police-power
 class: statute
-published: true
+
 bookHidden: true
 ---
 

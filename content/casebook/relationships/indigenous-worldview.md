@@ -3,7 +3,7 @@ title: '"Possession" from an Indigenous Worldview'
 class: concept
 doctrines:
   - treaty
-published: true
+
 bookHidden: true
 ---
 

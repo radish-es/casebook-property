@@ -4,7 +4,7 @@ class: concept
 description: An explanation of peace and friendship treaties and the challenges of treaty interpretation
 doctrines:
   - treaty
-published: true
+
 bookHidden: true
 ---
 

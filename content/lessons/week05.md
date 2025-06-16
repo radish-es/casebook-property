@@ -1,7 +1,7 @@
 ---
 title: Excluding the State
 short: Week 5
-published: true
+
 type: lesson
 classdate: 8 Nov 2025
 weight: 5

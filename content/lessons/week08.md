@@ -1,7 +1,7 @@
 ---
 title: Trusts, Property, and Citizenship
 short: Week 8
-published: true
+
 type: lesson
 description: In our final week of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the dispossession and internment of Japanese Canadians.
 weight: 8

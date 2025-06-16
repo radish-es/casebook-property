@@ -13,7 +13,7 @@ links:
     explanation: McLaren v Caldwell is one of the earliest disputes in Canadian law about the power of governments to take away sticks from a property owner's bundle of rights. What principle(s) of interpretation found in this case could help the co-op board to resolve its legal questions? 
   - url: content/statutes/protection-property.md
     explanation: Recall that this statute establishes a quasi-criminal cause of action in trespass.
-published: true
+
 weight: 6
 ---
 

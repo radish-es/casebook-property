@@ -10,7 +10,7 @@ held:
 public: true
 doctrines:
   - aboriginal-title
-published: true
+
 bookHidden: true
 
 ---

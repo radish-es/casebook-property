@@ -4,7 +4,7 @@ class: concept
 description: An overview of patents and their economic justification
 doctrines:
   - trespass
-published: true
+
 bookHidden: true
 ---
 

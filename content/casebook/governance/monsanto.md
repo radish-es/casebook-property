@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - trespass
-published: true
+
 bookHidden: true
 ---
 

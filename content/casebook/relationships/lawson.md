@@ -10,7 +10,7 @@ held: As all the land at issue appeared to have been granted to Belcher, and the
 public: true
 doctrines:
   - adverse-possession
-published: true
+
 bookHidden: true
 ---
 

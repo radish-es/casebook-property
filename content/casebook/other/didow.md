@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - airspace
-published: false
+
 bookhidden: true
 ---
 

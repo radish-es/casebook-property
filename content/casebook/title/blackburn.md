@@ -15,7 +15,7 @@ sources:
     attribution: ''
 doctrines:
   - alienation
-published: true
+
 bookHidden: true
 ---
 

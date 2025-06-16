@@ -10,7 +10,7 @@ held: For plaintiff. The plaintiff inhereted Thomas's title through Lucy, which 
 public: true
 doctrines:
   - possession
-published: true
+
 bookHidden: true
 ---
 

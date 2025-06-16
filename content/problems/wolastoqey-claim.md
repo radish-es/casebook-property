@@ -15,7 +15,7 @@ links:
     explanation: What is the relationship between the Royal Proclamation of 1763 and the common law doctrine of Aboriginal title?
   - url: content/statutes/indian-act.md
     explanation: How does the concept of "Aboriginal title" differ from the concept of title and other rights in reserve lands as defined in the federal Indian Act?
-published: true
+
 weight: 3
 ---
 

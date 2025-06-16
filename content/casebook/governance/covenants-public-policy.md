@@ -5,7 +5,7 @@ class: concept
 description: An introduction to restrictive covenants and the doctrine of public policy
 doctrines:
   - covenants
-published: true
+
 bookHidden: true
 ---
 

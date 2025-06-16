@@ -1,7 +1,7 @@
 ---
 title: Recognition, Relationships and Possession
 short: Week 2
-published: true
+
 type: lesson
 classdate: 19 Oct 2025
 weight: 2
