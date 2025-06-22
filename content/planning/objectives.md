@@ -13,12 +13,13 @@ Week2 centres on the question, "who owns the fox?" In order to answer that quest
 
 ### Big objectives
 
-- Where does Canadian land law come from? Describe and contrast the "displacement" idea of Canadian land law with the "encounters" idea of Canadian land law 
+- Where does Canadian land law come from? Describe and contrast the "universal" idea of Canadian land law with the "encounters" idea of Canadian land law. Describe an contrast the Lockean view of property as prior to the state with (1) the view the property flows from the state and (2) the mushy inter-cultural context of treaty 
 
 ### Little objectives
 
 - Explain Locke's theory of possession as the basis of property
-- Introduce the contingency of property in wild animals and contrast with domestic animals to distinguish possession from property
-- Apply Locke's theory to the rule of capture (Pierson) and introduce complications to the concept of dominium/control
-- Principles of treaty interpretation and treaty rights 
-- Apply concept of relative possession (Armourie)? 
+- Introduce the contingency of property in wild animals and contrast with domestic animals to distinguish possession from property; link to the relativity of possession (Armourie)
+- Apply Locke's theory to the rule of capture (Pierson) and introduce complications to defining the concept of dominium/control
+- Explore the role of treaty in Mi'kmaw law re establishing relations with wild animals 
+- Explore the role of treaty between Mik'maw and Europeans establishing relations with each other vis-a-vis hunting wild animals and the economies around hunting 
+- Explore the examples of domestic animals being used to expand the "commons" and dispossess Indigenous peoples in early colonial New England [or save for week 3?]

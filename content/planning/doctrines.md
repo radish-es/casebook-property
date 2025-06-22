@@ -4,7 +4,7 @@
 - Idea is that "property" is not only established by taking animals from a "state of nature", it is established--or circumscribed--by treaty relationship between sovereign entities 
 - First opportunity to explore the public/private theme
 - R v Syliboy
-- R v Badger
+	- R v Badger
 
 ### Possession / Rule of Capture 
 - Locke
