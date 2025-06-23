@@ -1,25 +1,18 @@
 {{ define "main" }}
-<article>
-  <h1>
-    <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-  </h1> 
+  <article>
+    <h1>
+      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+    </h1> 
 
-  {{ if isset .Params "summary" }}<p><i>{{ .Params.Summary }}</i></p>{{ end }}
+    {{ partial "breadcrumbs.html" . }}
 
-  <hr>
+    {{ partial "description.html" . }}
 
-  <div class="main-img">
+    {{ partial "header-image.html" . }}
 
-    <figure>{{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
+    {{- .Content -}}
 
-      <figcaption>{{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}</figcaption>
-  
-    </figure>
-  </div>
-
-  {{- .Content -}}
-
-</article>
+  </article>
 {{ end }}
 
 {{ define "toc" }}

@@ -13,7 +13,7 @@ Week2 centres on the question, "who owns the fox?" In order to answer that quest
 
 ### Big objectives
 
-- Where does Canadian land law come from? Describe and contrast the "universal" idea of Canadian land law with the "encounters" idea of Canadian land law. Describe an contrast the Lockean view of property as prior to the state with (1) the view the property flows from the state and (2) the mushy inter-cultural context of treaty 
+- Where does Canadian land law come from? Describe and contrast the "universal" idea of Canadian land law with the "encounters" idea of Canadian land law. Describe adn contrast the Lockean view of property as prior to the state with (1) the view the property flows from the state and (2) the more ambiguous inter-cultural context of treaty 
 
 ### Little objectives
 

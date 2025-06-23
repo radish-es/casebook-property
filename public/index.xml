@@ -15,6 +15,13 @@
       <description>&lt;p&gt;This document is the official course syllabus for &lt;em&gt;Property in its Historical Context&lt;/em&gt; (LAWS 1015/25), Section B, in the 2024-2025 academic year. The course is taught by Professor Jamie Baxter at the &lt;a href=&#34;https://www.dal.ca/faculty/law.html&#34; target=&#34;_blank&#34; &gt;Schulich School of Law&lt;/a&gt;, Dalhousie University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-information&#34;&gt;&#xA;  General Information&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general-information&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;contact-details&#34;&gt;&#xA;  Contact Details&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#contact-details&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Please &lt;strong&gt;contact me by e-mail&lt;/strong&gt; (&lt;a href=&#34;mailto:jamie.baxter@dal.ca&#34; &gt;jamie.baxter@dal.ca&lt;/a&gt;) about all matters related to the course. My office is &lt;strong&gt;Weldon 326&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;administration&#34;&gt;&#xA;  Administration&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#administration&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Information about course requirements and procedures can be found in this document and the in the &lt;a href=&#34;http://localhost:1313/admin/schedule/&#34; &gt;Course Schedule&lt;/a&gt;. Both of these documents are available in the &amp;ldquo;&lt;a href=&#34;http://localhost:1313/admin/&#34; &gt;Admin&lt;/a&gt;&amp;rdquo; section of the course website.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Intro Problem</title>
+      <link>http://localhost:1313/problems/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problems/intro/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Introduction to the Course</title>
       <link>http://localhost:1313/lessons/week01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,9 +30,9 @@
     </item>
     <item>
       <title>Protest at West Eggleston</title>
-      <link>http://localhost:1313/problems/protest/</link>
+      <link>http://localhost:1313/old-problems/protest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/protest/</guid>
+      <guid>http://localhost:1313/old-problems/protest/</guid>
       <description>This hypothetical problem involves a group of protestors charged under section 4 of Nova Scotia&amp;rsquo;s Protection of Property Act, RSNS 1989, c 363. Please read the facts carefully, followed by the linked reading material, and think about whether or not a court would be likely to find that the protestors are &amp;lsquo;guilty of an offence&amp;rsquo; and &amp;rsquo;liable to a fine of not more than five hundred dollars.&amp;rsquo;</description>
     </item>
     <item>
@@ -47,7 +54,7 @@
       <link>http://localhost:1313/problems/wowkwis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/problems/wowkwis/</guid>
-      <description>This hypothetical problem involves a dispute over legal entitlements to a wild animal pelt in the aftermath of fox hunt.</description>
+      <description>&lt;p&gt;West Eggleston is back in the news after claims by a Mi&amp;rsquo;kmaw hunter that one of its residents unlawfully interfered with a fox (&lt;em&gt;wowkwis&lt;/em&gt;, in Mi&amp;rsquo;kmaq) hunt in which the hunter was exercising their constitutionally-protected treaty rights. The population of &lt;em&gt;wowkwis&lt;/em&gt; has been growing rapidly in the area in recent years, exceeding the carrying capacity of the landscape, disrupting the ecosystem balance among its prey and other predators, and causing more and more interactions with human settlements. As a consequence, the Assembly of Nova Scotia Mi’kmaw Chiefs issued a statement underlining the significant role Mi&amp;rsquo;kmaw hunters play in establishing and sustaining healthy forest ecosystems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
@@ -96,7 +103,7 @@
       <link>http://localhost:1313/problems/protest-after/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/problems/protest-after/</guid>
-      <description>&lt;p&gt;After the events of the &lt;a href=&#34;http://localhost:1313/problems/protest/&#34; &gt;protest at West Eggleston&lt;/a&gt;, some MLAs and their allies began to pressure the provincial government to expand access to places where members of the public can engage in peaceful protest and other forms of collective association. As a result of these efforts, the legislature passed an amendment to the &lt;em&gt;Public Highways Act&lt;/em&gt;, RSNS 1989, c 371 which reads:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;5A Where members of the public are exercising their freedom of collective association on roads, lanes, paths or highways, the provisions of the &lt;em&gt;Protection of Property Act&lt;/em&gt;, RSNS 1989, c 363 are of no force or effect.&lt;/p&gt;</description>
+      <description>&lt;p&gt;After the events of the &lt;a href=&#34;&#34; &gt;protest at West Eggleston&lt;/a&gt;, some MLAs and their allies began to pressure the provincial government to expand access to places where members of the public can engage in peaceful protest and other forms of collective association. As a result of these efforts, the legislature passed an amendment to the &lt;em&gt;Public Highways Act&lt;/em&gt;, RSNS 1989, c 371 which reads:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;5A Where members of the public are exercising their freedom of collective association on roads, lanes, paths or highways, the provisions of the &lt;em&gt;Protection of Property Act&lt;/em&gt;, RSNS 1989, c 363 are of no force or effect.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alienation, Exit and Control</title>
@@ -117,7 +124,7 @@
       <link>http://localhost:1313/problems/bequest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/problems/bequest/</guid>
-      <description>&lt;p&gt;Recall from our first problem this term, &lt;a href=&#34;http://localhost:1313/problems/protest/&#34; &gt;protest at West Eggleston&lt;/a&gt;, that the community has been experiencing significant changes in the past few years. Rising housing price across the province have increased demand for land in West Egg dramatically. With its idyllic setting along the coast, several of the co-operative&amp;rsquo;s founding members worried that their community had lost sight of its roots in affordable housing and would eventually become nothing more than another tony suburb for wealthy. As we saw in our earlier problem, these dynamics had already begun to fracture the community and raised mounting concerns about exclusion and discrimination.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recall from our first problem this term, &lt;a href=&#34;&#34; &gt;protest at West Eggleston&lt;/a&gt;, that the community has been experiencing significant changes in the past few years. Rising housing price across the province have increased demand for land in West Egg dramatically. With its idyllic setting along the coast, several of the co-operative&amp;rsquo;s founding members worried that their community had lost sight of its roots in affordable housing and would eventually become nothing more than another tony suburb for wealthy. As we saw in our earlier problem, these dynamics had already begun to fracture the community and raised mounting concerns about exclusion and discrimination.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trusts, Property, and Citizenship</title>
@@ -402,16 +409,16 @@
     </item>
     <item>
       <title>A &#34;Monkey Wrench in the Free Market&#34;</title>
-      <link>http://localhost:1313/problems/auto-insurance/</link>
+      <link>http://localhost:1313/old-problems/auto-insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/auto-insurance/</guid>
+      <guid>http://localhost:1313/old-problems/auto-insurance/</guid>
       <description>&lt;p&gt;In October 2003, the Government of Nova Scotia introduced a bill with proposed amendments to automobile insurance laws in the province. The bill was drafted to address the growing cost of automobile insurance for people who own and drive cars. In Nova Scotia, automobile insurance is provided by private firms. Some of the proposed amendments included a temporary cap on insurance rates, a requirement that the Nova Scotia Insurance Review Board approve the way that insurers classify risk (which determines how much individuals in each class pay for insurance), and a cap on the amount of non-monetary loss (such as for pain and suffering) that insured people can claim for minor injuries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Testamentary Bequest</title>
-      <link>http://localhost:1313/problems/testementary-bequest/</link>
+      <link>http://localhost:1313/old-problems/testementary-bequest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/testementary-bequest/</guid>
+      <guid>http://localhost:1313/old-problems/testementary-bequest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/y02jEX_B0O0&#34;&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/will.jpg&#34;&#xA;    alt=&#34;Source: Aaron Burden on Unsplash&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Source: Aaron Burden on Unsplash&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A testator, recently deceased, has two surviving adult children who are the sole beneficiaries of the testator&amp;rsquo;s will. The will establishes a private trust whose terms stipulate that, in order for the eldest of the two children to receive their share of the estate property they must divorce and cease to cohabitate with their spouse. If the eldest child fails to meet this condition within five years of the testator&amp;rsquo;s decease, the whole residue of the estate will pass to the other beneficiary.&lt;/p&gt;</description>
     </item>
     <item>
@@ -430,9 +437,9 @@
     </item>
     <item>
       <title>Acknowledging Wolastoqey Territory</title>
-      <link>http://localhost:1313/problems/land-acknowledgement/</link>
+      <link>http://localhost:1313/old-problems/land-acknowledgement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/land-acknowledgement/</guid>
+      <guid>http://localhost:1313/old-problems/land-acknowledgement/</guid>
       <description>&lt;p&gt;To better understand some of the challenges associated with creating a meaningful land acknowledgement, consider a recent controversy in Wolastoqey territory. In October of 2021, New Brunswick&amp;rsquo;s Attorney General issued a memo to provincial employees called &amp;ldquo;First Nation Protocol on Acknowledging Ancestral Territory.&amp;rdquo; The memo was purportedly a response to the Wolastoqey Nation&amp;rsquo;s ongoing claim, in the Canadian courts, &lt;a href=&#34;https://www.cbc.ca/news/canada/new-brunswick/wolastoqey-nation-filing-for-title-claim-against-new-brunswick-1.5750955&#34; target=&#34;_blank&#34; &gt;for recognition of Aboriginal title to land that covers about half of present day New Brunswick&lt;/a&gt; (we will examine the details of this kind of claim later in the course). In the memo, provincial employees were instructed not to give territorial or title acknowledgements in the context of their work. Instead, they were to use only an approved &amp;ldquo;ancestral acknowledgement&amp;rdquo; as follows:&lt;/p&gt;</description>
     </item>
     <item>
@@ -521,9 +528,9 @@
     </item>
     <item>
       <title>Blue Mountain-Birch Cove Lakes</title>
-      <link>http://localhost:1313/problems/blue-mountain/</link>
+      <link>http://localhost:1313/old-problems/blue-mountain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/blue-mountain/</guid>
+      <guid>http://localhost:1313/old-problems/blue-mountain/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/blue_mountain.jpg&#34;&#xA;    alt=&#34;Irwin Barrett - Ecology Action Centre&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Irwin Barrett - Ecology Action Centre&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Blue Mountain-Birch Cove Lakes is a stunning wilderness area located minutes from downtown Halifax. Attempts by the Halifax Regional Municipality (HRM) to prevent development on private lands next to the wilderness area have made landowners unhappy.&lt;/p&gt;&#xA;&lt;p&gt;Blue Mountain-Birch Cove was designated as a provincially-protected wilderness area in 2009. It started as 1,316 hectares of Crown land and was later expanded, in 2015, to 1,767 hectares. Several private landowners own undeveloped lands adjacent to the protected area. One of those landowners is the Annapolis Group Inc. (Annapolis), whose undeveloped lands have remained essentially wilderness since Annapolis began to acquire them sometime in the middle of the last century.&lt;/p&gt;</description>
     </item>
     <item>
@@ -640,9 +647,9 @@
     </item>
     <item>
       <title>Duchman v Oakland Dairy (1928), 63 OLR 111 (CA)</title>
-      <link>http://localhost:1313/problems/duchman-v-oakland/</link>
+      <link>http://localhost:1313/old-problems/duchman-v-oakland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/duchman-v-oakland/</guid>
+      <guid>http://localhost:1313/old-problems/duchman-v-oakland/</guid>
       <description>&lt;p&gt;Writing over a decade after his decision in &lt;em&gt;Black v Canadian Copper Co.&lt;/em&gt;, Justice Middleton&amp;ndash;now at the Ontario Court of Appeal&amp;ndash;took a different approach to the question of remedy for nuisance in &lt;em&gt;Duchman v Oakland Dairy&lt;/em&gt;. In Duchman, the plaintiffs brought an action against a neighbouring dairy operation in Toronto, claiming that the noise caused in the early mornings interfered with plaintiffs&amp;rsquo; and their families&amp;rsquo; sleep. The plaintiffs complained of &amp;ldquo;the constant noise resulting from the loading and unloading of the defendants&amp;rsquo; wagons and motor-trucks; the stamping and kicking of the defendants&amp;rsquo; horses; the rattling of the wagons and trucks and their contents; and the yelling of the defendant company&amp;rsquo;s servants and employees while engaged in their duties.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
@@ -668,9 +675,9 @@
     </item>
     <item>
       <title>Elsipogtog First Nation&#39;s Claim to Aboriginal Title </title>
-      <link>http://localhost:1313/problems/aboriginal-title-elsipogtog/</link>
+      <link>http://localhost:1313/old-problems/aboriginal-title-elsipogtog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/aboriginal-title-elsipogtog/</guid>
+      <guid>http://localhost:1313/old-problems/aboriginal-title-elsipogtog/</guid>
       <description>&lt;p&gt;In November 2016, Elsipogtog First Nation filed a Notice of Action and Statement of Claim in the New Brunswick Court of Queen&amp;rsquo;s Bench. The following quotes from the press release issued by Elsipogtog in advance of that filing:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;On November 9, 2016 Elsipogtog First Nation is filing a claim on behalf of the Mi’kmaq Nation for Aboriginal title to the Mi’kma’ki district of Sikniktuk in New Brunswick.&lt;/p&gt;&#xA;&lt;p&gt;“This claim is about protecting our lands and waters for our children and our future generations,” said Elsipogtog Chief Arren Sock. “We cannot stand by while the government ignores us and makes decisions that threaten the traditional lands of the Mi’kmaq people. It’s time for us to exercise our rights and responsibilities to protect our territory.”&lt;/p&gt;</description>
     </item>
     <item>
@@ -801,9 +808,9 @@
     </item>
     <item>
       <title>Land Title Clarification in African Nova Scotian Communities</title>
-      <link>http://localhost:1313/problems/ans-title-clarification/</link>
+      <link>http://localhost:1313/old-problems/ans-title-clarification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/ans-title-clarification/</guid>
+      <guid>http://localhost:1313/old-problems/ans-title-clarification/</guid>
       <description>&lt;p&gt;The context for our case study this week is described in two excerpts below from recent decisions of the Nova Scotia Supreme Court. Both cases address provincial legislation called the &lt;em&gt;Land Titles Clarification Act&lt;/em&gt;, RSNS 1989, c 250, through which individuals in possession of land can apply to have their land title &amp;ldquo;clarified&amp;rdquo;&amp;ndash;that is, given formal legal recognition&amp;ndash;where title does not exist or is uncertain. The excerpts from &lt;em&gt;Downey&lt;/em&gt; and &lt;em&gt;Beals&lt;/em&gt;, below, sketch the basic features of this legislation and its connection to the historical settlement of African Nova Scotians.&lt;/p&gt;</description>
     </item>
     <item>
@@ -850,9 +857,9 @@
     </item>
     <item>
       <title>Locke and Colonialism</title>
-      <link>http://localhost:1313/problems/locke-colonialism/</link>
+      <link>http://localhost:1313/old-problems/locke-colonialism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/locke-colonialism/</guid>
+      <guid>http://localhost:1313/old-problems/locke-colonialism/</guid>
       <description>&lt;p&gt;Several writers have explored and debated the ways in which Locke&amp;rsquo;s influential works sought to justify an expanding British colonialism at the time when the &lt;em&gt;Second Treatise&lt;/em&gt; was published. As part of that project, questions about property and possession of land were fundamental. While Locke appears to acknowledge that British law may recognize the possession of Indigenous peoples, he simultaneously lays down justifications for undermining any possessory entitlements&amp;ndash;or for ignoring them altogether.&lt;/p&gt;</description>
     </item>
     <item>
@@ -864,9 +871,9 @@
     </item>
     <item>
       <title>Market in Biological Cells</title>
-      <link>http://localhost:1313/problems/market-cells/</link>
+      <link>http://localhost:1313/old-problems/market-cells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/market-cells/</guid>
+      <guid>http://localhost:1313/old-problems/market-cells/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/pwcKF7L4&#34; target=&#34;_blank&#34; &gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/lab.jpg&#34;&#xA;    alt=&#34;Source: Louis Reed on Unsplash&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Source: Louis Reed on Unsplash&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;One or more of the arguments pairs constructed by Justice Panelli and Justice Mosk in &lt;em&gt;Moore&lt;/em&gt; relate directly to our &lt;a href=&#34;../week1#Market&#34; &gt;central question in the course&lt;/a&gt; regarding the relationship between law and markets. Consider in particular the judges&amp;rsquo; debate over &amp;ldquo;policy reasons&amp;rdquo; for extending conversion liability to biological cells (the &lt;a href=&#34;#green_1&#34; &gt;green argument pair&lt;/a&gt; in the decisions above).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;To what extent does this debate rest on the three pervasive assumptions (natural, neutral and necessary) about law and markets (here, a market in biological cells) that we discussed in Week 1? Having identified the work of these assumptions in the case, how might you critique the judges&amp;rsquo; shared approach to the debate?&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -906,9 +913,9 @@
     </item>
     <item>
       <title>Multi-juridical Canada and Jeremy Dutcher&#39;s Musical Dialogues</title>
-      <link>http://localhost:1313/problems/dutcher-multi-juridicalism/</link>
+      <link>http://localhost:1313/old-problems/dutcher-multi-juridicalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/dutcher-multi-juridicalism/</guid>
+      <guid>http://localhost:1313/old-problems/dutcher-multi-juridicalism/</guid>
       <description>&lt;p&gt;We have seen this week and last how judges in the style of classical common law thought largely foreclosed any genuine consideration of Indigenous laws or of a multi-juridical Canada. Later in the course, we will return to this idea and ask about possibilities for intersections between legal orders.&lt;/p&gt;&#xA;&lt;p&gt;As you start to think about this question, consider the work and music of Wolastoqiyik artist Jeremy Dutcher, a member of the Tobique First Nation (Neqotkuk) who released his Juno and Polaris prize-winning album &lt;em&gt;Wolastoqiyik Lintuwakonawa&lt;/em&gt; in 2018. Dutcher, who trained as an operatic tenor at Dalhousie, recorded the album entirely in Wolastoqey as part of a project that brings the artist into a kind of musical dialogue with ancestral voices from his community singing traditional songs that were recorded by the anthropologist William Mechling on wax cylinders between 1907 and 1914.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -955,9 +962,9 @@
     </item>
     <item>
       <title>Obligations</title>
-      <link>http://localhost:1313/problems/obligations/</link>
+      <link>http://localhost:1313/old-problems/obligations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/obligations/</guid>
+      <guid>http://localhost:1313/old-problems/obligations/</guid>
       <description>&lt;p&gt;For this exercise, start by taking some time to think about the obligations you bring to this property law course. You might want to start by thinking about what obligations have confront by coming to class each week. What gets you out of your home and into the law school? What responsibilities do you encounter as you try to understanding and complete your weekly readings (and to whom)? Below are some further questions to help guide your reflections. Take around ten minutes to make a list of all the relevant obligations that come to your mind in this context.&lt;/p&gt;</description>
     </item>
     <item>
@@ -969,9 +976,9 @@
     </item>
     <item>
       <title>Parking Chairs</title>
-      <link>http://localhost:1313/problems/parking-chairs/</link>
+      <link>http://localhost:1313/old-problems/parking-chairs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/parking-chairs/</guid>
+      <guid>http://localhost:1313/old-problems/parking-chairs/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:20000128_02_Chairs_protecting_parking_place,_Chicago_%286897447742%29.jpg&#34; target=&#34;_blank&#34; &gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/parking_chairs.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It was undisputed in &lt;em&gt;Asher&lt;/em&gt; that Thomas Williamson had come into possession of the land at issue by &amp;ldquo;inclosing&amp;rdquo; it—presumably, by building a fence or erecting some other sort of boundary marker (as well as constructing a cottage on it). Erecting a fence is a quintessential  way of marking something as &amp;ldquo;mine&amp;rdquo;, and generally sends a clear message to others to &amp;ldquo;keep out&amp;rdquo;. What other practices do we understand as signalling possession? Are these practices always meant to be recognized in the eyes of the law, or do they have other audiences?&lt;/p&gt;</description>
     </item>
     <item>
@@ -1032,16 +1039,16 @@
     </item>
     <item>
       <title>Problems of Possession</title>
-      <link>http://localhost:1313/problems/possession/</link>
+      <link>http://localhost:1313/old-problems/possession/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/possession/</guid>
+      <guid>http://localhost:1313/old-problems/possession/</guid>
       <description>&lt;p&gt;In class this week, we will focus on two short problems:&lt;/p&gt;&#xA;&lt;div class=&#34;alert alert-warning&#34;&gt;&#xA;    &lt;div&gt;&#xA;      &lt;h3 id=&#34;problem-1-first-possession&#34;&gt;&#xA;  Problem 1: First Possession&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#problem-1-first-possession&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Two children are playing on a beach and see an old abandoned boat washed up on shore. They both run for it. The faster one nearly reaches the vessel but trips on a piece of driftwood and sprains their ankle. The second child then overtakes the first, jumps on board and declares the boat &amp;ldquo;mine!&amp;rdquo;. Who owns the boat?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Property in Your Cells</title>
-      <link>http://localhost:1313/problems/property-cells/</link>
+      <link>http://localhost:1313/old-problems/property-cells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/property-cells/</guid>
+      <guid>http://localhost:1313/old-problems/property-cells/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imagebank.nih.gov/details.cfm?imageid=1463&#34; target=&#34;_blank&#34; &gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/hela.jpg&#34;&#xA;    alt=&#34;Source: National Institutes of Health, 2013&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Source: National Institutes of Health, 2013&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This week, as we continue to study basic patterns of common law argument, we will look at the issue of whether or not individuals can or should hold legally-recognized property rights in their biological cells. Various legal rules, from criminal law statutes to tort principles, aim to protect a person&amp;rsquo;s bodily integrity from harm or intrusion. But in some circumstances, a person&amp;rsquo;s biological cells might be removed or become detached from their body. Once those cells are separated from the body of a living person, this opens up the possibility that the law might regard them as the subject of property.&lt;/p&gt;</description>
     </item>
     <item>
@@ -1060,16 +1067,16 @@
     </item>
     <item>
       <title>Public Perceptions of Squatters</title>
-      <link>http://localhost:1313/problems/squatters/</link>
+      <link>http://localhost:1313/old-problems/squatters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/squatters/</guid>
+      <guid>http://localhost:1313/old-problems/squatters/</guid>
       <description>&lt;p&gt;Read this &lt;a href=&#34;&#34; &gt;HuffPost new article&lt;/a&gt; on &amp;ldquo;squatters&amp;rsquo; rights&amp;rdquo; and the housing crisis in Detroit. What assumptions and pre-conceptions about adverse possession are contained in the article?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Public Policy Revisited</title>
-      <link>http://localhost:1313/problems/public-policy-revisited/</link>
+      <link>http://localhost:1313/old-problems/public-policy-revisited/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/public-policy-revisited/</guid>
+      <guid>http://localhost:1313/old-problems/public-policy-revisited/</guid>
       <description>&lt;p&gt;At the end of Week 14, we discussed the Supreme Court&amp;rsquo;s resistance in &lt;em&gt;Noble and Wolf v Alley&lt;/em&gt; to apply the public policy doctrine to invalidate a discriminatory restrictive covenant. Despite Justice Mackay&amp;rsquo;s robust engagement with this doctrine in &lt;em&gt;Re Drummond Wren&lt;/em&gt;, it would not receive sustained attention by the Canadian courts until more than three decades later. The Ontario Court of Appeal returned to the challenge of applying the public policy doctrine to &amp;ldquo;private&amp;rdquo; property arrangements in &lt;em&gt;Canada Trust Co v Ontario (Human Rights Commission)&lt;/em&gt;, in the context of a testamentary bequest via a charitable trust.&lt;/p&gt;</description>
     </item>
     <item>
@@ -1123,9 +1130,9 @@
     </item>
     <item>
       <title>Restrictive Covenants </title>
-      <link>http://localhost:1313/problems/restrictive-covenants/</link>
+      <link>http://localhost:1313/old-problems/restrictive-covenants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/restrictive-covenants/</guid>
+      <guid>http://localhost:1313/old-problems/restrictive-covenants/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/housing_sign.jpg&#34;&#xA;    alt=&#34;Sign on a traffic post at the Robie Street / Willow Tree intersection in Halifax.&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Sign on a traffic post at the Robie Street / Willow Tree intersection in Halifax.&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Please listen to this recent &lt;a href=&#34;https://www.kut.org/austin/2021-09-10/west-austin-affordable-housing-lawsuit&#34; target=&#34;_blank&#34; &gt;NPR Radio documentary about 3000 Funston Street,&lt;/a&gt; a piece of vacant land in the Brykerwoods neighbourhood of Austin, Texas. The podcast tells the story of how a restrictive covenant is shaping urban development in the context of the city&amp;rsquo;s long-term strategy to improve access to affordable housing and achieve a more equitable distribution of that housing across the municipality. If you prefer, the website also contains a print version of the radio documentary.&lt;/p&gt;</description>
     </item>
     <item>
@@ -1137,9 +1144,9 @@
     </item>
     <item>
       <title>Revisiting Blue Mountain-Birch Cove</title>
-      <link>http://localhost:1313/problems/blue-mountain-revisited/</link>
+      <link>http://localhost:1313/old-problems/blue-mountain-revisited/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/blue-mountain-revisited/</guid>
+      <guid>http://localhost:1313/old-problems/blue-mountain-revisited/</guid>
       <description>&lt;p&gt;Briefly review the facts of the &lt;a href=&#34;../week12/#problem-blue-mountain-birch-cove-lakes&#34; &gt;Blue Mountain-Birch Cove Case study we explored in Week 12&lt;/a&gt;, then consider the following questions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Does the decision in &lt;em&gt;Canadian Pacific Railway v Vancouver&lt;/em&gt; strengthen the Annapolis Group&amp;rsquo;s claim in &lt;em&gt;de facto&lt;/em&gt; expropriation against the Halifax Regional Municipality? Why or why not?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What changed in &lt;em&gt;Annapolis Group Inc v Halifax Regional Municipality&lt;/em&gt;?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Suppose that Annapolis Group Inc. is a land development company incorporated in the United States or Mexico. How might the results of its claim to &lt;em&gt;de facto&lt;/em&gt; (or &amp;ldquo;indirect&amp;rdquo;) expropriation differ if it were to make a claim under Article 1110 of &lt;em&gt;NAFA&lt;/em&gt; rather than in Canada&amp;rsquo;s domestic courts (which it could still do as a legacy claim until July 2022)? How would it differ under &lt;em&gt;CUSMA&lt;/em&gt;?&lt;/p&gt;</description>
     </item>
     <item>
@@ -1186,9 +1193,9 @@
     </item>
     <item>
       <title>Short-Term Rentals in HRM</title>
-      <link>http://localhost:1313/problems/short-term-rentals/</link>
+      <link>http://localhost:1313/old-problems/short-term-rentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/short-term-rentals/</guid>
+      <guid>http://localhost:1313/old-problems/short-term-rentals/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/B0aCvAVSX8E&#34; target=&#34;_blank&#34; &gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/apartment.jpg&#34;&#xA;    alt=&#34;Source: Étienne Beauregard-Riverin on Unsplash&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Source: Étienne Beauregard-Riverin on Unsplash&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;&#xA;  Background&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#background&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;As in many cities across Canada, short-term retals have become a hot button issue in the Halifax Regional Municipality (HRM). According to the HRM website:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Short-Term Rentals (STRs) are temporary overnight accommodations rented out for a few nights or weeks at a time. In recent years, the prevalence and popularity of STRs has grown through online platforms like Airbnb, VRBO and HomeAway. While STRs provide a unique form of a tourist accommodation and can have benefits for the local economy, their recent popularity raises concerns about their impact on residential neighborhoods and the availability of properties for long-term rental [i.e. the rental housing supply].&lt;/p&gt;</description>
     </item>
     <item>
@@ -1256,9 +1263,9 @@
     </item>
     <item>
       <title>The Right to Shelter in Halifax </title>
-      <link>http://localhost:1313/problems/halifax-right-to-shelter/</link>
+      <link>http://localhost:1313/old-problems/halifax-right-to-shelter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problems/halifax-right-to-shelter/</guid>
+      <guid>http://localhost:1313/old-problems/halifax-right-to-shelter/</guid>
       <description>&lt;p&gt;Our applied problem this week asks you to engage directly with events surrounding the right to shelter in Halifax over the past few years, including attempts by unhoused people to create shelters in public parks around the city during the pandemic and responses by neighbours, police, and the HRM Council.&lt;/p&gt;&#xA;&lt;p&gt;Please start by reviewing the following sources:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A CBC News article entitled &lt;em&gt;&lt;a href=&#34;https://www.cbc.ca/news/canada/nova-scotia/what-a-b-c-court-ruling-could-mean-for-halifax-park-evictions-1.6319104&#34; target=&#34;_blank&#34; &gt;What a B.C. court ruling could mean for Halifax park evictions&lt;/a&gt;&lt;/em&gt;, published soon after the British Columbia Supreme Court released its decision in &lt;em&gt;Bamberger&lt;/em&gt;, below.&lt;/p&gt;</description>
     </item>
     <item>

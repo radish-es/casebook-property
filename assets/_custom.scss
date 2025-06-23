@@ -34,6 +34,12 @@ h6 {
   color: $link-color;
 }
 
+/* Main Page Elements */
+
+.page-description {
+  font-style: italic;
+}
+
 /*TOC*/
 
 /* TOCBOT style - copied */
@@ -215,24 +221,24 @@ div.component  {
   color: #fff;
 }
 
-/* Main page image*/
+/* Page header image*/
 
-.main-img {
+.header-img {
   display: block;
   text-align: center;
 }
 
-.main-img figure {
+.header-img figure {
   display: inline-block;
 }
 
-.main-img img {
+.header-img img {
   border: solid black 1px;
   max-width: 100%;
   height: auto;
 }
 
-.main-img figcaption {
+.header-img figcaption {
   font-size: 0.75em;
 }
 

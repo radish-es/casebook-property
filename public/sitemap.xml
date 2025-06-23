@@ -8,11 +8,12 @@
     <loc>http://localhost:1313/admin/syllabus/</loc>
     <lastmod>2024-08-30T15:43:56-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/problems/intro/</loc>
+  </url><url>
     <loc>http://localhost:1313/lessons/week01/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/protest/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/protest/</loc>
   </url><url>
     <loc>http://localhost:1313/admin/schedule/</loc>
     <lastmod>2025-05-30T15:38:04-03:00</lastmod>
@@ -161,20 +162,22 @@
     <loc>http://localhost:1313/casebook/other/tenures-estates/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/old-problems/</loc>
+  </url><url>
     <loc>http://localhost:1313/planning/</loc>
     <lastmod>2025-06-16T20:42:18-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/description/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <lastmod>2025-06-22T19:19:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/doctrines/</loc>
-    <lastmod>2025-05-25T21:04:56-03:00</lastmod>
+    <lastmod>2025-06-22T19:19:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/encounters/</loc>
     <lastmod>2025-05-25T21:04:56-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/objectives/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <lastmod>2025-06-22T19:19:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/themes/</loc>
     <lastmod>2025-05-25T21:04:56-03:00</lastmod>
@@ -209,11 +212,9 @@
     <loc>http://localhost:1313/casebook/relationships/indigenous-worldview/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/auto-insurance/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/auto-insurance/</loc>
   </url><url>
-    <loc>http://localhost:1313/problems/testementary-bequest/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/testementary-bequest/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/relationships/abandonment/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -227,8 +228,7 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-23T12:17:51-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/land-acknowledgement/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/land-acknowledgement/</loc>
   </url><url>
     <loc>http://localhost:1313/doctrines/acquired-rights/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -278,8 +278,7 @@
     <loc>http://localhost:1313/casebook/title/blackburn/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/blue-mountain/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/blue-mountain/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/governance/bna-s9213/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -335,8 +334,7 @@
     <loc>http://localhost:1313/casebook/title/downey/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/duchman-v-oakland/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/duchman-v-oakland/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/title/duthie/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -347,8 +345,7 @@
     <loc>http://localhost:1313/casebook/relationships/interpretation-1752-treaty/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/aboriginal-title-elsipogtog/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/aboriginal-title-elsipogtog/</loc>
   </url><url>
     <loc>http://localhost:1313/doctrines/estates/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -410,8 +407,7 @@
     <loc>http://localhost:1313/casebook/other/ans-title-possession/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/ans-title-clarification/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/ans-title-clarification/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/other/title-vs-possession/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -431,14 +427,12 @@
     <loc>http://localhost:1313/casebook/other/liberalism/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/locke-colonialism/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/locke-colonialism/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/governance/mariner/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/market-cells/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/market-cells/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/title/mccorkill/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -455,8 +449,7 @@
     <loc>http://localhost:1313/casebook/governance/monsanto/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/dutcher-multi-juridicalism/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/dutcher-multi-juridicalism/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/title/nakashima/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -479,14 +472,12 @@
     <loc>http://localhost:1313/context/nuisance-industrial-canada/</loc>
     <lastmod>2023-05-30T22:46:09-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/obligations/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/obligations/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/title/overview-st-catherines/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/parking-chairs/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/parking-chairs/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/governance/patent-as-exclusion/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -518,11 +509,9 @@
     <loc>http://localhost:1313/doctrines/possession/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/possession/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/possession/</loc>
   </url><url>
-    <loc>http://localhost:1313/problems/property-cells/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/property-cells/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/other/making-market/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -530,11 +519,9 @@
     <loc>http://localhost:1313/casebook/governance/protection-property/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/squatters/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/squatters/</loc>
   </url><url>
-    <loc>http://localhost:1313/problems/public-policy-revisited/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/public-policy-revisited/</loc>
   </url><url>
     <loc>http://localhost:1313/doctrines/qualified-transfers/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -566,14 +553,12 @@
     <loc>http://localhost:1313/casebook/title/restraints-on-alienation/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/restrictive-covenants/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/restrictive-covenants/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/governance/covenants-public-policy/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/blue-mountain-revisited/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/blue-mountain-revisited/</loc>
   </url><url>
     <loc>http://localhost:1313/doctrines/right-to-shelter/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -596,8 +581,7 @@
     <loc>http://localhost:1313/casebook/governance/shelfer/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/short-term-rentals/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/short-term-rentals/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/governance/public-policy-sources/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
@@ -626,8 +610,7 @@
     <loc>http://localhost:1313/casebook/other/holmes/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/problems/halifax-right-to-shelter/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
+    <loc>http://localhost:1313/old-problems/halifax-right-to-shelter/</loc>
   </url><url>
     <loc>http://localhost:1313/casebook/title/fnlma-yellowhead/</loc>
     <lastmod>2025-06-16T20:37:23-03:00</lastmod>

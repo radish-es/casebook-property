@@ -4,20 +4,11 @@
     <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
   </h1>
 
-  {{ if isset .Params "description" }}<p>{{ .Params.description }}</p>{{ end }}
-
-  <hr>
-
   {{ partial "breadcrumbs.html" . }}
 
-  <div class="main-img">
+  {{ partial "description.html" . }}
 
-    <figure>{{ if isset .Params "image" }}<img src="{{ .Params.Image }}">{{ end }}
-
-      <figcaption>{{ if isset .Params "imgcaption" }} <p><i>{{ .Params.Imgcaption }}</i></p> {{ end }}</figcaption>
-  
-    </figure>
-  </div>
+  {{ partial "header-image.html" . }}
 
   <div class="component-wrapper">
     <div class="component">
