@@ -1,6 +1,8 @@
 ---
 title: Wowkwis
 short: Wowkwis
+draft: true
+
 description: This hypothetical problem involves a dispute over legal entitlements to a wild animal pelt in the aftermath of fox hunt.
 image: /imgs/fox.jpg
 imgcaption: Katerina Bartosova on Unsplash

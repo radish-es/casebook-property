@@ -1,6 +1,7 @@
 ---
 title: Right to Shelter
 short: Week 11
+draft: true
 
 type: lesson
 description: Right to shelter.

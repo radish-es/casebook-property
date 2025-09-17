@@ -1,6 +1,8 @@
 ---
 title: 3000 Funston Street
 short: Funston
+draft: true
+
 class: problem
 description: Restrictive covenants in Houston.
 summary: 

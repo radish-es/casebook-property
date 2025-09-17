@@ -2,6 +2,8 @@
 title: Membertou's Transition to the First Nations Land Management Framework
 short: Membertou 
 description: Membertou First Nation's adoption of the First Nations Land Management Framework
+draft: true
+
 class: problem
 tags:
   - reserve-lands

@@ -1,6 +1,8 @@
 ---
 title: Shohei Ohtani's 50/50 Baseball
 short: Funston
+draft: true
+
 class: problem
 description: Possession and baseball.
 summary: 

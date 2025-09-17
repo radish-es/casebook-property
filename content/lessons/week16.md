@@ -1,6 +1,7 @@
 ---
 title: Common Law Aboriginal Title
 short: Week 16
+draft: true
 
 type: lesson
 description: Contemporary doctrine of Aboriginal title.

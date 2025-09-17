@@ -1,6 +1,7 @@
 ---
 title: Possession, Revisited
 short: Week 14
+draft: true
 
 type: lesson
 description: Return to issues of possession.

@@ -1,6 +1,7 @@
 ---
 title: Excluding the State
 short: Week 5
+draft: true
 
 type: lesson
 classdate: 8 Nov 2025

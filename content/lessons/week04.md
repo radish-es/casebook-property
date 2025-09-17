@@ -1,6 +1,7 @@
 ---
 title: Nuisance and the Right to Exclude
 short: Week 4
+draft: true
 
 type: lesson
 classdate: 1 Nov 2025

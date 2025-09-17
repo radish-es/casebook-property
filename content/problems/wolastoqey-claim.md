@@ -1,6 +1,8 @@
 ---
 title: The Wolastoqey Title Claim
 short: Wolastoqey Claim
+draft: true
+
 class: problem
 description: This problem addresses the ongoing title claim by the Wolastoqey Nation its traditional territory encompassing much of modern day New Brunswick, along with the Province's developing response to that claim. 
 summary: This problem addresses the ongoing title claim by the Wolastoqey Nation its traditional territory encompassing much of modern day New Brunswick, along with the Province's developing response to that claim.  

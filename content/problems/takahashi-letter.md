@@ -2,6 +2,8 @@
 title: A Letter to the Prime Minister
 short: Letter
 class: problem
+draft: true
+
 description: A letter to Prime Minister WIlliam Lyon Mackenzie King serves at the starting point for addressing the history of Japanese-Canadian dispossession and internment. 
 summary: 
 image: /imgs/vancouver-escorted.jpg

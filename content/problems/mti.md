@@ -1,6 +1,8 @@
 ---
 title: Mi'gmawe'l Tplu'taqnn Inc. Statement of Claim
 short: MTI
+draft: true
+
 class: problem
 description: Statement of claim re recent Aboriginal title litigation in New Brunswick
 summary: 

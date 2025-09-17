@@ -1,6 +1,7 @@
 ---
 title: Sheltering in Public Spaces Bylaw 
 short: Bylaw
+draft: true
 class: problem
 description: Municipal by-law regarding sheltering on public property. 
 summary: 

@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/admin/</loc>
-    <lastmod>2024-08-30T15:43:56-03:00</lastmod>
+    <lastmod>2025-09-17T15:05:53-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/admin/syllabus/</loc>
-    <lastmod>2024-08-30T15:43:56-03:00</lastmod>
+    <lastmod>2025-09-17T15:05:53-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/problems/intro/</loc>
     <lastmod>2025-06-23T15:10:58-03:00</lastmod>
@@ -23,11 +23,8 @@
     <loc>http://localhost:1313/lessons/</loc>
     <lastmod>2025-06-03T14:21:04-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lessons/week02/</loc>
-    <lastmod>2025-06-16T20:37:23-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/problems/wowkwis/</loc>
-    <lastmod>2025-06-23T15:10:58-03:00</lastmod>
+    <lastmod>2025-09-17T15:05:53-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/admin/faq/</loc>
     <lastmod>2024-09-03T08:38:45-03:00</lastmod>
@@ -180,7 +177,7 @@
     <lastmod>2025-05-25T21:04:56-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/objectives/</loc>
-    <lastmod>2025-06-23T15:10:58-03:00</lastmod>
+    <lastmod>2025-09-17T15:05:53-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/planning/themes/</loc>
     <lastmod>2025-05-25T21:04:56-03:00</lastmod>
