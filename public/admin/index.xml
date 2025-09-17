@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Admin on Land &amp; Lawscapes: An Open Casebook</title>
+    <title>Administration on Land &amp; Lawscapes: An Open Casebook</title>
     <link>http://localhost:1313/admin/</link>
-    <description>Recent content in Admin on Land &amp; Lawscapes: An Open Casebook</description>
+    <description>Recent content in Administration on Land &amp; Lawscapes: An Open Casebook</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/admin/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/admin/syllabus/</guid>
-      <description>&lt;p&gt;This document is the official course syllabus for &lt;em&gt;Property in its Historical Context&lt;/em&gt; (LAWS 1015/25), Section B, in the 2024-2025 academic year. The course is taught by Professor Jamie Baxter at the &lt;a href=&#34;https://www.dal.ca/faculty/law.html&#34; target=&#34;_blank&#34; &gt;Schulich School of Law&lt;/a&gt;, Dalhousie University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-information&#34;&gt;&#xA;  General Information&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general-information&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;contact-details&#34;&gt;&#xA;  Contact Details&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#contact-details&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Please &lt;strong&gt;contact me by e-mail&lt;/strong&gt; (&lt;a href=&#34;mailto:jamie.baxter@dal.ca&#34; &gt;jamie.baxter@dal.ca&lt;/a&gt;) about all matters related to the course. My office is &lt;strong&gt;Weldon 326&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;administration&#34;&gt;&#xA;  Administration&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#administration&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Information about course requirements and procedures can be found in this document and the in the &lt;a href=&#34;http://localhost:1313/admin/schedule/&#34; &gt;Course Schedule&lt;/a&gt;. Both of these documents are available in the &amp;ldquo;&lt;a href=&#34;http://localhost:1313/admin/&#34; &gt;Admin&lt;/a&gt;&amp;rdquo; section of the course website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This document is the official course syllabus for &lt;em&gt;Property in its Historical Context&lt;/em&gt; (LAWS 1115/1125), Section C, in the 2025-2026 academic year. The course is taught by Professor Jamie Baxter at the &lt;a href=&#34;https://www.dal.ca/faculty/law.html&#34; target=&#34;_blank&#34; &gt;Schulich School of Law&lt;/a&gt;, Dalhousie University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-information&#34;&gt;&#xA;  General Information&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general-information&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;contact-details&#34;&gt;&#xA;  Contact Details&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#contact-details&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Please &lt;strong&gt;contact me by e-mail&lt;/strong&gt; (&lt;a href=&#34;mailto:jamie.baxter@dal.ca&#34; &gt;jamie.baxter@dal.ca&lt;/a&gt;) about all matters related to the course. My office is &lt;strong&gt;Weldon 326&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;administration&#34;&gt;&#xA;  Administration&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#administration&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Information about course requirements and procedures can be found in this document (Course Syllabus) and the in the &lt;a href=&#34;http://localhost:1313/admin/schedule/&#34; &gt;Course Schedule&lt;/a&gt;. Both of these documents are available in the &lt;a href=&#34;http://localhost:1313/admin/&#34; &gt;Administration&lt;/a&gt; section of the &lt;a href=&#34;http://localhost:1313/&#34; &gt;course website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Course Schedule</title>

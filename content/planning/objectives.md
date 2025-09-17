@@ -20,6 +20,7 @@ Week2 centres on the question, "who owns the fox?" In order to answer that quest
 - Explain Locke's theory of possession as the basis of property
 - Introduce the contingency of property in wild animals and contrast with domestic animals to distinguish possession from property; link to the relativity of possession (Armourie)
 - Apply Locke's theory to the rule of capture (Pierson) and introduce complications to defining the concept of dominium/control
+- Contrast common law and "state of nature" with statutory sources of property 
 - Explore the role of treaty in Mi'kmaw law re establishing relations with wild animals 
 - Explore the role of treaty between Mik'maw and Europeans establishing relations with each other vis-a-vis hunting wild animals and the economies around hunting 
 - Explore the examples of domestic animals being used to expand the "commons" and dispossess Indigenous peoples in early colonial New England [or save for week 3?]

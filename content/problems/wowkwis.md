@@ -18,9 +18,14 @@ links:
 weight: 2
 ---
 
-A Mi'kmaw hunter pursued a fox (*wowkwis*, in Mi'kmaq) during a long morning hunt across a large tract forest land on the Eastern Shore of Mi'kmaki (Nova Scotia) called *Sebelogwokun* ("where skins are stretched"). After several hours, the hunter eventually shot and mortally wounded the *wowkiws* within the boundaries of Fox Island Main Beach, which is provincial Crown Land (i.e. land "vested in the Crown" and "under the administration and control of the Minister" of Lands and Forests pursuant to the *Crown Lands Act*, RSNS 1989, c 114, s 9) and designed under the provincial *Beaches Act*, RSNS 1989, c 32. 
+A Mi'kmaw hunter pursued a fox (*wowkwis*, in Mi'kmaq) during a long morning hunt across a large tract of forest on the Eastern Shore of Mi'kmaki (Nova Scotia) called *Sebelogwokun* ("where skins are stretched"). After several hours, the hunter eventually shot and seriously wounded the *wowkiws* within the boundaries of Fox Island Main Beach, land designated as  provincial Crown Land <!--(i.e. land "vested in the Crown" and "under the administration and control of the Minister" of Lands and Forests pursuant to the-->under the *Crown Lands Act*, RSNS 1989, c 114, s 9 and as a "beach" under the *Beaches Act*, RSNS 1989, c 32. 
 
-Before the hunter could kill and capture the *wowkwis*, the animal was intercepted by an RCMP officer patrolling the beach, who placed it in a cage, where it soon succumbed to its injuries. Approaching the hunter, the officer demanded to see their hunting licence obtained under the *Wildlife Act*, RSNS 1989, c 504. The hunter replied that they carried no such license and was hunting pursuant to their constitutionally-protected treaty rights. 
+Before the hunter could kill and capture the *wowkwis* as it ran along the foreshore, the fox was suddenly chased back into the woods by a surprised golden retriever that had been walking--off leash--with its owner along the sand. As the hunter prepared to give chase they were intercepted by an RCMP officer patrolling the beach. The officer demanded that the hunter produce a valid hunting license as required by the *Wildlife Act*, RSNS 1989, c 504. The hunter replied that they held no such license and were hunting pursuant to their constitutionally-protected treaty rights. 
 
-**What is the legal relationship between the hunter and the *wowkwis*?**
+**What are the relevant legal relationships in this story? On what sources of law are those relationships based?**
 
+- Common law possession and ownership, including relative claims, as between hunter and officer (Locke, Pierson, Armourie)
+- Statutory ownership under the Wildlife Act
+- Treaty relationship between the hunter and the officer
+- Mi'kmaw law according the Netukulimk
+- Discrimination in application of the law (dog walker under the beaches act vs hunting license under the Wildlife Act)
