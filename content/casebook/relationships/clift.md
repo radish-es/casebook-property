@@ -11,7 +11,7 @@ public: true
 doctrines: 
   - possession
 
-bookHidden: true
+bookHidden: false
 weight: 30
 description: Two ships compete on the ice flows for seal pelts.
 ---

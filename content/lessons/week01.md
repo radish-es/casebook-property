@@ -3,14 +3,14 @@ title: Introduction to the Course
 
 type: lesson
 weight: 1
-classdate: 12 Oct 2025
+classdate: 29 Sept / 1 Oct 2025
 image: /imgs/kaleidoscope.jpg
 imgcaption:  Malcolm Lightbody on Unsplash
 objectives:
   - objective: Explain course procedures and expectations. After reading the Course Syllabus closely, can you explain to a classmate who might have missed this first week the key information they will need in order to navigate the course?
   - objective: Follow the problem-based, hypertext structure of the casebook and the course readings. We will begin to study a problem in our first week of the course. Consider how this approach, along with the linked structure of the reading materials, is designed to help you explore and develop a critical analysis of the readings. 
   - objective: Start to describe two different, historically-rooted styles of common law reasoning.This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
-description: This first lesson of the course will introduce you to the course structure and syllabus and help you to get started working with our problem-based learning model.
+description: This first lesson will introduce you to the course structure and syllabus and help you to get familiar with our problem-based learning model.
 materials:
   - harrison
 

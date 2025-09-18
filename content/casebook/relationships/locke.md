@@ -8,7 +8,7 @@ description: John Locke's main discourse on possession as the basis for property
 doctrines:
   - possession
 
-bookHidden: true
+bookHidden: false
 weight: 10
 ---
 

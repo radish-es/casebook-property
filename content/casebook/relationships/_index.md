@@ -3,7 +3,7 @@ type: docs
 Title: Chapter 1
 subtitle: Relationships and Recognition
 weight: 20
-bookCollapseSection: false
+bookCollapseSection: true
 bookTOC: false
 
 ---
