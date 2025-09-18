@@ -1,6 +1,5 @@
 ---
 title: Introduction to the Course
-
 type: lesson
 weight: 1
 classdate: 29 Sept / 1 Oct 2025

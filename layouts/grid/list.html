@@ -15,7 +15,7 @@
               <ul>
                   
                   <li>
-                    {{ if isset .Params "classdate" }}<div class="classdate-wrap"><div class="classdate">{{ .Params.classdate }}</div></div>{{ end }}
+                      {{ partial "classdate.html" . }}
                       <h3>{{ .Params.weight }}. {{.Title}}</h3>
                       <p>{{ .Params.description }}</p>
                       
