@@ -99,7 +99,7 @@ You are not permitted to record class meetings. The unauthorized use of any form
 
 ## Evaluation
 
-You will be evaluated in this course based on **take-home, open-book examinations**. In December, there will be a ["fail-safe" exam](https://myschulich.dal.ca/students/infopages/detail/14). If you get a higher mark on your April exam, your April mark will be your final mark. If you get a higher mark on your December exam, the December mark will count for 30% of your final grade. The December and April exams are both open book and each will take place during a scheduled **8-hour take-home period**. Your December Property exam is scheduled by the Associate Dean's office for **9AM-5PM Atlantic on December 8, 2025**. Your April Property exam is scheduled for **9AM-5PM Atlantic on April 13, 2026**. 
+You will be evaluated in this course based on **take-home, open-book examinations**. In December, there will be a ["fail-safe" exam](https://dalu.sharepoint.com/sites/my-schulich/SitePages/1L-Course-Information.aspx#fail-safe-exams). If you get a higher mark on your April exam, your April mark will be your final mark. If you get a higher mark on your December exam, the December mark will count for 30% of your final grade. The December and April exams are both open book and each will take place during a scheduled **8-hour take-home period**. Your December Property exam is scheduled by the Associate Dean's office for **9AM-5PM Atlantic on December 8, 2025**. Your April Property exam is scheduled for **9AM-5PM Atlantic on April 13, 2026**. 
 
 All examinations will be written on computer. Further information will be sent from the Associate Dean’s Office. Rules governing exams are included in the *Academic Calendar*.
 
