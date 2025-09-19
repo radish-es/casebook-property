@@ -1,0 +1,14 @@
+<div class="materials">
+    <ul>
+    <!-- In order to list materials alphabetically, need to create a map of titles: pages and then range through that map-->
+    {{ $m := .Params.Materials }}
+    {{ $scratch := newScratch }}
+    {{ $mapName := "exampleMap" }}
+    {{ range $m }}
+        {{ $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) }}
+    {{ end }}
+    {{ range $k, $v := ($scratch.Get $mapName ) }}
+        <li><a href="{{ $v.Permalink }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</a></li>
+    {{ end }}
+    </ul>
+</div>  

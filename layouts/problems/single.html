@@ -1,16 +1,32 @@
 {{ define "main" }}
   <article>
     <h1>
-      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-    </h1> 
-
-    {{ partial "breadcrumbs.html" . }}
+    <!--<a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>-->
+      {{ partial "breadcrumbs.html" . }}
+    </h1>
 
     {{ partial "description.html" . }}
 
     {{ partial "header-image.html" . }}
 
     {{- .Content -}}
+
+
+    <div class="component-wrapper">
+      <div class="component">
+        <h2>Readings for this Week</h2>
+        <p class="component-explanation">Choose one of the reading materials from the list below--ordered alphabetically--to start analyzing this week's problem.</p>
+        
+        {{ range (site.GetPage "lessons").Pages }}
+          {{ if eq .Params.weight $.Params.weight }}
+            {{ partial "learning-materials.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+
+
 
   </article>
 {{ end }}

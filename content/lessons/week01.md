@@ -1,57 +1,66 @@
 ---
 title: Introduction to the Course
+description: This first lesson will introduce you to the course structure and syllabus and help you to get familiar with our problem-based learning model.
 type: lesson
 weight: 1
 classdate: 29 Sept / 1 Oct 2025
 image: /imgs/kaleidoscope.jpg
 imgcaption:  Malcolm Lightbody on Unsplash
 objectives:
-  - objective: Explain course procedures and expectations. After reading the Course Syllabus closely, can you explain to a classmate who might have missed this first week the key information they will need in order to navigate the course?
-  - objective: Follow the problem-based, hypertext structure of the casebook and the course readings. We will begin to study a problem in our first week of the course. Consider how this approach, along with the linked structure of the reading materials, is designed to help you explore and develop a critical analysis of the readings. 
-  - objective: Start to describe two different, historically-rooted styles of common law reasoning.This concept of judicial style is one that we develop and will use throughout the course. This week, you will be asked to start comparing two different styles in Harrison v Carswell and to discuss the implications of their differences.  
-description: This first lesson will introduce you to the course structure and syllabus and help you to get familiar with our problem-based learning model.
+  - objective: Explain course procedures and expectations. After reading the Course Syllabus closely, you should be able to explain to a classmate who missed this first week the key information they will need in order to navigate the course.
+  - objective: Describe what it means to engage in a "problem-based" approach to studying law and follow the hypertext structure of the course materials to answer a problem. Consider how this approach, along with the linked structure of the reading materials, is designed to help you develop a more independent and critical analysis of the readings.
+  - objective: Identify and compare how judges define a legal issue differently based on the same set of facts.
 materials:
   - harrison
+  - protection-property
+  - committee
 
 ---
 
-For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of land and other "things"--both corporeal and not--property offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
+## Welcome to Property
 
-There are likewise many ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach the subject from a historical perspective–one that puts the critical emphasis on the role of land relationships in Canada’s political economy as the legal ground that determines so much about who benefits from the economic system and who does not.
+For first-year law students, "property" can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of land and other "things" both corporeal and incorporeal, property law offers up a disorderly pattern of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
 
-This first week of the course introduces you to the core method of problem-based learning in the course and starts to develop some of the key questions and themes that we will explore throughout the year. 
+There are likewise many ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach the subject from a historical perspective–one that puts the critical emphasis on the role of land-based relationships in Canada as the legal ground that determines so much about who benefits from our economic system and who does not.
+
+This first week of the course introduces you to the method of problem-based learning used in the course and starts to develop some of the key questions and themes that we will explore throughout the year.
 
 ## Read the Syllabus
 
-Before you start to explore the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "admin/syllabus" >}}) and reviewing the [Course Schedule]({{< ref "admin/schedule" >}}). These are the main documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings and class meetings.
+Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "admin/syllabus" >}}). This is the main document you'll need to refer to throughout the year to understand the course logistics, policies and resources.
 
-Aim to begin this week with a good understanding of:
+Aim to come to class this week with a good understanding of:
 
-- Course procedures for communicating with me and arranging appointments outside of class meetings;
+- How to access the [course website and assigned materials]({{< ref "admin/syllabus#online-casebook-and-course-materials" >}});
 
-- How to access the course website and assigned materials;
+- Course procedures for communicating with me and [arranging appointments]({{< ref "admin/syllabus#support-outside-the-classroom" >}}) outside of class meetings;
 
-- Goals and expectations for class preparation and participation in class meetings;
+- [Goals and expectations]({{< ref "admin/syllabus#course-goals-and-expectations" >}}) for class preparation and participation in class meetings;
 
-- How you will be evaluated in the course; and
+- How you will be [evaluated]({{< ref "admin/syllabus#evaluation" >}}) in the course; and
 
-- Your rights and responsibilities related to accessibility and accommodations.
+- Your rights and responsibilities based on [law school and university policies]({{< ref "admin/syllabus#law-school-and-university-policies" >}}).
 
 I will highlight some key points from these materials at the beginning of this week's class meeting and will make time for your questions about the syllabus. 
 
-## Problem-Based, Hypertext Learning
+## Problem-Based Learning
 
-You will quickly notice that this casebook looks quite different from most of the other legal casebooks you are using in first year. One feature is that the casebook is fully digital and freely accessible online. But more importantly, the book is organized around two distinctive approaches to legal learning:
+You may have already noticed that this casebook looks quite different from most of the other legal casebooks you are using in first year. One feature is that the casebook is fully digital and freely accessible online. But more importantly, the book is organized around a distinctive approach to studying legal subjects called *problem-based learning*. All of your reading and our classroom meetings will be based on and motivated by problems--both hypothetical problems and those drawn from real-world events, or some mix of the two. These problems are designed to help you develop the skills to use juridical tools (cases, statues, articles, etc) to effectively identify relevant legal questions and to think critically and independently about the answers. 
 
-1. **Problem-based learning:** all of your reading and our classroom meetings will be based on problems --  both hypothetical or drawn from real-world events, or some mix of the two. These problems are designed to help you focus on how to use the course materials (cases, statues, articles, etc) to identify relevant legal questions and to encourage you to explore different ways to answer those questions.  
+Problems (or "hypos") have been a familiar way of testing law students' skills for a long time--especially on final exams. Problem-based learning is related but different, in the sense that we start with the problems rather than end with them: the problems motivate what materials we read, how we read them and how we connect them to one another. 
 
-2. **Hypertext:** rather than working through a linear progression of reading material, as in a printed book, this casebook requires you to follow pathways of connection (links) between different components of the course. As a result of this structure, there is no single order in which to engage the course materials that are assigned weekly. Part of what you will be asked to do in this course is to develop your own understanding of how each piece or component is connected to each other and to the whole. The practice of working with material in this way is a critical one for legal analysis. 
+Practically, this means that the way you prepare and review our weekly course materials will look different than it does in many of your other courses. You will come to understand this more fully in practice, but some brief background is provided below. 
 
-## Our First Problem
+## History, Doctrine and Hypertext
 
-Instead of spending a lot of time up front on formal or abstract concepts, our plan for this first week is to jump right into the practice of analyzing problems. Start by reading our first problem for the course: ***[Protest at West Eggleston]()***. From there, please review and take notes on the linked "Related Reading" that appears in the right-hand column on each page. 
+Most first-year law school courses are organized around the idea of legal "doctrines", i.e. a set of legal principles addressing a particular legal issue and which evolve as cases are adjudicated and disputes resolved over time. This is a good way to study formal legal concepts but a bad way to understand law, legal change and legal pluralism in their broader historical contexts. For example, studying how the doctrine of "nuisance" has, on its own, emerged and been refined over many years to address a problem like industrial pollution makes it very difficult to understand how pollution, in any given period, is affected not only by nuisance but also by a range of other legal doctrines--like those concerning zoning and other public land use controls.
 
-You may choose to read the assigned material in any order you choose, by following the links on each page. But please note that *all* of the material assigned is mandatory; you should complete all of it before our first class of the week. This week, that includes *Harrison v Carswell*, the *Protection of Property Act*
-and two concepts that describe "Trespass to Land" and "Styles of Argument". 
+To address this challenge of "law in its historical context", we need a way to study law in two dimensions--doctrine and history--at once and in an integrated manner. That is, even as we study how nuisance doctrine has changed over, say, the hundred years between 1900 and 2000, we also want to understand how nuisance law was connected to and influenced by other legal developments in zoning law other doctrinal areas, in and around the year 1950. 
 
-"External" links (outside the casebook website, e.g., to news articles, reports, or statistics) are optional reading material for your own interest and context, unless otherwise noted.
+![](/imgs/studying-law.jpg)
+
+*Why* do we want to do this? Basically, because *history matters*. And not just out of an academic interest in the way things "were" but because if we want to make sense of our current legal context, as good lawyers must do, the only way to achieve this is by building up a set of skills and a practice of actively interpreting the past. 
+
+The final question then is: *how*? Rather than working only through a linear progression of doctrinal materials, as we would expect to do in a printed book, our coursebook is organized as a *hypertext* with a network of linkages that allow you to follow different lines of material, both through a single doctrine over time and over multiple doctrines within a particular period. 
+
+Applying this framework means that you cannot simply follow a single pathway through the reading materials assigned each week. Instead, you are asked to make choices about how you approach and connect the materials in light of the weekly problem you are trying to solve. This tests your capacity for independent critical analysis. 

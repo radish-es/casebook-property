@@ -24,27 +24,9 @@
               {{ end }}
           </ul>
         </div>
-    </div>
-  </div>
-
-  <div class="component-wrapper">
-    <div class="component">
-        <h2>Learning Materials</h2>
-        <p class="component-explanation">These are the materials you will need to prepare this week, listed alphabetically.</p>
-        <div class="materials">
-          <ul>
-            <!-- In order to list materials alphabetically, need to create a map of titles: pages and then range through that map-->
-            {{ $m := .Params.Materials }}
-            {{ $scratch := newScratch }}
-            {{ $mapName := "exampleMap" }}
-            {{ range $m }}
-              {{ $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) }}
-            {{ end }}
-            {{ range $k, $v := ($scratch.Get $mapName ) }}
-              <li><a href="{{ $v.Permalink }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
+      <h2>Learning Materials</h2>
+        <p class="component-explanation">This is a list of the materials you will need to prepare this week, ordered alphabetically.</p>
+        {{ partial "learning-materials.html" . }}
     </div>
   </div>
 
@@ -55,6 +37,7 @@
       {{ range (site.GetPage "problems").Pages }}
       {{ if eq .Params.weight $.Params.weight }}
         <h2>Weekly Problem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="component-explanation">After you have read through the background for this week's lesson above, your next step is to read the weekly problem.</p>
       {{ end }}
     {{end}}
         <div class="problem">
