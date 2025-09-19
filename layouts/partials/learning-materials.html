@@ -8,7 +8,7 @@
         {{ $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) }}
     {{ end }}
     {{ range $k, $v := ($scratch.Get $mapName ) }}
-        <li><a href="{{ $v.Permalink }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</a></li>
+        <li><a href="{{ $v.Permalink }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</a>{{ if isset $v.Params "facts" }}: {{$v.Params.Facts}}{{ end }}{{ if isset $v.Params "description" }}: {{$v.Params.Description}}{{ end }}</li>
     {{ end }}
     </ul>
 </div>  

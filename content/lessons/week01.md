@@ -27,6 +27,8 @@ This first week of the course introduces you to the method of problem-based lear
 
 ## Read the Syllabus
 
+![](/imgs/dam.jpg "800px")
+
 Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "admin/syllabus" >}}). This is the main document you'll need to refer to throughout the year to understand the course logistics, policies and resources.
 
 Aim to come to class this week with a good understanding of:
