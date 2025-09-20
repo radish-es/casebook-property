@@ -1,3 +1,4 @@
+<!-- From https://werat.dev/blog/automatic-image-size-attributes-in-hugo/-->
 {{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
 <img
     src="{{ .Destination | safeURL }}" alt="{{ .Text }}"

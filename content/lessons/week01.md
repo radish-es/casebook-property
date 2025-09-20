@@ -27,8 +27,6 @@ This first week of the course introduces you to the method of problem-based lear
 
 ## Read the Syllabus
 
-![](/imgs/dam.jpg "800px")
-
 Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "admin/syllabus" >}}). This is the main document you'll need to refer to throughout the year to understand the course logistics, policies and resources.
 
 Aim to come to class this week with a good understanding of:
@@ -59,7 +57,7 @@ Most first-year law school courses are organized around the idea of legal "doctr
 
 To address this challenge of "law in its historical context", we need a way to study law in two dimensions--doctrine and history--at once and in an integrated manner. That is, even as we study how nuisance doctrine has changed over, say, the hundred years between 1900 and 2000, we also want to understand how nuisance law was connected to and influenced by other legal developments in zoning law other doctrinal areas, in and around the year 1950. 
 
-![](/imgs/studying-law.jpg)
+![](/imgs/studying-law.jpg "1000px")
 
 *Why* do we want to do this? Basically, because *history matters*. And not just out of an academic interest in the way things "were" but because if we want to make sense of our current legal context, as good lawyers must do, the only way to achieve this is by building up a set of skills and a practice of actively interpreting the past. 
 

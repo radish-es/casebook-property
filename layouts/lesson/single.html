@@ -33,13 +33,14 @@
     <div class="component">
       {{ range (site.GetPage "problems").Pages }}
       {{ if eq .Params.weight $.Params.weight }}
-        <h2>Weekly Problem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="component-explanation">After you have read through the background for this week's lesson above, your next step is to read the weekly problem.</p>
+        <h2><a href="{{ .RelPermalink }}">Weekly Problem: {{ .Title }}</a></h2>
+        <p class="component-explanation">After you have read through the background for this week's lesson above, your next step is to review the weekly problem.</p>
       {{ end }}
     {{end}}
         <div class="problem">
           {{ range (site.GetPage "problems").Pages }}
             {{ if eq .Params.weight $.Params.weight }}
+              {{ if isset .Params "image" }}<img src={{ .Params.image }} style="max-width: 200px" />{{end}}
               <p>{{ if isset .Params "description" }}{{ .Params.description }}{{end}}</p>
             {{ end }}
           {{end}}
