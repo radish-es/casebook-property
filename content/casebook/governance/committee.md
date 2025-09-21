@@ -1,29 +1,25 @@
 ---
-class: case
 title: Committee for the Commonwealth of Canada v Canada
 short: Committee v Canada
-reporter: 1991 CanLII 119 (SCC)
+type: case
+reporter: 1991 CanLII 119 (SCC), [1991] 1 SCR 139
 year: 1991
-facts: 
+facts: Two individuals from the Committee for the Commonwealth of Canada went to Montreal's Dorval Airport to promote their group's activities and goals and to recruit new members by engaging with passers-by and distributing information materials. They were asked to cease these activities by the airport's assistant manager, who advised them that political propaganda activities at the airport were prohibited under the relevant Regulations. 
 issue: 
 held: 
+summary: In this case, the Supreme Court of Canada addressed the question of whether restrictions on political activity (engaging passers-by and distributing leaflets to recruit new members) at an airport owned by the federal government were in violation of the respondents' Charter-protected freedom of expression. In the course of their decisions, the judges discussed some of the broader principles applicable to the limits that government can place on access to and the use of "public" property. The decision below is a short excerpt from Justice L'Heureux-Dubé's opinion concurring with the majority's finding that the respondents' freedom of expression was infringed. 
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - right-to-shelter
-links:
-  - url: content/cases/victoria-city.md
-    explanation: Is Justice L'Heureux-Dubé's view here on the nature of and limitations on government-owned property consistent with the approach to the right to shelter developed in Victoria (City) v Adams and subsequent cases? 
-
 bookHidden: true
 ---
 
-[*The following case dealt with the issue of whether restrictions on political activity (distributing leaflets) at an airport as public property were in violation of the applicants' freedom of expression protected by the Charter. In the course of their decisions, the judges discussed broader principles applicable to understanding limitations on government ownership of property.*]
+##  L'Heureux-Dubé J. --
 
-##  L'Heureux-Dubé J. (concurring) --
+[...]
 
 The appellant takes a hard line in urging this Court to allow the appeal, submitting that as owner of property, the government has the right to exclude whomever it wants, and to impose conditions on invitees to its property without limitation by the Charter:
 

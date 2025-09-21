@@ -2,10 +2,10 @@
 title: Protection of Property Act
 short: Protection of Property Act
 reporter: 'RSNS 1989, c 363'
-description: Among other things, this Act creates a quasi-criminal action in trespass.
+description: This statute establishes a quasi-criminal action in trespass to land and sets out the conditions under which such an action can be made out, including what counts as an "occupier" of the relevant premises. 
 doctrines:
   - trespass
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca

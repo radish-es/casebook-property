@@ -13,7 +13,7 @@
         {{ end }}
     {{ end }}
     {{ $check := $.Store.Get "check"}}
-    {{if eq $check "1"}}<h4>Contextual Links</h4>{{end}}
+    {{if eq $check "1"}}<h4>Reading Links</h4>{{end}}
 
             <!--forward links-->
             {{ range . }}<!-- range over each row in the table -->
@@ -26,11 +26,11 @@
                     <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
                     <p>{{ $descript }}</p>
                 </div>
-                {{ end }}
+                {{ end }}   
             {{ end }}
             {{ end }}
 
-            <!--backward links-->
+            <!--backward links
             {{ range . }}
             {{ $item := index . 1 }}  
             {{if eq $item $current}} 
@@ -42,6 +42,7 @@
                 {{ end }}
             {{ end }}
             {{ end }}
+             -->
 
     {{ end }}
     {{ else }}
