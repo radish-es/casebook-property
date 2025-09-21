@@ -29,6 +29,34 @@ Taken to their extreme, the consequences of such a determination would undermine
 
 [...]
 
+An example of how public property is to be contrasted with private property can be found in articles 399 and 400 of the *Civil Code of Lower Canada*:
+
+> 399 Property belongs either to the Crown, or to municipalities or other corporations, or to individuals.
+>
+> That of the first kind is governed by public or administrative law.
+>
+> That of the second is subject, in certain respects as to its administration, its acquisition and its alienation, to certain rules and formalities which are peculiar to it.
+>
+> As to individuals, they have the free disposal of the things belonging to them, under the modifications established by law.
+>
+> 400 Roads and public ways maintained by the state, navigable and floatable rivers and streams and their banks, the sea-shore, lands reclaimed from the sea, ports, harbours and roadsteads and generally all those portions of territory which do not constitute private property, are considered as being dependencies of the crown domain.
+>
+> The same rule applies to all lakes and to all non-navigable and non-floatable rivers and streams and their banks, bordering on lands alienated by the Crown after the 9th of February, 1918.
+
+[...]
+
+ If members of the public had no right whatsoever to distribute leaflets or engage in other expressive activity on government-owned property (except with permission), then there would be little if any opportunity to exercise their rights of freedom of expression.  Only those with enough wealth to own land, or mass media facilities (whose ownership is largely concentrated), would be able to engage in free expression.  This would subvert achievement of the *Charter*'s basic purpose as identified by this Court, i.e., the free exchange of ideas, open debate of public affairs, the effective working of democratic institutions and the pursuit of knowledge and truth.  These eminent goals would be frustrated if for practical purposes, only the favoured few have any avenue to communicate with the public.
+
+On the other hand, the *Charter*'s framers did not intend internal government offices, air traffic control towers, prison cells and Judges' Chambers to be made available for leafletting or demonstrations. It is evident that the right to freedom of expression under s. 2(b) of the *Charter* does not provide a right of access to all property whether public or private.  Such a wholesale transformation of all government property is not necessary to fulfil the *Charter*'s purposes, or to avoid a stifling of free expression.  As this Court held in *R. v. Big M Drug Mart*, *supra*, at p. 344, while the *Charter* should be given a broad and generous interpretation, "it is important not to overshoot the actual purpose of the right or freedom in question".
+
+The logical compromise then is to recognize that some, but not all, government-owned property is constitutionally open to the public for engaging in expressive activity.  Restrictions on expression in particular places will be harder to defend than in others.  In some places the justifiability of the restrictions is immediately apparent.  As Dickson C.J. explained in *R. v. Oakes*, 1986 CanLII 46 (SCC), [1986] 1 S.C.R. 103, at p. 138:
+
+> I should add, however, that there may be cases where certain elements of the s. 1 analysis are obvious or self-evident.
+
+Certain criteria, while not themselves dispositive, can assist in determining what locations are appropriately open for public expression, and bear the earmarks of "public arenas".  The status of airports can then be determined in light of these standards.
+
+[...]
+
 In order to assess whether airport terminals are properly considered public arenas, we must explore their function in contemporary society. Airport terminals are freely accessible to all members of the public. However, the terminals themselves can be divided broadly into security zones — such as Customs, check-in counters, metal detector surveillance areas, and baggage inspection; and non-security zones — such as lounges, waiting areas, restaurants, gift and cigar shops, newsstands, and the connecting halls and foyers. Certain expressive activity is clearly more compatible within the latter areas than within the former.
 
 Airports also draw a tremendous number of travellers over the course of a day. The Dorval operations manager testified that about 20,000 passengers use the airport daily, often accompanied by other persons. Few locations can parallel this reliable concentration of people. Bus, train and airport terminals are indeed modern boulevards, extensions of Main Street. The list of sites traditionally associated with public expression is not static. As means of locomotion progress, people shall begin to gather in areas heretofore unknown. Hence the "traditional" component of the public arena analysis must appreciate the "type" of place historically associated with public discussion, and should not be restricted to the actual places themselves.

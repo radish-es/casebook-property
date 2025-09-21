@@ -6,4 +6,4 @@ weight: 1
 bookCollapseSection: true
 ---
 
-This section contains administrative documents for the course, including the *[Course Syllabus]({{< ref "admin/syllabus" >}})* and *[Course Schedule]({{< ref "admin/schedule" >}})*. 
+This section contains administrative documents for the course, including the *[Course Syllabus]({{< ref "admin/syllabus" >}})*.

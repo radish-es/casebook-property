@@ -12,7 +12,7 @@ doctrines:
   - finders
 
 weight: 21
-bookHidden: false
+bookHidden: true
 ---
 
 ### Pratt, C.J. --
