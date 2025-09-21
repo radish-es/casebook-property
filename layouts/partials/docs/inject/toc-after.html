@@ -1,0 +1,53 @@
+<!--CONTEXTUAL LINKS WITH CSV-->
+{{ with $file := "links.csv" }}
+    {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+
+    {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
+
+    <!-- check to see if links exist in CSV, the write heading if so-->
+    {{ $.Store.Set "check" "0" }}
+    {{ range .}}
+        {{ range . }}
+        {{ if eq $current .}}{{ $.Store.Set "check" "1" }}{{ end }}
+        {{ end }}
+    {{ end }}
+    {{ $check := $.Store.Get "check"}}
+    {{if eq $check "1"}}<h4>Reading Links</h4>{{end}}
+
+            <!--forward links-->
+            {{ range . }}<!-- range over each row in the table -->
+            {{ $item := index . 0 }}  
+            {{if eq $item $current}} <!-- test if current page is equal to right-most column-->
+                {{ $item := index . 1 }}
+                {{ $descript := index . 2 }}    
+                {{ with $.Site.GetPage $item }}
+                <div class="forward">
+                    <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
+                    <p>{{ $descript }}</p>
+                </div>
+                {{ end }}   
+            {{ end }}
+            {{ end }}
+
+            <!--backward links
+            {{ range . }}
+            {{ $item := index . 1 }}  
+            {{if eq $item $current}} 
+                {{ $item := index . 0 }} 
+                {{ with $.Site.GetPage $item }}
+                <div class="backward">
+                    <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
+                </div>
+                {{ end }}
+            {{ end }}
+            {{ end }}
+             -->
+
+    {{ end }}
+    {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+    {{ end }}
+{{ else }}
+    {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}

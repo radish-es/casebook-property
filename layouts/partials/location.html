@@ -1,0 +1,24 @@
+ <!-- Find and print the problem associated with the item -->
+{{ range (site.GetPage "lessons").Pages }}
+    {{ $k := . }}
+    {{ range .Params.materials }}
+    {{ if eq . $.File.BaseFileName }} 
+        {{ $v := $k.Params.weight }}
+        {{ range (site.GetPage "problems").Pages }}
+        {{ if eq $v .Params.weight}}
+            <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
+            <a href="{{ .RelPermalink }}">Problem: {{ .Title }}</a>
+        {{ end }}
+        {{ end }}
+    {{end}}
+    {{ end }}
+{{ end }}
+ 
+ 
+ <!-- find chapter from casebook 
+{{- range last 1 .Ancestors.Reverse }}
+    | <a href="{{ .RelPermalink }}">Casebook {{ .Title }}</a>
+{{- end }}
+--> 
+
+

@@ -1,0 +1,48 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>
+        {{ partial "docs/title.html" . }}
+    </h1> 
+
+    {{ .Content }}
+
+  </article>
+
+    <!-- This piece ranges over the "doctrines" taxonomy within the current subfolder, e.g. Chapter 1 -- note how Hugo uses .CurrentSection.Title to do this-->
+
+    <!-- I think I need to replace this layout template with a shortcode that lists item for a particular taxonomy value -- this would provide for more flexibility and customization -->
+
+    {{ $sec := .CurrentSection.Title }}
+    {{ $counter := 0 }}
+
+    {{ range $name, $taxonomy := where .Site.Taxonomies.doctrines ".Page.CurrentSection.Title" $sec}}
+
+        {{ $counter = add $counter 1 }}
+
+        <h3>Section {{ $counter }}. {{ $name | humanize }} </h3>
+        
+        <div class="wrapper-casebook">
+        
+            {{ $p := where .Pages "Params.doctrines" "intersect" (slice $name) }}
+            {{ range $p }}
+        
+            <div class="box a">
+                <ul>
+                  
+                    <li>
+                        <h3><a href="{{ .Permalink }}">{{.Title}}</a></h3>
+                        <p>{{ .Params.description }}</p>
+                    </li>
+                  
+                </ul> 
+            </div>
+
+            {{ end }}
+
+        </div>
+        
+    {{ end }}
+
+</main>
+{{ end }}

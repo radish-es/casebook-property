@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>
+        {{ partial "docs/title.html" . }}
+    </h1> 
+
+    {{ .Content }}
+
+    <div class="wrapper-casebook">
+
+      {{ range .Pages }}
+        <div class="box a">
+          <a href="{{ .Permalink }}">
+              <ul>
+                  
+                  <li>
+                      {{ partial "classdate.html" . }}
+                      <h3>{{ .Params.weight }}. {{.Title}}</h3>
+                      <p>{{ .Params.description }}</p>
+                      
+                  </li>
+                  
+              </ul> 
+          </a>
+        </div>
+      {{ end }}
+
+
+    </div>
+
+  </article>
+
+</main>
+{{ end }}

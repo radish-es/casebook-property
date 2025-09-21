@@ -1,11 +1,11 @@
-baseURL: https://example.com/
-title: Property Casebook
+baseURL: https://property.opensourcelaw.ca/
+title: "Landscapes: An Open Legal Hypertext"
 
 # Hugo Book theme as a Hugo module
 
 module:
   imports:
-  - path: github.com/radish-es/casebook-layouts
+  # - path: github.com/radish-es/casebook-layouts
   # - path: github.com/radish-es/casebook-property-modules
   #   mounts:
   #   - source: content/cases
@@ -24,3 +24,11 @@ params:
   BookDateFormat: "January 2, 2006"
   # BookLogo: /logo.png
   # BookMenuBundle: /menu
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  doctrine: doctrines

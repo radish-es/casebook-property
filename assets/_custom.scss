@@ -1,3 +1,45 @@
+/* Variables */
+
+$link-color: #006699;
+
+article p {
+  line-height: 1.5;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+h6 {
+  font-size: 1.1em;
+}
+
+.markdown a:visited, .markdown a, .book-menu a.active {
+  color: $link-color;
+}
+
+/* Main Page Elements */
+
+.page-description {
+  font-style: italic;
+}
+
 /*TOC*/
 
 /* TOCBOT style - copied */
@@ -10,6 +52,11 @@ li.toc-list-item {
   list-style: none;
   font-size: 0.9em;
   margin-bottom: 5px;
+}
+
+.book-toc {
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 /* Font Awesome Icon Styling */
@@ -61,19 +108,33 @@ div.suggest-edits a, div.suggest-edits a:visited {
 
 /* LEARNING OUTCOMES */
 
-.learning_outcomes li:not(:last-child) {
-  margin-bottom: 1em;
+p.component-explanation {
+  color: darkgray;
+  font-style: italic;
 }
 
 /* MODULAR COMPONENTS */
 
-.class_wrapper {
+.component-wrapper {
   border-width: 1px;
   border-color: #000;
-  border-style: dashed;
-  border-radius: 40px;
-  padding: 15px;
-  margin-top: 30px;
+  border-style: solid;
+  border-radius: 0px;
+  padding: 0 15px;
+  margin-top: 10px;
+  background: #fff;
+}
+
+.component-wrapper li:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+.component-wrapper  li {
+  line-height: 1.4em;
+}
+
+div.component  {
+  margin: 20px;
 }
 
 .class_label {
@@ -83,11 +144,31 @@ div.suggest-edits a, div.suggest-edits a:visited {
   background: #000;
   color: #fff;
   padding: 5px 8px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .class_label a, .class_label a:visited {
   color: #fff;
+}
+
+.forward {
+  border-width: 1px;
+  border-color: #000;
+  border-style: solid;
+  border-radius: 0px;
+  padding: 0px 15px;
+  margin-top: 10px;
+  background: #e6f2ff;
+}
+
+.backward {
+  border-width: 1px;
+  border-color: #000;
+  border-style: solid;
+  border-radius: 0px;
+  padding: 0px 15px;
+  margin-top: 10px;
+  background: burlywood
 }
 
 /*LIST PAGES*/
@@ -97,8 +178,8 @@ div.suggest-edits a, div.suggest-edits a:visited {
   border-width: 1px;
   border-color: #000;
   border-style: dashed;
-  border-radius: 40px;
-  padding: 15px;
+  border-radius: 0px;
+  padding: 0 15px;
   margin-top: 30px;
 }
 
@@ -107,21 +188,24 @@ div.suggest-edits a, div.suggest-edits a:visited {
 }
 
 .list-tag {
-  display: inline;
-  background: #000;
+  display: inline-block;
+  background: #d6d6d6;
   color: #fff;
-  padding: 5px 8px;
+  padding: 5px 12px;
   border-radius: 10px;
   width: fit-content;
   margin-left: 2px;
-  margin-bottom: 2px;
+  margin-bottom: 10px;
 }
 
 .list-tag a:visited {
   color: #fff;
 }
 
-.list-descrption {}
+.list-description {
+  font-style: italic;
+  color:#848383
+}
 
 .list-page-label {
   position: absolute;
@@ -135,4 +219,114 @@ div.suggest-edits a, div.suggest-edits a:visited {
 
 .list-page-label a, .list-page-label a:visited {
   color: #fff;
+}
+
+/* Page header image*/
+
+div.header-img {
+   display: block;
+}
+
+.header-img figure {
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+}
+
+.header-img img {
+  border: solid black 1px;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+.header-img figcaption {
+  font-size: 0.75em;
+  text-align: center;
+}
+
+/*Footnotes*/
+
+.footnotes {
+  font-size: 0.75em;
+}
+
+/*  Grid Layout */
+
+.wrapper-casebook {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  background-color: #fff;
+  color: #000;
+  border-radius: 0px;
+  padding: 15px;
+  font-size: 0.9em;
+  border: 1px solid darkgrey
+}
+
+div.box:hover {
+  background-color: #D3D3D3;
+}
+
+.box a {
+  color: #000;
+  text-decoration: none;
+}
+
+.box h3 {
+  margin: 0;
+  font-size: 1.4em;
+  color: #006699;
+}
+
+.box ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.box li {
+}
+
+div.description {
+  font-size: 0.7em;
+}
+
+.classdate-wrap {
+  text-align: left;
+}
+
+div.classdate {
+  border: 1px solid #000;
+  background: #000;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 2px;
+  position: relative;
+  top: 0;
+  right: 0;
+}
+
+/* Breadcrumbs */
+
+ul.breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: end;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+  display: inline-block;
+  margin: 0 0.25rem;
+  content: ">";
 }

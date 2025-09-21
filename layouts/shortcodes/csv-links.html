@@ -1,0 +1,37 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+
+    {{- $current := trim $.Page.File.LogicalName ".md" -}} <!-- Gets the trimmed filename of current file-->
+
+
+        <h3>Forward links</h3>
+          {{ range . }}<!-- range over each row in the table -->
+            {{ $item := index . 0 }}  
+            {{if eq $item $current}} <!-- test if current page is equal to right-most column-->
+                {{ $item := index . 1 }}
+                {{ $descript := index . 2 }}    
+                {{ with $.Site.GetPage $item }}
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>: {{ $descript }}<br/>
+                {{ end }}
+            {{ end }}
+          {{ end }}
+
+          <h3>Backward links</h3>
+          {{ range . }}
+            {{ $item := index . 1 }}  
+            {{if eq $item $current}} 
+                {{ $item := index . 0 }} 
+                {{ with $.Site.GetPage $item }}
+                    <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+                {{ end }}
+            {{ end }}
+          {{ end }}
+
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}

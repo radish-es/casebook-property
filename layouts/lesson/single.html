@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article class="markdown book-article">
+
+  {{ partial "classdate.html" . }}
+
+  <h1>
+    <!--<a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>-->
+    {{ partial "breadcrumbs.html" . }}
+  </h1>
+
+  {{ partial "description.html" . }}
+
+  {{ partial "header-image.html" . }}
+
+  <div class="component-wrapper">
+    <div class="component">
+        <h2>Learning Objectives</h2>
+        <p class="component-explanation">Learning objectives are statements about the skills, knowledge and attitudes learners will acquire or develop when they complete this lesson.</p>
+        <div class="objectives">
+          <p>By the end of this week, you should be able to:</p>
+          <ul>
+              {{ range .Params.Objectives }}
+              <li>{{ .objective }}</li>
+              {{ end }}
+          </ul>
+        </div>
+    </div>
+  </div>
+
+  {{- .Content -}}
+
+  <div class="component-wrapper">
+    <div class="component">
+      {{ range (site.GetPage "problems").Pages }}
+      {{ if eq .Params.weight $.Params.weight }}
+        <h2><a href="{{ .RelPermalink }}">Weekly Problem: {{ .Title }}</a></h2>
+        <p class="component-explanation">After you have read through the background for this week's lesson above, your next step is to review the weekly problem.</p>
+      {{ end }}
+    {{end}}
+        <div class="problem">
+          {{ range (site.GetPage "problems").Pages }}
+            {{ if eq .Params.weight $.Params.weight }}
+              {{ if isset .Params "image" }}<img src={{ .Params.image }} style="max-width: 200px" />{{end}}
+              <p>{{ if isset .Params "description" }}{{ .Params.description }}{{end}}</p>
+            {{ end }}
+          {{end}}
+        </div>
+    </div>
+  </div>
+
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

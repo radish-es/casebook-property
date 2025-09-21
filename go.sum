@@ -1,5 +1,7 @@
 github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0 h1:Bj/rhvEOix4TXwbzlZttiIi+5fTOqT3aQs1zMsprIXQ=
 github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/alex-shpak/hugo-book v0.0.0-20250530233833-f2c703e15588 h1:pwxkzpzw/iJSxMBgQLWjYMQubhIemLG3UrNjeWoCkSM=
+github.com/alex-shpak/hugo-book v0.0.0-20250530233833-f2c703e15588/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/radish-es/casebook-layouts v0.0.0-20230503173406-59d52d42fb40 h1:YIqWhNkHPpb7+ZuE9bxkIMgb/uJo2mhbwrNlYu3UYV0=
 github.com/radish-es/casebook-layouts v0.0.0-20230503173406-59d52d42fb40/go.mod h1:WS0V2AiV4OkzK8hwt2f1YFyd7EBcAK3SMmxdUeFQmPc=
 github.com/radish-es/casebook-layouts v0.0.0-20230503175225-30915d631aff h1:W7YDV25RpsREIS4D+Z8FnzxXanX35JXAQ1M4HfiFiHg=
