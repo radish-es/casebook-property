@@ -7,7 +7,7 @@ imgcaption: Ryan Sharpe / Wikimedia Commons
 weight: 1
 ---
 
-## Some Hypothetical Facts
+## Hypothetical Facts
 
 Suppose that Dalhousie University wants to bring a claim against a group of student and local-resident protesters under the *Protection of Property Act*, RSNS 1989, c 363. The protesters are part of the "Divest Dalhousie" movement that is pressuring the University to divest its endowment portfolio of all  assets in the fossil fuel and arms manufacturing sectors. The ongoing protest, which has been mostly peaceful and carried out in sunny weather, is taking place on the University Quad and inside one of the main administration buildings. 
 

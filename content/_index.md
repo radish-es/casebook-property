@@ -13,6 +13,6 @@ The coursebook in organized around a problem-based model to link modular content
 
 *Landscapes* is authored by [Professor Jamie Baxter](https://www.dal.ca/faculty/law/faculty-staff/our-faculty/jamie-baxter.html) at the Schulich School of Law, Dalhousie University, and is published under the Creative Commons [CC BY NC SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the material with attribution for non-commercial use, except as otherwise noted in the text. 
 
-*Land and Property* is built using open-source software ([Hugo](https://gohugo.io)), hosted on [GitHub](https://github.com), and published with [Netlify](https://www.netlify.com). You can fork the repository [here](https://github.com/radish-es/casebook-property/tree/dev) and start publishing your own adaptation in minutes. 
+The coursebook is built using open-source software ([Hugo](https://gohugo.io)), hosted on [GitHub](https://github.com), and published with [Netlify](https://www.netlify.com). You can fork the repository [here](https://github.com/radish-es/casebook-property/tree/main) and start creating your own adaptation in minutes. 
 
 <div class="center"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="imgs/by-nc-sa.png" style="max-width: 150px"></a></div>
