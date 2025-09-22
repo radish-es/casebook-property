@@ -23,13 +23,23 @@ After reading this week's problem any number of questions might come to your min
 
 But how do you know whether a question is legally relevant or not? This is where the cases and the statute you will read this week come in. These materials frame and define the legal issues you are trying to spot. Your task is to read the materials with an eye toward finding the relevant issues and describing them in terms of our problem's facts.
 
-In line with the *problem-based learning approach* described in the lesson, your next step is to select one of this week's readings as a starting point and then choose a pathway through the readings to address the problem. As you do this, keep track of the order in which you read the materials and think about how this might affect your analysis of the problem.
-
 {{% hint warning %}}
 
-As you mull over this hypothetical, consider going for a walk or ride through the quad. Does anything about the physical space affect the way you approach the problem?
+#### Have a look
+
+As you mull over this problem, consider going for a walk or ride through the quad. Does anything about the physical space affect the way you approach your analysis?
+
+<div class="center">
+
+![](/imgs/quad.jpg "500px")
+
+</div>
 
 {{% /hint %}}
+
+In line with the *problem-based learning approach* described in the lesson, your next step is to select one of this week's readings as a starting point and then choose a pathway through the readings to address the problem. As you do this, keep track of the order in which you read the materials and think about how this might affect your analysis of the problem.
+
+
 
 
 [^1]: For a decision reviewing the question of whether a Canadian post-secondary is subject the *Charter* scrutiny in the context of barring a student protest action on campus, see [*UAlberta Pro-Life v Governors of the University of Alberta* 2020 ABCA 1 (CanLII)](https://www.canlii.org/en/ab/abca/doc/2020/2020abca1/2020abca1.html?autocompleteStr=UAlberta%20Pro-Life%20v.%20Governors%20of%20the%20University%20of%20Alberta&autocompletePos=1&resultId=e44d3267f7db4fc2ada4c9299a12935a&searchId=2024-05-22T13:58:42:428/fbf6fcaed26d4eb6a644340db0efdc06)
