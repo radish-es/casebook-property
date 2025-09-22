@@ -62,9 +62,9 @@ If you are a visual learner, the following diagram might help you to understand 
 
 ![](/imgs/studying-law.jpg "1000px")
 
-*Why* do we want to do this? Basically, because *history matters*. And not just out of an academic interest in the way things "were", but because--if we want to make sense of our current legal context, as good lawyers must do--the only way to achieve this is by building up a set of skills and a practice of actively interpreting the past. 
+You might be asking: this seems a bit complicated, so *why* do we want to do this? Well, because *history matters*. And it matters not just out of an academic interest in the way things "were", but because--if we want to make sense of our current legal context, as good lawyers must do--the only way to achieve this is by building up a set of skills and a practice of that help us to critically interpret the past. 
 
-The big question, then, is: *how*? Rather than working only through a linear progression of doctrinal materials, as we would expect to do in a printed book, our coursebook is organized as a *hypertext* with a network of linkages that allow you to follow different pathways through the material, like a single doctrine over time or over multiple doctrines within a particular period. 
+The big question, then, is: *how*? Rather than working primarily through a linear progression of doctrinal materials, as we would expect to do in a printed book, our coursebook is organized as a *hypertext* with a network of linkages that allow you to follow different pathways through the material. These pathways include a single doctrine over time and over multiple doctrines within a particular period.
 
-Applying this framework means that you cannot simply follow a single reading list of materials assigned each week. Instead, you will be asked to make choices about how you approach and connect the materials in light of the weekly problem you are trying to solve. This tests your capacity for independent critical analysis and demands you to engage actively with the materials in a way that might feel unfamiliar at first but will most certainly pay off in the long run. 
+Applying this framework means that you will be asked to make choices about how you approach and connect the assigned reading materials in light of the weekly problem you are trying to solve. This tests your capacity for independent critical analysis and asks that you to engage actively with the materials in a way that might feel unfamiliar at first but will most certainly pay off in the long run. 
 
