@@ -9,8 +9,8 @@ imgcaption:  Malcolm Lightbody on Unsplash
 objectives:
   - objective: Explain course procedures and expectations. After reading the Course Syllabus closely, you should be able to explain to a classmate who missed this first week the key information they will need in order to navigate the course.
   - objective: Describe what it means to engage in a "problem-based" approach to studying law and follow the hypertext structure of the course materials to answer a problem. Consider how this approach, along with the linked structure of the reading materials, is designed to help you develop a more independent and critical analysis of the readings.
-  - objective: Define what it means to "spot" legal issues in a set of facts and demonstrate some familiarity with practicing this skills in the context of our weekly problem. 
-  - objective: Identify emerging issues and themes regarding the "public/private" distinction in property law and the concept of "possession".
+  - objective: Define what it means to "spot" legal issues from a set of facts and begin to apply this skill in the context of our weekly problem. 
+  - objective: Identify two core themes from the readings that we will return to throughout the course, (1) the "public/private" distinction in property law and (2) the significance of "possession".
 materials:
   - harrison
   - protection-property
