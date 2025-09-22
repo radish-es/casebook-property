@@ -5,7 +5,7 @@ type: docs
 
 # About the Coursebook
 
-<div class="center"><a href="/"><img src="imgs/cover.jpg" style="max-width: 300px"></a></div>
+<!--<div class="center"><a href="/"><img src="imgs/cover.jpg" style="max-width: 300px"></a></div>-->
 
 ***Landscapes*** is an open digital coursebook developed for learners and teachers in Canadian law schools as an alternative to the traditional first-year property law course. 
 
