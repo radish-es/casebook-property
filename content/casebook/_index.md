@@ -4,7 +4,7 @@ type: docs
 weight: 50
 bookFlatSection: true
 bookCollapseSection: false
-bookHidden: true
+bookHidden: false
 
 ---
 
@@ -16,7 +16,7 @@ This part of the coursebook organizes the materials you will study through probl
 
 #### Watch out!
 
-The "Ordinary Casebook" is here to provide you with an alternative perspective on the course materials and concepts we will study via a problem-based approach. But do not fall into the trap of simply using the doctrines to prepare for exams. This might give you a good understanding of the formal law-on-the-books, but you will miss out entirely on the historical patterns and contexts that we can study only by looking *across* doctrinal areas. 
+The "Doctrinal Casebook" is here to provide you with an alternative perspective on the course materials and concepts we will study via a problem-based approach. But do not fall into the trap of simply using the doctrines to prepare for exams. This might give you a good understanding of the formal law-on-the-books, but you will miss out entirely on the historical patterns and contexts that we can study only by looking *across* doctrinal areas. 
 
 {{% /hint %}}
 
