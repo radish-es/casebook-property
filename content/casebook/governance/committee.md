@@ -21,9 +21,9 @@ bookHidden: true
 
 [...]
 
-The appellant takes a hard line in urging this Court to allow the appeal, submitting that as owner of property, the government has the right to exclude whomever it wants, and to impose conditions on invitees to its property without limitation by the Charter:
+The appellant takes a hard line in urging this Court to allow the appeal, submitting that as owner of property, the government has the right to exclude whomever it wants, and to impose conditions on invitees to its property without limitation by the *Charter*:
 
-> [TRANSLATION] It is therefore accurate, in our view, to state that the Charter did not have the effect of reducing in any way the government's rights and prerogatives as an owner.
+> [TRANSLATION] It is therefore accurate, in our view, to state that the *Charter* did not have the effect of reducing in any way the government's rights and prerogatives as an owner.
 
 Taken to their extreme, the consequences of such a determination would undermine the crucial function of government and the responsibility it bears to its constituents. If the government had complete discretion to treat its property as would a private citizen, it could differentiate on the basis of content, or choose between particular viewpoints, and grant access to sidewalks, streets, parks, the courthouse lawn, and even Parliament Hill only to those whose message accorded with the government's preferences. Such a standard would be antithetical to the spirit of the *Charter*, and would stultify the true import of freedom of expression.
 
@@ -39,7 +39,7 @@ An example of how public property is to be contrasted with private property can 
 >
 > As to individuals, they have the free disposal of the things belonging to them, under the modifications established by law.
 >
-> 400 Roads and public ways maintained by the state, navigable and floatable rivers and streams and their banks, the sea-shore, lands reclaimed from the sea, ports, harbours and roadsteads and generally all those portions of territory which do not constitute private property, are considered as being dependencies of the crown domain.
+> 400 Roads and public ways maintained by the state, navigable and floatable rivers and streams and their banks, the sea-shore, lands reclaimed from the sea, ports, harbours and roadsteads and generally all those portions of territory which do not constitute private property, are considered as being dependencies of the Crown domain.
 >
 > The same rule applies to all lakes and to all non-navigable and non-floatable rivers and streams and their banks, bordering on lands alienated by the Crown after the 9th of February, 1918.
 
