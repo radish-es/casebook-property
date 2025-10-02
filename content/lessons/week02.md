@@ -14,8 +14,8 @@ objectives:
 description: Our second lesson of the term address the question of how relationships to land and place get recognized in law. 
 materials:
   - locke
-  - treaty1725
-  - treaty1752
+  - simon
+  - henderson
   - pierson
   - armorie
   - netukulimk

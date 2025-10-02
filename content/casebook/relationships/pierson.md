@@ -9,7 +9,7 @@ doctrines:
 
 bookHidden: true
 weight: 40
-description: A fox hunt
+description: Two hunters get into a dispute about who has gained property in a fox in the course of a hunt, addressing the basic question of what is required in this context to establish possession. 
 ---
 
 ### Tompkins, J. (majority) -- 

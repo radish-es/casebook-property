@@ -4,7 +4,7 @@ title: Armorie v Delamirie
 short: Armorie
 reporter: (1772) KB, 1 Strange 505, 93 ER 64
 year: 1772
-facts: The plaintiff chimney sweep found a jewel in the course of his work and took it to the defendant to have it appraised. Upon demanding the jewel's return, the defendant refused to give it to the plaintiff.
+facts: The plaintiff chimney sweep found a jewel in the course of his work and took it to the defendant to have it appraised. Upon demanding the jewel's return, the defendant refused to give it back to the plaintiff.
 issue: Relative possession
 held: For the plaintiff. One who finds a chattel is considered its owner against anyone in the world other than its prior and rightful owner.
 public: true
