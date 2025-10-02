@@ -1,6 +1,6 @@
 ---
 title: |
-  Locke's Second Treatise on Government
+  Locke's Second Treatise on Government (1690)
 short: Locke
 source: From Project Gutenberg, digitized by Dave Gowan. John Locke’s “Second Treatise of Government” was published in 1690. The complete unabridged text has been republished several times in edited commentaries. This text is recovered entirely from the paperback book, “John Locke Second Treatise of Government”, Edited, with an Introduction, By C.B. McPherson, Hackett Publishing Company, Indianapolis and Cambridge, 1980. None of the McPherson edition is included in the e-text below; only the original words contained in the 1690 text are included. The 1690 edition text is in the public domain.
 class: secondary

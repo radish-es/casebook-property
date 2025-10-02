@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Armorie v Delamirie
 short: Armorie
 reporter: (1772) KB, 1 Strange 505, 93 ER 64
@@ -17,7 +17,7 @@ bookHidden: true
 
 ### Pratt, C.J. --
 
-The plaintiff, being a chimney sweeper's boy, found a jewel, and carried it to the defendant's shop, (who was a goldsmith,) to know what it was, and delivered it into the hands of an apprentice, who, under pretense of weighing it, took out the stones; and, calling to the master to let him know if it came to three half-pence, the master offered the boy the money, who refused to take it, and insisted to have the thing again; whereupon the apprentice delivered him back the socket without the stones. And now in trover against the master these points were ruled:
+The plaintiff, being a chimney sweeper's boy, found a jewel, and carried it to the defendant's shop, (who was a goldsmith) to know what it was, and delivered it into the hands of an apprentice, who, under pretense of weighing it, took out the stones; and, calling to the master to let him know if it came to three half-pence, the master offered the boy the money, who refused to take it, and insisted to have the thing again; whereupon the apprentice delivered him back the socket without the stones. And now in trover against the master these points were ruled:
 
 1. That the finder of a jewel, though he does not by such finding acquire an absolute property right of ownership, yet he has such a property as will enable him to keep it against all but the rightful owner, and consequently may maintain trover.
 
