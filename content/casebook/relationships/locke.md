@@ -4,7 +4,7 @@ title: |
 short: Locke
 source: From Project Gutenberg, digitized by Dave Gowan. John Locke's “Second Treatise of Government” was published in 1690. The complete unabridged text has been republished several times in edited commentaries. This text is recovered entirely from the paperback book, “John Locke Second Treatise of Government”, Edited, with an Introduction, By C.B. McPherson, Hackett Publishing Company, Indianapolis and Cambridge, 1980. None of the McPherson edition is included in the e-text below; only the original words contained in the 1690 text are included. The 1690 edition text is in the public domain.
 class: secondary
-description: In this excerpt, Locke sets out to establish a theory to explain how property rights can arise in a pre-political 'state of nature'. It remains one of the most powerful stories about the source of property rights in Anglo-Canadian law.
+description: In this excerpt, Locke sets out to establish a theory to explain how property rights can arise in a pre-political 'state of nature'. It remains one of the most powerful stories about the source of property rights in Anglo-Canadian law as well as a basis for legal rationales of settler colonialism.
 doctrines:
   - possession
 
