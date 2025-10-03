@@ -7,10 +7,11 @@ weight: 2
 image: /imgs/acorn.jpg
 imgcaption:  Elyse Loewen, CC BY NC SA 4.0
 objectives:
-  - objective: Identify different forms of legal land relations, placing Anglo-Canadian property as one of those forms in its historical and colonial context.
-  - objective: Critically analyze the natural law theory of labour and possession as the basis for property.
-  - objective: Describe the common law test for possession and the relative nature of possession and apply these to analyze problems. 
   - objective: Discuss different approaches to the legal interpretation of the Peace and Friendship Treaties and explain the consequences of these different approaches. 
+  - objective: Identify different forms of legal land relations, situating Anglo-Canadian property as just one of those forms in its historical and colonial context.
+  - objective: Critically analyze the natural law theory of labour and possession as the basis for property.
+  - objective: Describe the common law test for possession and the relative nature of possession and apply these concepts to analyze problems.
+  - objective: Thoughtfully reflect on how our multi-juridical context of land relations can be brought to bear on real world problems.
 description: Our second lesson of the term address the question of how relationships to land and place get recognized in law. 
 materials:
   - locke
@@ -34,6 +35,6 @@ Tina Loo observes that Blackstone's view that wild animals were common property,
 
 ## A Question of Recognition
 
-This week we start to explore a fundamental issue: How do (and should) relationships to land get recognized in law? Which kinds of relations "count" and which do not? And what does this tell us about the question of who benefits? 
+This week we start to explore a fundamental issue: How do (and should) relationships to land get recognized in law? And what does the answer tell us about the issue of who benefits from different forms of relation? 
 
-From an Anglo-Canadian legal perspective, significant attention is paid to acts of *possession*, as you saw from our discussion of *Harrison v Carswell* last week. It is by possessing something that a person gains recognition of certain legal entitlements--a relationship that is at once physical (an act of control) and psychological (a matter of intention). But this is not the only possible kind of relationship to land that law might recognize and prioritize. Indigenous legal orders may approach these relationships in very different ways, and treaties provide a kind of inter-societal framework for encounters between these different relational forms. 
+From an Anglo-Canadian legal perspective, significant attention is paid to acts of *possession*, as you saw from our discussion of *Harrison v Carswell* last week. It is by possessing something that a person gains recognition of certain legal entitlements that we tend to call "property"--a relationship that is at once physical (an act of control) and psychological (a matter of intention). But of course this is not the only possible kind of relationship to land that law might recognize and prioritize. Indigenous Nations approach these relationships in the context of their own legal orders, and treaties provide an inter-societal and transnational framework for encounters between different systems, principles and worldviews. In class this week, we will start by discussing the historical context for these land relations in Mi'kma'ki / Atlantic Canada in order to set the stage for our weekly problem. 
