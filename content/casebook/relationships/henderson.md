@@ -1,5 +1,5 @@
 ---
-title: James [sákéj] Youngblood Henderson, Mikmaw Tenure in Atlantic Canada
+title: James [sákéj] Youngblood Henderson, Míkmaw Tenure in Atlantic Canada
 short: Mi'kmaw Land Tenure
 type: secondary
 description: Professor Henderson develops a Mi'kmaq interpretation of the Peace and Friendship Treaties and situates Mi'kmaw land tenure systems in this context. 
@@ -9,11 +9,11 @@ doctrines:
 bookHidden: true
 ---
 
-[*Excerpted from: James [sákéj] Youngblood Henderson, Mikmaw Tenure in Atlantic Canada 18(2) Dalhousie Law Journal 196. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)*]
+[*Excerpted from: James [sákéj] Youngblood Henderson, Míkmaw Tenure in Atlantic Canada 18(2) Dalhousie Law Journal 196. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)*]
 
 ### Míkmaq Tenure in Prerogative Treaties
 
-Mikmaq attitudes toward sharing of the sacred space are evident in
+Míkmaq attitudes toward sharing of the sacred space are evident in
 almost every treaty with the British Crown. The prerogative Treaties
 reserve their land tenure and beneficial interest under the protection of the
 Crown and separate from the provinces. These Treaties were forged

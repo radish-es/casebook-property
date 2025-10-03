@@ -31,6 +31,16 @@ On its face, this problem raises a classic question in Anglo-Canadian property l
 
 Once we dig a bit deeper, an even more fundamental question starts to emerge. Is property the *only* relevant legal relationship in this scenario? How does our analysis change once we consider principles and perspectives about land, animals, governance and sovereignty from the treaties and from Mi'kmaw law? As you work through this problem, consider whether some legal arguments in this context are likely to be more "persuasive" than others, and to whom. 
 
+You have considerably more readings to prepare and fit together this week compared to last week. Broadly, these readings cover three main topics:
+
+- The Peace and Friendship Treaties between the Mi'kmaq and the British Crown (specifically the 1752 Treaty);
+
+- The central role of *possession*--in theory, common law and statute--as the basis for relationships of property in Anglo-Canadian law; and
+
+- An appreciation of the context of Mi'kmaw land law and land tenure systems in structuring land relations.
+
+As you make your choices about how to approach the readings, keep these topics in mind and consider how each relates to answering this week's problem.
+
 <!--Consider the following prompts 
 
 - How are the rules of property different between domestic and wild animals?
