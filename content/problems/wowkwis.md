@@ -11,7 +11,7 @@ weight: 2
 
 #### Writing and speaking about Indigenous Peoples in legal contexts
 
-Kelti McGloin, a JD student at the Schulich School of Law, and Professor Naiomi Metallic have created an excellent guide called *[Best Practices for Writing About Indigenous Peoples in the Canadian Legal Context](https://static1.squarespace.com/static/5cc99defc10ef100015cd06d/t/666ae57fc4cffd197160d82f/1718281600059/StyleGuide_June2024.pdf)*. You can use this guide as a reference throughout the year if you have questions about terminology to use in class or in your written work.
+Kelti McGloin, a JD student at the Schulich School of Law, and Professor Naiomi Metallic have created an excellent guide called *[Best Practices for Writing About Indigenous Peoples in the Canadian Legal Context](https://static1.squarespace.com/static/5cc99defc10ef100015cd06d/t/666ae57fc4cffd197160d82f/1718281600059/StyleGuide_June2024.pdf)*. If some of the terminology in this context is unfamiliar to you, you can use this guide as a reference for in class discussions and in your written work throughout the year.
 
 {{% /hint %}}
 
