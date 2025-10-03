@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Pierson v Post
 short: Pierson
 reporter: (1805) 3 Caines 175 

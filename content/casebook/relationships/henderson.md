@@ -1,7 +1,7 @@
 ---
 title: James [sákéj] Youngblood Henderson, Mikmaw Tenure in Atlantic Canada
 short: Mi'kmaw Land Tenure
-class: context
+type: secondary
 description: A contextualization of 1752 treaty in Mi'kmaw law
 doctrines:
     - treaty

@@ -5,7 +5,7 @@ reporter: 'RSNS 1989, c 504'
 description: Legislation establishing a regulatory regime to govern hunting and fishing in Nova Scotia, including key provisions around the proprietary status of wild animals. 
 doctrines:
   - possession
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca
