@@ -1,33 +1,39 @@
 ---
 title: Wowkwis
 short: Wowkwis
-draft: true
-
-description: This hypothetical problem involves a dispute over legal entitlements to a wild animal pelt in the aftermath of fox hunt.
+description: A Mi'kmaw hunter pursues a fox through the woods, where it is killed by a dog walking off-leash with its owner. You are asked to consider the possible legal relationships at play in a claim to ownership.
 image: /imgs/fox.jpg
 imgcaption: Katerina Bartosova on Unsplash
-links:
-  - url: content/cases/syliboy.md
-    explanation: Today, unlike in 1928, the Mi'kmaw hunter's treaty rights to hunt are well-recognized by the constitution and the courts. But what does the Syliboy case tell us about how the question of who 'owns' the fox might be resolved?
-  - url: content/statutes/wildlife.md
-    explanation: Does this statute determine ownership of the fox? If not, what work is it doing in these circumstances?
-  - url: content/secondary/locke.md
-    explanation: Starting from the premise that a wild animal is "unowned", what would Locke say is the basis for the hunter's claim that the fox is their property?
-  - url: content/concepts/netukulimk.md
-    explanation: How might this principle of Mi'kmaw law be applied to address the legal dispute here? Would it simply allocate "ownership" in a different way? 
-  - url: content/cases/clift.md
-    explanation: What does the common law require the hunter to do to establish possession in the fox? How do the judges in this case disagree on the answer?
 weight: 2
 ---
 
-A Mi'kmaw hunter pursued a fox (*wowkwis*, in Mi'kmaq) during a long morning hunt across a large tract of forest on the Eastern Shore of Mi'kmaki (Nova Scotia) called *Sebelogwokun* ("where skins are stretched"). After several hours, the hunter eventually shot and seriously wounded the *wowkiws* within the boundaries of Fox Island Main Beach, land designated as  provincial Crown Land <!--(i.e. land "vested in the Crown" and "under the administration and control of the Minister" of Lands and Forests pursuant to the-->under the *Crown Lands Act*, RSNS 1989, c 114, s 9 and as a "beach" under the *Beaches Act*, RSNS 1989, c 32. 
+### Hypothetical Facts
 
-Before the hunter could kill and capture the *wowkwis* as it ran along the foreshore, the fox was suddenly chased back into the woods by a surprised golden retriever that had been walking--off leash--with its owner along the sand. As the hunter prepared to give chase they were intercepted by an RCMP officer patrolling the beach. The officer demanded that the hunter produce a valid hunting license as required by the *Wildlife Act*, RSNS 1989, c 504. The hunter replied that they held no such license and were hunting pursuant to their constitutionally-protected treaty rights. 
+Suppose that the [Maw-lukutijik Saqmaq](https://mikmaqrights.com/#ansmc) (Assembly of Nova Scotia Mi'kmaw Chiefs) has recently issued a statement underlining the significant role that Mi'kmaq harvesters play in establishing and sustaining healthy forest ecosystems.
 
-**What are the relevant legal relationships in this story? On what sources of law are those relationships based?**
 
-- Common law possession and ownership, including relative claims, as between hunter and officer (Locke, Pierson, Armourie)
-- Statutory ownership under the Wildlife Act
-- Treaty relationship between the hunter and the officer
-- Mi'kmaw law according the Netukulimk
-- Discrimination in application of the law (dog walker under the beaches act vs hunting license under the Wildlife Act)
+A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of forest on the Eastern Shore of Mi'kmaki designated by Nova Scotia as provincial Crown Land (i.e. land "vested in the Crown" and "under the administration and control of the Minister" of Lands and Forests pursuant to the *Crown Lands Act*, RSNS 1989, c 114, s 9). After several hours, the hunter shoots and seriously wounds the *wowkiws*. Before the hunter can capture it, the fox is attacked and killed by a dog that is walking off leash with its owner, a white settler who lives nearby. Seeing the commotion, a patrolling conservation officer approaches the hunter and asks them to produce a hunting license as required by the *Wildlife Act*, RSNS 1989, c 504. 
+
+### The Problem
+
+**The hunter has a a Nova Scotia Mi'kmaq Harvester Identification Card issued by the Assembly of Nova Scotia Mi'kmaw Chiefs but no hunting licence. The dog owner happens to be carrying a licence and claims exclusive property in the fox. Is the dog owner correct? Why or why not?**
+
+### Analyzing the Problem
+
+On its face, this problem raises a classic question in Anglo-Canadian property law: who owns a wild animal? In order to answer this question, we need to know *how* ownership is established. Where does this basic ownership relation in property come from and what does it entail?
+
+Once we dig a bit deeper, an even more fundamental question starts to emerge. Is property the *only* relevant legal relationship in this scenario? How does our analysis change once we consider principles and perspectives about land, animals, governance and sovereignty from the treaties and from Mi'kmaw law? As you work through this problem, consider whether some legal arguments in this context are likely to be more "persuasive" than others, and to whom. 
+
+<!--Consider the following prompts 
+
+- How are the rules of property different between domestic and wild animals?
+- What are at least two different ways that someone can establish ownership in a wild animal under Anglo-Canadian law?
+- Do the readings agree on how the Peace and Friendship Treaty of 1752 should be interpreted and understood? -->
+
+<!--
+- possession as the basis of property and the relative nature of possession
+- the state as the basis of property (Wildlife Act)
+- treaty as the basis of land relations in an inter-social context
+- Mi'kmaw law 
+-->
+

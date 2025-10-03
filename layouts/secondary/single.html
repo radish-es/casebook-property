@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <article class="markdown book-article">
+    <h1>
+      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>{{ if isset .Params "reporter" }}, {{ .Params.Reporter }}{{ end }}
+    </h1> 
+
+    <hr>
+
+    {{ partial "location.html" . }}
+
+    {{ if isset .Params "summary" }}
+        <div class="component-wrapper">
+            <div class="component">
+                <h2 style="margin-top: 0">Background</h2>
+                    <div class="summary">
+                        <p>{{ .Params.Summary }}</p>
+                    </div>
+            </div>
+        </div>
+    {{ end }}
+
+    {{- .Content -}}
+
+  </article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
