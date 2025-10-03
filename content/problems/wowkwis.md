@@ -29,9 +29,9 @@ A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of f
 
 On its face, this problem raises a classic question in Anglo-Canadian property law: who owns a wild animal? In order to answer this question, we need to know *how* ownership is established. Where does this basic ownership relation in property come from and what does it entail?
 
-Once we dig a bit deeper, an even more fundamental question starts to emerge. Is property the *only* relevant legal relationship in this scenario? How does our analysis change once we consider principles and perspectives about land, animals, governance and sovereignty from the treaties and from Mi'kmaw law? As you work through this problem, consider whether some legal arguments in this context are likely to be more "persuasive" than others, and to whom. 
+Once we dig a bit deeper, an even more fundamental question starts to emerge. Is property the *only* relevant legal relationship in this scenario? How does our analysis change once we consider legal principles and perspectives about land, animals, governance and sovereignty from treaties and from Mi'kmaw law? As you work through this problem, be aware of whether some legal arguments in this context are likely to be more "persuasive" than others, and to whom. 
 
-You have considerably more readings to prepare and fit together this week compared to last week. Broadly, these readings cover three main topics:
+You have more readings to prepare and fit together this week compared to last week. Broadly, these readings cover three main topics:
 
 - The Peace and Friendship Treaties between the Mi'kmaq and the British Crown (specifically the 1752 Treaty);
 
