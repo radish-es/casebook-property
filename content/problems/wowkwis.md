@@ -33,7 +33,7 @@ Once we dig a bit deeper, an even more fundamental question starts to emerge. Is
 
 You have more readings to prepare and fit together this week compared to last week. Broadly, these readings cover three main topics:
 
-- The Peace and Friendship Treaties between the Mi'kmaq and the British Crown (specifically the 1752 Treaty);
+- The Covenant Chain of Treaties between the Mi'kmaq and the British Crown (specifically the 1752 Treaty);
 
 - The central role of *possession*--in theory, common law and statute--as the basis for relationships of property in Anglo-Canadian law; and
 
