@@ -1,40 +1,27 @@
 ---
-title: Title as Recognition
+title: Review
 short: Week 3
-draft: true
+draft: false
 
 type: lesson
 classdate: 26 Oct 2025
 weight: 3
-image: /imgs/paper.jpg
-imgcaption:   Kelly Sikkema on Unsplash
+image: 
+imgcaption:  
 objectives:
-  - objective: >-
-      Distinguish between the concepts of "radical title" and "beneficial title", and trace their connection to the feudal concepts of tenure and estates. 
-    explanation: >-
-      
-  - objective: >-
-      Contrast the role of possession in early common law jurisprudence on recognized Indigenous rights in land with its role in settler contexts we have studied so far. 
-    explanation: >-
-   
-  - objective: >-
-      Identify the relevance of the Royal Proclamation (1763) to Indigenous land rights in the early jurisprudence on Indigenous land rights. 
-    explanation: >-
+  - objective: Independently develop your own written answer to our Week 2 problem.
+  - objective: Sketch the basic history of feudal land tenure and explain its significance for contemporary property law.
+ 
+description: We will take our shortened week to review the material we've studied so far and continue to practice analyzing problems. 
 
-  - objective: >-
-      Describe the reasoning in the St. Catherine's Milling case as an illustration of the classical common law style.
-    explanation: >-
-
-  - objective: >-
-      Discuss and critically analyze the assumptions that underlie title as a form of legal recognition.
-    explanation:  
-description: Building on the previous lesson's exploration of possession and title, this week we focus on the various meanings of "title" and their application in the context of Indigenous land rights recognized by Anglo-Canadian law.
+materials:
+  - tenure
 ---
 
-## The Legal Imprimatur of Title
+## Review and a Brief Intro to Feudal Land Tenure
 
-So far in our course we have discussed the central role of possession in Anglo-Canadian law and its complex connections to ownership and title going back to early liberal theory. But to date, we have not talked much about what these terms of "ownership and "title" really mean. Our goal this week is a more thorough understanding of title and its various forms--with a focus on the history and context surrounding the common law doctrine of "Aboriginal title". 
+With the long weekend, we have only one schedule class meeting this week. So instead of developing a bunch of new material, we will focus on two tasks:
 
-## Our Problem this Week
+1. Please review the [Week 2 problem]({{< ref "problems/wowkwis" >}}), along with your notes from class. Then, using the "answer framework" I have added to the problem page, try to plan and write out your own answer to the problem in narrative form. Bring your answers with your to class and we will discuss them then.
 
-This week, our problem takes a different form than the "hypothetical" fact pattern we've studied in the past few lessons. Instead, we explore the context of a contemporary land claim by the Wolastoqey Nation to their traditional territory encompassing much of present-day New Brunswick. Start your reading of the problem [here]({{< ref "problems/wolastoqey-claim" >}}).
+2. In preparation for the follow week's materials and problem, please read this [short excerpt on feudal land tenure]({{< ref "casebook/title/tenure" >}}). I will deliver a brief lecture in class to introduce the relevant concepts. 

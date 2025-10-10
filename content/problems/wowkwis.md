@@ -41,16 +41,8 @@ You have more readings to prepare and fit together this week compared to last we
 
 As you make your choices about how to approach the readings, keep these topics in mind and consider how each relates to answering this week's problem.
 
-<!--Consider the following prompts 
+### Answer Framework
 
-- How are the rules of property different between domestic and wild animals?
-- What are at least two different ways that someone can establish ownership in a wild animal under Anglo-Canadian law?
-- Do the readings agree on how the Peace and Friendship Treaty of 1752 should be interpreted and understood? -->
+As you practice drafting an answer to this problem based on the readings and our class discussion, consider the following framework:
 
-<!--
-- possession as the basis of property and the relative nature of possession
-- the state as the basis of property (Wildlife Act)
-- treaty as the basis of land relations in an inter-social context
-- Mi'kmaw law 
--->
-
+![](/imgs/wowkwis-framework.png)
