@@ -22,6 +22,6 @@ materials:
 
 With the long weekend, we have only one schedule class meeting this week. So instead of developing a bunch of new material, we will focus on two tasks:
 
-1. Please review the [Week 2 problem]({{< ref "problems/wowkwis" >}}), along with your notes from class. Then, using the "answer framework" I have added to the problem page, try to plan and write out your own answer to the problem in narrative form. Bring your answers with your to class and we will discuss them then.
+1. Please review the [Week 2 problem]({{< ref "problems/wowkwis" >}}), along with your notes from class. Then, using the [Answer Framework]({{< ref "problems/wowkwis#answer-framework" >}}) I have added to the problem page, try to plan and write out your own answer to the problem in narrative form. Bring your answer with you to class and we will discuss them then.
 
 2. In preparation for the follow week's materials and problem, please read this [short excerpt on feudal land tenure]({{< ref "casebook/title/tenure" >}}). I will deliver a brief lecture in class to introduce the relevant concepts. 
