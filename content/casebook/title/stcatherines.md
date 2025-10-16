@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: St. Catherine's Milling and Lumber Co. v R 
 short: St. Catherine's
 reporter: '(1886), 10 OR 196 (HC); [1887] 13 SCR 577; [1888] UKPC 70 (JCPC)'
@@ -11,7 +11,7 @@ public: true
 doctrines:
   - aboriginal-title
 
-bookHidden: true
+bookHidden: false
 
 ---
 
@@ -22,6 +22,14 @@ For more than a hundred years after it was enacted, the Royal Proclamation of 17
 Set in the two decades after Confederation in 1867, the background dispute in *St. Catherine's Milling* between the Province of Ontario and the Dominion Government (Canada) was nominally about which level of government held title to public lands within the geographic boundaries of Ontario that had—according to Canada's interpretation of treaty rights—been ceded to the Crown by the Saulteaux (*Nahkawininiwak*) of the Anishinaabe Nation as part of Treaty 3 (the North-West Angle Treaty). In the course of trying to resolve that dispute, the common law courts pronounced on the nature of Aboriginal title in ways that had far-reaching consequences. At issue in *St. Catherine's Milling* is not the courts' interpretation of Treaty 3 rights, but of the land rights that *preceded* that treaty as a matter of the common law doctrine of Aboriginal title.
 
 To understand *St. Catherine's Milling* and is implications, it is important to appreciate the context in which the question of Aboriginal title came before the courts. As Kent McNeil observes in his history of the case, "[t]he 1880s were years of adversity and deprivation for Indigenous peoples, who were facing the unrelenting advance of imperialism in various parts of the world."[^mcneil2019a] "During the same period," McNeil writes, "the taking of Indigenous lands, suppression of Indigenous political authority, and forced assimilation were also proceeding in Canada,"[^mcneil2019b] underpinned by the rising prominence of social darwinism and by westward economic expansion and resulting, among other abuses, in the creation of the residential school system.
+
+{{% hint warning %}}
+
+#### Language Warning
+
+Be aware that some of the judgments below--at trial in particular--contain explicitly racist language. We will take care when discussing these dimensions of the case in class and aim to see clearly the work that this language does--along with the assumptions and beliefs that underlie it--in motivating and legitimizing the legal arguments in the case. 
+
+{{% /hint %}}
 
 ## The Facts
 

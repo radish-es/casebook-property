@@ -9,11 +9,11 @@ sources:
     attribution: Not an official version.
 doctrines:
   - reserves
-class: statute
+type: statute
 public: true
 
 description: Federal legislation establishing the structure of land rights in reserve lands. 
-bookHidden: true
+bookHidden: false
 ---
 
 18 (1) Subject to this Act, reserves are held by Her Majesty for the use and benefit of the respective bands for which they were set apart, and subject to this Act and to the terms of any treaty or surrender, the Governor in Council may determine whether any purpose for which lands in a reserve are used or are to be used is for the use and benefit of the band.

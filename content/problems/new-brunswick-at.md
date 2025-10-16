@@ -1,5 +1,5 @@
 ---
-title: Aboriginal Title in New Brunswick
+title: Settlor Colonialism and Aboriginal Title
 short: Aboriginal Title
 description: Two claims for recognition of "Aboriginal Title" in New Brunswick under section 35 of the Constitution Act have been launched in recent years. This problem explores how these territories came to be understood in Canadian law as subject to both the Crown's radical title and to the common law estates of private parties. 
 image: /imgs/wolastoqey-territory.jpg
@@ -126,12 +126,6 @@ use of that District, including all of its lands, waters, and resources. However
 a whole had occupation of all of Mi’gma’gi (including the entire Title Area), and members
 were able to travel and harvest throughout Mi’gma’gi (including the Title Area), subject only
 to such restrictions as were imposed by local or district Chiefs and heads of families.
->
-> Prior to and at the assertion of British Sovereignty, the Mi’gmaq were a part of a larger
-Confederacy of Nations, known as the Wabanaki Confederacy, which included the Wolastoqey
-and Peskotomuhkati Nations. From time to time, the members of the Wabanaki Confederacy
-used each other’s territory, pursuant to Wampum agreements, protocols and understandings
-between these Nations.
 > 
 > Prior to and at the assertion of British sovereignty, the Mi’gmaq continuously hunted, ﬁshed,
 and harvested in their territory and have used, cared for, and occupied the natural resources
@@ -146,7 +140,7 @@ The relationship of the Mi’gmaq with the land, water and all natural resources
 Area is the foundation upon which the Plaintiffs, and their ancestors, interact and govern their
 communities, and is an expression of Mi’gmaq law.
 >
-> Prior to and at the assertion of British sovereignty, the Mi’ gmaq exercisedjurisdiction over the
+> Prior to and at the assertion of British sovereignty, the Mi’gmaq exercised jurisdiction over the
 Title Area pursuant to Mi’gmaq legal and political regimes governing the use and occupation
 of land, and continues to do so today.
 >
@@ -161,11 +155,11 @@ Title Area.
 Mi’gmaq Title.
 >
 > The Defendants have infringed upon or otherwise breached their Constitutional Duties in
-respect of Mi’gmaq Title in the Title Area by alienating lands and undertaking, authorizing Canada and New Brunswick and their predecessors had and have a duty to respect and protect
-Mi’gmaq Title.
+respect of Mi’gmaq Title in the Title Area by alienating lands and undertaking, authorizing and/or permitting resource extraction and land use activities throughout the Title Area without
+the consent of the Mi’gmaq Nation.
 >
-> The Defendants have infringed upon or otherwise breached their Constitutional Duties in
-respect of Mi’gmaq Title in the Title Area by alienating lands and undertaking, authorizing
+> Such uses and alienations of land were in breach of the Defendants’ duties to respect and
+protect Mi’gmaq Title and have unjustifiably infringed Mi’gmaq Title.
 
 The Statement of Claim specifically states that "In respect of fee simple lands that are not held by the Crown, the Plaintiffs seek no relief against fee simple holders who hold fee simple title in the Title area (“Fee Simple Holders”). The incidents of fee simple title enjoyed by Fee Simple Holders, including the incident of peaceful possession, are not placed in issue by the Plaintiffs. As outlined in paragraph l(h), however, the Plaintiffs seek damages and compensation on behalf of the Mi’gmaq Nation from the Defendants, jointly and severally, for the infringement of Mi’gmaq Title in the granting of fees simple in the Title Area to Fee Simple Holders."
 
@@ -175,10 +169,10 @@ lands that Mi’gmaq Title burdens the Crown’s allodial title."
 
 ### The Problem
 
-**How did British and Canadian law developed prior to the 20th century try to establish a legal basis for settler colonialism? Are the remedies being pursued by the parties in the contemporary Wolastoqey and MTI claims an effective response to this colonial context?**
+**How did British and Canadian law prior to the 20th century try to establish a legal basis for settler colonialism? Do the remedies being pursued by the parties in the contemporary Wolastoqey and MTI claims effectively address this colonial context? Why or why not?**
 
 ### Analyzing the Problem
 
-Our problem this week takes a somewhat different form compared to those we have studied so far this term. Rather than provide you with a stylized set of facts (a "hypo"), the problem draws on real-world legal materials. But more importantly, rather than have you "spot" issues and provide a legal analysis based on the facts and law, the problem asks you to develop a historical and normative analysis that demonstrates your engagement with a core theme--the colonial context of property--we are exploring throughout the course (i.e. an "essay-style" answer).
+Our problem this week takes a different form compared to those we have studied so far this term. Rather than provide you with a stylized set of facts (a "hypo"), the problem draws on real-world legal materials. More importantly, rather than have you "spot" issues and provide a legal analysis based on the facts and law, the problem asks you to develop a historical and normative analysis that demonstrates your engagement with a core theme--property and colonialism--we are exploring throughout the course (i.e. an "essay-style" answer).
 
-One of the motivations for presenting you with this type of problem at this point in the course is that the contemporary doctrine of Aboriginal Title has changed radically from the late 19th-century. It would not help you much in your understanding of that contemporary doctrine to apply the legal framework developed more than a century ago directly to a set of facts. Nevertheless, because some of the core assumptions from this earlier period still pervade the current law in this area, it is crucial for you to have a clear understanding of its evolution over time. We will return to the contemporary legal framework for Aboriginal Title later in the course. 
+One of the motivations for presenting you with this type of problem at this point in the course is that the contemporary doctrine of Aboriginal Title has changed radically since the late 19th-century. It would not help you much in your understanding of that contemporary doctrine to apply the legal framework developed more than a century ago directly to a set of facts. Nevertheless, because some of the core assumptions from this earlier period still pervade the current law in this area, it is crucial for you to have a clear understanding of its evolution over time. We will return to the contemporary legal framework for Aboriginal Title later in the course. 

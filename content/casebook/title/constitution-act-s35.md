@@ -8,9 +8,9 @@ sources:
     attribution: Not an official version.
 doctrines:
   - aboriginal-title
-class: statute
+type: statute
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Section 35

@@ -1,11 +1,11 @@
 ---
 title: 'Royal Proclamation (1763)'
 short: Royal Proclamation
-class: statute
+type: statute
 public: true
 doctrines:
   - aboriginal-title
-bookHidden: true
+bookHidden: false
 
 description: Issued by King George III in 1763 following the Treaty of Paris, by which Britain acquired control over French territories in North America. 
 ---
