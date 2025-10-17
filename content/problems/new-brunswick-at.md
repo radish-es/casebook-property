@@ -1,6 +1,6 @@
 ---
-title: Aboriginal Title and Settler Colonialism
-short: Aboriginal Title
+title: Wolastoqey and MTI Title Claims
+short: Title Claims
 description: Two claims for recognition of "Aboriginal Title" in New Brunswick under section 35 of the Constitution Act have been launched in recent years. This problem explores how these territories came to be understood in Canadian law as subject to both the Crown's radical title and to the common law estates of private parties. 
 image: /imgs/wolastoqey-territory.jpg
 imgcaption:  Statement of Claim, 30 November 2021, Wolastoqey Nation v New Brunswick
@@ -64,6 +64,8 @@ According to the Statement of Claim:
 > (h) failing to adequately consult and/or accommodate Wolastoqey Nation or otherwise discharge the Crown’s fiduciary duties and/or the honour of the Crown in respect of the above activities.
 
 The Statement of Claim further makes clear that the "Plaintiffs seek no relief as against fee simple holders not named as Defendants who hold fee simple in the Traditional Lands ('Strangers to the Claim')[i.e., most private titleholders]. The incidents of fee simple title enjoyed by Strangers to the Claim, including the incident of peaceable possession, are not placed in issue by the Plaintiffs. As outlined in paragraph 1(c), however, the Plaintiffs seek damages and compensation from the Province and Canada for the breach of Aboriginal title in the granting of fees simple in the Traditional Lands to Strangers to the Claim."
+
+In the fall of 2024, the Government of New Brunswick posted [this "Minister's message"](https://web.archive.org/web/20241003181914/https://www2.gnb.ca/content/gnb/en/corporate/promo/wolastoqey-aboriginal-title-claim.html) on its website addressing the Wolastoqey claim. With a subsequent change in provincial government the message was removed from the website.
 
 #### The Mi'gmawe'l Tplu'taqnn Inc. (MTI) Title Claim
 
