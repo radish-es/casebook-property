@@ -6,8 +6,8 @@ draft: false
 type: lesson
 classdate: 20 Oct / 22 Oct 2025
 weight: 4
-image: 
-imgcaption:  
+image: /imgs/eel-river-bridge.jpg
+imgcaption:  Wolastoq at Eel River Bridge (1915), Wikimedia Commons
 objectives:
   - objective: Explain the changing role of the Royal Proclamation, 1763 with respect to the source and content of common law Aboriginal Title.
   - objective: Describe the general features of Aboriginal Title as late-19th century courts understood it (in concept, if not in name). 
