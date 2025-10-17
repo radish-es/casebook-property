@@ -1,6 +1,6 @@
 ---
 title: 'Constitution Act, 1982'
-reporter: 'Schedule B to the Canada Act 1982 (UK), 1982, c 11'
+reporter: 'Schedule B to the Canada Act 1982 (UK), 1982, c 11, s 35'
 sources:
   - source_name: Justice Laws Website
     source_url: 'https://laws-lois.justice.gc.ca/eng/const/page-13.html#h-53'
@@ -9,6 +9,7 @@ sources:
 doctrines:
   - aboriginal-title
 type: statute
+description: The key provision in Canada's constitution recognizing and affirming Aboriginal and treaty rights, including Aboriginal Title. 
 
 bookHidden: false
 ---

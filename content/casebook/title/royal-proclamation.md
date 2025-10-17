@@ -7,7 +7,7 @@ doctrines:
   - aboriginal-title
 bookHidden: false
 
-description: Issued by King George III in 1763 following the Treaty of Paris, by which Britain acquired control over French territories in North America. 
+description: A legal document in the nature of an executive order issued by King George III in 1763 following the Treaty of Paris--by which Britain acquired control over French territories in North America--and establishing the British Crown's colonial policy at the time with respect to Indigenous land rights. 
 ---
 
 ![](/imgs/rp1763.jpg)

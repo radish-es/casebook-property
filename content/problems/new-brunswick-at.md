@@ -1,5 +1,5 @@
 ---
-title: Settlor Colonialism and Aboriginal Title
+title: Aboriginal Title and Settler Colonialism
 short: Aboriginal Title
 description: Two claims for recognition of "Aboriginal Title" in New Brunswick under section 35 of the Constitution Act have been launched in recent years. This problem explores how these territories came to be understood in Canadian law as subject to both the Crown's radical title and to the common law estates of private parties. 
 image: /imgs/wolastoqey-territory.jpg
@@ -169,10 +169,12 @@ lands that Mi’gmaq Title burdens the Crown’s allodial title."
 
 ### The Problem
 
-**How did British and Canadian law prior to the 20th century try to establish a legal basis for settler colonialism? Do the remedies being pursued by the parties in the contemporary Wolastoqey and MTI claims effectively address this colonial context? Why or why not?**
+**How did British and Canadian law prior to the 20th century establish the legal foundation for state-sponsored dispossession of Indigenous peoples as part of what has been described as a "cultural logic of elimination"?[^1] In what ways do the remedies being pursued by the parties in the Wolastoqey and MTI claims address this history of settler colonialism? In what ways do they not?**
 
 ### Analyzing the Problem
 
 Our problem this week takes a different form compared to those we have studied so far this term. Rather than provide you with a stylized set of facts (a "hypo"), the problem draws on real-world legal materials. More importantly, rather than have you "spot" issues and provide a legal analysis based on the facts and law, the problem asks you to develop a historical and normative analysis that demonstrates your engagement with a core theme--property and colonialism--we are exploring throughout the course (i.e. an "essay-style" answer).
 
 One of the motivations for presenting you with this type of problem at this point in the course is that the contemporary doctrine of Aboriginal Title has changed radically since the late 19th-century. It would not help you much in your understanding of that contemporary doctrine to apply the legal framework developed more than a century ago directly to a set of facts. Nevertheless, because some of the core assumptions from this earlier period still pervade the current law in this area, it is crucial for you to have a clear understanding of its evolution over time. We will return to the contemporary legal framework for Aboriginal Title later in the course. 
+
+[^1]: Patrick Wolfe, *Settler Colonialism and the Transformation of Anthropology: The Politics and Poetics of an Ethnographic Event* (London; New York: Cassell, 1999), 4-5.

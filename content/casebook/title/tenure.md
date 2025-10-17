@@ -11,7 +11,7 @@ sources:
       eds., Open Source Property: A Free
       Casebook, https://opensourceproperty.org (2015)
 type: secondary
-description: Brief background to the common law doctrines of tenues and estates in land.
+description: An excerpt that provides some brief background to the history of feudal land tenure and its relationship to common law estates as interests in land distinguished from ownership of the land itself. 
 source: >-
       Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
