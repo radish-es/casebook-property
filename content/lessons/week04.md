@@ -9,10 +9,10 @@ weight: 4
 image: 
 imgcaption:  
 objectives:
-  - objective: Identify the historical and evolving role of the Royal Proclamation, 1763 with respect to the source and content of common law Aboriginal Title.
-  - objective: Describe the general features and source(s) of Aboriginal Title as late-19th century courts understood this concept. 
-  - objective: Link the doctrinal development of Aboriginal title to the structure of feudal land tenure.
-  - objective: Situate the logic of settler colonialism against legal developments that legitimated and enabled this logic. 
+  - objective: Explain the changing role of the Royal Proclamation, 1763 with respect to the source and content of common law Aboriginal Title.
+  - objective: Describe the general features of Aboriginal Title as late-19th century courts understood it (in concept, if not in name). 
+  - objective: Link the doctrinal development of Aboriginal title to the structure of feudal land tenure and the common law estates in land.
+  - objective: Identify legal developments that legitimated and enabled the logic of settler colonialism in the 19th century. 
 
 description: Building on the previous lesson's exploration of possession, this week we focus on the various meanings of "title" and their application in the context of Indigenous land rights recognized by Anglo-Canadian law.
 
@@ -25,7 +25,7 @@ materials:
   - tenure
 ---
 
-In Week 2, we started to explore the significant place of "possession" in Anglo-Canadian law going back to some of its deeper roots in the liberal theory of writers like John Locke. In the course of that exploration, we situated possession as just one possible form of legal land relation and got some inkling of its limitations as a basis of property. Joseph William Singer elaborates on this theme:[^1]
+In Week 2, we started to explore the important place of "possession" in Anglo-Canadian law going back to some of its deeper roots in the liberal theory of writers like John Locke. In the course of that exploration, we situated possession as just one possible form of legal land relation and got some early sense of its challenges and limitations as a basis of property. Joseph William Singer elaborates on this theme:[^1]
 
 > Where do property rights come from? If you believe the property casebooks, we
 acquire original title to property by conquering other nations, hunting animals,
@@ -56,8 +56,8 @@ my act of first possession cannot be considered to be what John Stuart Mill call
 self-regarding act; rather, my actions impose externalities on others. And those
 externalities are not minor in nature; because human justified need things to survive,
 monopolizing things needed for human life can only be justified if others have
-equal Opportunity to get what they need? This makes the relationship between
-possession and equal Opportunity a central problem.
+equal opportunity to get what they need? This makes the relationship between
+possession and equal opportunity a central problem.
 > 
 > The second wrinkle with the original possession idea is the unfortunate fact that
 most things already do have owners, and if you grab something originally
@@ -76,7 +76,7 @@ what they must."
 
 As Singer goes on to observe, "this is not merely a theoretical problem": when Europeans first came to North America, it was not empty land. Thus, if "first possession is the legitimate origin of title" then non-Indigenous peoples "cannot trace our titles to a just origin."[^2]
 
-Our materials this week examine this problem in more detail, focusing on the period of settler colonialism in 19th century British North America in which British and later Canadian law and legal institutions sought to legitimize the assertion of British sovereignty and settler land titles while simultaneously denying the existence of Indigenous rights and legal orders--in a stark departure from the era of imperialist concerns and treaty-making-as-international-order that we discussed in Week 2.
+Our materials this week examine this problem in more detail, focusing on the period of rising settler colonialism in 19th century British North America in which British and later Canadian law and legal institutions sought to legitimize the assertion of British sovereignty and settler land titles while simultaneously denying the existence of Indigenous rights and legal orders--in a stark departure from the era of imperialist concerns and treaty-making-as-international-order that we discussed in Week 2.
 
 [^1]: Joseph William Singer, "Original Acquisition of Property: From Conquest & Possession to Democracy & Equality" (2011) 86:3 Indiana Law Journal 763 at 763-764.
 

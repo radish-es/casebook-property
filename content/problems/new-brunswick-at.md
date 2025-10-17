@@ -9,7 +9,7 @@ weight: 4
 
 ### Facts
 
-In recent years, two separate original Statements of Claim have been filed by Wolastoqey and Mi'gmaq Nations asserting title--under the Anglo-Canadian doctrine of "Aboriginal Title"--to large, overlapping territories in New Brunswick. Based on an initial understanding of those two claims, this problem asks you to analyze the historical contributions of Canadian law to the current reality of settler colonialism confronted by both of these claims. 
+In recent years, two separate original Statements of Claim have been filed by Wolastoqey and Mi'gmaq Nations asserting title--under the Anglo-Canadian doctrine of "Aboriginal Title"--to large, overlapping territories in New Brunswick. Based on an initial review of key excerpts from those two claims, this week's problem asks you to analyze the historical contributions of Canadian law to the current reality of settler colonialism that both cases attempt to confront. 
 
 #### The Wolastoqey Title Claim
 
@@ -175,6 +175,6 @@ lands that Mi’gmaq Title burdens the Crown’s allodial title."
 
 Our problem this week takes a different form compared to those we have studied so far this term. Rather than provide you with a stylized set of facts (a "hypo"), the problem draws on real-world legal materials. More importantly, rather than have you "spot" issues and provide a legal analysis based on the facts and law, the problem asks you to develop a historical and normative analysis that demonstrates your engagement with a core theme--property and colonialism--we are exploring throughout the course (i.e. an "essay-style" answer).
 
-One of the motivations for presenting you with this type of problem at this point in the course is that the contemporary doctrine of Aboriginal Title has changed radically since the late 19th-century. It would not help you much in your understanding of that contemporary doctrine to apply the legal framework developed more than a century ago directly to a set of facts. Nevertheless, because some of the core assumptions from this earlier period still pervade the current law in this area, it is crucial for you to have a clear understanding of its evolution over time. We will return to the contemporary legal framework for Aboriginal Title later in the course. 
+One of the motivations for presenting you with this type of problem at this point in the course is that the contemporary doctrine of Aboriginal Title has changed radically since the late 19th-century. It would not help you much in your understanding of that contemporary doctrine to apply the legal framework developed more than a century ago directly to a set of recent facts. Nevertheless, because some of the core assumptions from this earlier period still pervade law today, it is crucial for you to have a clear understanding of its evolution over time. We will return to the contemporary legal framework for Aboriginal Title later in the course. 
 
 [^1]: Patrick Wolfe, *Settler Colonialism and the Transformation of Anthropology: The Politics and Poetics of an Ethnographic Event* (London; New York: Cassell, 1999), 4-5.
