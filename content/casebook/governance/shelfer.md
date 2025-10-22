@@ -1,17 +1,17 @@
 ---
-class: case
+type: case
 title: Shelfer v City of London Electrical Lighting Co.
 short: Shelfer
 reporter: '[1895] 1 Ch 287'
 year: 1895
-facts: Shelfer suffered a nuisance from the defendant that affected his property. 
+facts: Shelfer suffered a nuisance from the defendant electric company which caused damages to the foundations of his pub and generated noise and other annoyances. Having found the existence of a nuisance, the court considers the question what remedy is appropriate. 
 issue: What type of remedy is appropriate?
 held: The appropriate remedy here is injunction. Damages instead of an injunction for nuisance are only appropriate where the injury is small, able to be quantified and adequately compensated with money, and an injunction would be oppressive to the defendant.
 public: true
 doctrines:
   - nuisance
 
-bookHidden: true
+bookHidden: false
 ---
 
 

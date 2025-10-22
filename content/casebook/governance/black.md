@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: 'Black v Canadian Copper Co.'
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
@@ -11,7 +11,7 @@ public: true
 doctrines:
   - nuisance
 
-bookHidden: true
+bookHidden: false
 ---
 
 

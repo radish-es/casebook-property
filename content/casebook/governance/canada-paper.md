@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Canada Paper Co v Brown
 short: Canada Paper
 reporter: '1922 CanLII 585 (SCC), [1922] 63 SCR 243'
@@ -15,7 +15,7 @@ sources:
 doctrines:
   - nuisance 
 
-bookHidden: true
+bookHidden: false
 ---
 
 ### The Chief Justice —

@@ -1,40 +1,45 @@
 ---
-title: Excluding the State
+title: Governing Land Uses
 short: Week 5
-draft: true
+draft: false
 
 type: lesson
-classdate: 8 Nov 2025
+classdate: 27 Oct / 29 Oct2025
 weight: 5
-image: /imgs/dam.jpg
-imgcaption:  Ragged Chutes Dam on the Upper Mississippi River, constructed by Peter McLaren. Cloyne and District Historical Society
+image: /imgs/canada-paper.jpg
+imgcaption:  Canada Paper Company, Windsor Mills, QC, 1909 (Source, McCord Museum, Montreal).
 objectives:
-  - objective: >-
-      Explain how jurists approached claims that their land had been expropriated early in the development of this area of Anglo-Canadian law. 
-    explanation: >-
-  - objective: >-
-      Identify key limitations of modern expropriation statues and challenges related to their interpretation and application.  
-    explanation: >-
-  - objective: >-
-      Analyze problems involving landowners riparian rights.  
-    explanation: >-
-description: Private owners might also wish to exclude the state from "interference" with the property rights. This week we start to explore to what extent such rights of exclusion can be applied to public authorities. 
+  - objective: Discuss claims in nuisance one means of property holders exercising their right to exclude.    
+  - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve a heavily contested legal issue. 
+
+description: As one of several possible means by which owners exercise their right to exclude others from their land, this week we examine the role of claims in nuisance and the challenging question of appropriate remedies. 
+
+materials:
+  - shelfer
+  - black
+  - canada-paper
+  - tulk
+  - keppell
 ---
 
-## Property and "Exclusion" of Public Authority 
+## A Turn to Governance
 
-Last week, we saw that claims in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting the use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these cases, the courts must decide whose rights should win out and in doing so address the fundamental dilemma of conflicting freedoms inherent in legal liberalism. 
+Over the past few weeks we have been focused on questions about recognizing relationships to land and about the central role of two concepts: possession and title. We now turn to a second group of topics that address how--once possession and title receive recognition in law--conflicting uses of land are governed as a matter of property. 
 
-In other cases—like the one we will study this week—it is not (or not only) a neighbouring landowner who is accused of infringing the plaintiff's property rights, but the state itself. This type of claim engages the state's powers of *expropriation* (power to take away property rights)—in some contexts, called the power of *eminent domain*.  
+From a historical perspective, as settler colonialism advanced based on law's denial of Indigenous rights and sovereignty (our topic last week), post-Confederation nationalism sought to establish the economic foundation of this new country by continuing to pursue natural resource extraction and, increasingly, to advance industrialization. Central to this economic project were legal tools that developed to address the most significant "externalities" of these activities--namely, the inevitable land use conflicts arising from large-scale environmental pollution and from the growing concentration of people living in close proximity to one another, especially in burgeoning urban centres like Toronto, Montreal and Halifax. We will examine two of these important legal tools this week: (1) remedies available in the law of nuisance and (2) the rise of restrictive covenants annexed to land. While existing in different doctrinal areas, it is important to see both of these as key private-law technologies for regulating land uses in an era before the widespread application of public land use controls more familiar today. 
 
-In the most dramatic cases, the state exercises its powers of expropriation to take private title to land (for example, to build a highway or an airport). But there are many other cases in which the state leaves title in the hands of the landowner and "takes" one or more sticks in the ownership bundle by way of regulation or other legislative act. In their broadest sense, such "regulatory takings" or "constructive takings" (as they are now called) are ubiquitous, ranging from environmental regulations to building codes and zoning bylaws. Similar to claims in nuisance, these state actions have sometimes been cast as violations of claimant landowners' traditional rights of property.
+## Nuisance Law in an Industrializing Canada
 
-A key legal issue is to what extent landowners in Canada can exclude governments from expropriating or otherwise regulating their property rights in the absence of compensation. Unlike the United States and several modern constitutional democracies, Canada lacks any constitutional protections for private property against state attempts to limit or take away those rights. Lacking such explicit protections, it has generally not been possible for claimants to invoke existing constitutional rights in ways that protect private property. 
+Widespread industrialization came somewhat late in Canada compared to England and the United States, where nuisance law was earlier addressed in the common law courts as a potential impediment to economic "progress". As Jennifer Nedelsky explains:[^nedelsky1981]
 
-What protections do exist mainly take the form of provincial expropriation statutes. These statutes do not prevent government from expropriating property altogether, but they do impose certain restrictions on this activity, such as that it must be undertaken for a public purpose and that adequate compensation to landowners must be paid. Such compensation is clearly required when title is taken away by the state. Much less clear is to what extent governments in Canada are responsible for compensating landowners for regulatory activity that "takes" one or more sticks in the bundle. As the United States Supreme Court observed in *Pennsylvania Coal Co. v Mahon*, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."
+> By the late nineteenth century, industrialization and urbanization were changing the shape of Canadian society: between 1880 and 1920 the population doubled from 3,689,257 to 8,788,483; 74.35 per cent of the population were classified as rural by the census of Canada in 1881; by 1921 the percentage had decreased to 50.48. Capital investment in manufactures increased from $165,302,632 in 1880 to $2,923,667,011 in 1920 and the gross value of all manufactured products from $469,847,886 in 1880 to $3,706,544,997 in 1920. Manufacturing, once diffused, was concentrating in industrial towns. Factories increasingly replaced small workshops, and steam-powered engines brought noise as well as productivity. As the nuisances of industrialization increased, so did the costs of eliminating them. Manufacturing establishments, for example, were becoming sufficiently large and important to local economies that ordering them to take their nuisances elsewhere would have had serious consequences.
 
-A crucial moment in the history of Anglo-Canadian legal thinking on issues of expropriation occured in the context of a dispute over water rights in Ontario at the end of the nineteenth century between the lumbering operations of one Peter McLaren and one Boyd Caldwell. We will study this controversy and its implications in depth this week.  
+Like their English and American counterparts before them, common law courts in Canada struggled to adjudicate nuisance claims in this evolving context, which often pitted the demands of business and the growing influence of industry against the traditional property rights of neighbouring landowners. However, because industrialization came relatively late to Canada, Canadian courts confronted nuisance cases against the background of legal principles already developed elsewhere. A key question became to what extent Canadian courts would follow these established precedents-—primarily from England-—or chart their own path.
 
-## Our Problem this Week
+Traditionally, the common law afforded heavy priority to the absolute protection of private owners rights to use and enjoy their property, enforced by way of an injunction against the offending activities of neighbouring landowners. In the *Shelfer* case you will read this week, the Court opened the door for greater flexibility on the part of courts to substitute an award of damages in place of a permanent injunction in appropriate circumstances. Legal historians have largely interpreted this move as an attempt by the Court to take a more accommodating position toward industrial interests.
 
-We will start by returning to the aftermath of our problem about public protests from Week 1, in this week's problem entitled ***[After the West Egg Protest]({{< ref "problems/protest-after" >}})***.
+## Restrictive Covenants as "Private" Land Use Planning
+
+In one sense, an alternative to the law of nuisance as supplying after-the-fact remedies to emerging or pre-existing land use conflicts is to develop and apply a set of legal restrictions on what one can do with their land in the first place. This approach came to be represented in the law on restrictive covenants that--at least initially--was seen as nothing more than a set of contractual terms between neighboring landowners. With the precedent in *Tulk and Moxhay*, which you will read this week, such contracts were transformed into a set of durable restraints on the proprietary freedom of owners subject to their terms. Restrictive covenants thereafter would eventually become a crucial way for private owners to engage with one another in processes of land use planning and control--to, for example, establish and sustain the "character" of their neighborhoods against the advance of urban pollution from heavy industry.  
+
+[^nedelsky1981]: Nedelsky, Jennifer. “Judicial Conservatism in an Age of Innovation: Comparative Perspectives on Canadian Nuisance Law.” In *Essays in the History of Canadian Law*, edited by David H Flaherty, 281-322. Toronto: University of Toronto Press, 1981, 284-5.
