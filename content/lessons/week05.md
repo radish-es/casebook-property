@@ -9,8 +9,9 @@ weight: 5
 image: /imgs/canada-paper.jpg
 imgcaption:  Canada Paper Company, Windsor Mills, QC, 1909 (Source, McCord Museum, Montreal).
 objectives:
-  - objective: Discuss claims in nuisance one means of property holders exercising their right to exclude.    
-  - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve a heavily contested legal issue. 
+  - objective: Discuss claims in nuisance and restrictive covenants as alternative means of governing property.    
+  - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve the contested legal issues that arise in nuisance cases. 
+  - objective: Explain how and in what form restrictive covenants came to be understood as "running with the land".
 
 description: As one of several possible means by which owners exercise their right to exclude others from their land, this week we examine the role of claims in nuisance and the challenging question of appropriate remedies. 
 
@@ -20,6 +21,7 @@ materials:
   - canada-paper
   - tulk
   - keppell
+  - austerberry
 ---
 
 ## A Turn to Governance
@@ -40,6 +42,6 @@ Traditionally, the common law afforded heavy priority to the absolute protection
 
 ## Restrictive Covenants as "Private" Land Use Planning
 
-In one sense, an alternative to the law of nuisance as supplying after-the-fact remedies to emerging or pre-existing land use conflicts is to develop and apply a set of legal restrictions on what one can do with their land in the first place. This approach came to be represented in the law on restrictive covenants that--at least initially--was seen as nothing more than a set of contractual terms between neighboring landowners. With the precedent in *Tulk and Moxhay*, which you will read this week, such contracts were transformed into a set of durable restraints on the proprietary freedom of owners subject to their terms. Restrictive covenants thereafter would eventually become a crucial way for private owners to engage with one another in processes of land use planning and control--to, for example, establish and sustain the "character" of their neighborhoods against the advance of urban pollution from heavy industry.  
+Nuisance offers one means to address conflicting land uses between owners after those conflicts arise. An alternative--and potentially more proactive--approach is for owners to form an agreement ahead of time about what which uses will be permitted, prohibited or required. This latter approach is represented by the law on restrictive covenants. Such covenants were initially viewed by the courts as simply contractual agreements between neighboring landowners that could only be enforced against original parties to the contract. With the precedent in *Tulk and Moxhay*, which you will read this week, certain of these contracts were transformed into a set of durable restraints on the proprietary freedom of owners. Restrictive covenants thereafter would become a crucial way for private owners to engage with one another in processes of land use planning and control--for example, to establish and sustain the "character" of their neighborhoods against the advance of urban pollution from heavy industry. Understanding how restrictive covenants came to be enforced ("run with the land") and the legal requirements needed for them to be regarded as valid provides a helpful window onto the question of how recognized entitlements of property become subject to various forms of governance. 
 
 [^nedelsky1981]: Nedelsky, Jennifer. “Judicial Conservatism in an Age of Innovation: Comparative Perspectives on Canadian Nuisance Law.” In *Essays in the History of Canadian Law*, edited by David H Flaherty, 281-322. Toronto: University of Toronto Press, 1981, 284-5.

@@ -1,20 +1,25 @@
 ---
 title: GMOs
 short: GMOs
-description: This hypo concerns a market gardener's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
-image: /imgs/tomatoes.jpg
-imgcaption: Annie Spratt on Unsplash
+description: This hypo concerns a heritage corn grower's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
+image: /imgs/corn.jpg
+imgcaption: Tahmeed Ahmad on Unsplash
 weight: 5
 ---
 
-One of West Eggleston's more locally-famous residents grows exceptional, bright yellow heirloom tomatoes on a half-acre plot in the community, which they sell at their farm stand in the old Brewery Market in Halifax every weekend. Year after year, the success of these remarkable tomato plants is sustained through careful collection, storage, and planting of the seeds from the prior year's crop--ensuring that each tomato is a true (and delicious) reflection of its particular lineage. 
+### Hypothetical Facts
 
-Recently one of the several farm properties neighbouring West Egg was purchased by a new farmer, who decided to introduce large-scale greenhouse tomato production. Based on their business plan to develop a new and unique product which they plan to sell directly to consumers at the Brewery Market and other outlets around the province, the new farmer decided to license the only available genetically-modified (GMO) tomato currently available on the market from US-based company called [Norfolk Plant Sciences](https://www.seedworld.com/europe/2023/01/13/the-future-of-the-purple-gm-tomato-lies-with-consumers/)--a tomato with rich purple fruit that is especially high in antioxidants. Under the terms of the license, the farmer pays a substantial annual fee to Norkfolk--who retains patent rights in the tomato's genetics--to use Norfolk's seed. The license specifically prohibits the licensee from saving and replanting seeds the following season or otherwise reproducing the tomato plants in any way.
+A farmer grows heritage sweet corn on a small acreage worked by their family for generations. They market the corn as GMO-free and sell it at a local farmers market at a premium price (around $1/ear more than other varieties). Each year, the farmer carefully cultivates, collects and stores seed from a portion of their crop to plant the following season. 
 
-Throughout the following growing season, the West Egg resident growing heritage tomatoes began to notice that their fruits were not ripening to the normal shade of bright yellow but instead were developing a novel striated pattern of yellow and purple. The grower immediately suspected that their plants had been pollinated--probably by local bees--from those growing in the greenhouse containing GMO tomatoes.
+One of the neighboring farm properties has recently been purchased from a retiring farmer named Hatfield by the nearby agricultural college to use as an experimental site for developing new corn varieties. Some of those new varieties are Genetically Modified Organisms (GMOs) cultivated for features such as disease resistance. Over the years, research into GMO corn and other crops has become a lucrative source of income for the college--especially in those instances where it has acquired patent rights to the exclusive reproduction and use of the varieties it has developed. The college plans to employ over 50 people from the surrounding community in various roles at its new experimental site. 
 
-After complaining to the neighbouring farmer that "genetic drift" from their GMO tomatoes was contaminating the heritage plot, the West Egg resident carried out their own research and discovered that it would be possible--though expensive--for the farmer to install a new, prototype filtration system in the greenhouse's air exchange system that would prevent cross-pollination with other plants in the vicinity. Despite repeated pleas for the farmer of the GMO tomatoes to adopt this new technology, they have so far refused to do so.
+A few years ago, Hatfield had entered into an agreement with McCoy (from whom the heritage corn farmer had purchased their land), promising that they (Hatfield) would limit their farming activities to "sustainable" farming methods, which was defined as excluding the planting or production of GMO crops. When the college was negotiating to purchase the land, Hatfield had mentioned in passing that there were some "sustainability constraints" around using the land but did not elaborate. 
 
-The heritage tomato grower from West Egg ultimately decided to bring a claim in nuisance against the GMO farmer, asking for an injunction to restrain the defendant from operating a tomato greenhouse facility using GMO tomatoes on their land. 
+### The Problem
 
-**The main cases you will read this week (*Victoria Park*, *Canadian Copper*, and *Canadian Paper*) are each good examples of the classical style. Write a judgment resolving this dispute written in the classical style and applying the legal principles you learned from the readings. Be sure to identify and explain your proposed remedy. Then explain briefly how you have relied on the assumptions implicit in the classical style to arrive at a decision.**
+**The heritage farmer is worried about "genetic drift" from GMO varieties grown on the college lands contaminating their corn crop through cross-pollination. What legal claims, if any, might the farmer make against the agricultural college to prevent it from growing GMO corn on its land and what are the chances that those claims will succeed? For the purposes of this question, you can assume proof of a nuisance having been caused by the college.**
+
+### Developing Your Answer
+
+This week we return to practicing the skills of issue spotting and legal analysis of a hypothetical fact pattern. From the list below, you are encouraged to start your readings with either *Shelfer v City of London*, which deals with the tort of nuisance, or *Keppell v Bailey*, which deals with the topic of  covenants on title to land. 
+
