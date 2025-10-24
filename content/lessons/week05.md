@@ -13,7 +13,7 @@ objectives:
   - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve the contested legal issues that arise in nuisance cases. 
   - objective: Explain how and in what form restrictive covenants came to be understood as "running with the land".
 
-description: As one of several possible means by which owners exercise their right to exclude others from their land, this week we examine the role of claims in nuisance and the challenging question of appropriate remedies. 
+description: This week we examine the role of private law tools to govern land uses in the face of a conflict between neighbors, including issues of the appropriate remedy in nuisance and the circumstances in which restrictive covenants run with title to the land. 
 
 materials:
   - shelfer
