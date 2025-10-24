@@ -17,7 +17,7 @@ Several years ago, Hatfield (the college's predecessor in title) entered into an
 
 ### The Problem
 
-**The heritage farmer is worried about "genetic drift" from GMO varieties grown on the college lands contaminating their corn crop through cross-pollination. What legal claims, if any, might the farmer make against the agricultural college to prevent it from growing GMO corn on its land and what are the chances that those claims will succeed? For the purposes of this question, you may assume proof of a nuisance caused by the college.**
+**The heritage farmer is worried about "genetic drift" from GMO varieties grown on the college lands contaminating their heritage corn crop through cross-pollination. What legal claims, if any, might the farmer make against the agricultural college to prevent it from growing GMO corn on its land and what are the chances that those claims will succeed? For the purposes of this question, you may assume proof of a nuisance caused by the college.**
 
 ### Developing Your Answer
 
