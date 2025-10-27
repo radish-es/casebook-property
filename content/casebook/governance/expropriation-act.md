@@ -5,7 +5,7 @@ reporter: 'RSNS 1989, c 156'
 description: Governs the expropriation ('taking') of land.
 doctrines:
   - police-power
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca
@@ -16,7 +16,7 @@ sources:
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
 
-bookHidden: true
+bookHidden: false
 ---
 
 <div id="statute">

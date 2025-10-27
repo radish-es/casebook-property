@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: McLaren v Caldwell et al
 short: McLaren
 reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA); 1882 CanLII 3 (SCC), [1882] 8 SCR 435'
@@ -15,7 +15,7 @@ sources:
 doctrines:
   - police-power
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Background to the Case

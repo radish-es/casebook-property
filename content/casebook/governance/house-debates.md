@@ -1,12 +1,12 @@
 ---
 title: House of Commons Debate (Rivers and Streams Bill)
 short: House Debates
-class: secondary
+type: secondary
 
 source: The excepts below are taken from a parliamentary debate between a member of the governing Conservatives (McCarthy) and a member of the Liberal party in opposition (Blake). The speakers are debating the question of whether or not Parliament should exercise its authority to "disallow" the Rivers and Streams Act passed by Ontario in 1881 in response to the Chancery Court's decision in McLaren v Caldwell. 
 doctrines:
   - police-power
-bookHidden: true
+bookHidden: false
 ---
 
 ### Mr. McCarthy —
