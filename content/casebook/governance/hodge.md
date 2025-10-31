@@ -35,7 +35,7 @@ It will be observed that the question whether the Local Legislature could confer
 
 On the 27th June 1881, that rule was made absolute, and an order pronounced by the Court of Queen's Bench to quash the conviction. The judgment of the Court, which seems to have been unanimous, was delivered by Hagarty, C. J., with elaborate reasons, but finally it will be found that the decision of the Court rests on one ground alone, and does not profess to decide the question which on this appeal was principally discussed before their Lordships.
 
-The Chief Justice, in the course of his judgment, says:
+The Chief Justice, in the course of his judgment, says:
 
 > It was stated to us that the parties desired to present directly to the Court the very important question whether the Local Legislature, assuming that it had the power themselves to make these regulations and create these offences, and annex penalties for their infraction, could delegate such powers to a Board of Commissioners or any other authority outside their own legislative body."
 

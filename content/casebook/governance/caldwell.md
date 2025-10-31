@@ -1,8 +1,8 @@
 ---
-class: case
+type: case
 title: McLaren v Caldwell et al
 short: McLaren
-reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA); 1882 CanLII 3 (SCC), [1882] 8 SCR 435'
+reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA), 1882 CanLII 3 (SCC), [1882] 8 SCR 435'
 year: 1880
 facts: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams.
 issue: Whether the plaintiffs riparian rights allow him to exclude Caldwell's ability to run lumber despite Ontario's legislation.
@@ -14,8 +14,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - police-power
-
-bookHidden: true
+bookHidden: false
 ---
 
 ## Background to the Case
@@ -32,13 +31,21 @@ A few decades later, after the provision above was reenacted by the Province of 
 
 In 1880, McLaren persuaded the Ontario Court of Chancery to grant an injunction--based on the ruling in  *Boale*--restraining Caldwell from using the rivers where McLaren had made improvements. In Caldwell's appeal of the decision, the Ontario Court of Appeal overruled *Boale* and overturned the injunction. Eventually, this decision by Ontario Court of Appeal interpreting the 1847 Act was overturned by the Supreme Court of Canada (but then ultimately upheld by the Privy Council).
 
-Meanwhile, following the Chancery Counrt's decision granting McLaren his initial injunction, the provincial legislature in Ontario attempted to intervene in the dispute by enacting legislation in 1881 entitled the *Rivers and Streams Act*. This new legislation attempted to clarify--*contra Boale* and the position of the Supreme Court--that parties in Caldwell's position did indeed have the right to use rivers like McLaren's and their associated improvements, even if they were non-navigable to begin with. 
+Meanwhile, following the Chancery Court's decision granting McLaren his initial injunction, the provincial legislature in Ontario attempted to intervene in the dispute by enacting legislation in 1881 entitled the *Rivers and Streams Act*. This new legislation attempted to clarify--*contra Boale* and the position of the Supreme Court--that parties in Caldwell's position did indeed have the right to use rivers like McLaren's and their associated improvements, even if they were non-navigable to begin with.  The relevant provisions read as follows:
+
+> 1\. All persons shall, subject to the provisions in this Act contained, have, and are hereby declared always to have had, floating down during the spring, summer and autumn freshets, the right to, and may float and transmit saw-logs and all other timber of every kind, and all rafts and crafts, down all rivers, creeks and streams; and no person shall by felling trees or placing any other obstruction in or across any such river, creek or stream, prevent the passage thereof; and in case it may be necessary to remove any obstruction from such river, creek or stream, or construct any apron, dam, slide, gate-lock, boom, or other work therein or thereon, necessary to facilitate the floating and transmitting such saw-logs and other timber, rafts or crafts, down the same, then it shall be lawful for the person requiring so to float and transmit such saw-logs and other timber, rafts and crafts, and it is hereby declared always to have been lawful to remove such obstruction, and to construct such apron, dam, slide, gate-lock, boom or other work necessary for the purposes aforesaid, doing no unnecessary damage to the said river, creek or stream, or to the banks thereof.
+>
+>[…]
+>
+>11\. In case any person shall construct in or upon such river, creek or stream, any apron, dam, slide, gate, lock, boom or other work necessary to facilitate the floating or transmission of saw-logs or other timber, rafts or crafts down such river, creek or stream, which was not navigable or floatable before floating down the improvements were made, or shall blast rocks or remove shoals or other impediments, or otherwise improve the floatability of the river, creek or stream, such person shall not have the exclusive right to the use of the river, creek, or stream, or to the constructions and improvements; but all persons shall have during the spring, summer and autumn freshets, the right to float and transmit saw-logs and other timber, rafts and crafts down such rivers, creeks or streams, and through and over the constructions and improvements, doing no unnecessary damage to the constructions and improvements, or to the banks of the said rivers, creeks or streams, subject to the payment to the person who has made the constructions and improvements, of reasonable tolls.
+>
+>12\. Sections 1 and 11 of this Act and all the rights therein given and all the provisions therein made and contained, shall extend and apply to all rivers creeks and streams mentioned in section 1 of this Act, and to all constructions and improvements made therein or thereon, whether the bed of the river, creek or stream or the land through which the same runs, has been granted by the Crown or not, and if granted by the Crown shall be binding upon the grantees their heirs, executors, administrators and assigns.
 
 After the *Rivers and Streams Act* was enacted by Ontario in 1881, McLaren successfully petitioned the federal government to take the extraordinary step of unilaterally "disallowing" the new provincial legislation on the basis that it unduly interfered with McLaren's property rights. In the two years following this move by the federal Conservatives in Parliament, the *Rivers and Streams Act* was twice reintroduced by the province, with the federal government disallowing the legislation each time. The Act finally passed the Ontario legislature, without disallowance, in 1884. 
 
 At the heart of this remarkable series of events was the issue of how Ontario's attempts to support the transportation of lumber by modifying traditional rights to property in watercourses ought to be framed and interpreted in law. In other words, should provincial limitations on McLaren's rights to exclude others from using the river be viewed by the courts as an expropriation? And if so, what are the legal consequences of such an interpretation?
 
-Below are excerpts from the judgments of the Ontario Court of Appeal and the Supreme Court of Canada in *McLaren v Caldwell*, linked in turn to readings about the *Rivers and Streams Act* and the federal Parliamentary debates described above. As in previous weeks, we are interested in how the features of classical common law thought are influencing the decisions and the rhetoric in these cases--here, decisions taken in both the judicial and political spheres. 
+Below are excerpts from the judgments of the Ontario Court of Appeal and the Supreme Court of Canada in *McLaren v Caldwell*, linked in turn to the federal Parliamentary debates described above.
 
 ## Ontario Court of Appeal (Spragge, C.J.O)
 
@@ -126,3 +133,4 @@ But, in my opinion, as I have suggested, the Legislature merely intended that al
 *Appeal allowed.*
 
 [^vict1849]: *An act to provide for the construction of aprons to mill dams over certain streams in this Province, and to make further provision in respect thereof* (1849), 12 Vict, c 87, s 5.
+

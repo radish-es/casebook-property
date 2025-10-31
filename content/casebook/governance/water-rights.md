@@ -1,8 +1,8 @@
 ---
 title: Riparian Rights
 short: Riparian Rights
-class: concept
-description: An introduction to common law riparian rights, and context for their place in the 19th century lumber industry
+type: secondary
+description: An introduction to common law riparian rights, and context for their place in the 19th century lumber industry. This short piece will serve as useful background to understanding the McLaren v Caldwell saga.
 doctrines:
   - police-power
 

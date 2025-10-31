@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Pennsylvania Coal Co. v Mahon
 short: Pennsylvania Coal
 reporter: ' 260 US 393 (1922)'
