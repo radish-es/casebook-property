@@ -1,5 +1,5 @@
 ---
-title: Excluding the State
+title: "'Taking' Property"
 short: Week 6
 draft: false
 
@@ -9,10 +9,10 @@ weight: 6
 image: /imgs/dam.jpg
 imgcaption:  Ragged Chutes Dam on the Upper Mississippi River, constructed by Peter McLaren. Cloyne and District Historical Society
 objectives:
-  - objective: Explain how jurists approached claims that their land had been expropriated early in the development of this area of Anglo-Canadian law. 
-  - objective: Identify key limitations of modern expropriation statues and challenges related to their interpretation and application.  
+  - objective: Explain how jurists approached claims that property owners' land had been expropriated early in the development of this area of Anglo-Canadian law. 
+  - objective: Identify and apply principles of expropriation law developed before the advent of modern expropriation statutes.
   - objective: Analyze problems involving landowners riparian rights.  
-description: Private owners might also wish to exclude the state from "interference" with the property rights. This week we start to explore to what extent such rights of exclusion can be applied to public authorities. 
+description: One of the state's most significant powers with respect to property is the power of eminent domain--the power to 'take' property for a public purpose. This week we start to explore how the scope of this power and its historical significance related to natural resource development in the late nineteenth and early twentieth century.
 
 materials:
   - caldwell
@@ -23,7 +23,7 @@ materials:
 
 ---
 
-## Property and "Exclusion" of Public Authority 
+## Property and Public Authority 
 
 Last week, we saw that claims in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting the use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose.
 
@@ -33,6 +33,6 @@ In the most dramatic cases, the state exercises its powers of expropriation to t
 
 A key legal issue is to what extent landowners in Canada can exclude governments from expropriating or otherwise regulating their property rights in the absence of compensation. Unlike the United States and several modern constitutional democracies, Canada lacks any constitutional protections for private property against state attempts to limit or take away those rights. Lacking such explicit protections, it has generally not been possible for claimants to invoke existing constitutional rights in ways that protect private property. 
 
-What protections do exist mainly take the form of provincial expropriation statutes. These statutes do not prevent government from expropriating property altogether, but they do impose certain restrictions on this activity, such as that it must be undertaken for a public purpose and that adequate compensation to landowners must be paid. Such compensation is clearly required when title is taken away by the state. Much less clear is to what extent governments in Canada are responsible for compensating landowners for regulatory activity that "takes" one or more sticks in the bundle. As the United States Supreme Court observed in *Pennsylvania Coal Co. v Mahon*, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."
+What protections do exist today mainly take the form of provincial expropriation statutes. These statutes do not prevent government from expropriating property altogether, but they do impose certain restrictions on this activity, such as that it must be undertaken for a public purpose and that adequate compensation to landowners must be paid. Such compensation is clearly required when title is taken away by the state. Much less clear is to what extent governments in Canada are responsible for compensating landowners for regulatory activity that "takes" one or more sticks in the bundle. As the United States Supreme Court observed in *Pennsylvania Coal Co. v Mahon*, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."
 
-A crucial moment in the history of Anglo-Canadian legal thinking on issues of expropriation occurred in the context of a dispute over water rights in Ontario at the end of the nineteenth century between the lumbering operations of one Peter McLaren and one Boyd Caldwell. We will study this controversy and its implications in depth this week.  
+A crucial moment in the history of Anglo-Canadian legal thinking on issues of expropriation occurred in the context of a dispute over water rights in Ontario at the end of the nineteenth century between the lumbering operations of one Peter McLaren and one Boyd Caldwell. This and similar conflicts drove courts and legislatures to develop their own perspectives and approaches to expropriation. We will study this controversy and its implications in depth this week.  
