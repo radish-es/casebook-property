@@ -16,18 +16,16 @@ description: Private owners might also wish to exclude the state from "interfere
 
 materials:
   - mclaren
-  - expropriation-act
   - house-debates
   - pennsylvania-coal
-  - rivers-and-streams-act
   - water-rights
-
+  - manitoba-fisheries
 
 ---
 
 ## Property and "Exclusion" of Public Authority 
 
-Last week, we saw that claims in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting the use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these cases, the courts must decide whose rights should win out and in doing so address the fundamental dilemma of conflicting freedoms inherent in legal liberalism. 
+Last week, we saw that claims in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting the use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose.
 
 In other cases—like the one we will study this week—it is not (or not only) a neighbouring landowner who is accused of infringing the plaintiff's property rights, but the state itself. This type of claim engages the state's powers of *expropriation* (power to take away property rights)—in some contexts, called the power of *eminent domain*.  
 
@@ -37,4 +35,4 @@ A key legal issue is to what extent landowners in Canada can exclude governments
 
 What protections do exist mainly take the form of provincial expropriation statutes. These statutes do not prevent government from expropriating property altogether, but they do impose certain restrictions on this activity, such as that it must be undertaken for a public purpose and that adequate compensation to landowners must be paid. Such compensation is clearly required when title is taken away by the state. Much less clear is to what extent governments in Canada are responsible for compensating landowners for regulatory activity that "takes" one or more sticks in the bundle. As the United States Supreme Court observed in *Pennsylvania Coal Co. v Mahon*, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."
 
-A crucial moment in the history of Anglo-Canadian legal thinking on issues of expropriation occured in the context of a dispute over water rights in Ontario at the end of the nineteenth century between the lumbering operations of one Peter McLaren and one Boyd Caldwell. We will study this controversy and its implications in depth this week.  
+A crucial moment in the history of Anglo-Canadian legal thinking on issues of expropriation occurred in the context of a dispute over water rights in Ontario at the end of the nineteenth century between the lumbering operations of one Peter McLaren and one Boyd Caldwell. We will study this controversy and its implications in depth this week.  

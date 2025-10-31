@@ -5,6 +5,7 @@ reporter: '(1881), c 11'
 doctrines: 
   - police-power
 class: statute
+description: Provincial legislation at issue in the McLaren and Caldwell saga.
 
 bookHidden: true
 ---
