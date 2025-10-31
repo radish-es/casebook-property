@@ -13,8 +13,6 @@ bookHidden: false
 
 ### Ritchie J.:--
 
-**The judgment of thecourt was delivered by** _**Ritchie J.**_ **:**
-
 This is an appeal from a judgment of the Federal Court of Appeal [1978] 1 F.C. 485, 78 D.L.R. (3d) 393, 17 N.R. 28 dismissing an appeal from a judgment rendered at trial by Collier J. \[1977\] 2F.C. 457, 72 D.L.R. (3d) 756 whereby he dismissed the action brought by the appellant for a declaration that it was entitled to compensation for the loss suffered by reason of the provisions of the Freshwater Fish Marketing Act,R.S.C. 1970, c. F-13 (hereinafter referred to as “the Act”).
 
 The appellant company was incorporated in 1926 and was, from its earliest days until May 1969, engaged in the purchase of fish from fishermen in the various lakes in Manitoba and the processing and sale of these fish to customers in the United States and in other provinces in Canada. The learned trial judge found that this company and others like it had over the years built up individual clientele in what had become a highly competitive business. The following facts are admitted by the respondent:

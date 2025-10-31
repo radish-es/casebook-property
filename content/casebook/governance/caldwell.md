@@ -2,7 +2,7 @@
 type: case
 title: McLaren v Caldwell et al
 short: McLaren
-reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA); 1882 CanLII 3 (SCC), [1882] 8 SCR 435'
+reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA), 1882 CanLII 3 (SCC), [1882] 8 SCR 435'
 year: 1880
 facts: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams.
 issue: Whether the plaintiffs riparian rights allow him to exclude Caldwell's ability to run lumber despite Ontario's legislation.
@@ -133,5 +133,4 @@ But, in my opinion, as I have suggested, the Legislature merely intended that al
 *Appeal allowed.*
 
 [^vict1849]: *An act to provide for the construction of aprons to mill dams over certain streams in this Province, and to make further provision in respect thereof* (1849), 12 Vict, c 87, s 5.
-
 

@@ -15,11 +15,11 @@ objectives:
 description: Private owners might also wish to exclude the state from "interference" with the property rights. This week we start to explore to what extent such rights of exclusion can be applied to public authorities. 
 
 materials:
-  - mclaren
+  - caldwell
   - house-debates
   - pennsylvania-coal
   - water-rights
-  - manitoba-fisheries
+  - fisheries
 
 ---
 
