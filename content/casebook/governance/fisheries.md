@@ -125,4 +125,6 @@ When read as a whole, there can belittle doubt that the _Ulster Tpt. Authority_ 
 
 [...]
 
+For all these reasons I would allow this appeal, set aside the judgment of the Court of Appeal and direct that judgment be entered providing for a declaration that the appellant is entitled to compensation in an amount equal to the fair market value of its business as a going concern as at 1st May 1969, minus the residual value of its remaining assets as of that date, together with a declaration that the said fair market value is to be agreed to by the paries and, failing agreement within a reasonable time, that either party may apply to a judge of the Federal Court to have that value determined.
+
 *Appeal allowed*
