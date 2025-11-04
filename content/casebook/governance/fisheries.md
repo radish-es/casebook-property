@@ -125,6 +125,8 @@ When read as a whole, there can belittle doubt that the _Ulster Tpt. Authority_ 
 
 [...]
 
+ It will be seen that, in my opinion, the Freshwater Fish Marketing Act and the corporation, created thereunder, had the effect of depriving the appellant of its goodwill as a going concern and consequently rendering its physical assets virtually useless, and that the goodwill so taken away constitutes property of the appellant for the loss of which no compensation whatever has been paid. There is nothing in the Act providing for the taking of such property by the government without compensation and I find that there was such a taking, it follows, in my view, that it was unauthorized, having regard to the recognized rule that "unless the words of the statute clearly so demand, a statute is not to be construed so as to take away the property of a subject without compensation": per Lord Atkinson in *A.G. v. De Keyser's Royal Hotel*, *supra*.
+
 For all these reasons I would allow this appeal, set aside the judgment of the Court of Appeal and direct that judgment be entered providing for a declaration that the appellant is entitled to compensation in an amount equal to the fair market value of its business as a going concern as at 1st May 1969, minus the residual value of its remaining assets as of that date, together with a declaration that the said fair market value is to be agreed to by the paries and, failing agreement within a reasonable time, that either party may apply to a judge of the Federal Court to have that value determined.
 
 *Appeal allowed*
