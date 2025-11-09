@@ -20,6 +20,7 @@ materials:
   - walker
   - wills-act
   - conveyancing-act
+  - yellowhead-land
 ---
 
 Having now studied some of the historical basis for problems of *recognition* and *governance*, this week we move on to examine the context of *exit*: how owners transfer their rights in land and thereby disentangle themselves (wholly or partially) from property relations. 
