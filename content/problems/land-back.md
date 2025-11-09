@@ -15,4 +15,4 @@ Suppose that a testator (the legal term for a person making a will, which is als
 
 ### The Problem
 
-**When the testator passes away, what interests in the farmland would likely be created through this provision in the will? Be sure to identify and address any problems with interpreting the will. Do you think the testator's aim to return "control" and recognize "Aboriginal Title" via a testamentary bequest is consistent with the concept of Aboriginal Title as you currently understand it? Is it consistent with the aims of the Land Back movement as described by the Yellowhead Institute?**
+**When the testator passes away, what interests in the farmland would likely be created through this provision in the will? Be sure to identify and address any problems with interpreting the will. Do you think the testator's aim to return "control" and "recognize Aboriginal Title" via a testamentary bequest is consistent with the concept of Aboriginal Title as you currently understand it? Is it consistent with the aims of the Land Back movement as described by the Yellowhead Institute?**
