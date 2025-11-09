@@ -5,7 +5,7 @@ reporter: 'RSNS 1989, c 505'
 description: A statue addressing the transfer of land title by bequest in Nova Scotia.
 doctrines:
   - estates
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca

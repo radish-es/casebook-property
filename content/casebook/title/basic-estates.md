@@ -10,7 +10,7 @@ sources:
       James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet,
       eds., Open Source Property: A Free
       Casebook, https://opensourceproperty.org (2015)
-class: concept
+type: secondary
 description: Introduction to the basic common law estates in land and the concept of future interests.
 source: >-
       Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
@@ -18,8 +18,12 @@ public: true
 doctrines:
   - estates
 
-bookHidden: true
+bookHidden: false
 ---
+
+*Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*
+
+<hr/>
 
 We will begin by examining two possessory estates—the **fee simple absolute** and the **life estate**—and two future interests ... —the **reversion** and the **remainder**.
 

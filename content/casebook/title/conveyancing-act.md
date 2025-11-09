@@ -5,7 +5,7 @@ reporter: 'RSNS 1989, c 97'
 description: A statue establishing parameters for the transfer of land title in Nova Scotia.
 doctrines:
   - estates
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca

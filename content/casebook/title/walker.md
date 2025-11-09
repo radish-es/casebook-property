@@ -1,10 +1,10 @@
 ---
-class: case
+type: case
 title: Re Walker
 short: Walker
 reporter: '(1925), 56 OLR 517'
 year: 1925
-facts: The testator left his property to his spouse, using the language of a fee simple estate. However, he added conditions on alienation to the bequest that would come into place upon his spouse's death.
+facts: The testator left his property to his spouse using language that was ambiguous as to the type of estate in land he intended to create. The interpretation of the testator's intention determines who can claim under the will.
 issue: Whether the conditions on the fee simple estate were valid.
 held: The conditions here were invalid, because they attempted to place a restraint on alienation on a fee simple, which is repugnant to the estate.
 description: Interpretation of a will addressing the type of common law estate conveyed.
@@ -12,7 +12,7 @@ public: true
 doctrines:
   - estates
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Middleton J.A. —

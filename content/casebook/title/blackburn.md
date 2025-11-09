@@ -1,10 +1,10 @@
 ---
-class: case
+type: case
 title: Blackburn v McCallum
 short: Blackburn
 reporter: '1903 CanLII 68 (SCC), [1903] 33 SCR 65'
 year: 1903
-facts: Donald Chisholm divided his land and left it to his sons as two fee simple estates. He attached conditions on the ability of his sons to sell or mortgage the lands for 25 years.
+facts: Donald Chisholm divided his land and left it to his sons as two separate estates in fee simple. He attached conditions to the transfer on the ability of his sons to sell or mortgage the lands for 25 years.
 issue: Whether the restraints on alienation placed on the land are valid.
 held: Absolute restraints on alienation on a fee simple estate, like these conditions, are invalid. However, limited restraints on alienation may be permissable.
 public: true
@@ -16,7 +16,7 @@ sources:
 doctrines:
   - alienation
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Davies J. —
