@@ -2,19 +2,22 @@
 title: The Unlawful Dispossession of Japanese Canadians
 short: Adams and Stanger-Ross 
 source: Excepted from Eric Adams and Jordan Stanger-Ross, "Promises of Law - The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017) 687-740.
+description: A recent legal-historical study of the internment and dispossession of Japanese Canadians arguing that the federal government had established a kind of trust in the course of its dealings with their property.
 sources:
   - source_name: 'Osgoode Hall Law Journal'
     source_url: 'https://digitalcommons.osgoode.yorku.ca'
     license: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'
     attribution: >-
       From Eric M Adams and Jordan Stanger-Ross, "Promises of Law: The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017): 687-740. 'https://digitalcommons.osgoode.yorku.ca/ohlj/vol54/iss3/2'
-class: secondary
+type: secondary
 public: true
 doctrines:
   - trusts
 
 bookHidden: true
 ---
+
+*Excepted from Eric Adams and Jordan Stanger-Ross, "Promises of Law - The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017) 687-740.*
 
 While interning Japanese Canadians, the federal government seized control of all of their real and personal property within the "protected area in British Columbia." In the spring of 1943, federal officials began to sell virtually everything that the government had taken, often below market value. Families lost heirlooms, vibrant businesses, and everyday possessions. They lost cars, boats, books, toys, furniture, and cameras. They lost homes and farms. Beyond the tangible, Canadians of Japanese descent lost opportunities, neighbourhoods, and communities. They lost connections to place. They lost retirements, livelihoods, and educations. They lost agency over their property and life choices. They lost, as Rikizo Yoneyama poignantly expressed in a defiant letter to the Minister of Justice, "more than just a home." Japanese Canadians, he lamented, lost "the foundation of security and freedom as Canadian citizens."
 

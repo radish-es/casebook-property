@@ -7,7 +7,7 @@ summary:
 image: /imgs/dalhousie.jpg
 imgcaption: Ryan Sharpe / Wikimedia Commons
 
-weight: 6
+weight: 7
 ---
 
 ## Hypothetical Facts

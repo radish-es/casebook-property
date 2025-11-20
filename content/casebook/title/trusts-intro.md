@@ -10,16 +10,18 @@ sources:
       James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet,
       eds., Open Source Property: A Free
       Casebook, https://opensourceproperty.org (2015)
-class: concept
-description: Brief background to the common law doctrines of tenues and estates in land.
+type: secondary
+description: A brief primer on the historical development of the "use" as a precursor to the modern trust.
 source: >-
       Adapted from James Grimmelmann, "Trusts and Corporations" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
 doctrines:
   - trusts
 
-bookHidden: true
+bookHidden: false
 ---
+
+*Adapted from James Grimmelmann, "Trusts and Corporations" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*
 
 The origin of the trust lies in medieval tax estate planning and tax evasion. (Arguably, nothing has changed in the last six hundred years.) Imagine Osbert, a minor lord in the 15th century, who holds Greenacre as a tenant of Leonard, a slightly less minor lord. Osbert is getting on in years and has started to worry about the future of his family. His elder son, Aylwin, is not showing promising signs of maturity, and Osbert has come to think that Aylwin may be better suited to religious orders than the duties of managing a great estate. But Osbert’s younger son Bartholomew appears to be a fine young gentleman: athletic, patient, and wise in the ways of men. Osbert would like to provide for Aylwin, but would prefer to have Greenacre go to Bartholomew. Osbert’s problem is that the available conveyancing devices don’t work for him. If he does nothing, then Greenacre goes to Alywin at Osbert’s death under the rule of primogeniture in effect in England at the time, according to which the eldest son receives any land his father owned at his death (was “seised of,” in contemporary terminology). A will leaving Greenacre to Bartholomew doesn’t work because land could not be devised by will until the Statute of Wills in 1540. And Osbert doesn’t want to convey Greenacre (or a future interest in Greenacre) to Bartholomew now, because Bartholomew might die before him, or Aylwin might get his act together, or something else could come along to force a change in plan.
 

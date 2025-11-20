@@ -2,23 +2,14 @@
 title: A Letter to the Prime Minister
 short: Letter
 class: problem
-draft: true
+draft: false
 
 description: A letter to Prime Minister WIlliam Lyon Mackenzie King serves at the starting point for addressing the history of Japanese-Canadian dispossession and internment. 
 summary: 
 image: /imgs/vancouver-escorted.jpg
 imgcaption: Japanese Canadian children being escorted by Vancouver police. Vancouver Public Library @ Flickr Commons.
-links:
-  - url: content/concepts/trusts.md
-    explanation: The concept of a "trust" is one with a long history--this short excepts provides brief background and a sketch of the structures involved. 
-  - url: content/secondary/adams-stangerross.md
-    explanation: The dispossession of Japanese Canadians from British Columbia during WWII involved a complex legal structure designed to hold, and ultimately alienate (or "liquidate"), their property. This article explains some background to these events and argues for a particular legal interpretation of the property arrangements involved.
-  - url: content/cases/iwasaki.md
-    explanation: Here the court is pressed to interpret the taking of Japanese Canadians' property as giving rise to a form of legal trust. 
-  - url: content/cases/duthie.md
-    explanation: What exactly do the obligations of a trustee look like? To whom are those obligations owed?
 
-weight: 9
+weight: 8
 ---
 
 In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter to Prime Minister William Lyon Mackenzie King, protesting the forced sale of her home in Victoria, British Columbia under the wartime legal regime that had emerged to dispossess Japanese Canadians of their property and "liquidate" their belongings:[^findlay2023]
