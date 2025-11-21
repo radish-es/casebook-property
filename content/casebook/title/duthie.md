@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Duthie v Gallagher & Duthie
 short: Duthie
 reporter: (1930) 2 DLR 582

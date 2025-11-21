@@ -40,6 +40,6 @@ In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter t
 
 **(1) How might the federal government's "promises", described by Toyo Takahashi, be interpreted as giving rise to a legal trust, in which the Director of the Office of the Custodian acts as the trustee of Takahashi's property? What would be the implications of such an interpretation? Why was it rejected by the Canadian courts?**
 
-**(2) What does Toyo Takahashi's letter suggest about the link between the "problem of recognition" in property law, ownership, and the idea of Canadian citizenship?** 
+**(2) What does Toyo Takahashi's letter and the materials you have studied this week suggest about the connection between property and the idea of "good citizenship" in the context of World War II?** 
 
 [^findlay2023]: Quoted in Katlin Findlay, Trevor Wideman and Yasmin Amaratunga, "'After All Our Efforts at Good Citizenship': Propriety, Property, and Belonging in the Dispossession of Japanese Canadians, 1940s" (2023) 104:1 *The Canadian Historical Review* 76 at 84-85.
