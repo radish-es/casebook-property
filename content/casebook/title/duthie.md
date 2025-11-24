@@ -2,7 +2,7 @@
 type: case
 title: Duthie v Gallagher & Duthie
 short: Duthie
-reporter: (1930) 2 DLR 582
+reporter: 1930 CanLII 306 (BC SC)
 year: 1930
 description: A claim by the plaintiffs as beneficiaries that the defendant trustees were in breach of trust for their failure to sell the trust property for at a good market price, before real estate prices dropped dramatically. 
 issue: 
