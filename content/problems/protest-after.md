@@ -2,7 +2,7 @@
 title: After the Protest 
 short: After Protest
 draft: false
-description: Returning to the context of our problem in Week 1, this hypothetical explores the interpretation and consequences of legislation by the provincial government that could apply to "take" a landowners right to exclude. 
+description: Returning to the context of our problem in Week 1, this hypothetical explores the interpretation and consequences of legislation by the provincial government that could apply to "take" a landowner's right to exclude. 
 summary: 
 image: /imgs/dalhousie.jpg
 imgcaption: Ryan Sharpe / Wikimedia Commons
