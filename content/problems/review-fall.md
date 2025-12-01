@@ -1,5 +1,5 @@
 ---
-title: Mid-Term Rapid Review
+title: End of Term Rapid Review
 short: Rapid Review
 draft: false
 description:  A series of rapid review questions to assess your knowledge and understanding mid-term.
