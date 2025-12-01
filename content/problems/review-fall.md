@@ -38,7 +38,7 @@ weight: 9
 
 - According to the courts in *St. Catherine's Milling*, is Aboriginal title a "beneficial interest" land?
 
-- Explain how the judicial decisions in *St. Catherine's Milling* contribute to the legal foundations for settler colonials in the post-Confederation period.
+- Explain how the judicial decisions in *St. Catherine's Milling* contribute to the legal foundations for settler colonialism in the post-Confederation period.
 
 - How does Locke's theory of possession become a justification for *terra nullius* in the era of settler colonialism?
 
