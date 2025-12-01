@@ -18,9 +18,9 @@ weight: 9
 
 ## Week 2: Recognizing Land Relations
 
-- How does the Court's approach to treaty rights in *R v Simon* differ from the approach taken to treaty by Professor Henderson in *Mikmaw Tenure in Atlantic Canada"? How does the latter help us to understand the co-existence of--and relationship between--multiple legal orders (e.g. Anglo-Canadian law and Mi'kmaw law?)
+- How does the Court's approach to treaty rights in *R v Simon* differ from the approach taken to treaty by Professor Henderson in *Mikmaw Tenure in Atlantic Canada*? How does the latter help us to understand the co-existence of--and relationship between--multiple legal orders (e.g. Anglo-Canadian law and Mi'kmaw law?)
 
-- How does Locke say that one comes to own a wild acorn? Do his ideas help the judges in *Pierson v Post* to resolve hte question of who owns the fox?
+- How does Locke say that one comes to own a wild acorn? Do his ideas help the judges in *Pierson v Post* to resolve the question of who owns the fox?
 
 - How do the preferred principles of first possession concerning foxes during a hunt differ between the two decision in *Pierson v Post*?
 
