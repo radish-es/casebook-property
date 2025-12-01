@@ -2,7 +2,7 @@
 title: End of Term Rapid Review
 short: Rapid Review
 draft: false
-description:  A series of rapid review questions to assess your knowledge and understanding mid-term.
+description:  A series of rapid review questions to assess your knowledge and understanding at the end of term.
 summary: 
 image: 
 imgcaption: 
