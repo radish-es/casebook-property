@@ -149,7 +149,7 @@ academic integrity. All students must read the [University policies on plagiaris
 The course instructor may use Dalhousie’s approved originality checking software and Google to check the originality of any work submitted for credit, in accordance with the Student Submission of Assignments and Use of Originality Checking Software Policy. Students are free,
 without penalty of grade, to choose an alternative method of attesting to the authenticity of their work and must inform the instructor no later than the last day to add/drop classes of their intent to choose an alternate method. ([Read more](https://www.dal.ca/about/leadership-governance/university-policies.html))
 
-### Penalities
+### Penalties
 
 In order to ensure that all students are treated equally, and that no student is allowed to profit from taking extra time to complete an exam, paper or assignment, or from lifting anonymity, specific penalties will be imposed depending on the circumstances:
 
