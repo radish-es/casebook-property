@@ -15,7 +15,7 @@ sources:
 doctrines:
   - adverse-possession
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Wilson, J.A. -- 

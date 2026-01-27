@@ -11,7 +11,7 @@ public: true
 doctrines:
   - possession
 
-bookHidden: true
+bookHidden: false
 weight: 40
 ---
 
