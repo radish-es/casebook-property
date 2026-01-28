@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Keefer v Arillotta
 short: Keefer
 reporter: '13 O.R. (2d) 680'

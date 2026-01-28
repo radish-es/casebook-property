@@ -1,8 +1,8 @@
 ---
-class: case
+type: case
 title: Piper v Stevenson
 short: Piper
-reporter: 1913 CanLII 615 (ON CA), [1913] 12 DLR 820
+reporter: 1913 CanLII 615 (ON CA)
 year: 1913
 facts: Piper enclosed and cultivated land for years. Stevenson said he had purchased that land and that Piper is not the owner.
 issue: Whether Piper acquired ownership of the land through adverse possession.

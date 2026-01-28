@@ -1,10 +1,10 @@
 ---
-class: case
+type: case
 title: Kosicki v Toronto (City)
 short: Kosicki
-reporter: 2023 ONCA 450 (CanLII)
-year: 2023
-facts: A private owner claims adverse possession of municipal parkland in Toronto.
+reporter: 2025 SCC 28 (CanLII)
+year: 2025
+facts: A private owner claims adverse possession of municipal parkland in Toronto, raising the critical question of whether the municipality is immune from such claims in certain contexts.
 issue: 
 held: 
 public: true
@@ -18,709 +18,284 @@ doctrines:
 bookHidden: false
 ---
 
-## Sossin J.A. --
-
-### Overview
-
-Can private landowners gain title over municipal parkland through
-adverse possession? This is the central question raised on this appeal.
-The application judge answered this question by finding that municipal
-parkland is immune to adverse possession. While I would not accept such
-an immunity arises at common law, I conclude the application judge was
-correct in finding that the municipal parkland at issue in this case was
-not available for adverse possession. For the reasons that follow, I
-would dismiss the appeal.
-
-The appellants own a property near the Humber River on the
-southeast corner of Lundy Avenue and Warren Crescent. There are 26 other
-residential properties east of the appellants' property. The City of
-Toronto is the registered owner of a strip of land on the south side of
-these properties (the "City Lands"). For simplicity, the City Lands can
-be described as comprising three sections (as represented on the diagram
-below): i) a laneway that runs along the southern boundary of the
-properties and which has been used for over 40 years to access the
-rear-facing garages of the residential properties on Warren Crescent
-(Part 1 in the diagram below); ii) a trapezoid-like parcel of land
-behind the appellants' single-family house, which has been fenced and
-used exclusively by the owners of the appellants' property since at
-least 1971 (the "Disputed Land" identified as Parts 2 and 3 in the
-diagram below); and iii) a rectangular parcel of land, which the City
-consented to transfer to the appellants' easterly neighbour (Part 4 in
-the diagram below).
-
-![](/imgs/kosicki.jpg)​
-
-
-The City Lands are adjacent to Étienne Brûlé Park, a park that
-runs along a section of the Humber River. The City's Official Plan
-designates this park and the Disputed Land as part of the City's "Green
-Space System". According to the City, the Green Space System is
-comprised of those lands that are large and have significant natural
-heritage or recreational value. In particular, within this system, the
-Disputed Land is designated as "Parks and Open Space Areas", intended to
-provide public parks and recreational opportunities. It is official City
-policy to discourage the sale and disposal of lands in the Green Space
-System, such as the Disputed Land.
-
-Sometime between 1958 and 1971, a fence was erected by the
-then-owners of the appellants' property around the Disputed Land,
-enclosing it within the backyard of the appellants' house. The public
-has not been able to access the Disputed Land since at least this time.
-
-The appellants use the Disputed Land as a play area for their
-children and maintain it as part of their backyard. The appellants have
-paid realty taxes on the Disputed Land, and the City accepted those
-payments until 2020. The appellants approached the City about purchasing
-the disputed lands in 2021. The City, based on its policy, refused to
-sell, so the appellants brought a claim for adverse possession.
-
-### Decision Below
-
-The application judge found the appellants' claim would have met
-the threshold for adverse possession, as the Disputed Land was fenced in
-by the previous owners of the property since at least 1971, with no
-objection from the City. The previous owners of the appellants'
-property, as well as the appellants, have maintained undisrupted and
-exclusive possession of the Disputed Land.
-
-While the facts at hand would have led to ownership arising from
-adverse possession if the dispute is between private parties, the
-application judge found that publicly owned land of this kind is immune
-to claims for adverse possession.
-
-The application judge reviewed the history of public ownership of
-the Disputed Land. In 1958, the City Lands, which include the Disputed
-Land, were expropriated by the Metropolitan Toronto and Region
-Conservation Authority (the "Conservation Authority") as part of a
-larger stretch of land bordering the Humber River. The application judge
-found that the City Lands were "taken for public use" and that
-"'expropriation' by its very nature is an action for public purposes."
-
-The application judge found that, in 1971, these City Lands were
-conveyed by the Conservation Authority to the City for a nominal sum of
-\$2.00. One of the components of the City Lands, the public laneway,
-allowed access for the residents' rear-facing garages. The application
-judge reviewed the record with respect to the Disputed Land after the
-conveyance and concluded, at para. 54:
-
-> \[54\] Until this application seeking an adverse possession claim, there
-was no evidence that the City was aware of the lands being public; nor
-that any city funds have been expended to maintain the disputed lands.
-It stands to reason that this was, in part, because the applicants'
-predecessors had fenced off and excluded the land from the public.
-
-The application judge characterized the property owners'
-extended fencing of the parkland as a deprivation of a reasonable use of
-the Disputed Land by the public. The application judge found that the
-Disputed Land could be put to use for the public benefit. The Disputed
-Land is part of a public park, and the City has plans to turn it into an
-access point to Étienne Brûlé park and the 29-kilometre Humber River
-Recreational Trail. She found that for over 50 years, "the property
-owners encroached on public lands with fencing to exclude public use. By
-their actions, they significantly narrowed the very access area to the
-public park."
-
-The application judge concluded that public parkland is immune
-to claims for adverse possession. She found that "a private individual
-must not be able to acquire title by encroaching on public lands and
-fencing off portions for their private use in the manner of two private
-property owners". The lands were originally required for a "very high
-public interest" --- they were expropriated for a public purpose and
-conveyed to the City as parkland. If allowed, the application judge
-reasoned, this would set a "dangerous precedent".
-
-### Analysis
-
-The sole issue on this appeal is whether the application judge
-erred in finding that the appellants could not succeed in their claim
-for adverse possession over the Disputed Land. To resolve this issue, I
-must consider two questions: first, whether the application judge
-applied the proper adverse possession analysis to the facts of this
-case; second, whether the *Real Property Limitations Act*, R.S.O. 1990,
-c. L.15 ("*RPLA*") affects this analysis, and specifically whether, as
-the appellants argue, the operation of the *RPLA* supersedes the common
-law and governs this dispute.
-
-#### **(1) The Common Law Scheme for Adverse Possession Claims**
-
-In *Nelson (City) v. Mowatt* 2017 SCC 8, \[2017\] 1 S.C.R. 138,
-at para. 17, Brown J. describes the common law basis for adverse
-possession as follows:
-
-> Adverse possession is a long-standing common law device by which the
-right of the prior possessor of land, typically the holder of registered
-title and therefore sometimes referred to as the "true owner", may be
-displaced by a trespasser whose possession of the land goes unchallenged
-for a prescribed period of time. From as early as *The Limitation Act,
-1623* (Eng.), 21 Jas. 1, c. 16, the prior possessor's right to recover
-possession was curtailed by limitation periods.
-
-Adverse possession at common law is established where the
-claimant had (i) actual, open, notorious, constant, continuous and
-peaceful possession of the subject land for the statutory period of 10
-years; (ii) an intention to exclude the true owner from possession; and
-(iii) effective exclusion of the true owner for the entire 10-year
-statutory period: *Billimoria v. Mistry* 2022 ONCA 276, 470 D.L.R. (4th)
-406, at para. 27, citing *Vivekanandan v. Terzian* 2020 ONCA 110, 443
-D.L.R. (4th) 678, at para. 21.
-
-Canadian courts have treated adverse possession in the context
-of public lands at common law as distinct. In part, this is because the
-common law rationales for adverse possession between two private parties
-do not apply to publicly owned property.
-
-Scholars have posited three rationales at common law for adverse
-possession between private parties. First, the doctrine of adverse
-possession penalizes landowners who "sleep on their rights" and rewards
-the "working possessor" --- the "reward-penalty" explanation. Second,
-based on similar reasoning, the doctrine encourages land to be put to
-its best, or most productive, use. Third, the doctrine encourages
-property owners to monitor their property and resolve any boundary,
-title, or other disputes, expeditiously, and in doing so, "protects the
-settled expectations of an adverse possessor who has acted on the
-assumption that her occupation will not be disturbed": see Bruce Ziff,
-*Principles of Property Law*, 6th ed. (Toronto: Carswell, 2014), at pp.
-141-45. See also Jeffrey E. Stake, "The Uneasy Case for Adverse
-Possession" (2001) 89 Geo L.J. 2419. None of these rationales have
-application against a municipal parkland.
-
-First, a municipal authority which allocates land-use according
-to statute cannot be said to "sleep on its rights" in relation to land
-designated as parkland, or for conservation or as an open space.
-
-Second, adverse possession cannot be said to result in better
-uses of land than those pursued by public authorities. As reflected in
-municipal zoning laws, there is an important public interest in the
-allocation of land for different uses, including land for transportation
-and industry, land for residential development and land for parkland,
-conservation or open spaces.
-
-Third, it is not realistic to expect a municipality to monitor
-the entirety of its land for signs of encroachment. As the application
-judge in this case observed, at para. 74, "The City is simply unable to
-patrol all its lands against such adverse possessors. The courts cannot
-demand the same vigilance of a private landowner to watch its borders of
-a public entity." Further, where private parties object to the municipal
-zoning of particular land for particular uses, there are statutory
-dispute resolution processes which must be followed. Therefore, the
-rationale of encouraging monitoring and settling disputes also has
-little if any application in the context of adverse possession of
-municipal parkland.
-
-Indeed, it is difficult to identify *any* rationale for adverse
-possession against municipal parkland. However, save where adverse
-possession of public lands has been barred by statute, the common law
-has developed analytical approaches that leave open, at least in some
-circumstances, that adverse possession against such property remains
-possible.
-
-In his chapter on "Capacity to Hold and Deal with Interests in
-Land" in Anne Warner La Forest, *Anger & Honsberger Law of Real
-Property*, 3rd ed. (Toronto: Carswell, 2006), at §24:10, G. Thomas
-Johnson summarizes this principle as follows:
-
-> Municipalities, cities and towns have the power to acquire property by
-dedication, by devise, and by prescription. A town council which is
-authorized to expropriate land for specified purposes cannot exercise
-that power for different purposes. Where legislation has prescribed the
-mode of acquiring property, any other mode of acquisition is excluded.
-For example, the power to acquire land for a housing project does not
-permit a council to acquire shares in the corporation which owns the
-necessary land.
-
-> *The right of ownership in real property held by a city or town for the
-common benefit or use of its inhabitants or of the Queen's subjects in
-general (i.e., a highway) is of such a public character that it cannot,
-as a general rule, be lost by adverse possession over the prescriptive
-period.* \[Footnotes omitted; emphasis added.\]
-
-In *Hughes v. Fredericton (City)* 216 N.B.R. (2d) 387, at para.
-10, aff'd 225 N.B.R. (2d) 264 (C.A.), the court cited the emphasized
-passage above with approval. The court accepted, at para. 12, that at
-common law, municipal land zoned as parkland is held in trust for the
-public, and *generally* not available for adverse possession:
-
-> I find that the entire portion of the land acquired by the City of
-Fredericton was zoned for parkland and there was a clear intention that
-it was acquired for public use. It would be difficult, if not
-impossible, for a claimant to acquire such land by adverse possession.
-*As soon as the land was zoned for parkland for public use, it was held
-in trust by the City for the public.* \[Emphasis added.\]
-
-#### **The Development of the Public Benefit Test in the Common Law of Adverse Possession in Relation to Public Lands**
-
-Faced with the fact-specific analysis of adverse possession in
-the context of municipal land, where it is generally not available for
-adverse possession but where no complete bar or immunity is applicable,
-courts have developed a "public benefit" test to determine whether the
-municipal land at issue is immune from adverse possession.
-
-In *Hackett v. Colchester South (Twp.)*, \[1928\] S.C.R. 255,
-Duff J. stated in *obiter* remarks he was "much impressed" by the
-proposition that lands dedicated to public use and duly accepted by a
-municipality give rise to rights of enjoyment by the general public. He
-characterized these rights as "closely analogous to the rights of the
-public in respect of a public highway", and the title of the
-municipality in such lands should not be capable of being nullified by
-claims of adverse possession: at p. 256.
-
-In light of *Colchester*, subsequent decisions rejected adverse
-possession claims against municipal lands, reasoning that it is
-inconsistent with the "high public interest purpose" to which those
-lands were or could be put: *Woychyshyn v. Ottawa (City)* 2009 88 R.P.R.
-(4th) 155 (Ont. S.C.), at para. 13, and *Prescott & Russell (United
-Counties) v. Waugh* 2004 15 M.P.L.R. (4th) 314 (Ont. S.C.).
-
-In *Prescott & Russell*, Charbonneau J. found that municipal
-land that had been acquired for public forestry purposes could not be
-lost by adverse possession any more than the rest of the forest into
-which that land had been incorporated. Charbonneau J. held, at para. 21:
-
-> When a municipality acquires lands for forestry purposes a very high
-public interest purpose arises as can be seen by the meaning the
-legislature has ascribed to that expression. It makes eminent sense
-that, in order to protect this vital public interest and as a matter of
-public policy, lands held by a municipality in such circumstances cannot
-be the subject of a claim for adverse possession.
-
-In *Woychyshyn*, at para. 13, Ray J. dismissed a claim for
-possessory title to municipal parkland registered to the City of Ottawa,
-reasoning that there is a high public interest in maintaining such
-lands:
-
-> I have serious doubts that municipally owned land can be subject to a
-claim for possessory title. The Respondent's evidence included a
-description of the complex procedures and processes required before
-municipal property can be disposed of. It suggests there is a high
-public interest in the preservation of municipal property. It should not
-be disposed of easily. A loss of property through adverse possession
-would be contrary to this high public interest.
-
-In *Oro-Medonte (Township) v. Warkentin*, 2013 ONSC 1416, Howden
-J. found that a lakeshore promenade owned by the Township, but used and
-maintained in part by owners of lake-front lots, was immune from adverse
-possession. In reaching this conclusion, Howden J. summarized these
-earlier precedents and proposed the following test, at para. 119:
-
-> \[L\]ands held by a municipality other than as public road allowances
-which meet the following factors are immune from claims of neighbouring
-landowners based on prescriptive rights or adverse possession:
-
-> (i) the land was purchased by or dedicated to the municipality for
-the use or benefit of the public, or as here, for the use or benefit of
-an entire subdivision as well as the public at large; and
-
-> (ii) since its acquisition by the municipality, the land has been
-used by and of benefit to the public.
-
-Howden J. set out the rationale underlying the "public benefit"
-test. He stated that land acquired by a municipality and used for public
-purposes should be understood as being held in trust for the benefit of
-the public, and therefore title over such land cannot be lost or
-extinguished by reason of ordinary acts or omissions associated with
-adverse possession. Howden J. found legislative support for this
-approach in the elaborate processes designated by statute governing when
-and how municipalities can sell or convey municipal property. He
-concluded that, given such property is owned by municipality by way of
-quality title for the public benefit, fairness and justice require that
-no two people should be able to deprive the public of that benefit.
-
-The approach developed in *Warkentin* to the "public benefit"
-test subsequently was adopted in *Richard v. Niagara Falls* 2018 ONSC
-7389 (Ont. S.C.J.), 4 R.P.R. (6th) 238, aff'd on other grounds, 2019 ONCA
-531. In that case, a claim for adverse possession of municipal land was
-not made out because the applicants failed to prove that their use of
-the land was inconsistent with the city's intended use. Henderson J.,
-after citing *Warkentin*, stated in *obiter*, at para. 27:
-
-> \[I\]n order to be immune from such a claim for adverse possession, the
-municipality must show that the land was purchased or dedicated for the
-use of the public, *and that the land has been used by and of benefit to
-the public.* \[Emphasis added.\]
-
-In *Richard*, Henderson J. incorporated the "public benefit"
-test into the third factor of the test for adverse possession (i.e.,
-whether the city was effectively excluded from possession). I note that
-this was an incorrect placement of the "public benefit" test, which is
-instead a limitation to some claims for adverse possession for public
-lands. However, I summarize here the approach taken in *Richard* to
-clarify the proper characterization of the common law test. In
-*Richard*, the court focused on the *de facto* situation, which in that
-case was that the city intended to allow the public to make use of the
-trail in question. While the court referred to the *de facto* use by the
-city, as opposed to whether the city had formally designated the
-disputed land as a park, Henderson J.'s formulation of the test
-introduces the possibility that if a claimant can otherwise meet the
-threshold for adverse possession --- and there is no evidence the
-disputed municipal land is *actually* in use for the public --- an
-adverse possession claim could succeed. For the reasons elaborated
-below, I would not accept this characterization of the common law test.
-
-As the appellants point out, some adverse possession claims
-against municipalities involving parkland have succeeded. For example,
-in *Teis v. Ancaster (Town)*, (1997), 35 O.R. (3d) 216 (C.A.), this
-court dismissed an appeal from a decision granting adverse possession to
-private landowners over a strip of land and laneway in a public park.
-The appeal was decided on the common law test of mutual mistake since
-neither the private landowners nor the municipality had argued different
-rules applied to the common law of adverse possession in this factual
-setting. Nonetheless, Laskin J.A., in *obiter* comments, expressed "some
-discomfort" over applying the ordinary rules of adverse possession to
-municipal parkland, at pp. 228-229:
-
-> Most adverse possession claims involve disputes between private property
-owners. In this case, the Teises claim adverse possession of municipally
-owned land. I *have some discomfort in upholding a possessory title to
-land that the Town would otherwise use to extend its public park for the
-benefit of its residents. Still, the Town did not suggest that
-municipally owned park land cannot be extinguished by adverse possession
-or even that different, more stringent requirements must be met when the
-land in dispute is owned by a municipality and would be used for a
-public park. This case was argued before the trial judge and in this
-court on the footing that the ordinary principles of adverse possession
-law applied.* The application of those principles to the
-evidence and the trial judge's findings of fact justify extinguishing
-the Town's title to the ploughed strip and the laneway.
-
-> [...]
-
-> Whether, short of statutory reform, the protection against adverse
-possession afforded to municipal streets and highways should be extended
-to municipal land used for public parks, I leave to a case where the
-parties squarely raise the issue. \[Emphasis added.\]
-
-In my view, *Teis* stands for the proposition that it is open to
-a municipality to waive its presumptive title over parkland. While in
-*Teis* this was done through agreement that the "ordinary" rules of
-adverse possession applied, this waiver may also be accomplished by
-acknowledging a private landowner's adverse possession and consenting to
-a transfer of title (as was done with the neighbour's property in this
-case), or simply by a municipality acquiescing to adverse possession,
-where it has clear knowledge of its parkland property being adversely
-possessed by private landowners, and agreeing to take no steps to
-interfere with that adverse possession.
-
-Aside from those exceptional circumstances, the general rule
-that municipal parkland is not available for adverse possession has been
-given expression through the development of the "public benefit" test as
-set out above.
-
-The appellants argued before the application judge that the
-Disputed Land does not meet the public benefit standard because it
-clearly was not in public use over the relevant time period (as it had
-been fenced off by the previous owners of the property). The application
-judge accepted this position.
-
-On appeal, however, the appellants now argue that the "public
-benefit" test has not been endorsed by an appellate court and should be
-rejected entirely as inconsistent with the *RPLA*. For the reasons set
-out below, I do not accept this position.
-
-For its part, the City argues that the "public benefit" test is
-good law, but that the application judge was incorrect in finding its
-threshold was not met in this case. The City contends that the Disputed
-Land was expropriated for public use and private landowners should not
-be able to defeat that use by fencing off public land for private
-benefit. According to the City, as held by the application judge,
-municipal parkland of this kind should be treated as immune from adverse
-possession.
-
-I see the proper approach to adverse possession of municipal
-parkland lying between the two positions of the parties in this appeal.
-Under this approach, while municipal parkland is generally unavailable
-for adverse possession, it may become available exceptionally where the
-municipality has waived its presumptive rights over the property either
-expressly or by acknowledging or acquiescing to a private landowner's
-adverse possession of parkland.
-
-#### **The Application of the Common Law of Adverse Possession to the Facts of this Case**
-
-Applying the "public benefit" test to the record before her, the
-application judge concluded that, "The City was unable to provide
-evidence that the land was used by the public sometime in the 13 years
-after acquisition, before it was fenced out. I find it thereby fails the
-Public Benefit Test."
-
-As elaborated above, the application judge nonetheless held that
-it would be inappropriate to permit a claim in adverse possession to
-succeed in circumstances where public lands are fenced off by private
-individuals, as this would set "a dangerous precedent."
-
-In my view, the application judge treated as two separate
-considerations what should be seen as a single question to be addressed
-by the court in applying the public benefit analysis. Where land is
-acquired by a municipality and zoned as parkland or a space to be
-accessible to the public, such land should be treated as presumptively
-*in use* for the public benefit unless there is evidence the
-municipality has acknowledged and acquiesced to its private use. It is
-not enough to show that the land was rendered in fact unavailable to the
-public by the actions of private landowners.
-
-Therefore, in this case, it was not necessary that the City
-demonstrate the disputed land *actually* was used specifically for a
-public benefit during the period prior to it being fenced off (i.e.,
-between 1958 and 1971). Rather, the sole question to be addressed was
-whether the appellants, in seeking title through adverse possession,
-could displace this presumption of public benefit to this municipally
-owned land zoned to be used as parkland --- for example, by showing
-that, while the Disputed Land was acquired for a public benefit, the
-municipality, with full knowledge, acknowledged or acquiesced to its use
-for the benefit of the then-owners of the appellants' property.
-
-On this point, it is helpful to consider the City's
-aforementioned consent, in 2013, to an order in favour of the easterly
-neighbours of the appellants, declaring those neighbours the successful
-adverse possessor of a rectangular portion of the City Lands abutting
-the informal laneway. The application judge referred to this consent as
-undertaken in a "cavalier" manner. The City indicated in oral
-submissions that this consent may simply have been an error, based on
-the mistaken belief that this parcel had been zoned residential when the
-land fell under the Borough of York. No such consent or acknowledgment
-by the City, however, has been made in relation to the Disputed Lands at
-issue in this appeal. Nor can it be said, in light of the application
-judge's factual findings, that the City acquiesced to the use of the
-Disputed Land by the appellants or previous owners of this property
-during the period prior to it being fenced in or afterwards. The
-evidence was to the contrary, as there is nothing in the record to
-indicate that the City was aware the fenced off Disputed Land was
-municipal parkland. By contrast, the appellants were aware that the
-fenced off land was municipal property and not part of their title,
-which is why they sought to purchase the property from the City.
-
-Generally, if a claimant acknowledges the right of the true
-owner, then possession will not be adverse. "Acknowledgment of title
-will thus stop the clock from running": *McClatchie v. Rideau Lakes
-(Township)* 2015 ONCA 233, 53 R.P.R. (5th) 169, at para. 12, citing
-*Teis*, at p. 221, and see also *1043 Bloor Inc. v. 1714104 Ontario
-Inc.* 2013 ONCA 91, 114 O.R. (3d) 241, at para. 73. In this case,
-however, the relevant time period was not when the appellants sought to
-purchase the Disputed Land, but rather when the previous owners first
-fenced it off.
-
-Another way of looking at the question is whether the municipal
-parkland was intended to be, and would have been used for the public
-benefit, but for interference of the private landowners. Where, as here,
-this is the case, the party bringing a claim for adverse possession
-against a municipality will not have met the test to show the land has
-not been used for a public benefit.
-
-I take this formulation to be consistent with the view expressed
-by the application judge in finding that, "the private landowner may not
-proceed to fence off public lands and exclude the public and succeed in
-a claim for adverse possession." To the extent such a scenario would not
-meet the "public benefit" test as set out in *Warkentin* and *Richard*,
-the test was framed too narrowly in those cases.
-
-Therefore, I would reframe the test for adverse possession of
-public land developed in cases such as *Warkentin* and *Richard* adopted
-by the application judge, as follows: adverse possession claims which
-are otherwise made out against municipal land will not succeed where the
-land was purchased by or dedicated to the municipality for the use or
-benefit of the public, and the municipality has not waived its
-presumptive rights over the property, or acknowledged or acquiesced to
-its use by a private landowner or landowners.
-
-Based on this reframed test, I conclude the application judge
-came to the correct result by finding adverse possession at common law
-was unavailable against the municipal parkland in this case.
-
-#### **(2) The Statutory Scheme for Adverse Possession Claims**
-
-The appellants argue that the application judge's decision
-deprives them of the protection afforded by ss. 4 and 15 of the *RPLA*
-and therefore should be rejected.
-
-Section 4 of the *RPLA* reads:
-
-> 4\. No person shall make an entry or distress, or bring an action to
-recover any land or rent, but within ten years next after the time at
-which the right to make such entry or distress, or to bring such action,
-first accrued to some person through whom the person making or bringing
-it claims, or if the right did not accrue to any person through whom
-that person claims, then within ten years next after the time at which
-the right to make such entry or distress, or to bring such action, first
-accrued to the person making or bringing it.
-
-Courts have interpreted s. 4 of the *RPLA* as clarifying that
-adverse possession, where established at common law, will give rise to a
-limitation period of 10 years, after which the party engaging in adverse
-possession will gain rights over the land.
-
-Section 15 of the *RPLA* reads:
-
-> 15\. At the determination of the period limited by this Act to any
-person for making an entry or distress or bringing any action, the right
-and title of such person to the land or rent, for the recovery whereof
-such entry, distress or action, respectively, might have been made or
-brought within such period, is extinguished.
-
-Therefore, where an adverse possessor of land maintains
-possession of the requisite character for a period of 10 years, s. 4 of
-the *RPLA* bars the remedies of the paper title holder with respect to
-that land and s. 15 of the *RPLA* extinguishes the "true owner's" title
-to that land: see *Teis*, at para. 8.
-
-Section 16 of the *RPLA* contains an exception to the
-application of these provisions in favour of certain categories of
-public land, including public highways, and waste or vacant land of the
-Crown:
-
-> 16\. Nothing in sections 1 to 15 applies to any waste or vacant land of
-the Crown, whether surveyed or not, nor to lands included in any road
-allowance heretofore or hereafter surveyed and laid out or to any lands
-reserved or set apart or laid out as a public highway where the freehold
-in any such road allowance or highway is vested in the Crown or in a
-municipal corporation, commission or other public body, but nothing in
-this section shall be deemed to affect or prejudice any right, title or
-interest acquired by any person before the 13th day of June, 1922.
-
-It is common ground among the parties that the exception in s.
-16 establishing immunity from adverse possession for certain kinds of
-public land does not extend to municipal parkland such as the Disputed
-Land. The application judge did not refer to this provision, or to the
-*RPLA* at all in her reasons. Although the *RPLA* was referred to in the
-materials in the proceeding below, the legislative scheme was not the
-focus of either party's submissions.
+## O'Bonsawin J.(Wagner C.J. and Côté, Rowe and Moreau JJ. concurring) --
+
+### I. Overview
+
+The issue in this appeal is whether the appellants, Pawel Kosicki and Megan Munro, can succeed in their claim for possessory title under the *Real Property Limitations Act*, R.S.O. 1990, c. L.15 ("*RPLA*"). Since 2017, the appellants have jointly owned a residential property in Toronto. Several years after purchasing the property, they learned that the respondent, the City of Toronto ("City"), is the title holder of a portion of their backyard, which is enclosed by a chain link fence.
+
+The City concedes that the appellants have satisfied the test for adverse possession. It is undisputed that the parcel of land at issue has been fenced off, openly and continuously, since at least 1971. However, the City argues that the claim cannot succeed at common law because the disputed parcel of land is designated in municipal plans as parkland for public use. The application judge concluded that the City had not established that the property was immune from adverse possession under the "public benefit test" articulated in certain other lower court decisions. However, she determined it was nonetheless inappropriate for the City's title to be extinguished as "a matter of public policy" (2022 ONSC 3473, 32 M.P.L.R. (6th) 306, at paras. 76-78). The Court of Appeal upheld the decision, but reframed the public benefit test. It held that adverse possession claims will fail where the municipality has not waived its rights over the property, or acknowledged or acquiesced to its use.
+
+In my view, the *RPLA*, which extinguishes both the title and the right of the paper title holder to recover the land 10 years after dispossession, governs this dispute. The legislature has exempted certain public lands from the application of the *RPLA* for over a century. New exceptions for additional categories of public land have been enacted in related statutes since the last amendments to the *RPLA*. Although these new exceptions grant explicit protection to provincial parkland from the application of the *RPLA*, they do not mention municipal parkland. Moreover, despite prospectively abolishing the possibility of acquiring possessory title for land registered under the *Land Titles Act*, R.S.O. 1990, c. L.5 ("*LTA*"), the legislature has preserved matured possessory claims. The preservation of acquired possessory title is also consistent with the *RPLA*'s purpose as a statute of repose. In this statutory context, to recognize a new common law exception in addition to the exceptions the legislature has set out in s. 16, which would serve to retroactively deprive a claimant of acquired possessory title, would defeat the legislature's intent.
+
+For the reasons that follow, I would allow the appeal. Under the applicable statutory rules, the City's title to the land was extinguished over four decades ago. To accept the City's argument would be to interfere with the appellants' matured possessory claim and disregard the applicable statutory scheme.
+
+### II. Background
+
+In 2017, the appellants purchased a residential property in Toronto. The property includes a backyard and backs onto a laneway owned by the City, which runs along the south side of several properties and is used to access rear-facing garages. The City is also the registered owner of a parcel of land, Parts 2 and 3 on Plan 66R-23112 registered at the Toronto Land Registry Office, roughly in the shape of a trapezoid, forming a portion of the property's backyard ("disputed land").
+
+The laneway separates the property and its neighbouring properties from Étienne Brûlé Park, a large municipal park that stretches along the Humber River. The tract of land made up of the disputed land, the laneway, and the park was expropriated by the Metropolitan Toronto and Region Conservation Authority in 1958 and conveyed to the City in 1971. The record did not disclose when the park was established. In 2003, the City's Planning Division crafted the City's Official Plan, which designated the park and the disputed land as part of its "Green Space System", and specifically as "Parks and Open Space Areas" intended for public parks and recreational opportunities.
+
+In 1971, a survey plan was created and deposited with the land registrar, in preparation for the conveyancing of the tract of land described above to the City. The survey shows a fence around the backyard of the property that was erected sometime between 1958 and 1971, and has prevented public access to the disputed land for at least 54 years. The City did not produce evidence that the disputed land had any public use before 1971. A neighbour of the appellants, and owner of the residential property directly next door, recalled that the fence has been there since she purchased her property in 1975.
+
+After purchasing the property, the appellants paid property taxes calculated on the basis of a lot size that included the disputed land until 2020. They maintained the land as their own, and have used it as a play area for their children. In 2021, after finding out that the disputed land was registered as municipal land, the appellants enquired about purchasing it from the City. The City refused, based on a policy discouraging the sale of lands registered in its Green Space System. The City indicated that, if it were to recover possession, the disputed land could be used to expand the existing access point to the park and install additional signage to improve wayfinding.
+
+### III. Judicial History
+
+***A. Ontario Superior Court of Justice, 2022 ONSC 3473, 32 M.P.L.R. (6th) 306 (Donohue J.)***
+
+Before the application judge, the appellants sought an order for possessory title to the disputed land. The application judge recognized that the appellants' claim would have succeeded on an application of the "traditional" test for adverse possession (at para. 68), but concluded that the claim could nevertheless not succeed in the circumstances.
+
+The application judge first reviewed a number of cases dealing with possessory claims to municipal lands. She noted that the test for adverse possession had not been made out in the majority of the cases referenced, with the result that possessory title had not been established. But she observed that the cases expressed the common sentiment that more stringent requirements should apply to extinguish a municipality's title to land used for the benefit of the public.
+
+Specifically, the application judge identified that a "public benefit test" had been articulated in *Oro-Medonte (Township) v. Warkentin*, 2013 ONSC 1416, 30 R.P.R. (5th) 44, and considered whether it had been met in the present case, which would defeat the appellants' possessory claim. Given the City's failure to demonstrate that the disputed land had ever been used by the public before the erection of the fence, the application judge concluded that the public benefit test was not satisfied.
+
+However, noting that the City had only recently discovered that it had been excluded from its land, the application judge continued the analysis and held that it would be unfair to demand of a public entity "the same vigilance of a private landowner to watch its borders" (para. 74). Concluding that the disputed land was originally acquired for an important public interest purpose, the application judge decided that, in such circumstances, a "private landowner may not proceed to fence off public lands and exclude the public and succeed in a claim for adverse possession" (para. 77). She further stated that as "a matter of public policy, this would be a dangerous precedent if allowed" (para. 78).
+
+***B. Ontario Court of Appeal, 2023 ONCA 450, 167 O.R. (3d) 401***
+
+***(1) Majority Reasons (MacPherson and Sossin JJ.A.)***
+
+Like the application judge, the majority of the Court of Appeal for Ontario concluded that the appellants' claim to the disputed land could not succeed. Reviewing the traditional rationales identified by scholars in support of the doctrine of adverse possession, the majority determined that they did not apply to municipal parkland.
+
+The majority determined it was appropriate to "reframe" the test for adverse possession of public land, establishing a general rule that "adverse possession claims which are otherwise made out against municipal land will not succeed where the land was purchased by or dedicated to the municipality for the use or benefit of the public, and the municipality has not waived its presumptive rights over the property, or acknowledged or acquiesced to its use by a private landowner or landowners" (para. 47). In doing so, the majority removed the requirement of actual use from the public benefit test that was set out in previous authorities. It determined that land acquired by a municipality for the purposes of creating a public space should be treated as presumptively in use for the public benefit.
+
+Finally, the majority found that the *RPLA* did not preclude the further development of the common law in relation to lands not explicitly addressed in s. 16 of that statute, which immunized certain lands from adverse possession. It concluded that the refinements made to the public benefit test did not contravene s. 16, as they did not provide an absolute immunity from possessory claims for municipal parkland, but created a rebuttable presumption that such land is unavailable for adverse possession.
+
+***(2) Dissenting Reasons (Brown J.A.)***
+
+The dissenting judge would have allowed the appeal and confirmed the appellants' title to the disputed land. In his view, the legislature had undertaken a statutory codification and reformation of the law of adverse possession almost 200 years ago, which had culminated in the *RPLA*. Given this statutory context, the dissenting judge concluded that a common law public benefit test would inappropriately amend the provisions of the *RPLA*. It was undisputed that the appellants had satisfied the requirements contained in the *RPLA* to establish possessory title to the disputed land. The dissenting judge further critiqued the jurisprudential foundations of the public benefit test, noting the emergence of the test from a handful of lower court decisions rendered over the last 25 years. After examining the relevant cases, the dissenting judge concluded that none provided a sound basis for the creation of a broad immunity from adverse possession for municipal parkland.
+
+### IV. Issue
+
+The sole issue before this Court is whether the appellants' claim for possessory title, which otherwise satisfies the requirements of the *RPLA*, can be defeated because the disputed land forms part of a larger tract of land that eventually became a municipal park. The parties agree on the legal effect of ss. 4, 5(1) and 15 of the *RPLA*. There is no debate that, on a strict application of the statute, the appellants would be entitled to the disputed land. However, the parties disagree as to whether the land is nevertheless immune from the operation of the statute as a matter of common law. Resolving the issue therefore also requires that we consider whether, in light of the governing statutory scheme in Ontario, it is appropriate to recognize a new common law basis to exempt possessory claims in addition to those set out in statute.
+
+### V. Positions of the Parties
+
+In the view of the appellants, the *RPLA* is a complete code governing adverse possession in the province and applies to all lands, except for those expressly exempted. They argue that the legislature expressly preserved matured possessory claims when enacting the *LTA* and recognized the immunity of certain public lands from possessory claims under the *Public Lands Act*, R.S.O. 1990, c. P.43 ("*PLA*"), and the *Provincial Parks and Conservation Reserves Act, 2006*, S.O. 2006, c. 12 ("*PPCRA*"). The appellants urge upon this Court the impropriety of creating a common law immunity in this statutory context, and argue that the case law cited by the courts below in support of the public benefit test does not support the immunity of municipal parkland in any event.
+
+The City responds that the *RPLA*, which is made up of a set of archaic rules, is not a complete code and recourse to the common law is required to apply its provisions. Given that the *RPLA* was "imported" into the law of Ontario and has since been amended in piecemeal fashion, the City argues it is not possible to discern a legislative intent to enact a complete code of adverse possession. As such, the City says, the *RPLA* does not preclude the law of adverse possession from further development and the refined public benefit test developed by the majority of the Court of Appeal is a permissible and necessary common law evolution. The City characterizes the test as ushering in incremental and predictable change, and argues that the rationales of adverse possession do not support the application of the doctrine to municipal parkland in light of a "modern view of fairness and justice" (R.F., at para. 131, citing *Bow Valley Husky (Bermuda) Ltd. v. Saint John Shipbuilding Ltd.* \[1997\] 3 S.C.R. 1210, at para. 94).
+
+### VI. Analysis
+
+The question raised in this appeal requires this Court to interpret the text of the relevant provisions of the *RPLA* in their entire context and in light of their purpose (*Rizzo & Rizzo Shoes Ltd. (Re)* \[1998\] 1 S.C.R. 27, at para. 21, and *Bell ExpressVu Limited Partnership v. Rex* 2002 SCC 42, \[2002\] 2 S.C.R. 559, at para. 26, both citing E. A. Driedger, *Construction of Statutes* (2nd ed. 1983), at p. 87). In my view, while the common law continues to play a role in the law of adverse possession in Ontario, the majority of the Court of Appeal erred in exempting the present possessory claim from the provisions of the *RPLA*. It is clear from a contextual assessment of the provisions that the legislature did not intend to exempt municipal parkland from the *RPLA*'s operation and intended to preserve matured possessory claims.
+
+Below, I will first consider the interaction of the common law and the *RPLA*, which collectively govern claims of adverse possession in Ontario. I will then explain why, on a proper interpretation of the *RPLA*, its provisions govern the appellants' possessory claim.
+
+***A. The Law of Adverse Possession in Ontario***
+
+In Ontario, the *RPLA* sets out rules governing claims for possessory title, also commonly known as adverse possession or squatters' rights, including the rights of the prior possessor of land, who is typically the paper title holder and therefore referred to as the "true owner", to recover land. By the operation of ss. 4, 5(1) and 15 of the *RPLA*, a true owner's interest in land is extinguished in favour of the possessory title acquired by a trespasser when the latter establishes "dispossession". A review of the *RPLA* and jurisprudence indicates that courts must resort to the common law to apply the clear but undefined terms of the relevant provisions. It is for this reason that I cannot accept the proposition of the dissenting judge of the Court of Appeal that "\[n\]o residual common law of adverse possession remains extant today" (para. 197). However, the law of adverse possession is also marked by a long history of statutory enactments, which have codified parts of the common law and modified others, including in recent years. Determining a possessory claim thus requires courts to ensure legislative intent is respected and apply common law principles in a manner consistent with the statutory scheme (*Nelson (City) v. Mowatt* 2017 SCC 8, \[2017\] 1 S.C.R. 138, at para. 27).
+
+This Court has observed that the doctrine of adverse possession is a "long-standing common law device", which serves to determine when dispossession has occurred (*Mowatt*, at para. 17). This view is shared in the literature where the doctrine has been described as having "a long pedigree in the common law" (E. Kaplinsky, M. Lavoie and J. Thomson, *Ziff's Principles of Property Law* (8th ed. 2023), at p. 164). The doctrine remains "alive and well" in parts of Canada even after having been the subject of English statutory codification, which was largely reproduced in provincial legislation (*ibid.*; A. W. La Forest, *Anger & Honsberger Law of Real Property* (3rd ed. (loose-leaf)), at § 29:8; G. Mew, D. Rolph and D. Zacks, *The Law of Limitations* (4th ed. 2023), at pp. 504-5; *Mowatt* , at para. 17).
+
+The English statutory codification described above took place under the imperial *Real Property Limitation Act, 1833* (U.K.), 3 & 4 Will. 4, c. 27, the provisions of which formed the basis of Ontario's *An Act to amend the Law respecting Real Property, and to render the proceedings for recovering possession thereof in certain cases, less difficult and expensive*, S.U.C. 1834, 4 Will. 4, c. 1. Notably, the limitations statutes abolished some remedies for the recovery of land and technical actions available under the common law (La Forest, at §§ 29:9-29:10). For example, at common law, the true owner was still able to recover adversely possessed land if it could be done peaceably, even if the right to sue was lost (Kaplinsky, Lavoie and Thomson, at p. 165). This type of recovery was precluded by limitation statutes (*ibid.*). Sections 4, 5(1) and 15 of the *RPLA* closely replicate the provisions of the imperial statute, which provide that the right of recovery of an owner is barred following the prescribed statutory period, at the conclusion of which the owner's title to the land is extinguished. Although the limitation period has varied in length since the introduction of these provisions, the relevant wording has remained unchanged (*Bank of Montreal v. Iskenderov* 2023 ONCA 528, 168 O.R. (3d) 1, at para. 17).
+
+The Ontario legislation was amended in the early 20th century to specify exceptions to the application of the provisions described above for waste or vacant Crown land, road allowances, and public highways. However, the amendments expressly preserved rights, title, and interests that had been acquired as of June 1922 in respect of road allowances and highways. Together, these amendments form s. 16 of the *RPLA*.
+
+Substantial efforts to reform the law of limitations in Ontario were undertaken as early as 1969, which eventually culminated in the enactment of the *Limitations Act, 2002*, S.O. 2002, c. 24, Sch. B (see, e.g., Ontario Law Reform Commission, *Report on Limitation of Actions* (1969)). However, the law of limitations governing real property was left undisturbed by this enactment and attempts at reform were abandoned (Mew, Rolph and Zacks, at p. 10). As I will discuss further below, subsequent legislative enactments in the area of property rights, including the *LTA*, *PLA*, and *PPCRA*, have nevertheless significantly impacted the operation of adverse possession by eliminating the ability to acquire possessory title under the *RPLA*, but preserving matured possessory claims.
+
+Where a claim for adverse possession is available, courts apply the relevant statutory provisions to determine if it is made out. The *RPLA* provides that the limitation period will start running at the time of "dispossession" (s. 5(1)), the elements of which are established in the jurisprudence. For a claim to succeed, the trespasser must establish: (1) actual possession of the land by the trespasser for the required statutory period; (2) an intention to exclude the true owner from their property; and (3) effective exclusion of the true owner from their property (*Pflug v. Collins*, \[1952\] O.R. 519 (H.C.J.); *Keefer v. Arillotta*, (1976), 13 O.R. (2d) 680 (C.A.); *Teis v. Ancaster (Town)*, (1997), 35 O.R. (3d) 216 (C.A.)). Actual possession is established where the act of possession is open and notorious, adverse, exclusive, peaceful, actual and continuous, all of which must be present for the claim to succeed (*Mowatt*, at para. 18; *Masidon Investments Ltd. v. Ham*, (1984), 45 O.R. (2d) 563 (C.A.), citing *Fletcher v. Storoschuk*, (1981), 35 O.R. (2d) 722 (C.A.)).
+
+As this Court recognized in considering British Columbia's equivalent legislation, "\[w\]hile courts have a role in defining what constitutes dispossession under British Columbia's limitations legislation, legislative intent must be respected" (*Mowatt*, at para. 27). While the legislature may redefine the meaning of a common law term (*Giffen (Re)* \[1998\] 1 S.C.R. 91, at para. 26), it must signal its intention to do so; otherwise, the word will be understood to have retained its common law meaning (*R. v. Holmes*, \[1988\] 1 S.C.R. 914, at pp. 929-30; *R. v. D.L.W.* 2016 SCC 22, \[2016\] 1 S.C.R. 402, at para. 20; R. Sullivan, *The Construction of Statutes* (7th ed. 2022), at § 17.01.Pt2\[1\]).
+
+While the statute has preserved common law rules for defining dispossession, it is nevertheless clear from the history of legislative amendment in this area that courts must proceed with caution to respect legislative intent (see *R. v. Basque* 2023 SCC 18, at paras. 40 and 45). In this respect, I note that the public benefit test considered by the courts below is of relatively recent vintage. Unlike in *Basque*, where the Court considered the impact of a statutory provision on an *existing* common law rule, in this case we must consider the impact of case law which post-dates the enactment of the relevant provisions of the *RPLA*. In such a case, the appropriate starting point is the statutory scheme. It is necessary for a court to closely examine the statute in order to determine whether legislative intent would be undermined by recourse to a novel common law rule (see Sullivan, at § 17.02\[1\]).
+
+***B. Matured Claims for Possessory Title Are Not Defeated by a Common Law Immunity for Municipal Parkland***
+
+The City concedes that municipal parkland does not fall within the expressly legislated exceptions to the operation of ss. 4, 5(1) and 15 of the *RPLA*, which are set out in s. 16, but argues that the courts below were entitled to develop and apply a public benefit test to deny the appellants' matured claim (R.F., at paras. 48 and 72). In my view, a reading of the relevant provisions in the context of the broader statutory scheme governing adverse possession in Ontario reveals that the legislature did not intend to exempt municipal parkland from the *RPLA*'s effects. The legislature, although having done away with adverse possession, codified certain common law immunities from adverse possession, while protecting title acquired from matured possessory claims. By attempting to create a common law exception for municipal parkland, the Court of Appeal's decision undermines the legislature's clear policy choice to only confer immunity to certain categories of public land and preserve matured possessory title.
+
+[*The majority went on to determine that the RPLA creates a closed list of specific, limited exceptions to adverse possession which do not include municipal parkland and therefore demonstrates a legislative intent not to create such an immunity--an interpretation, the Court argues, that is supported by the legislative history of the RPLA in codifying a series of exceptions to adverse possession over time. The majority also observed that the regime of land title registration in Ontario shows an intention to preserve matured possessory claims overall which making some limited exception available.*]
 
 [...]
 
-While s. 16 of the *RPLA*, first enacted in 1922, codified one
-aspect of this common law rule with respect to certain exemptions from
-the operation of ss. 4 and 15, in my view, nothing in the *RPLA*
-suggests it was intended to preclude the further development of the
-common law in public lands not of the kind categorized in that
-provision.
+In Ontario, the legislature has made a policy choice to confer special legislative treatment to a limited class of public lands and preserve matured possessory title. Considering the recent statutory enactments specifically dealing with the availability of adverse possession for public lands, I am of the view that recognizing a common law protection against such claims for municipal parkland would run contrary to legislative intent.
 
-[*Justice Sossin concluded that the RPLA did not act as a "complete code" to bar application of the common law of adverse possession.*]
+***(4) A Purposive Interpretation Supports the Preservation of Matured Possessory Title***
 
-For these reasons, I would dismiss the appeal.
+Recognizing an additional common law exception to the operation of ss. 4 and 15 of the *RPLA* would also be inconsistent with its purpose as a statute of limitations. Primarily being a statute of repose, the *RPLA*'s aims have long been understood as preventing unfairness where a possessor has come to rely on land for a certain length of time (see *Cholmondeley v. Clinton*, (1820), 2 Jac. & W. 1, 37 E.R. 527, at p. 577). In the common law tradition, possession is a fundamental concept and functioned to support a better claim to title based in fact, when accuracy of a registry was not assured (see C. M. Rose, "Possession as the Origin of Property" (1985), 52 *U. Chicago L. Rev.* 73; Kaplinsky, Lavoie and Thomson, at p. 164). The *RPLA*, *LTA*, *PLA*, and *PPCRA* are all consistent in this respect: they seek to preserve possessory title validly acquired prior to a particular date.
 
-## Brown J.A. (dissenting) --
+Although a successful claim under the *RPLA* deprives the paper title holder of their land in favour of the adverse possessor, this should be understood as a consequence of the operation of the statute and not its primary objective:
 
-Parks are good things. Every morning I look out my window and
-enjoy the sight of the sun rising over the tree canopy of one of
-Toronto's oldest and largest parks. When at work, I can look out my
-window and see the residents of a green-space-starved, concretized,
-downtown Toronto core enjoying the small, construction-free patch of
-grass that remains of Osgoode Hall's West lawn. Adequate parks are vital
-to maintaining one's sanity and socializing with one's neighbours in an
-urban sea of steel and glass. Parks give rise to pleasant thoughts and
-strong sentiments.
+> The policy was, in the interest of the community, not to allow a possession to be questioned after it had been enjoyed for such a length of time as rendered it unreasonable in the eye of the law to require evidence *aliunde* that it was holden under a title derived from some other and sufficient source, when such evidence by reason of the lapse of time might not be easily attainable. It never could have been the intention of the Legislature to encourage persons wrongfully to enter on the land of others, although from the frame of the enactment it sometimes operates to protect a possession under bad title, or no title at all; but such operation is, I apprehend, a consequence of the enactment and not an object of it.
+> 
+> (Mew, Rolph and Zacks, at p. 509, citing *Harris v. Mudie* (1882), 7 O.A.R. 414(C.A.), at p. 421.)
 
-That said, a case such as this which involves a claim by
-homeowners to adverse possession of a small patch of a municipally-owned
-greenspace that has formed their backyard for decades cannot be decided
-on the basis of sentiments about parkland. The appellants are entitled
-to have their case decided in accordance with the governing principles
-of law. Those principles are set out in statute, the *Real Property
-Limitations Act*, R.S.O. 1990, c. L.15 (the "*RPLA*").
+This is consistent with what this Court has identified as the underlying purposes of limitations statutes generally, which are tied to certainty, evidentiary, and diligence rationales (*M. (K.) v. M. (H.)*, \[1992\] 3 S.C.R. 6). Actions should be commenced within a reasonable time to ensure that a potential defendant does not live under the perpetual shadow of liability and the quality and availability of the relevant evidence remains intact for the adjudication of the claim (Mew, Rolph and Zacks, at pp. 19-21).
 
-The application judge did not apply those legal principles.
+I emphasize that while there is some overlap between the rationales of limitations statutes and the doctrine of adverse possession, they remain distinct. In this case, the majority of the Court of Appeal declined to apply the *RPLA* on the basis that the rationales justifying the existence of the doctrine of adverse possession do not support its application to municipal parkland (paras. 16-19). It posited that "it is difficult to identify *any* rationale for adverse possession against municipal parkland" (para. 20 (emphasis in original)). The City has largely reasserted this argument before this Court (R.F., at paras. 93 et seq.).
 
-Instead, she stepped outside the governing statutory regime to
-consider whether the City of Toronto (the "City") enjoyed the benefit of
-a recent, judge-made exception to the statutory scheme, the so-called
-"Public Benefit Test" asserted and articulated by the court in
-*Oro-Medonte (Township) v. Warkentin*, 2013 ONSC 1416, 30 R.P.R. (5th)
-44. She concluded the City did not. So, the application judge went
-further. She created an even broader judge-made test that would immunize
-the Disputed Land from the appellants' matured adverse possession claim.
-The application judge articulated her test as follows: a "private
-landowner may not proceed to fence off public lands and exclude the
-public and succeed in a claim for adverse possession." Hereafter I shall
-refer to the rule created by the application judge as the "Judicial
-Public Lands Immunity" rule. In my view, by ignoring the *RPLA* and
-creating a new judge-made rule, the application judge erred in law. She
-should have granted the appellants the relief they sought; they were
-entitled to it under the existing law.
+However, the City's argument overlooks one of the most persuasive rationales of the doctrine, that is, the protection of settled expectations (Kaplinsky, Lavoie and Thomson, at p. 167; J. W. Singer, "The Reliance Interest in Property" (1988), 40 *Stan. L. Rev.* 611; M. H. Lubetsky, "Adding Epicycles: The Inconsistent Use Test in Adverse Possession Law" (2009), 47 *Osgoode Hall L.J.* 497, at p. 532; S. E. Hamill, "Common Law Property Theory and Jurisprudence in Canada" (2015), 40 *Queen's L.J.* 679, at p. 695). This justification is especially compelling where the possessory claim has arisen from a *bona fide* error. Professor Singer explains that as time passes, the adverse possessor's interest in the land grows, bolstered by his legitimate expectations, while the true owner's interest diminishes as a result of his acquiescence to the possessor's use of the land (pp. 665-69).
 
-My colleagues support the approach taken by the application
-judge, albeit they tweak her judge-made test a bit. I respectfully but
-very strongly disagree with my colleagues' decision and their analysis.
-I therefore dissent.
+It bears mentioning that the traditional rationales argued by the City have been the subject of academic criticism as they relate to the adverse possession of *any* kind of land (see, e.g., Kaplinsky, Lavoie and Thomson, at pp. 165-67). However, given the statutory treatment of adverse possession and the legislature's choice to preserve its ongoing relevance to matured claims, disagreement with the doctrine's rationales is not a valid basis for denying the appellants' claim. There may be good public policy reasons to ensure that Crown and public lands are not subject to possessory claims and, as noted, one jurisdiction has expressly protected all municipal lands by statute (see S. Petersson, "Something for Nothing: The Law of Adverse Possession in Alberta" (1992), 30 *Alta. L. Rev.* 1291, at p. 1314). Ontario has chosen to extend protection to certain public lands, but preserve matured claims. Whether the doctrine of adverse possession retains its utility in the current landscape is a policy question for the legislature (see *Telus Communications Inc. v. Federation of Canadian Municipalities* 2025 SCC 15, at para. 32, citing Sullivan, at § 6.01\[3\]), and one which it has continued to consider in recent statutory enactments that balance different interests and considerations.
 
-The Disputed Land is approximately 340m2 in size: a postage
-stamp when viewed in the context of the overall size of the adjacent
-Étienne Brûlé Park, which winds along the Humber River from the Old Mill
-to just south of Dundas Street West. But the land makes up most of the
-backyard used by the appellants.
+***C. Application of a Common Law Exception for Municipal Parkland Conflicts With the Legislature**'**s Treatment of Possessory Title***
 
-Reasonable people can disagree as to whether, as a matter of
-public policy, municipal lands, including parkland, should be exposed to
-adverse possession claims regardless of the strength of the claim ---
-here, there is no dispute the appellants have satisfied the statutory
-requirements to extinguish the City's title to the Disputed Land --- or
-the size of the lands affected. However, the appellants are entitled to
-have their claim decided not on the basis of what some judges might wish
-the law to be, but on the basis of what the law is.
+Given my conclusions on the statutory interpretation of the *RPLA*, I am of the view that the courts below erred in exempting the appellants' claim from the operation of its provisions by creating a novel immunity from adverse possession for municipal parkland. Contrary to the reasoning of the application judge, the question before this Court is not whether recognizing possessory title in this case is good public policy (para. 78). Rather, this Court must ask itself whether the manner in which the courts below exempted the present claim, on the basis of a judge-made rule, can be reconciled with the legislature's treatment of immunities from adverse possession (see Sullivan, at § 17.02\[1\]; *Basque*, at paras. 40 and 45). Pursuant to the principle of legislative sovereignty, "validly enacted legislation is paramount over the common law", and courts must give effect to legislative intent, "regardless of any reservations they might have concerning its wisdom" (Sullivan, at § 17.01.Pt1\[1\]).
 
-Statute--the *RPLA*--sets out the requirements for
-establishing adverse possession in Ontario. Applying the law as it now
-is, the appellants succeed on their claim. There is no dispute about
-this fact. Yet, the application judge and my colleagues have denied the
-appellants' claim on the basis that courts are entitled to look beyond
-the law as it is and, instead, determine the claim based on the law as
-the courts think it ought to be. They have pushed the *RPLA* aside in
-order to create a legal rule, not found in the statute, about what type
-of land should be immune from claims for adverse possession. In my
-respectful view, their arrogation of such rule-making power constitutes
-legal error.
+That the legislature has not completely ousted the common law does not permit courts to supplement a statute in a manner that is inconsistent with legislative intent. As Professor Sullivan writes, when considering whether common law may be relied on to supplement legislation, "\[r\]esort to the common law is impermissible if it would interfere with the policies embodied in legislation or defeat its purpose" (§ 17.02\[3\]). Ontario has actively legislated with respect to possessory claims to title, including with respect to certain public lands. Commenting on the role of the courts in such a context, Professor Ziff has explained that, unlike other areas of private law, the area of property law has been extensively and substantively altered by statutory changes. As a result, when addressing questions of statutory interpretation, it is to be expected that courts' "creative capacity is abridged" (B. Ziff, "Property Law and the Supreme Court: Of Gardens and Fields" (2017), 78 *S.C.L.R.* (2d) 357, at p. 365).
 
-As I understand my colleagues' reasons, the key difference that
-separates our views is this: my colleagues take the view that common law
-principles continue to govern the law of adverse possession; by
-contrast, I read the history of that law as disclosing that a statutory
-codification and reformation of the law in the area took place almost
-two hundred years ago, a view that I think is supported by the decision
-of the Supreme Court of Canada in *Nelson (City) v. Mowatt* 2017 SCC 8,
-\[2017\] 1 S.C.R. 138, at para. 17.
+This Court recognized this necessary restraint in *Mowatt*, where it clarified that the question properly before the Court was not whether the inconsistent use requirement was "necessary or desirable", but "whether it forms part of the law of British Columbia and therefore ought to have been applied by the courts below" (para. 21). Justice Brown, writing for a unanimous court, expressly considered the contrary legislative intent in determining that it did not form part of the law (para. 27).
 
-As a result of those different views, my colleagues think it
-open to a judge to create new legal rules regarding adverse possession,
-including exempting lands from the operation of adverse possession,
-notwithstanding the narrow list of exempt lands set out in *RPLA* s. 16:
-waste or vacant Crown land, and road allowances and highways on Crown
-and municipal land. On my part, I think the *RPLA* acts as a
-comprehensive code of the principles of adverse possession subject, of
-course, to proper statutory interpretation. The courts certainly
-continue to possess the power to interpret and apply the provisions of
-the *RPLA*. Indeed, a large body of case law has developed around the
-interpretation of the statutory terms "possession" and "dispossession"
-that lie at the heart of the *RPLA*. However, I do not regard proper
-statutory interpretation as including a judicial power to amend the
-provisions of the *RPLA*, which I think is the "on-the-ground" result of
-the decisions of the application judge and my colleagues. Therein lies
-our fundamental difference. And, as I shall explain in what follows,
-therein lies the reason for my dissent.
+In the case at hand, it is of crucial importance that the legislature has listed the categories of public lands exempt from the application of the *RPLA* in the *RPLA* itself and in other statutes. The legislature has turned its mind to the availability of adverse possession for both municipal lands and parkland in Ontario through the enactment of protections for *certain* municipal lands and *certain* parkland. Moreover, insofar as the public benefit test would retroactively deprive the appellants of their possessory title, it would defeat the legislature's clear policy choice to preserve matured possessory claims. It would seem most unfair to deny the appellants' possessory claim on the basis of a common law test that emerged *after* s. 15 of the *RPLA* extinguished the City's title to the disputed land. I note that in *Hamilton v. The King*, (1917), 54 S.C.R. 331, this Court refused to give retroactive effect to statutory amendments that would have defeated possessory title acquired against the Crown, concluding that "it would seem most unreasonable to give a retroactive effect to the statute of 1902 which would operate to destroy a complete statutory title gained years before, and resurrect an extinguished one" (p. 346).
 
-I would allow the appeal, set aside the judgment, and grant the
-appellants the relief sought in their notice of application.
+The City, like the majority of the Court of Appeal, contends that the public benefit test does not undermine legislative intent as it operates as a rebuttable presumption rather than an immunity, meaning that the acquisition of possessory title remains possible (see C.A. reasons, at paras. 62 and 69-70). I disagree with this proposition and agree with the appellants that the effect of the Court of Appeal's decision is not appreciably different from an immunity (A.F., at para. 63).
 
-But first I must apologize to the reader for the length of this
-dissent. It turned out to be much longer than I had anticipated. In my
-defence, I think this appeal raises an issue of fundamental importance.
-Not whether the appellants are entitled to a declaration of possessory
-title over the Disputed Land--of course they are. Everyone
-acknowledges the appellants have met the statutory requirements for such
-a declaration. But while it is important that the appellants should
-receive their legal due, of greater importance is the way in which the
-courts in this case have denied the appellants their legal due. That
-judicial denial raises an issue that transcends the interests of the
-parties to this appeal.
+Under the test elaborated by the majority of the Court of Appeal, a possessory claim would only succeed if the municipality explicitly consented to the possession, that is "by acknowledging a private landowner's adverse possession and consenting to a transfer of title \... or simply by a municipality acquiescing to adverse possession, where it has clear knowledge of its parkland property being adversely possessed by private landowners, and agreeing to take no steps to interfere with that adverse possession" (para. 33). Such a test is irreconcilable with the general principles of adverse possession and effectively ousts the legislation's operation. Requiring clear knowledge and an agreement on the part of the municipality not to disrupt the appellants' possession in effect requires that they have permission to adversely possess, and yet one cannot adversely possess *with permission* (Kaplinsky, Lavoie and Thomson, at p. 172; *Teis*, at pp. 221-22; *Armstrong v. Moore* 2020 ONCA 49, 15 R.P.R. (6th) 200, at paras. 21-24). If acknowledgement or acquiescence is required, little role would be left for the remaining requirements of adverse possession, as a transfer of title in such cases would in substance be consensual.
 
-Courts have become very powerful in this country. Yet, there is
-little that holds judges accountable for the exercise of their powers.
-The other branches of government--the legislatures and the executives--are accountable to the people for their decisions through various
-mechanisms, including the review of their conduct by the courts. By
-contrast, no one supervises the courts and the judges who populate them.
-(Whether that is a good thing or bad thing, I leave for others to debate
-in other forums.)
-
-For the purposes of this case, the point I wish to make is this:
-for courts to play a lawful and legitimate role in a democracy, their
-lack of accountability mandates that judges exercise their powers with
-restraint and within proper bounds. In my view, and with all due respect
-to the application judge and my colleagues, that has not happened in
-this case. 
+Moreover, if, as my colleague concludes, the evidence in this case is insufficient to make out constructive knowledge, it is unclear what evidence could support a successful claim, short of evidence that City officials were aware of the possession. Plain evidence of the appellants' adverse possession was apparent in the survey plan deposited with the land registrar, a survey plan that was explicitly referred to in the deed used to convey the land from the Conservation Authority to the City (A.R., vol. II, at pp. 72-76). With respect, the public benefit test elaborated by the majority of the Court of Appeal and adopted by my colleague would appear to effectively bar all claims for municipal parkland.
 
 [...]
+
+Given the statutory scheme and existing common law described above, the application judge's recognition of a novel retroactive blanket immunity in favour of municipal parkland had the effect of undermining legislative intent. Despite the majority of the Court of Appeal's attempt to frame its decision in a different light, by characterizing the public benefit test as a rebuttable presumption (at para. 62), I conclude that it also improperly resorted to expanding the common law where the legislature, having turned its mind to those public lands that would be exempt from the operation of the *RPLA*, clearly intended to preserve matured possessory claims. As this Court stated in *Zeitel v. Ellscheid*, \[1994\] 2 S.C.R. 142, a case also involving a claim to possessory title, "\[i\]t is beyond the power of a court to interfere in a carefully crafted legislative scheme merely because it does not approve of the result produced by a statute in a particular case" (p. 152). Recognizing a novel common law immunity for municipal parkland from matured possessory claims cannot be reconciled with the relevant statutory scheme.
+
+### VII. Application
+
+On a proper interpretation of the *RPLA*, I conclude that ss. 4 and 15 apply to the present case, and there is no applicable exception, in either s. 16 or other statutes, to bar the appellants' possessory claim. It is undisputed that the appellants have established that there has been open, notorious, peaceful, adverse, exclusive, actual and continuous possession for 10 years in accordance with ss. 4 and 5(1) of the *RPLA*; the City's title to the disputed land was extinguished pursuant to s. 15 of that same statute. Importantly, pursuant to s. 44(1) of the *LTA*, the disputed land became subject to the appellants' possessory title upon registration. The City's title to the disputed land has long been extinguished; its title cannot be resurrected.
+
+### VIII. Disposition
+
+For these reasons, I would allow the appeal with costs throughout. The order of the Court of Appeal and the judgment of the Ontario Superior Court of Justice are set aside and the appellants' application is allowed. It is declared that the appellants are the fee simple owners of the disputed land and the registrar for the Land Registry division of Toronto is directed to amend the parcel register for PIN 10526-0078 (LT) to include the disputed land.
+
+## Kasirer J. (dissenting) (Karakatsanis, Martin and Jamal JJ. concurring) --
+
+### I. Overview
+
+I have had the advantage of reading my colleague Justice O'Bonsawin's reasons and, with the utmost respect for contrary views, I would dismiss the appeal. I agree with the Court of Appeal that the disputed land in this case --- part of Étienne Brûlé Park in the City of Toronto --- was not acquired by the appellants as an extension of their neighbouring backyard by adverse possession.
+
+It has long been understood that acquisition of title to land by adverse possession can, in the proper circumstances, be a social good. This is true even if, as was once famously said, adverse possession is "an anomalous instance of maturing a wrong into a right contrary to one of the most fundamental axioms of the law" (H. W. Ballentine, "Title by Adverse Possession" (1919), 32 *Harv. L. Rev.* 135, at p. 135). Resting on what are sometimes called adverse possession's moral or utilitarian justifications, the rationale for the rule that allows a trespassing possessor to acquire title to land over time is well known. Adverse possession legitimately champions the productive use of land by a possessor at the expense of an indolent holder of paper title. It discourages the titled landowner from sleeping on their rights and spurs them to socially valuable monitoring of the property line to fend off unwanted encroachment. Additionally, the recognition of a possessor's rights offers a promise of stability by curing defects to quiet title over the long term (see, generally, E. Kaplinsky, M. Lavoie and J. Thomson, *Ziff's Principles of Property Law* (8th ed. 2023), at pp. 164-70; J. E. Stake, "The Uneasy Case for Adverse Possession" (2001), 89 *Geo. L.J.* 2419, at pp. 2434 et seq.).
+
+These justifications reflect decades of adjudication of competing claims between possessors and holders of title to land who are very often contiguous private landowners who disagree where the boundary between their properties should be drawn. But this appeal does not stem from a dispute between two private landowners. The land the appellants seek to acquire that would extend their backyard is owned by the respondent, the City of Toronto ("City"). The disputed land is not just municipal land, it is land designated for the use or benefit of the public as an urban park.
+
+The traditional explanations of adverse possession have limited resonance when the titled owner of the land is a public entity, holding the property for the benefit of the community. Most obviously, it will be difficult for a private possessor to show that their personal claim to the City parkland is a more productive use than the use or benefit that the whole community --- potentially scores of adults and children, residents and visitors to Toronto --- derives from a public green space. Similarly, the idea that the City should be penalized for its failure to patrol or monitor the boundaries of thousands of acres of heritage parkland in hundreds of parks across Toronto ignores the social and economic costs to the public of that monitoring, including costs to taxpayers. As one author wrote about the exemption of certain public land from the rules of adverse possession in Alberta, "Crown and public lands are held for the benefit of all citizens and it would be unjust for one to deprive all or part of this benefit \[and,\] given the vast acreage of such land, it is impossible to patrol against adverse possessors" (S. Petersson, "Something for Nothing: The Law of Adverse Possession in Alberta" (1992), 30 *Alta. L. Rev.* 1291, at p. 1314).
+
+It is true that appellants Pawel Kosicki and Megan Munro possessed the disputed land for a period of time that would have given rise to acquisition by adverse possession had the land been owned by a private landowner rather than the City as parkland. And it may well be a relatively small piece of land --- a "postage stamp" fenced off from the rest of the park by the appellants and their predecessors, in the words of the dissenting judge in the Court of Appeal (2023 ONCA 450, 167 O.R. (3d) 401, at para. 82). But the disputed land formed part of the precious green space designated by the City for the use or benefit of the public as part of Étienne Brûlé Park during the whole period of possession.
+
+Awarding the land to the appellants would deprive the community of this part of the park in perpetuity. The public would make a more socially valuable use of this land over time --- postage stamp or not --- than could any one person: that is the very principle of public use or benefit upon which parkland is predicated. For municipal parkland, that public interest is, if anything, amplified in a densely populated urban setting like the City. While I respectfully disagree with the dissenting judge's proposed conclusion in this case, I share his view that Toronto parkland is "vital to maintaining one's sanity and socializing with one's neighbours in an urban sea of steel and glass" (C.A. reasons, at para. 77). Moreover, there is no disagreeing with the fact, as the majority judges below observed, that Toronto's publicly accessible green space has "significant natural heritage" and "recreational" value that benefits the public (para. 3). While current land titles legislation precludes new adverse possession claims on registered land, granting the appellants' application based on their supposedly acquired rights would deprive the public of this benefit. And the cost to the City of monitoring 8,000 hectares of municipal property scattered over 1,500 parks --- for that is what the record reveals is the land designated for this purpose --- against potentially thousands of similar postage-stamp encroachments across hundreds of Toronto parks --- would be prohibitive.
+
+Under the common law as it has developed in Ontario, land set aside by a municipality for the use or benefit of the public as a park should be treated as presumptively in use by the public and shielded from adverse possession. To overturn this presumption, a claimant must show that the municipality has changed the vocation of the land from that designated for public use as a park or has acquiesced to its private use. Acquiescence generally requires proof of knowledge on the part of the municipality. As I will explain, proof of constructive knowledge may suffice but the bar is a high one, given the public interest at issue.
+
+This common law rule has not been ousted by statute in Ontario, including by the *Real Property Limitations Act*, R.S.O. 1990, c. L.15 ("*RPLA*"), which sets out instances in which certain other public land is exempt from adverse possession. Properly interpreted, the *RPLA* does not give rise to the inference that, by omitting municipal parkland in the named statutory exemptions, the legislature intended to have that land treated, for the purposes of adverse possession, as if it were held by a private landowner. The *RPLA* is not a "complete code" for adverse possession of land, given that the measure of adverse possession is itself a common law test, sitting outside of the rules of limitation in the statute. However, I recognize that, complete code or not, the *RPLA* could oust the common law rule on public land if the legislature chose to do so expressly or by necessary implication (*R. v. Basque* 2023 SCC 18, at para. 40, citing *R. v. D.L.W.* 2016 SCC 22, \[2016\] 1 S.C.R. 402, at para. 21, per Cromwell J.). Legislative intent must, of course, be respected. But under the legislation, the common law relating to municipal land presumptively held for the use or benefit of the public has in this regard been left untouched by the legislature.
+
+Because it has not been ousted by statute, this common law rule relating to municipal parkland thus applies to the disputed land in this case.
+
+The disputed land has been designated as parkland during the whole of the relevant period. While the appellants' fence was recorded on the 1971 survey map, this does not, to my mind, meet the high bar required to overturn the presumption of public use. In addition, despite a 2007 survey map attached to a City by-law noting the fence, the City's dealings with a neighbour with a similar problem and the payment of certain property taxes on the land as would an owner, all these facts arose after the land was registered under the *Land Titles Act*, R.S.O. 1990, c. L.5 ("*LTA*"), which precludes adverse possession claims from maturing after that date. Those events cannot constitute knowledge, actual or constructive, by the public authority to the claimed adverse possession.
+
+The appellants' pre-existing fence --- and the fences abutting on parkland across the City --- may preclude public use of the land, but does not change the park's vocation to the benefit of the public, nor does it give rise to a settled expectation that the City acquiesced to the appellants' possession. This understanding of the public benefit presumption against adverse possession of municipal parkland visits no unfairness on the appellants in this case. The appellants cannot say that they have a valid adverse claim based on their exclusive possession when that exclusivity is a consequence of the very fence that excluded the public from use of land designated for community benefit. And because the principle explained by the majority of the Court of Appeal was not "new law" but simply a plainer articulation of a longstanding common law rule, the appellants cannot say that their claim had "crystallized" as a mature right to title before a notional change in the law.
+
+I would accordingly dismiss the appeal. In light of comments made by the City at the hearing, I would, however, reserve the appellants' right to bring a claim against the City for reimbursement of taxes paid on the disputed land by mistake.
+
+<!--
+
+### II. Appellants' Arguments and Applicable Analytical Framework
+
+Resolving this appeal requires answering a familiar question in Canadian law: How should courts determine whether a statutory scheme displaces, modifies, or coexists with an established common law principle? The issue arises here in assessing whether the public benefit principle --- contested by the appellants but which Sossin J.A. recognized as part of the common law of adverse possession --- exists and continues to operate, alongside the *RPLA*.
+
+This Court's decision in *Basque*, relied upon by both the appellants and the City in argument, provides the appropriate method for answering this question. The two-step framework used to analyze the interaction between legislation and the common law is well known (*2747-3174 Québec Inc. v. Quebec (Régie des permis d'alcool)* \[1996\] 3 S.C.R. 919, at para. 97, per L'Heureux-Dubé J.). First, a court must identify and clearly articulate the applicable common law rule; second, the relevant statutory provision must be examined, using the modern approach of interpretation, to determine whether the legislature intended to codify, displace, limit, supplement, or leave that common law rule intact (*Basque*, at paras. 40, 45 and 52). This framework was already settled law in Ontario when the Court of Appeal addressed the matter (see, e.g., *Zaidan Group Ltd. v. London (City)*, \[1991\] 3 S.C.R. 593; *Urban Mechanical Contracting Ltd. v. Zurich Insurance Co.* 2022 ONCA 589, 163 O.R. (3d) 652, at para. 45). While the Court of Appeal did not have the benefit of *Basque* when it rendered its judgment, the majority opinion followed these two steps to the letter in its effort to discern the interaction between the common law and statute in this case.
+
+The legislature may, of course, oust the common law and if that is its intent it must be respected. But the applicable framework does not presume conflict. Statutory provisions and common law rules may "coexist harmoniously" unless the legislature indicates otherwise with requisite precision (*Basque*, at para. 6). At the same time, the approach reinforces the importance of interpretive discipline: courts must be attentive to legislative text and purpose, and avoid introducing changes to statutory regimes through untoward judicial innovation. This also reflects the principle articulated in *R. v. Salituro*, \[1991\] 3 S.C.R. 654, that structural reform is the responsibility of the legislature, while courts are limited to incremental developments necessary to maintain coherence in the law (p. 670).
+
+At step one, the appellants argue that the common law test for adverse possession is clear: citing this Court's judgment in *Nelson (City) v. Mowatt* 2017 SCC 8, \[2017\] 1 S.C.R. 138, at para. 18, the appellants rightly recall that adverse possession must be open, notorious, adverse, exclusive, peaceful, actual and continuous to trigger the commencement of the limitation period. However, the appellants dispute the authorities cited by the Court of Appeal that suggest that the common law of adverse possession treats public land differently from land owned by a private party, arguing that all of those cases were or could have been decided on this traditional common law test.
+
+At step two, the appellants rightly adopt the modern method for statutory interpretation endorsed by this Court in *Rizzo & Rizzo Shoes Ltd. (Re)*, \[1998\] 1 S.C.R. 27, and subsequent cases, for discerning the meaning of the *RPLA*. Fixing in particular on ss. 4, 15 and 16, they say the meaning to be given to the *RPLA* is plain: the legislature has not directed that municipal parkland be exempted from the common law rules of adverse possession applicable to land held by a private landowner whereas other public land has been expressly treated as immune. They say this reinforces the inference that the legislature did not intend municipal parkland to be shielded from adverse possession. Moreover, the appellants argue that the *RPLA* is part of a broader legislative scheme in Ontario that preserves mature claims of adverse possession. In the result, there is no doubt, say the appellants, that they have possessed the disputed land for the requisite time and in a manner consonant with the principles of adverse possession. Their application for an order that they own the land should have been granted.
+
+I propose to follow the *Basque* framework suggested by the appellants. I will review, first, the common law rules for adverse possession applicable to the disputed land, owned by the City and designated as part of Étienne Brûlé Park. Second, I will consider how the common law rules interact with statute and, in particular, whether the common law regime for adverse possession of municipal land has been ousted by the *RPLA*. I end by applying the law to the land in dispute here.
+
+-->
+
+### III. The Applicable Common Law
+
+The majority in the Court of Appeal agreed with the application judge's conclusion that the appellants did not acquire the disputed land by adverse possession. But the majority judges disagreed with her view that the "public benefit test" required the City to show that the land had been used by the public before it was fenced in (see para. 41; 2022 ONSC 3473, 32 M.P.L.R. (6th) 306, at paras. 69 and 77-79). Writing for himself and his colleague MacPherson J.A., Sossin J.A. stated the common law test as follows:
+
+> Therefore, I would reframe the test for adverse possession of public land developed in cases such as *Warkentin* and *Richard* adopted by the application judge, as follows: *adverse possession claims which are otherwise made out against municipal land will not succeed where the land was purchased by or dedicated to the municipality for the use or benefit of the public, and the municipality has not waived its presumptive rights over the property, or acknowledged or acquiesced to its use by a private landowner or landowners.* \[Emphasis added; para. 47.\]
+
+The appellants' fundamental argument before this Court is that, "\[i\]n Ontario, the law of adverse possession is codified in the RPLA" (A.F., at para. 25). They say that their acquisition of the disputed land flows from the ordinary application of the statute. They argue that the majority judges below misinterpreted the common law to create a rule that would exempt or immunize municipal parkland from claims of adverse possession permitted under the *RPLA*. Moreover, they submit that the cases cited by the majority are inapplicable, distinguishable or wrongly decided (para. 52).
+
+I agree with the appellants that courts should tread carefully before changing the common law relating to real property in a fundamental way --- a task best left to the legislature. But the appellants misread the judgment on appeal when they assert that "the Majority exceeded the Court of Appeal's jurisdiction when it established a novel immunity from claims in adverse possession" (A.F., at para. 6). The majority exposition of the common law is not one that, properly understood, amounts to a "novel immunity" from adverse possession for municipal land or even one that materially changed the law based on distinguishable or wrongly decided cases. As the City rightly suggests, Sossin J.A.'s enunciation of the common law test presented a "clarification of Ontario precedent" which "synthesized" prior decisions relating to the public benefit test as it pertains to adverse possession of municipal land (R.F., at paras. 110 and 120). Justice Sossin was acutely aware of this when he wrote that his purpose was to "[reframe]{.underline} the test for adverse possession of public land" developed in the relevant cases (para. 47 (emphasis added); see also para. 48).
+
+The common law is, of course, not static. It evolves best through careful, reasoned judgments adjudicating live disputes. This evolution can proceed in different ways. Sometimes decided cases can properly bring incremental change to the law. But very often, including in areas where a dispute shows the common law to be unclear, courts content themselves with a restatement, in plainer form, of the law as it stands. In *Salituro*, this Court held that judges "can and should" recognize incremental changes to the common law to bring legal rules into step with a changing society (p. 666). But as "custodians of the common law" (p. 678), courts can also refine the law without changing it materially. Through a more cogent expression of existing principles, they thereby show that the law did not need change, but simply requires a plainer exposition of a principle that had previously been imperfectly stated in the cases.
+
+Refining the law requires a careful understanding of the way in which past courts explained the law in different factual settings, in addition to identifying the finding upon which the disposition of the cases rested. This often means going behind the *ratio decidendi* that judges have later drawn from them and reified. In discharging their responsibilities as custodians of the common law, courts must, of course, apply a precedent precisely, but they are not confined to that work when they seek to understand the importance of a case to what the law says. Making sense of a legal doctrine will at times require tracing the lineage of a common law principle critically over time.
+
+Sometimes, the exercise of refining the law draws into focus aspects of one case that, on the facts of that dispute, took on less importance, but can nevertheless speak to a similar matter as it arises before another court. Some judicial statements, initially viewed as *obiter*, gain precedential weight because they are repeatedly relied upon and shown to be workable in practice (R. J. Sharpe, *Good Judgment: Making Judicial Decisions* (2018), at pp. 150-51).
+
+The City rightly suggests that this exercise was properly undertaken by the majority here. With respect, I disagree with the dissenting judge's view, embraced by the appellants, that the majority decision below "represents one of the clearest examples of the court using the common law to veer into the role of policy-maker" (A.F., at para. 61). The Court of Appeal did not "exceed its jurisdiction" by making radically new law for adverse possession in a manner that is the proper province of the legislature. On the contrary, as the City argues, the majority of the Court of Appeal contented itself with a "[refinement] of the common law requirements for what acts will constitute dispossession in the context of municipal parkland" in this case, rather than adding a new exception akin to the classes of public land exceptions in the list in s. 16 of the *RPLA* (R.R.F. (Amended), at para. 9 (emphasis in original)).
+
+Importantly, Sossin J.A.'s explanation of the presumptive character of the public benefit test at common law does not create a new immunity, but instead recognizes that there are circumstances under the common law in Ontario in which it has always been difficult to acquire municipal land by adverse possession. On my understanding, Sossin J.A.'s reasons do not make new law on this point but seek to refine past decisions to make them intelligible in the present circumstance, exemplifying a well-known characteristic of common law reasoning.
+
+The parties agree on much of the common law test for adverse possession; they agree, for example, on the quality of possession that can ground a claim. What is in dispute is whether claims of adverse possession of public lands --- and in particular, municipal lands --- are distinct in a way that reflects the nature of that land. In canvassing the cases bearing on this question, Sossin J.A. distilled a general rule applicable to the common law of Ontario, namely that municipal lands accessible to the public are presumptively "*in use* for the public benefit" and therefore shielded from adverse possession, unless the alleged possessor can prove that, in fact, the municipality "acknowledged or acquiesced" to its private use (paras. 38, 41 and 47 (emphasis in original)).
+
+Given the public interest in the land, the majority said that municipal land in Ontario cannot be subject to acquisition by adverse possession in the same way as land held by a private landowner except in a narrow set of circumstances. The majority drew this rule out of cases they carefully identified and gave it intelligible expression. Justice Sossin did not invent, by some kind of illegitimate judicial pronouncement or otherwise, a novel common law exception of municipal parkland from adverse possession. Instead, he undertook a familiar task of synthesizing a series of decided cases that reflected a wholly legitimate dimension of common law reasoning, identified recently by the President of the United Kingdom Supreme Court, whereby "judges may arrive at a principle by a process of induction from a series of judicial decisions in individual cases" (Lord Reed, *Time Present and Time Past: Legal Development and Legal Tradition in the Common Law --- The Neill Law Lecture*, February 25, 2022 (online), at p. 2).
+
+In distilling a general rule from Ontario cases bearing on adverse possession claims on public land present in the common law as it stood, Sossin J.A. was indeed reasoning inductively. Adeptly done in this instance, this exercise is not otherwise remarkable as a feature of common law methodology. Reasoning inductively is a technique that is "characteristic of English law", as Professor C. K. Allen once wrote, by which a judge "works forward from the particular to the general" (*Law in the Making* (2nd ed. 1930), at p. 110). Justice Sossin did not break with settled law or even fill an identified gap left by statute in the law. Instead, he made sense of a series of disparate cases that have said similar things in different ways: municipal land, by reason of its nature and vocation, is not subject to acquisition by adverse possession in the same way as land held by a private owner. I respectfully disagree with the view of the dissenting judge who saw this as transgressing a judge's proper role: Sossin J.A. simply synthetically reframed the existing law, rather than crafting a new rule, as part of an exercise of the proper judicial function that was, in Professor Allen's words, an "effort \... to find the law, not to manufacture it" (p. 184).
+
+The distinction is important here. Part of the appellants' grievance comes from what appears to them to be an injustice whereby Sossin J.A. created new law after the moment, they say, when their claim for acquisition of title through adverse possession had ripened. They contend that "pursuant to the law as it existed prior to the Majority's decision, \[they\] were the owners of the Disputed Land by possession" (A.F., at para. 59). This is predicated, in large measure, on their view that the majority of the court did not have "jurisdiction" to change the common law in such a fundamental way that it did (paras. 60 et seq.). A review of Sossin J.A.'s reasons on this point reveals that the perceived break in the common law is unfounded. The better view is that he restated an existing rule so that, contrary to what the appellants plead, their claim was not ripe at the time the Court of Appeal rendered judgment. Instead, by reason of the law recognized by the majority as part of the common law of Ontario, the appellants' relationship with the land over the years could not be considered to have been maturing adverse possession at all. This is not a case of retrospective application of new law to a property right that had already crystallized.
+
+[...]
+
+### VI. Application
+
+It is true that Mr. Pawel Kosicki and Ms. Megan Munro, and their predecessors, possessed the disputed land for a period of time that would have given rise to acquisition by them by adverse possession, if the land had been owned by a private landowner rather than the City as parkland. However, in light of the fact that the *RPLA* has not displaced the common law in respect of the matter at the heart of this appeal, the question becomes whether the disputed land satisfies the public benefit test. In other words, was the disputed land designated for the public benefit and, if so, has the City acknowledged or acquiesced to its use by a private landowner, thereby overturning the presumption that the disputed land is parkland held for the use or benefit of the public?
+
+Even if the parkland is partially shielded from adverse possession pursuant to the common law rule as reframed by the majority judges below, the appellants argue that the City cannot oppose their claim for adverse possession because, by its conduct, the City was on notice of their possession and did nothing to assert their title to the land during the limitation period. The appellants say that the character of their adverse use was open, notorious, without permission (and in this sense "adverse"), continuous, exclusive and peaceful for the whole of the statutory period. This was enough to put the City on notice but it failed to assert its rights.
+
+The City answers that it had no knowledge of the appellants' adverse possession and it would be unfair to impute knowledge to them. "The nature of municipal parkland", says the City, "is such that a municipality cannot monitor it for adverse possessors in the way a landowner is both expected and able to monitor private property" (R.R.F. (Amended), at para. 8).
+
+The appellants say that the City had notice of a survey that recorded their fence, dealt with a neighbour who had a similar problem, and willingly collected property taxes from them on the disputed land. It would be unfair to allow the City to claim that it had no proper notice of the appellants' adverse possession.
+
+I recognize, as the authors of *Ziff's Principles of Property Law* have written, that in respect of a claim brought by a possessor against a private landowner, "the owner need not actually be aware that an adverse claim is afoot. Constructive notice will suffice. To use language now found in relation to the law governing limitations generally, the acts of the squatter must be discoverable" (p. 171).
+
+In my view, in connection with a claim for adverse possession against a municipality for parkland that is held for the benefit or use of the public, the claimant must bring strong evidence of notice or constructive notice to succeed. Given the nature of the land and the difficulty in monitoring its use, the notice requirement from the general law of adverse possession must meet a higher bar than that faced by private landowners before the presumption to which Sossin J.A. alluded is rebutted given the public interests at stake.
+
+Certainly, if the municipality knows of the presence of the squatter and does nothing, this will generally be enough to commence the limitation period. Justice Sossin left open the possibility that the municipality could, "with full knowledge", acknowledge or acquiesce to the use of the land for the benefit of private landowners (para. 42). The City argues that actual knowledge is required in all cases and that it is absent here.
+
+I would not impose a rule that actual knowledge by the municipality is required in all cases. There will be circumstances in which even a municipality with the onerous task of monitoring extensive public land will fairly be considered to be on notice in the absence of actual knowledge, and that its inaction can constitute acquiescence to private use.
+
+It is, in my view, appropriate to say that the evidence of constructive notice that the claimant must bring to overturn the presumption must be compelling. In order to demonstrate that the adverse possession was open and notorious, given the vast territory the municipality must monitor to discover adverse possessors, the possession must be itself strong to justify a finding of constructive notice. Again, the authors of *Ziff's Principles of Property Law*, speaking of private landowners, write that "\[t\]he adverse possessor must send out a clarion call to the owner who, if listening, should realize that something is awry" (p. 170). In order to justify the dispossession of municipal parkland set aside for the benefit of the public, that clarion call must be loud enough to attract the attention of the municipality, with its responsibility for the whole territory, and signal that a private interest seeks to deprive the municipality of a collective benefit.
+
+How should these principles apply in this instance?
+
+I pause here to underscore that the evidence on the record points to the administrative burden on the City of monitoring against claims based on adverse possession if parkland is not recognized as land presumptively set aside for the benefit of the public. This remains true notwithstanding the limited scope for recognizing crystallized claims for adverse possession against registered land under s. 51(2) of the *LTA*. As the City says, whether the appellants' right had crystallized prior to land title conversion "is the question at issue" (R.F, at para. 127). In affidavit evidence, Mr. Ronald Ro, a City manager, describes the municipality's real estate portfolio as "one of the largest and most complex \... in Canada" (A.R., vol. II, tab 12, at para. 3). He explains that, given the size of this portfolio, there are likely "many City-owned parcels of land across the City that are used and/or enclosed by private property owners of which the City has no active knowledge" (para. 31). Like the appellants' land, those parcels could be the subject matter of adverse possession claims notwithstanding the *LTA*. Whether that land is shielded from crystallized possessory claims remains an ongoing concern for the City.
+
+On the facts of this case, the disputed land was acquired and designated for the benefit of the public as early as 1958. This designation was constant and in fact reinforced by the City's Official Plan, published in 2003, and subsequent zoning by-laws. In addition, the disputed land was registered under the *LTA* in October 2001. Section 51(1) of the *LTA* operates to preclude the establishment of adverse possession after the date of registration, yet s. 51(2) preserves claims which have matured before then. As a result, to succeed, the interests in the disputed land must have crystallized before 2001. As I will explain, there is no evidence of any action by the City that served to alter the public nature of this land. Nor is there evidence to meet the high bar to establish knowledge, actual or constructive, that the City acquiesced to its private use before October 2001. As such, the disputed land retains its public character and remains insulated from the appellants' claim of adverse possession.
+
+***A. The City**'**s Designation of the Land for the Benefit of the Public***
+
+The disputed land was expropriated for conservation purposes in 1958 by a public authority established by the province at the behest of several municipalities, and was subsequently made into a public park (Sup. Ct. reasons, at paras. 17-28). The City's Official Plan, drafted in 2003, designates the disputed land as part of the City's Green Space System, where it is classified as part of the Parks and Open Space Areas category. Development is generally prohibited on land designated as such, except for recreational and cultural facilities, conservation projects, cemetery facilities, public transit and essential public works and utilities. Moreover, pursuant to City policy, no City-owned land in the Green Space System may be sold or disposed of.
+
+The City's zoning by-law was enacted in 2013. Whereas the Official Plan sets out the City's policies and vision for its land use, the zoning by-law implements the plan by prescribing specific and legally enforceable requirements for land use and development. Under this zoning by-law, the disputed land is designated as "Open Space --- Natural Zone (ON)". The purpose of the ON zone is to conserve areas such as ravines and waterways that are part of the natural system.
+
+There is no indication in the record that the City has ever rezoned the disputed land or set it aside for different purposes. Therefore, the City's Official Plan and its zoning by-law illustrate its sustained designation by the City as for the benefit of the public as part of Étienne Brûlé Park. Its zoning as such not only reflects the City's intent to devote the land to a public purpose, but can also be understood as an explicit safeguarding against capture or development by private possessors.
+
+At the hearing, the situation of the appellants' neighbour, Ms. Marie Turek, was raised to suggest that, in fact, land may be adversely possessed notwithstanding the purported purpose for which they are zoned. In 2013, the City consented to Ms. Turek's claim of adverse possession of certain lands abutting the parkland (Sup. Ct. reasons, at para. 55; C.A. reasons, at para. 43). At the Court of Appeal, the City expressed in oral submissions that consent to this declaration may simply have been an error, based on the mistaken belief that this parcel had been zoned for residential use when the land was conveyed to the City's predecessor, the Borough of York (C.A. reasons, at para. 43). Indeed, the affiant Jane Weninger confirmed that the designation for Ms. Turek's parcel was in fact Green Open Space District (G), which was in force until 2013 (R.R., tab 2, at para. 19). Therefore, the dispossession that occurred in Ms. Turek's case was not consistent with the City's public use designation. Though it may be afforded a measure of finality, the City's mistaken decision to consent to Ms. Turek's claim cannot bind the City with respect to future claims of adverse possession.
+
+***B. The 1971 and 2007 Surveys Did Not Amount to Acquiescence***
+
+The appellants submit, additionally, that a 1971 survey deposited with the land registrar depicted a fence which enclosed the disputed land, arguing that the City's inaction in response to its presence on the survey amounts to knowing acquiescence. Relatedly, in oral submissions before this Court, the issue of the City's By-law No. 1021-2007 was raised. That by-law refers to a 2007 survey in which that fence is also noted. It was suggested that the existence of both the 2007 survey and its reference in the by-law indicate that even if the City was not actually aware of the appellants' private use of the disputed land, it should have been. In other words, even if there was no actual knowledge that could support an allegation of acquiescence, there may be a case for constructive knowledge.
+
+The mere fact that the fence in question was noted in the surveys cannot, in my view, resolve the public benefit test in favour of the appellants. I say this, respectfully, for different reasons than the application judge, who arrived at the same conclusion but from the premise that the appellants' possession was not in good faith (para. 77). Rather, my conclusion is grounded on the fact that the appellants' argument advances a view of constructive notice that is inconsistent with the realities of municipal management of public property. The affiant Suzanne Coultes confirms that given the size of the City's real estate portfolio of over 8,000 hectares of parkland, "there can be challenges administering parkland and accounting for every square metre of it" (R.R., tab 1, at para. 19). One cannot therefore fairly impute knowledge to the City based on the mere existence of a survey without further evidence.
+
+It must be recalled that the burden to prove that the City acknowledged or acquiesced lies with the appellants. Without more, the mere existence of a survey with a subtle notation indicating the existence of a fence around the disputed property will not suffice to prove actual or constructive knowledge, and cannot be relied upon to strip the land of its public character. To hold otherwise would effectively require municipalities to scrutinize every detail of every survey, a standard not grounded in the realities of municipal property management.
+
+As counsel for the City noted at the hearing, the circumstances of this appeal can be compared with the facts in *Teis*. In that case, the Court of Appeal noted that the chief administrative officer with the municipality had become aware of the private use at issue. In a memorandum to the municipality's director of culture and recreation, the officer requested that the director "inform the farmer who is occupying 5 metres of our property \... to stop using the public land" and stated that "if this man can get 10 years of unobjected occupancy from the Town, he might be in a position where we could not actually get him off our property" (p. 219). The director failed to do so. Thus, in that case, evidence existed to indicate that an official acting on behalf of the municipality and with the requisite authority to enforce, or cause the enforcement of, the municipality's title knew of the disputed area's character as municipal public land as well as of its private use. While I would not suggest that this is the standard that must be met to establish knowledge, I draw this example to illustrate the absence of any evidence, in degree or in kind, of any such knowledge in the case at bar.
+
+By contrast, in this case, the application judge held that there was "no evidence that the City was aware of the lands being public" to begin with until the application underlying this appeal was filed (para. 54). There is no reason to interfere with this finding. The lack of evidence as to how and by whom the survey was used means the presumption of public use is not rebutted and the disputed land remains shielded from adverse possession (transcript, at pp. 79-80).
+
+It bears noting here that the 1971 survey is the only evidence tendered that predates the 2001 conversion of the disputed lands to the land titles system. While s. 51(2) of the *LTA* preserves mature possessory claims predating conversion, the tendered evidence is insufficient to support the conclusion that the appellants' title matured prior to that date.
+
+In support of their argument, the appellants also point to the City Council's reference to a 2007 survey noting the fence in the City's By-law No. 1021-2007. Due to the conversion to the land titles system in 2001, whether this survey or the reference in this By-law can sustain a contrary conclusion need not be settled in the context of this appeal. Whether or not the City ought to have become aware of the notation made elsewhere on the survey to mark the fence at issue does not resolve the matter given that the issue arose after 2001. Ultimately, in my view, the appellants' evidence is insufficient to establish actual or constructive knowledge or notice of the use of this land, in order to overcome the presumption protecting the disputed land.
+
+***C. Actual Use Is Not Determinative in the Present Appeal***
+
+Relatedly, the appellants argue that the disputed land was not actually "used" as a park (A.F., at para. 12). The application judge found that the installation of a chain link fence effectively kept the public from using or accessing the disputed land since at least 1971 (para. 50). The appellants are operating on the basis of settled expectations that they may continue possessing the disputed land as part of their backyard.
+
+The response to this argument is that the settled expectations of private users cannot override an otherwise untainted designation of land to the public benefit, which grounds a presumption of use, especially when this purported reliance can be traced back to a unilateral act by a private claimant. There is something inherently incongruous in invoking a settled expectation of private entitlement where that expectation was only made possible by the claimant's exclusion of the public from land designated for their benefit. This tension between private acts imposing exclusivity and land held in trust for the public justifies a more stringent approach in the public context, where the law presumes against dispossession absent clear and compelling evidence of municipal acquiescence. And it is for this very reason that the public benefit test as refined by Sossin J.A. is not premised on proof of use, but on proof of designation, from which use is presumed.
+
+In this light, Mr. Kosicki and Ms. Munro argue that they had a settled expectation that the disputed land would continue to form part of their backyard based on their possession of the property and the City's inaction, notwithstanding constructive notice of their presence. Nonetheless, the onus rests with them to demonstrate that this sufficed to show the City acknowledged or acquiesced to that expectation. This is not the case here. If anything, the City's zoning choices reflect a continued commitment to the disputed land's public character through its conservation and designation as a park. As canvassed above, neither the existence of the 1971 and 2007 surveys, nor the City's subsequent choices in resolving a similar dispute with the appellants' neighbour, is sufficient to meet the high evidentiary threshold necessary to establish the actual or constructive knowledge necessary for their adverse possession claim to succeed.
+
+[...]
+
+### VII. Disposition
+
+I would dismiss the appeal, with costs.
+
+*Appeal allowed.*

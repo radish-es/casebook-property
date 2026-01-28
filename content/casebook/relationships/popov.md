@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Popov v Hayashi
 short: Popov
 reporter: (Cal Sup 2002)
