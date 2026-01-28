@@ -7,10 +7,12 @@ classdate: 2 Feb 2026
 type: lesson
 description: In our first week of the Winter term, we will return to where we started and re-examine some key issues of possession and apply these within the developing legal framework around adverse possession in Canada.
 weight: 10
-image: /imgs/baseball-glove.jpg
-imgcaption: 
+image: /imgs/park-bench.jpg
+imgcaption: Metin Ozer on Unsplash
 objectives:
-  - objective: 
+  - objective: Explain the contemporary common law approach to possession as a matter of context and apply this understanding to an analysis of claims for adverse possession.
+  - objective: Critically analyze adverse possession claims within the current common law framework for proving such claims.
+  - objective: Analyze under what circumstances, if any, public lands maybe immune from adverse possession claims. 
 
 materials:
   - popov
