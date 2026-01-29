@@ -23,8 +23,8 @@ Upset by the possibility that they would be unable to grow vegetables in the com
 
 **Nova Scotia currently has no provincial legislation granting immunity from claims of adverse possession on any class of public lands. Would Lin be successful in claiming adverse possession over the area in the park they've used for gardening (assuming they had gardened there for more than the 20-year limitations period for such claims established by statute)?**
 
-Please note that we will return to the elements of this problem that relate to the right to shelter during our study of next week's materials. 
+Note that we will return to the elements of this problem that relate to the right of unhoused persons to shelter in public spaces during our study of next week's materials. 
 
 ## Note on Readings
 
-Different from most weeks, you are encouraged to read this week's materials in a specific order: *Popov v Hayashi*, *Piper v Stevenson*, *Keefer v Ariollotta*, then *Kosicki v Toronto (City)*. 
+Departing from our practice most weeks, you are encouraged to read this week's materials in a specific order: *Popov v Hayashi*, *Piper v Stevenson*, *Keefer v Ariollotta*, then *Kosicki v Toronto (City)*. 
