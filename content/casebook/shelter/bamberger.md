@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Bamberger v Vancouver
 short: Bamberger
 reporter: 2022 BCSC 49
@@ -31,7 +31,7 @@ bookHidden: true
 
 ### Kirchner J. —
 
-#### I. INTRODUCTION
+#### I. Introduction
 
 In 1984, an encampment of some 60 tents was established at the site of what would become CRAB Park at Portside in Vancouver. The encampment was a protest designed to pressure government authorities into creating a public park at the site. The name of the park is taken from the acronym for the activist group—Create a Real Available Beach Committee—that envisioned the establishment of a waterfront public park in an area of the city short of green space. The community activism and the camp protest had its desired effect and, in 1987, CRAB Park at Portside (“CRAB Park” or the “Park”) was established as a Vancouver public park on federal port land leased by the City. 
 
@@ -55,7 +55,7 @@ The Park Board further argues that even if the Orders are set aside on the Petit
 
 For the reasons that follow, I have concluded the application for judicial review should be granted and the Orders should be set aside with the matter remitted back to the General Manager or the Park Board for reconsideration. In light of that conclusion, I will not grant the Park Board’s application for an injunction to compel compliance with the September 7, 2021 Order. Further, the Park Board’s application for an injunction to compel compliance with the *Bylaw* should be adjourned pending reconsideration of the Orders or sooner if there is a significant change in the circumstances of the encampment, including with respect to matters of health, safety or public nuisance.
 
-#### II. THE RIGHT TO SHELTER IN PUBLIC PARKS
+#### II. The Right to Shelter in Public Parks
 
 In *Adams* BCSC, Madam Justice Ross found a Victoria bylaw prohibiting homeless persons from erecting temporary shelters in Victoria parks infringed their right to life, liberty, and security of the person, as guaranteed by s. 7 of the *Charter*. She found the number of homeless persons in Victoria far outnumbered the available shelter beds such that many of Victoria’s homeless were forced to sleep outside. Despite this, the city’s bylaw prohibited anyone from erecting temporary shelters, including tents, tarps, or even cardboard boxes, in public parks, leaving them exposed to serious and life-threatening conditions and depriving them of their dignity, independence, and ability to protect themselves.
 

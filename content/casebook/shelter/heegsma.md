@@ -1,10 +1,10 @@
 ---
-class: case
+type: case
 title: Heegsma v. Hamilton (City)
 short: Heegsma v. Hamilton 
 reporter: 2024 ONSC 7154 (CanLII)
 year: 2024
-facts: 
+facts: A review of the constitutionality of the enforcement a municipal Parks bylaw in Hamilton Ontario.
 issue: 
 held: 
 public: true
@@ -15,7 +15,7 @@ sources:
 doctrines:
   - right-to-shelter
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Ramsay J. --

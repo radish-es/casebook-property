@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
@@ -22,7 +22,7 @@ sources:
 doctrines:
   - right-to-shelter
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Ross J. —

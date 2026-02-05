@@ -1,20 +1,15 @@
 ---
 title: Sheltering in Public Spaces Bylaw 
-short: Bylaw
-draft: true
-class: problem
-description: Municipal by-law regarding sheltering on public property. 
+short: Sheltering Bylaw
+draft: false
+description: Analyze a model municipal by-law regarding sheltering on public property according to the changing constitutional standards for a right to shelter in public spaces. 
 summary: 
 image: /imgs/cridge.jpg
 imgcaption: 
-links:
-  - url: content/cases/victoria-city.md
-    explanation: This early decision on the right to shelter under section 7 of the Charter laid much of the groundwork for subsequent developments in the law. What are the fundamentals of this approach? Is it vulnerable any way? How do you think it is informed by the modern style?
-  - url: content/cases/committee.md
-    explanation: In one of the seminal cases on the Charter-protected freedom of expression, the Supreme Court address some important aspects of 'public property' and some of the potential constitutional limitations on government ownership of such spaces. How might these be relevant to the design of the model municipal bylaw? 
-
 weight: 11
 ---
+
+### Model Parks Bylaw
 
 Consider the following model by-law regarding sheltering in public spaces:[^1]
 
@@ -52,7 +47,7 @@ b. Notwithstanding Section 3(a), where there is no accessible shelter accommodat
 
 c. The Council, or any officer, employee, or agent of the City may, in addition to any other authority granted under this Bylaw, remove or cause to be removed from any City Property any Temporary Shelter that is not in compliance with this Bylaw.
 
-**4 Curfew/Camping**
+**4. Curfew/Camping**
 
 Subject to Section 6(c), no person may:
 
@@ -68,7 +63,13 @@ c. Notwithstanding Section 6 (a) and 6(b), where there is no shelter accommodati
 
 > (iii) comply with all other provisions of this Bylaw;
 
-**In your view, based on the course materials this week, would the above model bylaw be in accordance with section 7 of the *Charter*? Why or why not? Whether or not you think the model bylaw violates the *Charter*, what provisions, if any, would you recommend amending and why?**
+### The Problem
+
+**In your view, based on the course materials this week and on [last week's hypothetical problem]({{< ref "problems/public-park-possession" >}}), would the above model bylaw be in accordance with section 7 of the *Charter*? Why or why not? Whether or not you think the model bylaw violates the *Charter*, what provisions, if any, would you recommend amending and why?**
+
+### Reading Strategy
+
+This week, please start your preparation of the materials by reviewing two cases we read all the way back in the first week of the course *Committee for the Commonwealth of Canada v Canada* and *Harrison v Carswell*. The proceed to the right to shelter cases in chronological order: *Victoria (City) v Adams*, *Bamberger v Vancouver* and *Heegmsa v Hamilton (City)*. 
 
 
 [^1]: Based in part on APPENDIX B - DRAFT PARKS BYLAW PROVISIONS, *Canadian Bar Association*, https://www.cba.org/Publications-Resources/Practice-Tools/Tackling-Homelessness/Appendix-B.
