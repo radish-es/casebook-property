@@ -37,7 +37,7 @@ d. in addition to any other penalty under this Bylaw, any person who violates th
 
 a. Subject to Section 3(b), no person may erect, construct, or build, or cause to be erected, constructed, or built, in or on any City Property any tent, building, shelter, pavilion, or other construction whatsoever without the prior written permission of the Council. In determining whether to grant permission, Council may consider the matters set out in Section 8.
 
-b. Notwithstanding Section 3(a), where there is no accessible shelter accommodation available in the City, a Homeless Person may, without the prior written permission of the Council, as set out in Section 3(a), erect and occupy a Temporary Shelter on a City Property listed in Schedule "A" to this Bylaw, between the hours of 7:00 p.m. on one day and 9:00 a.m. of the following day, provided that the Homeless Person:
+b. Notwithstanding Section 3(a), where there is no accessible shelter accommodation available in the City, a Unhoused Person may, without the prior written permission of the Council, as set out in Section 3(a), erect and occupy a Temporary Shelter on a City Property listed in Schedule "A" to this Bylaw, between the hours of 7:00 p.m. on one day and 9:00 a.m. of the following day, provided that the Unhoused Person:
 
 > (i) not erect the Temporary Shelter until after 7:00 pm on one day;
 
