@@ -5,7 +5,7 @@ classdate: 23 Feb / 25 Feb 2026
 draft: false
 
 type: lesson
-description: Constructive takings and an introduction to the modern style.
+description: We pick up the topic of constructive takings from last term by looking at this rapidly changing area of contemporary doctrine, and also introduce the topic of acquired rights.
 weight: 12
 image: /imgs/flood.jpg
 imgcaption: Museum Victoria on Unsplash

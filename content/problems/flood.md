@@ -10,6 +10,8 @@ imgcaption: Engineers and Geoscientists of Manitoba, https://heritage.enggeomb.c
 weight: 12
 ---
 
+## Hypothetical Facts
+
 The following hypothetical builds on a recent case before the Manitoba Court of Appeal,[^1] which reports these facts:
 
 > A Maze in Corn Inc. operates a corn maze, petting zoo and haunted forest attraction (the business) on a property located on St. Mary's Road, south of Winnipeg near St. Adolphe (the property). The property is located south of the gates of the Red River Floodway (the floodway).
@@ -30,8 +32,14 @@ Meanwhile, although the A Maze in Corn Inc. was initially resigned to closing th
 
 After the flood, in April of the following year, the regional municipality encompassing St. Adolphe decided that it needed to take further steps to prevent flood losses among its residents in the future. It enacted a new municipal plan and zoning bylaw that required all land within 100 metres of the banks of the Red River to "remain unused in its natural state" and removed all pre-existing uses, which included both agricultural and commercial uses. The following season, after the bylaw was passed, A Maze in Corn Inc. decided that it would restructure its business, relocating an existing barn and other infrastructure to about 50 metres from the riverbank and starting a medium-sized, pasture-raised pork farm--about which a few of the neighbours complained due to some modest new smells in mid-summer. 
 
+## The Problem
+
 **Would *A Maze in Corn Inc.* likely be successful in making a claim for compensation against either the province or the municipality? Whether or not it was successful in doing so, would the business be prohibited by the new municipal bylaw from operating its hog farm?**
 
-For the purposes of this hypothetical, you can assume that Manitoba's legislation governing expropriation is the same as Nova Scotia's *Expropriation Act*
+For the purposes of this hypothetical, you can assume that Manitoba's legislation governing expropriation is the same as analogous legislation in Nova Scotia.
+
+## A Note on Readings
+
+The readings this week cover two related but distinct topics: constructive takings and acquired rights. I suggest first reading the line of cases on constructive takings in chronological order (*Mariner*, *CPR* and *Annapolis*) along with the relevant legislation (*Expropriation Act*), followed by the cases on acquired rights (*Cappy* and *Saint Romauld (City)*) along with the relevant legislation (*Planning Act*). 
 
 [^1]: *A Maze in Corn Inc v. Manitoba Emergency Measures Organization et al*, 2023 MBCA 92, 2023 CarswellMan 372, [2024] 3 W.W.R. 385, 2023 A.C.W.S. 5307
