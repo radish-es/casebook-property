@@ -2,10 +2,10 @@
 title: Planning Act
 short: Planning Act
 reporter: 'CCSM, c P80'
-description: Governs the expropriation ('taking') of land.
+description: Provincial legislation addressing legal non-conforming uses.
 tags:
   - police-power
-class: statute
+type: statute
 public: true
 sources:
   - source_name: nslegislature.ca

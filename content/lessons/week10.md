@@ -2,7 +2,7 @@
 title: Adverse Possession
 short: Week 10
 draft: false
-classdate: 2 Feb 2026
+classdate: 2 Feb / 4 Feb 2026
 
 type: lesson
 description: In our first week of the Winter term, we will return to where we started and re-examine some key issues of possession and apply these within the developing legal framework around adverse possession in Canada.

@@ -12,7 +12,7 @@ sources:
   - source_name: CanLii
     source_url: 'https://canlii.ca/t/jshfv'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-bookHidden: true
+bookHidden: false
 doctrines:
   - police-power
 ---

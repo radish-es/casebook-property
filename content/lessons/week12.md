@@ -1,32 +1,30 @@
 ---
-title: Restrictive Covenants and Qualified Interests
+title: Constructive Takings and Acquired Rights
 short: Week 12
-draft: true
+classdate: 23 Feb / 25 Feb 2026
+draft: false
 
 type: lesson
-description: Covenants and Qualifications
+description: Constructive takings and an introduction to the modern style.
 weight: 12
-image: /imgs/subdivision.jpg
-imgcaption: Avi Waxman on Unsplash
+image: /imgs/flood.jpg
+imgcaption: Museum Victoria on Unsplash
 objectives:
-  - objective: >-
-      Identify and apply the full set of criteria for the burdens of a valid restrictive covenant to run with the land.
-    explanation: >-
-  - objective: >-
-      Distinguish between future and qualified interests in land.
-    explanation: >-
-  - objective: >-
-      Describe how the doctrine of public policy developed in early cases dealing with discriminatory restrictive covenants and link this development to the features of the modern style.
-    explanation: >-
-  - objective: >-
-      Identify potential sources of public policy that might be applicable in contemporary cases concerning the validity of restrictive covenants.
-    explanation: >-
+  - objective: Identify the  elements of the current legal test for constructive takings, explain how these have changed over time, apply the test in practice, and critically analyze problems or inconsistencies in the doctrine.  
+  - objective: Define acquired rights and describe their source and the underlying rationales for their protection by the common law.
+  - objective: Analyze the scope of acquired rights based on the framework established in the Saint Romuald case.
+materials:
+  - annapolis
+  - cpr
+  - mariner
+  - expropriation-act
+  - planning-act
+  - cappy
+  - saintromuald
 ---
 
-In the last few weeks, we have emphasized that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts. But this story about the move from private enforcement to public land-use control needs to be complicated a little further. Certain conventional, “private” forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the restrictive covenant.
+This week, will begin to revisit some of last term's topics from the perspective of the modern style of Anglo-Canadian thought. Our primary focus this week will pick up on our discussion of constructive expropriation from the *McLaren v Caldwell* and *Manitoba Fisheries Inc.*. Recall that these cases involve claimed "takings" of property rights (or "sticks" from the ownership bundle) by the state, for which the owner would like to receive some form of compensation.
 
-Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Both testamentary bequests and *inter vivos* transfers of an estate in land are common legal mechanism through which such control is enacted and extended. We will return to and build on our study of these different tool from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style. 
+The line of cases we will read this week develop the more robust contemporary common law framework and legal test for resolving these claims about constructive takings. However, this area of the law remains heavily contested and is continually evolving.
 
-## Our Problem this Week
-
-Our problem this week asks you explore the validity of legal constraints that owners attempt to place on their land based on a real-world example: ***[3000 Funston Street]({{< ref "problems/funston-street" >}})***.
+In addition to issues of constructive expropriation, we will also explore the related issue of "acquired rights" (sometimes called "legal non-conforming uses"). Such rights arise in the hands of landowners engaged in pre-existing land uses when a zoning or other land-use bylaw changes. Provincial statutes, combined with common law doctrine, generally permit owners to maintain pre-existing uses even when those uses are prohibited by the new bylaw. But because such uses can themselves change and evolve over time, this area of the law raises difficult questions about how far the protections afforded by acquired rights can and should extend.

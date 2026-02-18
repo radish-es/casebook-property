@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
 short: Mariner
 reporter: 1999 NSCA 98 (CanLII)
@@ -18,7 +18,7 @@ sources:
 doctrines:
   - police-power
 
-bookHidden: true
+bookHidden: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: Right to Shelter
 short: Week 11
 draft: false
-classdate: 11 Feb 2026
+classdate: 11 Feb / 13 Feb 2026
 
 type: lesson
 description: This week we explore the emerging and evolving Charter right to shelter in Canada and its relation to public property.

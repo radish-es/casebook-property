@@ -1,24 +1,13 @@
 ---
 title: Flood on the Red River
 short: Flooding
-draft: true
-
+draft: false
 class: problem
-description: A flood in Winnipeg.
+description: The Province of Manitoba exercises its statutory authority to flood regions upstream of Winnipeg in the course of operating the city's floodway, while a local municipality amends its bylaw to prevent adjacent land-uses. 
 summary: 
 image: /imgs/red-river-floodway.jpg
 imgcaption: Engineers and Geoscientists of Manitoba, https://heritage.enggeomb.ca
-links:
-  - url: content/statutes/expropriation-act.md
-    explanation: Assume that the Nova Scotia and Manitoba expropriation statutes are equivalent. Recall from our earlier study of this legislation that it leaves much to interpretation in cases of constructive expropriation.
-  - url: content/cases/mariner.md
-    explanation: How does Justice Cromwell's decision in the Mariner case provide a framework for addressing the constructive takings issues raised in this problem? How does that framework evolve in subsequent cases?
-  - url: content/statutes/planning-act.md
-    explanation: In Manitoba, the Planning Act establishes the statutory basis for owners who want to claim that they are exercising an 'acquired right" (or, 'legal non-conforming use') in the face of changes to a zoning bylaw. How might such a provision help the claimant in this hypo?
-  - url: content/cases/cappy.md
-    explanation: What is an 'acquired right' (or, 'legal non-conforming use')? What is the basis for these rights and how are they connected to issues of expropriation? 
-
-weight: 10
+weight: 12
 ---
 
 The following hypothetical builds on a recent case before the Manitoba Court of Appeal,[^1] which reports these facts:

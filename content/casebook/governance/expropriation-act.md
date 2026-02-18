@@ -2,7 +2,7 @@
 title: Expropriation Act
 short: Expropriation Act
 reporter: 'RSNS 1989, c 156'
-description: Governs the expropriation ('taking') of land.
+description: Provincial legislation addressing the expropriation ('taking') of land.
 doctrines:
   - police-power
 type: statute

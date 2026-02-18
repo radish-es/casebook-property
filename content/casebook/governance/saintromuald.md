@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
@@ -16,7 +16,7 @@ sources:
 doctrines:
   - acquired-rights
 
-bookHidden: true
+bookHidden: false
 ---
 
 

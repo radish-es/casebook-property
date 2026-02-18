@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: R v Cappy
 short: Cappy
 reporter: 1952 CarswellOnt 287, 1952 CanLII 280 (ON CA)
@@ -14,8 +14,7 @@ sources:
     license: https://www.canlii.org/en/info/terms.html#license
 doctrines:
   - acquired-rights
-bookHidden: true
-
+bookHidden: false
 ---
 
 
