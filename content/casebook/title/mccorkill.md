@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: McCorkill v McCorkill (Estate)
 short: McCorkill
 reporter: 2014 NBQB 148 (CanLII)
@@ -16,7 +16,7 @@ sources:
 doctrines:
   - qualified-transfers
 
-bookHidden: true
+bookHidden: false
 ---
 
 *Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*

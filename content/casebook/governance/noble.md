@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Noble et al v Alley
 short: Noble
 reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
@@ -15,7 +15,7 @@ sources:
 doctrines:
   - covenants
 
-bookHidden: true
+bookHidden: false
 ---
 *This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
 

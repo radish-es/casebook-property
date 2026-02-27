@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
@@ -14,8 +14,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - covenants  
-
-bookHidden: true
+bookHidden: false
 ---
 
 ### Mackay J. —

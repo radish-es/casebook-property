@@ -5,8 +5,8 @@ classdate: 2 Mar / 4 Mar 2026
 draft: false
 
 type: lesson
-description: Covenants and Qualifications
-weight: 12
+description: Returning to both the conditions for a valid covenant to run with the land and to basic qualifications on estates in land, this week we focus on the common law doctrine of public policy used to scrutinize discriminatory conditions. 
+weight: 13
 image: /imgs/subdivision.jpg
 imgcaption: Avi Waxman on Unsplash
 objectives:
@@ -15,9 +15,13 @@ objectives:
   - objective: Describe how the doctrine of public policy developed in early cases dealing with discriminatory restrictive covenants and link this development to the features of the modern style.
   - objective: Identify potential sources of public policy that might be applicable in contemporary cases concerning the validity of restrictive covenants.
 materials:
-  - 
+  - canada-trust
+  - noble
+  - mccorkill
+  - drummond
+  - stuartburn
 ---
 
-In the last few weeks, we have emphasized that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts. But this story about the move from private enforcement to public land-use control needs to be complicated a little further. Certain conventional, “private” forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the restrictive covenant.
+In the last few weeks, we have emphasized that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts. But this story about the move from private enforcement to public land-use control needs to be complicated a little further. Certain conventional, “private” forms of land-use regulation remain in use. One of the most pervasive—but often least noticed—is the restrictive covenant.
 
-Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Both testamentary bequests and *inter vivos* transfers of an estate in land are common legal mechanism through which such control is enacted and extended. We will return to and build on our study of these different tool from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style. 
+Covenants, however, are just one possible form of "private" control that can outlast the original landowner--as we began to explore last term. Both testamentary bequests and *inter vivos* transfers of an estate in land are common legal mechanisms through which such control is enacted and extended. We will return to and build on our study of these different tools from last term, with a particular focus on the invalidity of these tools in some cases on the grounds of "public policy" which emerged prominently in the post-war era under the guise of the modern style.

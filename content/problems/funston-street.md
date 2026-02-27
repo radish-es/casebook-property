@@ -1,24 +1,13 @@
 ---
 title: 3000 Funston Street
 short: Funston
-draft: true
-
+draft: false
 class: problem
-description: Restrictive covenants in Houston.
+description: This week's problem builds from a public radio documentary surrounding a restrictive covenant impeding a municipality's plans to build affordable housing in the city of Austin, Texas.
 summary: 
 image: /imgs/brykerwoods.jpg
 imgcaption: Scan of the Brykerwoods neighborhood's restrictive covenant - KUT News
-links:
-  - url: content/concepts/covenants-running.md
-    explanation: How do modern courts assess the validity (and therefore enforceability) of a covenant running with the land in equity?
-  - url: content/cases/drummond.md
-    explanation: Could the emerging doctrine described in Re Drummond Wren apply to the facts at 3000 Funston Street? How far does that doctrine extend?
-  - url: content/cases/stuartburn.md
-    explanation: This case provides some further conceptual tools and definitions to help describe and understand what kinds of property interests are sometimes created in a grant or bequest of property.
-  - url: content/cases/canada-trust.md
-    explanation: How might both the restrictive covenants and the testamentary bequest at 3000 Funston Street be dealt with under the doctrine expressed in Canada Trust?
-
-weight: 12
+weight: 13
 ---
 
 Please listen to this [NPR Radio documentary about 3000 Funston Street,](https://www.kut.org/austin/2021-09-10/west-austin-affordable-housing-lawsuit) a piece of vacant land in the Brykerwoods neighbourhood of Austin, Texas. The podcast tells the story of how a restrictive covenant is shaping urban development in the context of the city's long-term strategy to improve access to affordable housing and achieve a more equitable distribution of that housing across the municipality. If you prefer, the website also contains a print version of the radio documentary.  
@@ -53,6 +42,10 @@ Both Canada and the United States have a long, troubling history of upholding th
 
 But suppose that one of the residents of Funston Street makes a will, naming their two surviving adult children as the sole beneficiaries. The will establishes a private trust with the eldest child as trustee, the terms of which stipulate that the youngest only receive their share of the trust property if and when they divorce and cease to cohabitate with their spouse. If the youngest child fails to meet this condition within five years of the testator’s decease, the whole residue of the estate will pass to the other beneficiary.
 
-After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator--in the testator's words--"disapproved" of the youngest child having married their spouse, who was born in Southeast Asia and immigrated to Canada as a teenager. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s racist views.
+After the will takes effect, the youngest child brings an action challenging the validity of the will. They argue that it is well known within the family that the condition was included because the testator held strident anti-immigration views and--in the testator's own words--"disapproved" of the youngest child having married their spouse, a recent immigrant to Canada. While the will itself makes no mention of the reasons for the bequest or the specific condition, the youngest child claims to possess written and oral evidence outside the will that expresses the testator’s discriminatory intent.
 
 **How would you describe the property interests created in the bequest? Do you think the youngest child is likely to succeed in challenging the will?**
+
+### A Note on Readings
+
+The readings this week again cover two related but distinct topics: restrictive covenants and qualified interests. I suggest first reading the cases concerning restrictive covenants (*Re Drummond Wren*, *Noble et al v Alley*) and then reading those concerning qualified interests (*Stuartburn v Kiansky*, *Canada Trust Co v Ontario*, and *McCorkill v McCorkill Estate*). Note that both lines of cases address the common law doctrine of "public policy" and we will discuss this connection at length in class. 

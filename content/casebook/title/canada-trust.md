@@ -1,10 +1,10 @@
 ---
-class: case
+type: case
 title: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
 reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
 year: 1990
-facts: The trustee administered a racist scholarship with restrictions predicated on the supremacy of a white, Christian, British Empire. The Ontario Human Rights Commission filed an official complaint against the trust.
+facts: The trustee administered a scholarship with racist eligibility provisions. The Ontario Human Rights Commission sought to have these provisions struck down. 
 issue: Whether the terms of the scholarship trust are contrary to public policy.
 held: The terms of the trust are contrary to public policy on discrimination. The offending terms are struck down.
 public: true
@@ -20,7 +20,7 @@ sources:
 doctrines:
   - qualified-transfers
 
-bookHidden: true
+bookHidden: false
 ---
 
 ### Robins J.A.  —
