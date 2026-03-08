@@ -1,6 +1,6 @@
 ---
-title: End of Term Rapid Review
-short: Week 9
+title: Mid-Term Rapid Review
+short: Week 14
 draft: false
 classdate: 11 Mar 2026
 
