@@ -1,21 +1,43 @@
 ---
 title: Mid-Term Rapid Review
 short: Rapid Review
-draft: true
+draft: false
 
 class: problem
-description:  A series of rapid review questions to assess your knowledge and understanding at the end term.
-summary: We will use our time in class to do a help identify key gaps in your knowledge and understanding in the course this term, with an emphasis on the weeks since our last review. To that end, I have provided a list of "rapid review" questions for you to read and consider. I don’t suggest that you address them all in full detail. Instead, read each and consider your answer for no more than a minute or two. You can come back to these questions in more detail as part of your exam preparation--their purpose at this point is only to provide a check on what you've learned so far and to help you to discover where you can most effectively focus your studying.
+description:  A series of rapid review questions to assess your knowledge and understanding to this point in the term.
+summary: We will use our time in class to do a help identify key gaps in your knowledge and understanding in the course so far this term. To that end, I have provided a list of "rapid review" questions for you to read and consider. I don’t suggest that you address them all in full detail. Instead, read each and consider your answer for no more than a minute or two. You can come back to these questions in more detail as part of your exam preparation--their purpose at this point is only to provide a check on what you've learned so far and to help you to discover where you can most effectively focus your studying.
 image: 
 imgcaption: 
-
-links:
-  - url: content/secondary/holmes.md
-    explanation: What is Justice Holmes saying in this article? How might his approach be understood as laying the basis for the "modern" style of Anglo-Canadian legal thought?
-weight: 13
+weight: 14
 ---
 
-## Week 10: Constructive Takings and Acquired Rights
+## Week 10: Adverse Possession
+
+- What concerns are motivating court's decision in *Popov v Hayashi* and how are these illustrative of the modern style? Do these concerns rely on Locke's theory of property?
+
+- How does the test for possession applied in *Popov v Hayashi* compare to the test adopted in *Clift v Kane*? Is these different tests?
+
+- How would you characterize the respective legal interests of Popov and Hayashi, and how does this characterization help to resolve the case? Does the court's resolution respond effectively to its motivating concerns? 
+
+- How is the doctrine of adverse possession justified? In some jurisdictions, this doctrine has been abolished. Do you agree with this move? 
+
+- What is the test for adverse possession? 
+
+- What is the court's criterion of "inconsistent use" in *Keefer v Arillota* and how does this alter the likelihood of adverse possessors succeeding in their claims? 
+
+- Should municipalities be immune from adverse possession claims? Are they?
+
+## Week 11: Right to Shelter
+
+- There are 175 available shelter beds in a city; according to the local government's best estimate, there are no more than 150 homeless persons living in the city. Do those experiencing homelessness have a right to shelter in public parks? On city sports fields or on the city's busy waterfront boardwalk? 
+
+- What would it mean to have a right to *adequate* shelter? How, if at all, is "adequacy" related to the choices or preferences of those in need of shelter?
+
+- In what way is a time-limited right to shelter in public parks between 7PM and 9AM similar to or different from a municipal bylaw prohibiting "panhandling" in some downtown areas but permitting it in others? 
+
+- Is it appropriate to frame/understand the right the shelter under section 7 of the *Charter* as a conflict between the needs of unhoused persons and the interests of the general public in accessing safe and orderly public spaces? Between the needs of unhoused persons and the responsibility of local governments to maintain these spaces?
+
+## Week 12: Constructive Takings and Acquired Rights
 
 - What is the legal test for *de facto* expropriation in Canadian law? 
 
@@ -33,17 +55,7 @@ weight: 13
 
 - What is the legal test for determining the scope of an acquired right? 
 
-## Week 11: Right to Shelter
-
-- There are 175 available shelter beds in a city; according to the local government's best estimate, there are no more than 150 homeless persons living in the city. Do those experiencing homelessness have a right to shelter in public parks? On city sports fields or on the city's busy waterfront boardwalk? 
-
-- What would it mean to have a right to *adequate* shelter? How, if at all, is "adequacy" related to the choices or preferences of those in need of shelter?
-
-- In what way is a time-limited right to shelter in public parks between 7PM and 9AM similar to or different from a municipal bylaw prohibiting "panhandling" in some downtown areas but permitting it in others? 
-
-- Is it appropriate to frame/understand the right the shelter under section 7 of the *Charter* as a conflict between the needs of unhoused persons and the interests of the general public in accessing safe and orderly public spaces? Between the needs of unhoused persons and the responsibility of local governments to maintain these spaces?
-
-## Week 12: Restrictive Covenants and Qualified Interests
+## Week 13: Restrictive Covenants and Qualified Interests
 
 - Are restrictive covenants contracts or incidents of property? 
 
@@ -69,12 +81,6 @@ weight: 13
 
 ## Course themes
 
-- Give one or more examples of each of the following judicial moves from the materials studied so far this term:
+- In what ways do you think the patterns of legal reasoning in the cases we have read this term are different than those employed in the cases from last term during an earlier era of "nation-building" in Canadian history?  
 
-    1. The individual freedoms of property owners and free competition between those interests recedes to the background; public power and demands for social control are drawn into the foreground.
-
-    2. The relevance of legal distinctions between private and public interests is explicitly or implicitly contested (or rejected entirely).
-    
-    3. Social consequences of the decision become a primary consideration; formalist reliance on settled principles is diminished.
-
-- Please read the excerpt from *Oliver Wendell Holmes, "The Path of Law"*. What is Justice Holmes saying in this article? How might his approach be understood as laying the basis for the "modern" style of Anglo-Canadian legal thought?
+- Property law and property rights are conventionally understood as part of the "private" law, as distinguished from "public" law, public values, and public goods. To what extent does this division between private and public drive the reasoning in the materials we have studied this term? Are there examples where 
