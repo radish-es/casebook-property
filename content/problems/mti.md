@@ -1,23 +1,17 @@
 ---
-title: Mi'gmawe'l Tplu'taqnn Inc. Statement of Claim
+title: FNLMA and AT Framework
 short: MTI
-draft: true
-
-class: problem
-description: Statement of claim re recent Aboriginal title litigation in New Brunswick
+draft: false
+description: 
 summary: 
 image: 
 imgcaption: 
-links:
-  - url: content/statutes/constitution-act-s35.md
-    explanation: Section 35 of the Constitution Act serves as the constitutional basis for recognition of Aboriginal title. 
-  - url: content/cases/delgamuukw.md
-    explanation: This case was the Supreme Court of Canada's first modern attempt to develop a comprehensive legal framework for common law Aboriginal title. 
-
-weight: 16
+weight: 15
 ---
 
-Please review this [Statement of Claim](https://dal.brightspace.com/d2l/le/content/343528/viewContent/4811532/View) by Mi'gmawe'l Tplu'taqnn Inc. (MTI), representing eight Mi'gmaq First Nations in New Brunswick seeking a declaration of Mi'gmaq Title in their territorial lands. 
+Please review this [Statement of Claim]() by Mi'gmawe'l Tplu'taqnn Inc. (MTI), representing eight Mi'gmaq First Nations in New Brunswick seeking a declaration of Mi'gmaq Title in their territorial lands. 
+
+## Weekly Problem
 
 **What is the legal framework under which the New Brunswick Court of Queen's Bench will assess MTI's claim? Based on the facts presented in the Statement of Claim, what key challenges or uncertainties might the claimants encounter under this framework?**
 

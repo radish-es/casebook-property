@@ -16,7 +16,7 @@ sources:
 doctrines:
   - aboriginal-title
 
-bookHidden: true
+bookHidden: false
 ---
 
 [*This case concerns the lease of reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to surrender 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to Band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the Band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*]
