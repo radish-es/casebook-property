@@ -1,24 +1,17 @@
 ---
-title: Membertou's Transition to the First Nations Land Management Framework
+title: Membertou First Nation and the FNLMF
 short: Membertou 
-description: Membertou First Nation's adoption of the First Nations Land Management Framework
-draft: true
-
-class: problem
+description: Our problem this week examines the context of land rights and governance under the federal Indian Act and the Membertou First Nation's adoption of the First Nations Land Management Framework.
+draft: false
 tags:
   - reserve-lands
 image: /imgs/membertou.jpg
 imgcaption: Membertou Convention Centre, Verne Equinox, CC BY-SA 3.0
-links:
-  - url: content/statutes/indian-act.md
-    explanation: The federal Indian Act establishes several features of property and governance on reserve lands. How would you describe this structure and what has chanced under the Membertou Land Code?
-  - url: content/cases/guerin.md
-    explanation: The Supreme Court in Guerin describes how the common law doctrine of Aboriginal title has changed since St Catherine's Milling and explains its relevance to emerging principles and relationships around reserve lands.
-  - url: content/secondary/fnlma-yellowhead.md
-    explanation: What concerns have been raised about the FNLMA regime? Might these explain some of the diverse decisions being made by First Nations with respect to reserve lands governance?
 weight: 15
 
 ---
+
+## Problem Context
 
 Please read [this CBC News article,](https://www.cbc.ca/news/politics/indian-act-horrible-existence-senator-christmas-1.4149551) in which former Senator Dan Christmas, the first Mi'kmaw member of the Canadian Senate, describes challenges the Membertou First Nation has faced with respect to lands governance under the federal *Indian Act* and how his community has responded to these challenges.
 
@@ -92,9 +85,32 @@ NOW THEREFORE, this Land Code is hereby enacted as the fundamental land law of M
 
 (c) transfers in accordance with the Membertou Family Homes Law, 2016. reserve law.
 
-## Questions
+## Weekly Problem
 
-1. **How are the problems described by Senator Christmas shaped by Anglo-Canadian legal structures of property and lands governance defined under the *Indian Act* and by court decisions interpreting this legislation?**
+Before addressing the questions below, please read the ***Guerin*** case, along with the excerpts provided from the federal *Indian Act* and the *Framework Agreement on First Nation Land Management*. 
+
+1. **How are the problems described by Senator Christmas shaped by the legal structures of property and lands governance defined under the *Indian Act* and by court decisions interpreting this legislation?**
 
 2. **How does the Membertou *Land Code* change the structure of property and lands governance on Membertou's reserve lands? What does it not change? Why do you think some Nations have opted into the *First Nations Land Management* regime while others have declined to do so?**
 
+## Doctrinal Map to Aboriginal Title
+
+After you have addressed the two questions above and familiarized yourself with the context of reserve lands, please read section 35 of the *Constitution Act* and the two seminal cases interpreting Aboriginal Title under that section: *Delgamuukw* and *Tsilhqot'in Nation*. 
+
+The contemporary legal framework for "Aboriginal title" is complex and contains several elements that we have not yet encountered in our historical study of this area of law. Below is a map of the case materials to help you develop your understanding of this area of law with an eye to our continued study of these topics next week.
+
+#### Step 1: Background
+
+First, start by establishing in your own mind the context of the two leading cases on Aboriginal title. Read the introductory sections of *Delgamuukw* (A. The Claim at Trial and B. The Gitksan and Wet'suwet'en People) and *Tsilhqot'in* (Parts I to IV) for background on the parties and a brief review of the relevant caselaw.
+
+#### Step 2: Test for Proof of Title
+
+At this step, you are addressing the question of what a plaintiff First Nation needs to demonstrate in order to successfully make out a claim for *recognition* of Aboriginal title to a particular territory. Read the linked sections in *[Delgamuukw]({{< ref "casebook/title/delgamuukw/#delg-proof" >}})* and *[Tsilhqot'in]({{< ref "casebook/title/tsilhqotin/#tsil-proof" >}})* that deal with the 3-part test for proof of title, and then watch the video at the end of this topic in *Tsilhqot'in*.  
+
+#### Step 3: Content and Source of Title
+
+At this step, you are addressing the question of what rights are recognized on the part of a plaintiff First Nation if they are successful in making out their claim at Step 2. The step answers the question (which we have encountered several times before in the course): "What *is* Aboriginal title, from the common law's perspective?" Read the linked excepts from *[Delgamuukw]({{< ref "casebook/title/delgamuukw/#delg-content" >}})* and *[Tsilhqot'in]({{< ref "casebook/title/tsilhqotin/#tsil-content" >}})* addressing these questions of content and source. Then watch the video at the end of the material on source and content in *Tsilhqot'in*.
+
+#### Step 4: Infringement of Title
+
+Finally, once Aboriginal title has been proven and its content and source defined, the courts have left open the possibility that the Crown can justifiably infringe upon the rights associated with that title. What is the test and rationale for infringement? Read the *[Tsilhqot'in]({{< ref "casebook/title/tsilhqotin/#tsil-infringe" >}})* court's judgement on infringement and watch the summary video at the end. 

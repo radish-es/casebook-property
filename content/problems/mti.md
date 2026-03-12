@@ -1,12 +1,12 @@
 ---
 title: FNLMA and AT Framework
 short: MTI
-draft: false
 description: 
 summary: 
 image: 
 imgcaption: 
-weight: 15
+weight: 16
+draft: true
 ---
 
 Please review this [Statement of Claim]() by Mi'gmawe'l Tplu'taqnn Inc. (MTI), representing eight Mi'gmaq First Nations in New Brunswick seeking a declaration of Mi'gmaq Title in their territorial lands. 

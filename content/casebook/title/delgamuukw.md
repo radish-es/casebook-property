@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Delgamuukw v British Columbia
 short: Delgamuukw
 reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
@@ -165,7 +165,7 @@ Because aboriginal rights can vary with respect to their degree of connection wi
 
 > does not alter the fact that nomadic peoples survived through reliance on the land prior to contact with Europeans and, further, that many of the practices, customs and traditions of nomadic peoples that took place on the land were integral to their distinctive cultures.
 
-> <span id = "delg-proof"> </span>
+<span id = "delg-proof"> </span>
 
 ##### (e) Proof of Aboriginal title
 

@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
 reporter: 2014 SCC 44 (CanLII)

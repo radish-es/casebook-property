@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Guerin v R
 short: Guerin
 reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
