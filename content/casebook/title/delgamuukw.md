@@ -16,7 +16,7 @@ sources:
 doctrines:
   - aboriginal-title
 
-bookHidden: true
+bookHidden: false
 ---
 
 ## Lamer C.J.C --
