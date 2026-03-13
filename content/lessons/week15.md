@@ -12,7 +12,7 @@ imgcaption:
 objectives:
   - objective: Explain the structure of property rights on reserve lands.
   - objective: Analyze how property rights on reserve land are affected by development of a Land Code under the FAFNLMA.
-  - objective: Compare changes in the common law doctrine of Aboriginal title to contemporary doctrine.
+  - objective: Describe the analytical framework for the contemporary doctrine of Aboriginal Title and key critiques.
 materials:
   - indian-act
   - fafnlma
