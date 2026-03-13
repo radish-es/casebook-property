@@ -15,7 +15,7 @@ weight: 14
 
 - What concerns are motivating court's decision in *Popov v Hayashi* and how are these illustrative of the modern style? Do these concerns rely on Locke's theory of property?
 
-- How does the test for possession applied in *Popov v Hayashi* compare to the test adopted in *Clift v Kane*? Is these different tests?
+- How does the test for possession applied in *Popov v Hayashi* compare to the test adopted in *Pierson v Post*? Are these different tests?
 
 - How would you characterize the respective legal interests of Popov and Hayashi, and how does this characterization help to resolve the case? Does the court's resolution respond effectively to its motivating concerns? 
 

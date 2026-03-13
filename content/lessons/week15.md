@@ -18,7 +18,7 @@ materials:
   - fafnlma
   - guerin
   - constitution-act-s35
-  - delgamuukw
+  - Delgamuukw
   - tsilhqotin
 ---
 
