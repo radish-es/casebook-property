@@ -1,6 +1,6 @@
 ---
 title: FNLMA and AT Framework
-short: MTI
+short: claim
 description: 
 summary: 
 image: 

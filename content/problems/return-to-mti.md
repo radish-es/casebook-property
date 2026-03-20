@@ -6,7 +6,7 @@ draft: false
 image: 
 imgcaption: 
 weight: 16
-type: problem
+
 ---
 
 For our problem this week, we will return to the Aboriginal Title claims being advanced by the Wolastoqey Nation and Mi’gmawe’l Tplu’taqnn Inc. (MTI) in Atlantic Canada.
