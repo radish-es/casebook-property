@@ -11,7 +11,7 @@ imgcaption:
 objectives:
   - objective: Identify a describe the core principle of idefeasibility in modern land title systems.
   - objective: Analyze the relationship between Aboriginal Title and land title registration.
-  - objective: Engage with the history of land title clarification--its purposes and effects--in Afican Nova Scotian Communities under the Land Titles Clarification Act
+  - objective: Engage with the history of land title clarification--its purposes and effects--in African Nova Scotian Communities under the Land Titles Clarification Act
 materials:
   - cowichan-lra
   - downey
