@@ -6,7 +6,7 @@ classdate: 30 Mar / 1 Apr
 type: lesson
 description: In our final week of the course, we examine the significant role that modern land title registration systems play in property systems and examine issues related to the idefeasibility of registered interests in Aboriginal Title lands in to land titles clarification in African Nova Scotian communities. 
 weight: 17
-image: 
+image:
 imgcaption: 
 objectives:
   - objective: Identify a describe the core principle of idefeasibility in modern land title systems.

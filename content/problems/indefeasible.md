@@ -3,7 +3,7 @@ title: Indefeasible Title
 short: Indefeasible Title
 description: In our final week of the course we connect some different threads around legal issues of land title registration, indefeasibility and clarification. 
 draft: false
-image: 
+image: /imgs/paper.jpg
 imgcaption: 
 weight: 17
 
