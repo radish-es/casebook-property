@@ -10,6 +10,14 @@ description: Nova Scotia's legislation establishing a land title registration sy
 bookHidden: false
 ---
 
+**Registered interests**
+
+> 20 A parcel register is a complete statement of all interests affecting the parcel, as are required to be shown in the qualified lawyer's opinion of title pursuant to Section 37, subject to any subsequent qualifications, revisions of registrations, recordings or cancellation of recordings in accordance with this Act.
+
+[...]
+
+**Proceeding to correct registration**
+
 > 35 (1) A person who objects to and is aggrieved by a registration in a parcel register may commence a proceeding before the court requesting a declaration as to the rights of the parties, an order for correction of the registration and a determination of entitlement to compensation, if any.
 > 
 > (2) Subject to Section 92A, and unless otherwise ordered by the court, the following are parties to any proceeding pursuant to this Section:
@@ -59,3 +67,23 @@ bookHidden: false
 >> (b) had no knowledge of the facts that made the registration unauthorized; and
 >>
 >> (c) gave consideration for the registered interest or detrimentally relied upon the registration
+
+[...]
+
+**Unregistered instruments ineffective**
+
+> 45 (1) Except as against the person making the instrument, no instrument, until registered or recorded pursuant to this Act, passes any estate or interest in a registered parcel or renders it liable as security for the payment of money.
+>
+> (2) Subsection (1) does not apply to an instrument creating a leasehold interest not exceeding three years where there is actual occupation of all or part of the parcel under the instrument. 
+
+**Adverse possession and prescription**
+
+> 74 (1) Except as provided by Section 75, no person may obtain an interest in any parcel registered pursuant to this Act by adverse possession or prescription unless the required period of adverse possession or prescription was completed before the parcel was first registered.
+> 
+> (2) Any interest in a parcel acquired by adverse possession or prescription before the date the parcel is first registered pursuant to this Act is absolutely void against the registered owner of the parcel in which the interest is claimed ten years after the parcel is first registered pursuant to this Act, [...]
+
+**Limit on land acquired**
+
+Limit on land acquired
+
+> 75 (1) The owner of an adjacent parcel may acquire an interest in part of a parcel by adverse possession or prescription after the parcel is first registered pursuant to this Act, if that part does not exceed twenty per cent of the area of the parcel in which the interest is acquired. [...]

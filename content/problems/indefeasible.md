@@ -9,7 +9,7 @@ weight: 17
 
 ---
 
-Please read the materials this week in the following order: *Cowichan Tribes v Canada* (excerpt on "Indefeasible Title under the Land Title Act"); *Lawrence v Maple Trust Company*; Marsman (2024); and *Downey v Nova Scotia*. 
+Please read the materials this week in the following order: *Land Registration Act*, SNS 2011, c 6-2; *Cowichan Tribes v Canada* (excerpt on "Indefeasible Title under the Land Title Act"); *Lawrence v Maple Trust Company*; Marsman, "Good Deeds" (2024); and *Downey v Nova Scotia*. 
 
 ## Weekly Problem
 
