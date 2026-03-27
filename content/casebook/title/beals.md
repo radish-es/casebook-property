@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Beals v Nova Scotia (AG)
 short: Beals
 reporter: ' 2020 NSSC 60 (CanLII)'

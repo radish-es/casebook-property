@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Lawrence v Maple Trust Company
 short: Lawrence
 reporter: 2007 ONCA 74 (CanLII)
