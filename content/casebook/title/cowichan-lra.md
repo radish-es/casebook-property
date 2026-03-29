@@ -165,7 +165,7 @@ Part 7.
 
 ### D. ANALYSIS
 
-I now consider whether and of the *LTA* apply to preclude a
+I now consider whether s. 23 and 25 of the *LTA* apply to preclude a
 challenge to the validity of the fee simple interests in the Cowichan
 Title Lands. As above, Richmond advances this as a defence to a
 declaration that its fee simple titles are defective and invalid, in
@@ -213,11 +213,10 @@ principle" maintained through amendments under the *LTA*, which also
 simplified and modernized the system: Victor Di Castri, *Registration of
 Title to Land*, (Toronto: Thomson Reuters, 2023) at 1.14.
 
-#### 2. Do ss 23 and 25 of the LTA bar a declaration that Richmond's fee
-simple interests in Cowichan Title Lands are defective and invalid?
+#### 2. Do ss 23 and 25 of the LTA bar a declaration that Richmond's fee simple interests in Cowichan Title Lands are defective and invalid?
 
 I turn first to determine whether, as a matter of statutory
-interpretation, and of the *LTA* apply to preclude a declaration that
+interpretation, s 23 and 25 of the *LTA* apply to preclude a declaration that
 Richmond's fee simple interests are invalid. The *LTA* is a provincial
 statute of general application and whether it applies to Aboriginal
 title is first a matter of statutory interpretation.
@@ -225,7 +224,7 @@ title is first a matter of statutory interpretation.
 The modern rule of statutory interpretation requires that "the
 words of an Act are to be read in their entire context and in their
 grammatical and ordinary sense harmoniously with the scheme of the Act,
-the object of the Act, and the intention of Parliament.": see quoting
+the object of the Act, and the intention of Parliament.": see *Rizzo Shoes* quoting
 Elmer Driedger, *Construction of Statutes* (2nd ed. 1983) at 87.
 
 Subsection 23(2), reproduced in part below, provides that indefeasible title
