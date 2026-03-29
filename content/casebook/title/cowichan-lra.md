@@ -88,14 +88,14 @@ Part 7 and I address the applicability of this defence in that section.
 
 BC submits that the *LTA* applies to the Claim Area and the
 relief sought as a matter of statutory interpretation. BC says the *LTA*
-is consistent with the *BC Terms of Union*, the *, 1867*, and does not
+is consistent with the *BC Terms of Union*, the *Constitution Act, , 1867*, and does not
 infringe Aboriginal title, or if it does, any infringement is justified.
 
 BC says that the independent validity of the current fee
 simple titles is guaranteed by the *LTA* and those titles are therefore
 a limit on the content of any Aboriginal title. Additionally, the honour
 of the Crown should weigh in assuring the property rights of fee simple
-title owners flowing from a Crown grant: at para. 5.
+title owners flowing from a Crown grant: *Skeetchestn* at para. 5.
 
 As a matter of statutory interpretation, the *LTA* applies.
 The point of the Torrens system is to ensure the security of titles
@@ -111,7 +111,7 @@ in the Crown grants. BC says a declaration that the plaintiffs are
 entitled to the Lands of Tl'uqtinus as against BC would be contrary to
 the *LTA* because a declaration that the plaintiffs are entitled to
 lands registered in fee simple to a third party would undermine the
-guarantee of indefeasibility in and contravene .
+guarantee of indefeasibility in s. 23 and contravene s. 25.
 
 BC submits that "persons" under are any parties that might
 bring a challenge against a registered title in court. BC further
@@ -135,21 +135,14 @@ case. There is nothing in the text, context, scheme or object of the
 was intended to or does apply to Aboriginal title. There is no reference
 in the *LTA* to "Aboriginal title" at all.
 
-The Court in found that Aboriginal title, held collectively
-*sui generis*, "lies beyond the British Columbia land title system and
-fee simple ownership": at para. 88(a). Further, Aboriginal title is not
-a registrable interest under the *LTA*: see , leave to appeal to SCC
-ref'd, 20380 (1 June 1987); at paras. 63-64.
+The Court in *Hwlitsum First Nation v. Canada (Attorney General)* 2015 BCSC 1341 [Hwlitsum ] found that Aboriginal title, held collectively sui generis, “lies beyond the British Columbia land title system and fee simple ownership”: at para. 88(a). Further, Aboriginal title is not a registrable interest under the LTA: see *Delgamuukw (Uukw) v. British Columbia* (1987), 37 D.L.R. (4th) 408, 1987 CanLII 2630 [Uukw], leave to appeal to SCC ref’d, 20380 (1 June 1987); *Skeetchestn* at paras. 63-64.
 
 The plaintiffs say if the *LTA* were to apply to Aboriginal
 title, it would be tantamount to extinguishment, which is beyond the
 jurisdiction of the Legislature. Additionally, there is no clear and
 plain intent in the *LTA* to extinguish Aboriginal title.
 
-The plaintiffs rely , the *United Nations Declaration on the
-Rights of Indigenous Peoples*, UNGA, 61st Sess, UN Doc A/RES/61/295
-(2007) GA Res 61/295 \[*UNDRIP*\] \[*BC *\] in support of their position
-that the *LTA* does not apply to Aboriginal title.
+he plaintiffs rely s. 8.1 of the *Interpretation Act*, R.S.B.C. 1996, c. 238, the United Nations Declaration on the Rights of Indigenous Peoples, UNGA, 61st Sess, UN Doc A/RES/61/295 (2007) GA Res 61/295 [UNDRIP] and the Declaration on the Rights of Indigenous Peoples Act, S.B.C. 2019, c. 44 [BC DRIPA] in support of their position that the LTA does not apply to Aboriginal title.
 
 The plaintiffs agree that the provincial land title system is
 intended to provide certainty and security as to title to land. They do
