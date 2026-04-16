@@ -4,7 +4,7 @@ type: docs
 weight: 50
 bookFlatSection: true
 bookCollapseSection: false
-bookHidden: true
+bookHidden: false
 
 ---
 

@@ -15,7 +15,7 @@ sources:
 doctrines:
   - right-to-shelter
 
-bookHidden: false
+bookHidden: true
 ---
 
 ## Ramsay J. --

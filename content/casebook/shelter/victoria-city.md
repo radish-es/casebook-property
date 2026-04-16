@@ -22,7 +22,7 @@ sources:
 doctrines:
   - right-to-shelter
 
-bookHidden: false
+bookHidden: true
 ---
 
 ## Ross J. —
