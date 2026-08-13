@@ -1,7 +1,7 @@
 ---
 title: Introduction to the Course
 description: This first lesson will introduce you to the course structure and syllabus and help you to get familiar with our problem-based learning model.
-type: lesson
+type: 
 weight: 1
 classdate: 29 Sept / 1 Oct 2025
 image: /imgs/kaleidoscope.jpg
@@ -15,7 +15,7 @@ materials:
   - harrison
   - protection-property
   - committee
-
+draft: true
 ---
 
 ## Welcome to Property

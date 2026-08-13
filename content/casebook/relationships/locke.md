@@ -8,7 +8,7 @@ description: In this excerpt, Locke sets out to establish a theory to explain ho
 doctrines:
   - possession
 
-bookHidden: true
+bookHidden: false
 weight: 10
 ---
 

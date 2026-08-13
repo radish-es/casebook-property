@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"49cb92197c09c35e","type":"file","file":"casebook/relationships/henderson.md","x":-351,"y":-336,"width":371,"height":216},
+		{"id":"619f395a0f17f891","type":"file","file":"casebook/relationships/locke.md","x":-356,"y":-54,"width":400,"height":194},
+		{"id":"0b7621015544d4a6","type":"file","file":"casebook/relationships/hale.md","x":-349,"y":187,"width":400,"height":233},
+		{"id":"ac6dbe8dfdc2f4d0","type":"file","file":"casebook/relationships/wildlife.md","x":136,"y":202,"width":400,"height":218},
+		{"id":"0d29e51efc9b020b","type":"file","file":"casebook/relationships/treaty1725.md","x":144,"y":-334,"width":400,"height":214},
+		{"id":"921fb65830ac2ddc","type":"file","file":"casebook/relationships/treaty1752.md","x":652,"y":-336,"width":400,"height":216},
+		{"id":"cf5eafc26128a206","type":"text","text":"Keeble v Hickeringill ? Idea that damages can lie even though ducks aren't \"owned = tort remedy","x":652,"y":-19,"width":250,"height":125},
+		{"id":"fe1b74d955f33feb","type":"text","text":"Could the hypo be that the non-hunter scared away the fox at the last minute, so that the question is about damage/remedy for the loss of the animal?\n\n- Interpretation of the Wildlife Act: says owner when killed, but what about a possessory interest from hot pursuit?\n- What would the legal pluralist outcome be?\n- Could the hypo tie into the theme of colonialism, e.g. pollution as colonialism?","x":-3,"y":550,"width":347,"height":490},
+		{"id":"03af4efa3fd15a8e","type":"text","text":"Example/precedent for legal pluralist approach?\n\nSome act of Mi'kmaw governance? This would raise the question at the level of intersecting governance/legal systems\n","x":1120,"y":-353,"width":240,"height":252},
+		{"id":"bbc7fc8b41a732c0","type":"text","text":"Founding of Halifax\n- Context of very little British/European presence in NS \n- What was the significance of establishing a settlement/outpost at Halifax? Claim to property? Claim to sovereignty? \n- An illustration of the era before main period of settler colonialism focused on possession and dispossess?","x":-700,"y":-228,"width":250,"height":532},
+		{"id":"08f1737f6f3586e1","type":"text","text":"Focus here is on the dynamics of EMPIRE, preceding the era of settler colonialism through land possession.\n\nSmall zones of colonial settlement as the basis for commercial penetration. \n\nProperty as \"imaginary\" (see the map-making) rather than possession-on-the-ground","x":-1154,"y":-174,"width":250,"height":414},
+		{"id":"12d495cd40c39d65","type":"file","file":"casebook/relationships/hudson-bay-charter.md","x":652,"y":202,"width":400,"height":218},
+		{"id":"8f00703aa5e7c13f","type":"text","text":"* James Tully, 'Placing the \"Two Treatises'\" in Nicholas Phillipson and Quentin Skinner (eds),\nPolitical Discourse in Early Modern Britain, (Cambridge, Cambridge University Press, 1993); James\nfully, An Approch to Political Philosophy: Locke in Contexts (Cambridge, Cambridge University\n\nSee: Arneil, Barbara. \"The wild Indian's venison: Locke's theory of property and English colonialism in America.\" _Political Studies_ 44, no. 1 (1996): 60-74.","x":1460,"y":-66,"width":416,"height":412},
+		{"id":"e5655f854a240163","type":"text","text":"Barbara Arneil points out that Locke's labour theory of property is NOT inconsistent with Indigenous claims to \"the spontaneous products of nature\" (e.g. the Deer in Locke's telling) (62) ... as opposed to claims to property in land. \n\nMight use this as an example of finding some mutual ground in concepts of property -- even if this is merely instrumental to driving commercial penetration and wildlife exploitation in NA","x":940,"y":-44,"width":468,"height":186},
+		{"id":"b258bbb2d4466c54","type":"file","file":"casebook/relationships/pierson.md","x":80,"y":-49,"width":368,"height":184},
+		{"id":"ad329d81d2859722","type":"file","file":"casebook/relationships/armorie.md","x":466,"y":-44,"width":157,"height":196},
+		{"id":"0ca577676b21d79e","x":1082,"y":202,"width":316,"height":112,"type":"text","text":"Royal Proclamation?"}
+	],
+	"edges":[]
+}

@@ -3,8 +3,7 @@ title: Chapter 3
 subtitle: Title, Trusts and Transfers
 type: docs
 weight: 40
-bookCollapseSection: false
-
+bookCollapseSection: true
 bookTOC: false
 
 ---

@@ -13,12 +13,11 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 doctrines:
+  - possession
   - trespass
 
 bookHidden: true
 ---
-
-
 
 ### Dickson J. — 
 

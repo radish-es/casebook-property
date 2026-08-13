@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"877fe5d37634ab08","type":"text","text":"**First Possession**\n","x":2325,"y":234,"width":195,"height":66},
+		{"id":"108c0f22e9b1a32a","type":"text","text":"**Finders**\n","x":2380,"y":380,"width":195,"height":66},
+		{"id":"f33ff58536a76287","type":"text","text":"**Adverse Possession**","x":2520,"y":174,"width":250,"height":60},
+		{"id":"491f9c4f179de3f7","type":"text","text":"**Treaty**","x":2569,"y":284,"width":250,"height":60},
+		{"id":"836cd5b9a917aa65","type":"text","text":"**Nuisance**","x":2606,"y":422,"width":250,"height":60},
+		{"id":"2aadadb252cc1c82","type":"text","text":"**Covenants**","x":2283,"y":527,"width":250,"height":60},
+		{"id":"ad7b19a1d063fcd3","type":"text","text":"**Zoning**","x":2583,"y":516,"width":250,"height":60},
+		{"id":"018bbef1829451b7","type":"text","text":"**Constructive Expropriation**","x":2310,"y":614,"width":250,"height":60},
+		{"id":"92d8787a35da3965","type":"text","text":"**Acquired Rights**","x":2606,"y":644,"width":250,"height":60},
+		{"id":"f829be7d6b455942","type":"text","text":"**Trespass/Exclusion**","x":2165,"y":732,"width":250,"height":60},
+		{"id":"7c77d906c2d2de94","type":"text","text":"Estates","x":2444,"y":762,"width":250,"height":60},
+		{"id":"96e7301218116a4b","type":"text","text":"**Aboriginal Title**","x":2145,"y":848,"width":250,"height":60},
+		{"id":"ff7b7e539c5704df","type":"text","text":"**Restraints on Alienation**","x":2468,"y":854,"width":250,"height":60},
+		{"id":"ab8b13d3dcc755b3","type":"text","text":"**Reserve Lands**","x":2708,"y":735,"width":250,"height":60},
+		{"id":"3e9f27c97b0491e3","type":"text","text":"**Qualified Transfers**","x":2731,"y":822,"width":250,"height":60},
+		{"id":"f122a544a6534959","type":"text","text":"Express Trusts","x":2146,"y":934,"width":250,"height":60},
+		{"id":"06c38607cc90956a","type":"text","text":"Title Registration","x":2394,"y":942,"width":250,"height":60},
+		{"id":"9a74cbd61e064e94","type":"text","text":"**Community Land Trusts**","x":3060,"y":145,"width":250,"height":60},
+		{"id":"899a3f9a0d880b47","type":"text","text":"Right to Shelter","x":2694,"y":942,"width":250,"height":60},
+		{"id":"6e25ce9d9244d093","type":"text","text":"**Municipal Power**","x":3060,"y":224,"width":250,"height":60},
+		{"id":"11adc436ec025a48","type":"text","text":"**Concurrent Owners**","x":3060,"y":314,"width":250,"height":60},
+		{"id":"5b3ccdef132777c2","type":"text","text":"**Gifts**","x":3060,"y":392,"width":250,"height":60},
+		{"id":"4deb216f460d9518","type":"text","text":"**Mortgages**","x":3060,"y":482,"width":250,"height":60},
+		{"id":"4f3fbff832267ced","x":3060,"y":576,"width":250,"height":60,"type":"text","text":"Patent"}
+	],
+	"edges":[]
+}
