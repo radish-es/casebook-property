@@ -47,9 +47,22 @@ Readings:
 - Blackburn v McCallum
 - Yellowhead Institute Land Back Paper
 - McLaren v Caldwell (exporpriation)
+- Rivers and Streams Act
 - House of Commons Debates (McLaren)
 
-October 26/28, November 2/4  - Unit 3 (Industrialization) = nuisance, servitudes/covenants, possession (clift v kane?)
+October 26/28, November 2/4  - Unit 3 (Industrialization, Business and competitive markets) = nuisance, servitudes/covenants, possession (clift v kane?)
+
+Oct 26/28:
+- victoria park
+- shelfer
+- black
+- canada-paper
+
+Nov 2/4:
+
+- Keppell v Bailey
+- Tulk v Moxhay
+- Austerberry
 
 Nov 16/8, Nov 23/25 - Unit 4 (Citizenship, family endowments) = trusts, future interests ()
 

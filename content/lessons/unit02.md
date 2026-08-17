@@ -22,6 +22,7 @@ materials:
   - blackburn
   - yellowhead-land
   - caldwell
+  - rivers-and-streams-act
   - house-debates
   - clift
   - johnson
