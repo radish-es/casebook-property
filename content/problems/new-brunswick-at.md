@@ -4,7 +4,7 @@ short: Title Claims
 description: Two claims for recognition of "Aboriginal Title" in New Brunswick under section 35 of the Constitution Act have been launched in recent years. This problem explores how these territories came to be understood in Canadian law as subject to both the Crown's radical title and to the common law estates of private parties. 
 image: /imgs/wolastoqey-territory.jpg
 imgcaption:  Statement of Claim, 30 November 2021, Wolastoqey Nation v New Brunswick
-weight: 4
+weight: 2
 ---
 
 ### Facts

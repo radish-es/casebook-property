@@ -7,7 +7,21 @@
         {{ range (site.GetPage "problems").Pages }}
         {{ if eq $v .Params.weight}}
             <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
-            <a href="{{ .RelPermalink }}">Problem: {{ .Title }}</a>
+            <div class="indicator-wrap">
+                <div class="indicator">
+                    <a href="{{ .RelPermalink }}">Problem: {{ .Title }}</a>
+                </div>
+            </div>
+        {{ end }}
+        {{ end }}
+        {{ range (site.GetPage "lessons").Pages }}
+        {{ if eq $v .Params.weight}}
+            <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
+            <div class="indicator-wrap">
+                <div class="indicator">
+                    <a href="{{ .RelPermalink }}">Lesson: {{ .Title }}</a>
+                </div>
+            </div>
         {{ end }}
         {{ end }}
     {{end}}

@@ -1,8 +1,8 @@
 ---
-title: Recognizing Land Relations
+title: "Settler Colonialism, Federalism and Expropriation"
 short: Week 2
 type: lesson
-classdate:  6 Oct / 8 Oct 2025
+classdate:  7 Oct / 14 Oct / 19 Oct / 12 Oct 2026
 weight: 2
 image: /imgs/acorn.jpg
 imgcaption:  Elyse Loewen, CC BY NC SA 4.0
@@ -14,14 +14,17 @@ objectives:
   - objective: Thoughtfully reflect on how our multi-juridical context of land relations can be brought to bear on real world problems.
 description: Our second lesson of the term address the question of how relationships to land and place get recognized in law. 
 materials:
-  - locke
-  - simon
-  - henderson
-  - pierson
-  - armorie
-  - keron
-  - battiste
-  - wildlife
+  - tenure
+  - basic-estates
+  - royal-proclamation
+  - stcatherines
+  - syliboy
+  - blackburn
+  - yellowhead-land
+  - caldwell
+  - house-debates
+  - clift
+  - johnson
 ---
 
 <!--

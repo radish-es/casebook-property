@@ -302,11 +302,11 @@ div.description {
   font-size: 0.7em;
 }
 
-.classdate-wrap {
+.indicator-wrap {
   text-align: left;
 }
 
-div.classdate {
+div.indicator {
   border: 1px solid #000;
   background: #000;
   color: #fff;
@@ -316,6 +316,10 @@ div.classdate {
   position: relative;
   top: 0;
   right: 0;
+}
+
+.markdown div.indicator a, div.indictor a:visited {
+  color: #fff;
 }
 
 /* Breadcrumbs */

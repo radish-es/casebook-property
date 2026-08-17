@@ -36,16 +36,22 @@ Oct 7/14/19/21 - Unit 2 (Later settler colonialism / Confederation) = Aboriginal
 - What is the logic of Anglo-Canadian land law, tenure, estate?
 - How do claims of possession ground property and title claims?
 
+Problem: land back by bequest?
+
 Readings:
 - Overview of feudal land tenure
+- Basic estates and future interests
 - Royal Proclamation
 - St. Catherine's Milling
 - R v Syliboy
+- Blackburn v McCallum
+- Yellowhead Institute Land Back Paper
+- McLaren v Caldwell (exporpriation)
+- House of Commons Debates (McLaren)
 
-October 26/28 - 
-November 2/4 - Unit 3 (Industrialization) = nuisance, servitudes/covenants
-Nov 16/8 - 
-Nov 23/25 - Unit 4 (War and Citizenship) = trusts
+October 26/28, November 2/4  - Unit 3 (Industrialization) = nuisance, servitudes/covenants, possession (clift v kane?)
+
+Nov 16/8, Nov 23/25 - Unit 4 (Citizenship, family endowments) = trusts, future interests ()
 
 ## Big questions
 

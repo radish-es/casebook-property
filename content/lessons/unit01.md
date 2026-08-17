@@ -1,9 +1,9 @@
 ---
-title: Property as Imperial Imaginary
+title: "Origin Stories: Property, Sovereignty and Imperialism"
 description: This first lesson
 type: lesson
 weight: 1
-classdate: 23 Sept / 28 Sept 2026
+classdate: 23 Sept / 28 Sept / 5 Oct 2026
 image: /imgs/harris-1749.jpg
 imgcaption:  Moses Harris, Extract from unpublished Plan of Chebucto Harbour with the Town of Halifax, 1749. The British Library, Maps, K.Top.119 f73, excerpted in Jeffers Lennox, Homelands and Empires, 142.
 objectives:
@@ -27,7 +27,7 @@ materials:
 
 ## Property and British Imperial Aims
 
-Since the early period of British presence in Indigenous North America, "property" has been a legal tool used avidly by European colonial powers to advance their aims. That tool has taken different forms and served different functions over the several centuries during which colonialism has been at work. Close attention to these different forms and functions can help us to understand a great deal about how property has contributed to constituting contemporary Canada.
+Since the early period of British presence in Indigenous North America, "property" -- *legal relationships among a community with and about land and other things* -- has been a legal tool used by European colonial powers to advance their aims. That tool has taken different forms and served different functions over the several centuries during which colonialism has been at work. Close attention to these different forms and functions can help us to understand a great deal about where, how and when changing ideas and practices of property have been important in making Canada.
 
 Indigenous peoples have long sought to draw attention to the fact that Canada is a country founded on the dispossession of Indigenous nations from their lands. The field of settler colonial studies has built on this long record of advocacy and resistance to show up colonial dispossession as an ongoing process of illegitimate and frequently violent taking and occupation of Indigenous lands--an idea that has started to resonate in broader public and political discourse. Alongside this trend is a growing awareness of the role that property in particular has played as a central instrument in this process. 
 

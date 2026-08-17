@@ -23,6 +23,6 @@ And further, We do by these Presents, for Us, Our Heirs and Successors, make, cr
 
 #### Granting Rupert's Land
 
-The Charter above issued by King Charles II of England purports to "give, grant and confirm" an area of North America called Rupert's Land to the Hudson Bay Company (HBC)--named after Prince Rupert, the HBC's first Governor. How big was Rupert's Land and where was it? What do the scale and geography of this grant tell us about the British Crown's intentions here?
+The Charter above issued by King Charles II of England purports to "give, grant and confirm" an area of North America called Rupert's Land to the Hudson Bay Company (HBC)--named after Prince Rupert, the HBC's first Governor. How big was Rupert's Land and where was it? What do the scale and geography of this grant tell us about the British Crown's intentions here? About the function and meaning of "property" in this context?
 
 {{% /hint %}}

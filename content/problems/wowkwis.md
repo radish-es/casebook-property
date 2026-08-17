@@ -25,24 +25,12 @@ A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of f
 
 **The hunter has a a Nova Scotia Mi'kmaq Harvester Identification Card issued by the Assembly of Nova Scotia Mi'kmaw Chiefs but no hunting licence. The dog owner happens to be carrying a licence and claims exclusive property in the fox. Is the dog owner correct? Why or why not?**
 
-### Analyzing the Problem
+### Guide to Reading and Analysis
 
-On its face, this problem raises a classic question in Anglo-Canadian property law: who owns a wild animal? In order to answer this question, we need to know *how* ownership is established. Where does this basic ownership relation in property come from and what does it entail?
+This problem asks you, first of all, to think carefully about the question of where claims to property come from--that is, about the source (and therefore the nature) of property as the basis for a legal claim. By identifying those different possible sources of property from among the options we are exploring this week, you will gain a better understanding of the different ways in which parties to this dispute might characterize and explain their claims to ownership of the fox. 
 
-Once we dig a bit deeper, an even more fundamental question starts to emerge. Is property the *only* relevant legal relationship in this scenario? How does our analysis change once we consider legal principles and perspectives about land, animals, governance and sovereignty from treaties and from Mi'kmaw law? As you work through this problem, be aware of whether some legal arguments in this context are likely to be more "persuasive" than others, and to whom. 
+**Step 1:** Your starting point is to read the excerpts from [John Locke]({{< ref "casebook/relationships/locke" >}}), [Robert Hale]({{< ref "casebook/relationships/hale" >}}), and [James [sákéj] Youngblood Henderson]({{< ref "casebook/relationships/henderson" >}}). Each of these writers has a different answer to the question of where property (defined broadly) comes from, and how recognition for and enforcement of property rights and obligations relates to the political or governmental authority. Locke believes that property precedes government and the state and is rooted in possession as an expression of individual human labour. Hale, by contrast, sees property as a direct expression of state power and government coercion--even when that power is manifested as mutual coercion between two people. Henderson takes a different approach altogether, situating law, property and land tenure at the intersection and encounter between legal regimes and normative orders within a broader system of international or confederated (*Nikmanen*) relationships. How would you describe and compare each of these perspectives in your own words, and which account seems most compelling to you? Why?
 
-You have more readings to prepare and fit together this week compared to last week. Broadly, these readings cover three main topics:
+**Step 2:** Next, look at the materials that serve as relevant examples or expressions of each of these three perspectives: **Henderson** ([Peace and Friendship Treaties]()); **Hale** ([Charter of the Hudson Bay Company]({{< ref "casebook/relationships/hudson-bay-charter" >}}), [Wildlife Act]({{< ref "casebook/relationships/wildlife" >}})); and **Locke** (the line of common law cases on possession: [Armorie v Delamire]({{< ref "casebook/relationships/armorie" >}}), [Pierson v Post]({{< ref "casebook/relationships/pierson" >}}), [Keron v Cashman]({{< ref "casebook/relationships/keron" >}}), [Keeble v Hickeringill]({{< ref "casebook/relationships/keeble" >}}), the excerpt on *[ratione soli]({{< ref "casebook/relationships/ratione-soli" >}})*). How would you use these legal sources to argue for and apply each of Locke, Hale and Henderson's perspectives to the dispute over the fox? Who benefits from each? 
 
-- The Covenant Chain of Treaties between the Mi'kmaq and the British Crown (specifically the 1752 Treaty);
-
-- The central role of *possession*--in theory, common law and statute--as the basis for relationships of property in Anglo-Canadian law; and
-
-- An appreciation of the context of Mi'kmaw land law and land tenure systems in structuring land relations.
-
-As you make your choices about how to approach the readings, keep these topics in mind and consider how each relates to answering this week's problem.
-
-### Answer Framework
-
-As you practice drafting an answer to this problem based on the readings and our class discussion, consider the following framework:
-
-![](/imgs/wowkwis-framework.png)
+As you complete these readings and use them to analyze the problem, continue to refer back to the historical context described in the lesson for this first unit. During the early period of British imperialism in Indigenous North America, the three different perspectives described by Henderson, Hale and Locke were not mutually exclusive but, to a degree, coexisting--serving different functions, aims and interests that contributed in significant ways to the early path of colonialism and its subsequent manifestations in what would become Canada.
