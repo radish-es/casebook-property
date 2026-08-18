@@ -1,11 +1,11 @@
 ---
-title: The Doctrinal Casebook v2
+title: The Doctrinal Casebook
 type: docs
 weight: 50
 bookFlatSection: true
 bookCollapseSection: false
 bookHidden: false
-
+draft: true
 ---
 
 # The "Doctrinal Casebook"

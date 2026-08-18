@@ -2,11 +2,10 @@
 title: Revisiting the MTI Title Claim
 short: MTI Claim 
 description: We return to our study of the pleadings in the MTI and Wolastoqey claims.
-draft: false
+draft: true
 image: /imgs/mti.jpg
 imgcaption: Source - CBC News (Mi'gmawe'l Tplu'taqnn Inc.)
 weight: 16
-
 ---
 
 For our problem this week, we will return to the Aboriginal Title claims being advanced by the Wolastoqey Nation and Mi’gmawe’l Tplu’taqnn Inc. (MTI) in Atlantic Canada.

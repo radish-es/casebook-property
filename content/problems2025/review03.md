@@ -1,7 +1,7 @@
 ---
 title: Mid-Term Rapid Review
 short: Rapid Review
-draft: false
+draft: true
 
 class: problem
 description:  A series of rapid review questions to assess your knowledge and understanding to this point in the term.

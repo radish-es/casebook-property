@@ -1,7 +1,7 @@
 ---
 title: Sheltering in Public Spaces Bylaw 
 short: Sheltering Bylaw
-draft: false
+draft: true
 description: Analyze a model municipal by-law regarding sheltering on public property according to the changing constitutional standards for a right to shelter in public spaces. 
 summary: 
 image: /imgs/cridge.jpg

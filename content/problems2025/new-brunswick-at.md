@@ -5,6 +5,7 @@ description: Two claims for recognition of "Aboriginal Title" in New Brunswick u
 image: /imgs/wolastoqey-territory.jpg
 imgcaption:  Statement of Claim, 30 November 2021, Wolastoqey Nation v New Brunswick
 weight: 2
+draft: true
 ---
 
 ### Facts

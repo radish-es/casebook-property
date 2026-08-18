@@ -5,6 +5,7 @@ description: This hypo concerns a heritage corn grower's attempts to prevent pol
 image: /imgs/corn.jpg
 imgcaption: Tahmeed Ahmad on Unsplash
 weight: 5
+draft: true
 ---
 
 ### Hypothetical Facts

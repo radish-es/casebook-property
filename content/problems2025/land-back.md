@@ -5,6 +5,7 @@ description: A testator attempts to return ownership of their family farm to the
 image: /imgs/forest.jpg
 imgcaption: JP Holecka on Unsplash
 weight: 7
+draft: true
 ---
 
 ### Hypothetical Facts

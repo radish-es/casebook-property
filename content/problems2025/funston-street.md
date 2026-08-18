@@ -1,7 +1,7 @@
 ---
 title: 3000 Funston Street
 short: Funston
-draft: false
+draft: true
 class: problem
 description: This week's problem builds from a public radio documentary surrounding a restrictive covenant impeding a municipality's plans to build affordable housing in the city of Austin, Texas.
 summary: 

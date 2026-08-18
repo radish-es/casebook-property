@@ -2,13 +2,12 @@
 title: Membertou First Nation and the FNLMF
 short: Membertou 
 description: Our problem this week examines the context of land rights and governance under the federal Indian Act and the Membertou First Nation's adoption of the First Nations Land Management Framework.
-draft: false
+draft: true
 tags:
   - reserve-lands
 image: /imgs/membertou.jpg
 imgcaption: Membertou Convention Centre, Verne Equinox, CC BY-SA 3.0
 weight: 15
-
 ---
 
 ## Problem Context

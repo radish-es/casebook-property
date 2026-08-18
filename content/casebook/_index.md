@@ -20,15 +20,5 @@ The "Doctrinal Casebook" is here to provide you with an alternative perspective 
 
 {{% /hint %}}
 
-## Chapters in the Book
 
-The doctrines compiled in this casebook are grouped into the following chapters:
-
-- **Chapter 1: Recognizing Relationships**. How are relationships to land established? 
-
-- **Chapter 2: Governing Relationships**. Once relationships to land are established, how does decision-making about the land take place?
-
-- **Chapter 3: Title and Form**.
-
-- **Chapter 4: Shelter**.
 

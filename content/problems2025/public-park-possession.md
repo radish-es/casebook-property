@@ -1,7 +1,7 @@
 ---
 title: Parkland, Shelter and Possession
 short: Shelter and Possession
-draft: false
+draft: true
 description: A problem addressing issues of both adverse possession and shelter rights.
 image: /imgs/vegetable-garden.jpg
 imgcaption: Alek Newton on Unsplash
