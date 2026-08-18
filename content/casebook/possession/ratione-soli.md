@@ -11,7 +11,7 @@ sources:
     license: 
 doctrines:
   - finders
-weight: 26
+weight: 160
 description: Brief discussion of the doctrine of ratione soli.
 bookHidden: true
 ---

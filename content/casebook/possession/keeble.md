@@ -15,7 +15,7 @@ doctrines:
   - finders
   - nuisance
 description: Defendant scares the ducks away on Plaintiff's land.
-weight: 25
+weight: 150
 bookHidden: true
 ---
 

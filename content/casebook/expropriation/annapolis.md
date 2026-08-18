@@ -16,7 +16,7 @@ sources:
 bookHidden: true
 doctrines:
   - expropriation-constructive
-weight: 90
+weight: 150
 ---
 
 ## Côté, Brown JJ. --

@@ -4,7 +4,7 @@ description: An introduction to abandonment.
 type: concept
 doctrines:
   - finders
-weight: 24
+weight: 130
 bookHidden: true
 ---
 

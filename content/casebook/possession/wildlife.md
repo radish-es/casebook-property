@@ -16,7 +16,7 @@ sources:
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
 bookHidden: true
-weight: 28
+weight: 170
 ---
 
 <div id="statute">

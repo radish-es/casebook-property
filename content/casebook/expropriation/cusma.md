@@ -15,6 +15,7 @@ doctrines:
 class: statute
 draft: false
 bookHidden: true
+weight: 160
 ---
 
 

@@ -11,7 +11,7 @@ description: Shelfer suffered a nuisance from the defendant electric company whi
 public: true
 doctrines:
   - nuisance-remedy
-weight: 40
+weight: 100
 bookHidden: true
 ---
 

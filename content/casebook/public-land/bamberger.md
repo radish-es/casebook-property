@@ -22,7 +22,7 @@ sources:
       endorsement of, the British Columbia Superior Courts.
 doctrines:
   - shelter
-weight: 20
+weight: 120
 bookHidden: true
 ---
 

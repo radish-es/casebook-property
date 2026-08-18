@@ -4,7 +4,7 @@ short: Relative Possession
 type: secondary
 doctrines:
   - finders
-weight: 20
+weight: 110
 bookHidden: true
 description: Possession is also complicated in another way -- it is relative.
 sources:

@@ -8,7 +8,7 @@ year: 1979
 public: true
 doctrines:
   - expropriation-constructive
-weight: 50
+weight: 100
 bookHidden: true
 ---
 

@@ -11,7 +11,7 @@ description: The plaintiffs brought an action because of harm caused by sulphur 
 public: true
 doctrines:
   - nuisance-remedy
-weight: 50
+weight: 110
 bookHidden: true
 ---
 

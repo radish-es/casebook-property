@@ -18,7 +18,7 @@ sources:
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 doctrines:
   - expropriation-constructive
-weight: 70
+weight: 130
 bookHidden: true
 ---
 

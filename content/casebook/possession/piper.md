@@ -16,7 +16,7 @@ sources:
     attribution: ""
 doctrines:
   - adverse-possession
-weight: 20
+weight: 210
 bookHidden: true
 ---
 

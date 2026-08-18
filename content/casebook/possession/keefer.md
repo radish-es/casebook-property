@@ -15,7 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - adverse-possession
-weight: 30
+weight: 220
 bookHidden: true
 ---
 

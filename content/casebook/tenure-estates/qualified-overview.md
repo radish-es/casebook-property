@@ -8,7 +8,7 @@ source:
 public: true
 doctrines:
   - qualified
-weight: 80
+weight: 100
 bookHidden: true
 ---
 

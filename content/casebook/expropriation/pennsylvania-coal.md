@@ -11,7 +11,7 @@ description: Pennsylvania Coal and Mahon had an agreement for the coal company t
 public: true
 doctrines:
   - expropriation-constructive
-weight: 60
+weight: 110
 bookHidden: true
 ---
 

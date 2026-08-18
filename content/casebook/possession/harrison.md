@@ -15,7 +15,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - finders
-weight: 70
+weight: 180
 bookHidden: true
 ---
 

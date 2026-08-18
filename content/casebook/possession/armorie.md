@@ -11,7 +11,7 @@ description: The plaintiff chimney sweep found a jewel in the course of his work
 public: true
 doctrines:
   - finders
-weight: 10
+weight: 100
 bookHidden: true
 ---
 

@@ -16,7 +16,7 @@ sources:
 doctrines:
   - covenants-policy
 bookHidden: true
-weight: 20
+weight: 110
 ---
 
 ### Mackay J. —

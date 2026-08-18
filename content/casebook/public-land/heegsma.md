@@ -15,7 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - shelter
-weight: 30
+weight: 130
 bookHidden: true
 ---
 

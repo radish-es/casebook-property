@@ -11,7 +11,7 @@ description: Thomas Williamson enclosed land and built a cottage on it. He left 
 public: true
 doctrines:
   - finders
-weight: 24
+weight: 140
 bookHidden: true
 ---
 

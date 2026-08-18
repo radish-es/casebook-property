@@ -20,7 +20,7 @@ sources:
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
 doctrines:
   - qualified
-weight: 110
+weight: 130
 bookHidden: true
 ---
 

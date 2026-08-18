@@ -4,7 +4,7 @@ class: concept
 description: An introduction to restraints on alienation
 doctrines:
   - qualified
-weight: 100
+weight: 120
 bookHidden: true
 ---
 

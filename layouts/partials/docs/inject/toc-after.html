@@ -50,7 +50,7 @@
     <h4>Doctrinal Casebook</h4>
 
     {{- range last 1 .Ancestors.Reverse }}
-        <p><a href="{{ .RelPermalink }}"><b>Section:</b> {{ .Title }}</a></p>
+        <p><a href="{{ .RelPermalink }}"><b>Chapter:</b> {{ .Title }}</a></p>
     {{- end }}
 
     {{ $pages := .CurrentSection.Pages.ByWeight }}

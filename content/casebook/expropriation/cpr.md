@@ -16,7 +16,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - expropriation-constructive
-weight: 80
+weight: 140
 bookHidden: true
 ---
 
