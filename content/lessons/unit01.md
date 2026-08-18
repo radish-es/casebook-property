@@ -1,5 +1,6 @@
 ---
 title: "Origin Stories: Property, Sovereignty and Imperialism"
+short: Unit 1
 description: This first lesson
 type: lesson
 weight: 1

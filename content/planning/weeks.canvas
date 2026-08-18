@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"389a59c296458041","type":"group","x":-860,"y":-180,"width":570,"height":386,"label":"Later settler colonialism, resource extraction"},
 		{"id":"452a15abd1d85c98","type":"group","x":-860,"y":-821,"width":570,"height":321,"label":"Imperialism and Early Settler Colonialism, hunting"},
+		{"id":"d5455c075fba5fbc","x":120,"y":680,"width":400,"height":400,"type":"group","label":"Housing andPublic Space"},
 		{"id":"c0a08987eb8fc2b8","type":"group","x":-860,"y":300,"width":570,"height":220,"label":"Industrialization and environment"},
 		{"id":"3647647a5e9060d4","type":"group","x":-860,"y":540,"width":570,"height":201,"label":"War and Citizenship"},
 		{"id":"3bcc5f838d314af2","type":"group","x":-860,"y":1160,"width":570,"height":200,"label":"Markets and Commodification"},

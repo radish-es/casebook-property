@@ -4,8 +4,8 @@ short: GMOs
 description: This hypo concerns a heritage corn grower's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
 image: /imgs/corn.jpg
 imgcaption: Tahmeed Ahmad on Unsplash
-weight: 5
-draft: true
+weight: 3
+draft: false
 ---
 
 ### Hypothetical Facts

@@ -1,5 +1,5 @@
 ---
-title: The Doctrinal Casebook
+title: Doctrinal Casebook
 type: docs
 weight: 50
 bookFlatSection: true

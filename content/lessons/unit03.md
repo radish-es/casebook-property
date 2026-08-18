@@ -1,11 +1,9 @@
 ---
-title: Governing Land Uses
-short: Week 5
-draft: true
-
+title: "Industrialization, Market Liberalism and Land Use at the Turn of the Century"
+short: Unit 3
 type: lesson
-classdate: 27 Oct / 29 Oct2025
-weight: 5
+classdate: 26 Oct / 28 Oct / 2 Nov / 4 Nov 2026
+weight: 3
 image: /imgs/canada-paper.jpg
 imgcaption:  Canada Paper Company, Windsor Mills, QC, 1909 (Source, McCord Museum, Montreal).
 objectives:
@@ -16,6 +14,8 @@ objectives:
 description: This week we examine the role of private law tools to govern land uses in the face of a conflict between neighbors, including issues of the appropriate remedy in nuisance and the circumstances in which restrictive covenants run with title to the land. 
 
 materials:
+  - nuisance-intro
+  - victoriapark
   - shelfer
   - black
   - canada-paper
