@@ -4,10 +4,12 @@ title: 'Austerberry v Corporation of Oldham'
 short: Austerberry
 reporter: '[1885] 29 ChD 750'
 year: 1885
-facts: The plaintiffs brought an action to enforce the burden of positive a covenant to maintain a road. The court addresses the questions of when either the benefits or the burdens of a covenant can run with the land.  
+facts: The plaintiffs brought an action to enforce the burden of positive a covenant to maintain a road. The court addresses the questions of when either the benefits or the burdens of a covenant can run with the land. 
+description: The plaintiffs brought an action to enforce the burden of positive a covenant to maintain a road. The court addresses the questions of when either the benefits or the burdens of a covenant can run with the land.  
 public: true
 doctrines:
   - covenants
+weight: 30
 bookHidden: false
 ---
 

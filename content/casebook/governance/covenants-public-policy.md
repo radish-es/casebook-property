@@ -2,11 +2,11 @@
 title: Restrictive Covenants and Public Policy
 short: Restrictive Covenants
 class: concept
-description: An introduction to restrictive covenants and the doctrine of public policy
+description: An introduction to restrictive covenants and the doctrine of public policy.
 doctrines:
-  - covenants
-
+  - covenants-policy
 bookHidden: true
+weight: 10
 ---
 
 Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 

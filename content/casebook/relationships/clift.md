@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Clift v Kane
 short: Clift
 reporter: (1870), 5 Nfld LR (en banc)

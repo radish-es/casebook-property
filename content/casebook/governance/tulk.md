@@ -4,13 +4,14 @@ title: 'Tulk v Moxhay'
 short: Tulk
 reporter: '(1848), 41 ER 1143 (Ch)'
 year: 1848
-facts: Tulk sold a piece of land with the restriction that the garden be maintained and that he have access to it. Moxhay subsequently purchased the land, with notice of the covenant. Moxhay sought to alter the garden.
+facts: Tulk sold land Leichester Square to Elms under a covenant that Elms would maintain the square. Moxhay subsequently purchased the land from Elms, with notice of the covenant. Moxhay sought to build on the square.
 issue: Whether the restrictive covenant is valid.
 held: For plaintiff. Restrictive covenants run with the land, so are durable beyond the ownership of the contracting parties.
+description: Tulk sold land Leichester Square to Elms under a covenant that Elms would maintain the square. Moxhay subsequently purchased the land from Elms, with notice of the covenant. Moxhay sought to build on the square.
 public: true
 doctrines:
   - covenants
-
+weight: 20
 bookHidden: false
 ---
 

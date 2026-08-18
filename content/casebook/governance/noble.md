@@ -7,14 +7,15 @@ year: 1950
 facts: A racially restrictive covenant concerned land forming part of a summer resort development.
 issue: Whether the restrictive covenant was valid.
 held: The restrictions were invalid as they were directed at the purchaser, and so did not run with the land, and did not touch and concern the land.
+description: A racially restrictive covenant concerned land forming part of a summer resort development.
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1ttv5'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - covenants
-
+  - covenants-policy
+weight: 30
 bookHidden: false
 ---
 *This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*

@@ -29,15 +29,24 @@
 {{ end }}
  
  
-
+<!-- Casebook location -->
 {{- range last 1 .Ancestors.Reverse }}
     <div class="indicator-wrap">
-                <div class="indicator">
-                    <a href="{{ .RelPermalink }}">Casebook: {{ .Title }}</a>
-                </div>
-            </div>
-    
+        <div class="indicator">
+            <a href="{{ .RelPermalink }}">Casebook: {{ .Title }}</a>
+        </div>
+    </div>
 {{- end }}
 
+<!-- Next file in casebook -->
 
+{{ $pages := .CurrentSection.Pages.ByWeight }}
+{{ with $pages.Next . }}
+    <div class="indicator-wrap">
+        <div class="indicator">
+            <a href="{{ .RelPermalink }}">Next in Casebook: {{ .Title }}</a>
+        </div>
+    </div>
+  
+{{ end }}
 

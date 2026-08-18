@@ -4,14 +4,11 @@ title: 'Keppell v Bailey'
 short: Black
 reporter: '[1834] EWHC Ch J77'
 year: 1834
-
 public: true
-
 description: This case considers the enforceability of a covenant between the owners of an ironworks and a railway constructed to transport limestone for use in the ironwork's furnaces. The court addresses the question of whether the covenant can be enforced against subsequent owners of the ironworks. 
-
 doctrines:
   - covenants
-
+weight: 10
 bookHidden: false
 ---
 
