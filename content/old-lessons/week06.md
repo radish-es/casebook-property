@@ -1,7 +1,7 @@
 ---
 title: "'Taking' Property"
 short: Week 6
-draft: false
+draft: true
 
 type: lesson
 classdate: 3 Nov / 5 Nov 2025

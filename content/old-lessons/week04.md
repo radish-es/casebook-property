@@ -1,7 +1,7 @@
 ---
 title: From Possession to Title?
 short: Week 4
-draft: false
+draft: true
 
 type: lesson
 classdate: 20 Oct / 22 Oct 2025

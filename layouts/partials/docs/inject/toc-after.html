@@ -1,4 +1,72 @@
-<!--CONTEXTUAL LINKS WITH CSV-->
+
+<!-- Lesson if casebook -->
+
+{{if eq .Section "casebook" }}
+
+    <h4>Weekly</h4>
+
+    {{ range (site.GetPage "lessons").Pages }}
+        {{ $k := . }}
+        {{ range .Params.materials }}
+            {{ if eq . $.File.BaseFileName }} 
+                {{ $v := $k.Params.weight }}
+                {{ range (site.GetPage "lessons").Pages }}
+                    {{ if eq $v .Params.weight}}
+                        <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
+                        <p><a href="{{ .RelPermalink }}"><b>Lesson:</b> {{ .Title }}</a><p>
+                    {{ end }}
+                {{ end }}
+                {{ range (site.GetPage "problems").Pages }}
+                    {{ if eq $v .Params.weight}}
+                        <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
+                        <p><a href="{{ .RelPermalink }}"><b>Problem:</b> {{ .Title }}</a></p>
+                    {{ end }}
+                {{ end }}
+            {{end}}
+        {{ end }}
+    {{ end }}
+
+    <hr/>
+
+{{end}}
+
+<!-- List problems associated with lesson -->
+
+{{if eq .Section "lessons" }}
+    <hr/>
+    <h4>Problem</h4>
+    {{ range (site.GetPage "problems").Pages }}
+      {{ if eq .Params.weight $.Params.weight }}
+        <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+      {{ end }}
+    {{end}}
+
+{{ end }}
+
+<!-- Section, Next and Previous Links for Casebook content-->
+
+{{if eq .Section "casebook" }}
+
+    <h4>Doctrinal Casebook</h4>
+
+    {{- range last 1 .Ancestors.Reverse }}
+        <p><a href="{{ .RelPermalink }}"><b>Section:</b> {{ .Title }}</a></p>
+    {{- end }}
+
+    {{ $pages := .CurrentSection.Pages.ByWeight }}
+    {{ with $pages.Next . }}
+        <p><a href="{{ .RelPermalink }}"><b>Previous:</b> {{ .Title }}</a></p>
+    {{ end }}
+
+    {{ with $pages.Prev . }}
+    <p><a href="{{ .RelPermalink }}"><b>Next:</b> {{ .Title }}</a></p>
+    {{ end }}
+
+    <hr/>
+
+{{ end }}
+
+<!--Reading Links-->
 {{ with $file := "links.csv" }}
     {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal }}
@@ -51,3 +119,4 @@
 {{ else }}
     {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
 {{ end }}
+

@@ -1,7 +1,7 @@
 ---
 title: Trusts, Property, and Citizenship
 short: Week 8
-draft: false
+draft: true
 classdate: 24 Nov / 26 Nov 2025
 
 

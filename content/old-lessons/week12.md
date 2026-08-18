@@ -2,7 +2,7 @@
 title: Constructive Takings and Acquired Rights
 short: Week 12
 classdate: 23 Feb / 25 Feb 2026
-draft: false
+draft: true
 
 type: lesson
 description: We pick up the topic of constructive takings from last term by looking at this rapidly changing area of contemporary doctrine, and also introduce the topic of acquired rights.

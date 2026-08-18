@@ -1,58 +1,5 @@
- <!-- Find and print the problem associated with the item -->
-{{ range (site.GetPage "lessons").Pages }}
-    {{ $k := . }}
-    {{ range .Params.materials }}
-    {{ if eq . $.File.BaseFileName }} 
-        {{ $v := $k.Params.weight }}
-        {{ range (site.GetPage "problems").Pages }}
-        {{ if eq $v .Params.weight}}
-            <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
-            <div class="indicator-wrap">
-                <div class="indicator">
-                    <a href="{{ .RelPermalink }}">Problem: {{ .Title }}</a>
-                </div>
-            </div>
-        {{ end }}
-        {{ end }}
-        {{ range (site.GetPage "lessons").Pages }}
-        {{ if eq $v .Params.weight}}
-            <!--| <a href="{{ $k.RelPermalink }}">Lesson: {{ $k.Title }}</a>-->
-            <div class="indicator-wrap">
-                <div class="indicator">
-                    <a href="{{ .RelPermalink }}">Lesson: {{ .Title }}</a>
-                </div>
-            </div>
-        {{ end }}
-        {{ end }}
-    {{end}}
-    {{ end }}
-{{ end }}
  
- 
-<!-- Casebook location -->
-{{- range last 1 .Ancestors.Reverse }}
-    <div class="indicator-wrap">
-        <div class="indicator">
-            <a href="{{ .RelPermalink }}">Casebook: {{ .Title }}</a>
-        </div>
-    </div>
-{{- end }}
 
-<!-- Last file in casebook -->
 
-{{ $pages := .CurrentSection.Pages.ByWeight }}
-{{ with $pages.Next . }}
-    <div class="indicator-wrap">
-        <div class="indicator">
-            <a href="{{ .RelPermalink }}">Previous in Casebook: {{ .Title }}</a>
-        </div>
-    </div>
-{{ end }}
-{{ with $pages.Prev . }}
-    <div class="indicator-wrap">
-        <div class="indicator">
-            <a href="{{ .RelPermalink }}">Next in Casebook: {{ .Title }}</a>
-        </div>
-    </div>
-{{ end }}
+
 

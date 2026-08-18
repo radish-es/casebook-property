@@ -1,7 +1,7 @@
 ---
 title: Governing Land Uses
 short: Week 5
-draft: false
+draft: true
 
 type: lesson
 classdate: 27 Oct / 29 Oct2025

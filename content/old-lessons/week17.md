@@ -1,7 +1,7 @@
 ---
 title: Indefeasible Title and Land Registration
 short: Week 17
-draft: false
+draft: true
 classdate: 30 Mar / 1 Apr
 type: lesson
 description: In our final week of the course, we examine the significant role that modern land title registration systems play in property systems and examine issues related to the idefeasibility of registered interests in Aboriginal Title lands in to land titles clarification in African Nova Scotian communities. 

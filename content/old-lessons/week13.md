@@ -2,7 +2,7 @@
 title: Restrictive Covenants and Qualified Interests
 short: Week 13
 classdate: 2 Mar / 4 Mar 2026
-draft: false
+draft: true
 
 type: lesson
 description: Returning to both the conditions for a valid covenant to run with the land and to basic qualifications on estates in land, this week we focus on the common law doctrine of public policy used to scrutinize discriminatory conditions. 

@@ -1,7 +1,7 @@
 ---
 title: Adverse Possession
 short: Week 10
-draft: false
+draft: true
 classdate: 2 Feb / 4 Feb 2026
 
 type: lesson

@@ -1,7 +1,7 @@
 ---
 title: Aboriginal Title Continued
 short: Week 16
-draft: false
+draft: true
 classdate: 23 Mar / 25 Mar 2026
 type: lesson
 description: This week we continue our study of Aboriginal Title, focusing on the question of whether Aboriginal Title and fee simple interests can be reconciled with one another. Our class this week will include a guest lecture.

@@ -1,7 +1,7 @@
 ---
 title: Right to Shelter
 short: Week 11
-draft: false
+draft: true
 classdate: 11 Feb / 13 Feb 2026
 
 type: lesson

@@ -1,7 +1,7 @@
 ---
 title: Alienation, Exit and Control
 short: Week 7
-draft: false
+draft: true
 classdate: 17 Nov / 19 Nov 2025
 
 

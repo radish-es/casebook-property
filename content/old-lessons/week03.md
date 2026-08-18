@@ -1,7 +1,7 @@
 ---
 title: Review
 short: Week 3
-draft: false
+draft: true
 
 type: lesson
 classdate: 26 Oct 2025
