@@ -1,7 +1,7 @@
 ---
 title: Duty to Consult
 short: Duty
-class: concept
+type: secondary
 doctrines:
   - aboriginal-title
 weight: 70

@@ -7,10 +7,11 @@ year: 1917
 facts: The plaintiffs brought an action because of harm caused by sulphur dioxide fumes from the defendant's mining operation. 
 issue: What type of remedy is appropriate.
 held: Damages, rather than an injunction, are justified, because the vapours are inherent to mining nickel and the mine is central to the community.
+description: The plaintiffs brought an action because of harm caused by sulphur dioxide fumes from the defendant's mining operation. 
 public: true
 doctrines:
-  - nuisance
-
+  - nuisance-remedy
+weight: 50
 bookHidden: false
 ---
 

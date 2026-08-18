@@ -8,8 +8,8 @@ facts: Guadalcazar municipality denied a permit for Metalclad, who had built a h
 issue: Whether this constituted de fact expropriation under NAFTA.
 held: For plaintiff. De facto expropriation under NAFTA includes the deprivation of economic benefit of property, even without the acquisition of clear benefits to the state. As such, de facto expropriation is made out.
 doctrines:
-  - police-power
-
+  - expropriation-constructive
+draft: true
 bookHidden: true
 ---
 

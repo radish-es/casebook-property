@@ -8,6 +8,7 @@ facts: The General Manager of Parks and Recreation in Vancouver made two orders 
 issue: Whether those orders are valid given the right to shelter under s 7 of the *Charter.*
 held: For claimant. Orders should be set aside, the right to shelter under the *Adams* framework is made out, and the facts suggest the possibility of expanding the scope of the right to include daylight hours.
 public: true
+description:  The General Manager of Parks and Recreation in Vancouver made two orders to shut down an encampment made by unhoused people in a public park.
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/jlqf6'
@@ -20,8 +21,8 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 doctrines:
-  - right-to-shelter
-
+  - shelter
+weight: 20
 bookHidden: true
 ---
 

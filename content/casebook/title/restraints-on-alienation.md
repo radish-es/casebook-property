@@ -3,8 +3,8 @@ title: Restraints on Alienation
 class: concept
 description: An introduction to restraints on alienation
 doctrines:
-  - alienation
-
+  - qualified
+weight: 100
 bookHidden: true
 ---
 

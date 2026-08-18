@@ -11,9 +11,9 @@ sources:
       From Eric M Adams and Jordan Stanger-Ross, "Promises of Law: The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017): 687-740. 'https://digitalcommons.osgoode.yorku.ca/ohlj/vol54/iss3/2'
 type: secondary
 public: true
+weight: 40
 doctrines:
   - trusts
-
 bookHidden: true
 ---
 

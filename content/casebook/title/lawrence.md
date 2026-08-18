@@ -7,6 +7,7 @@ year: 2007
 facts: Lawrence's home was fraudulently transferred, then was mortgaged with Maple Trust Company, who were unaware of the fraud. 
 issue: Who has title to a fraudulently transferred home that is mortgaged by an innocent third-party?
 held: The *Land Titles Act,* should be understood as supporting the theory of deferred indefeasibility, which means that the intermediate owner has worse title than the original owner. Here, as Maple Trust is the intermediate owner, Lawrence has better title.
+description: Lawrence's home was fraudulently transferred, then was mortgaged with Maple Trust Company, who were unaware of the fraud. 
 public: true
 sources:
   - source_name: CanLII
@@ -17,8 +18,8 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2007. Not an official version. '
 doctrines:
-  - title-registration
-
+  - registration
+weight: 10
 bookHidden: true
 ---
 

@@ -7,13 +7,15 @@ year: 1880
 facts: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams.
 issue: Whether the plaintiffs riparian rights allow him to exclude Caldwell's ability to run lumber despite Ontario's legislation.
 held: For defendant. Ontario's legislation was unqualified, so rendered all streams public highways.
+description: McLaren and Caldwell were both in the lumber industry. McLaren owned land that included streams which he claimed were not navigable before he improved them. Caldwell attempted to run his lumber down those streams. Ontario had passed legislation to allow logs to pass freely down streams.
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1vp07'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - police-power
+  - expropriation
+weight: 20
 bookHidden: false
 ---
 

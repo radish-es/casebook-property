@@ -2,10 +2,10 @@
 title: Why Land Title Clarification?
 short: Why Land Title Clarification
 class: concept
-description: A critical lens on the sufficiency of the *LTCA*
+description: A critical lens on the sufficiency of the LTCA
 doctrines:
-  - title-registration
-
+  - registration
+weight: 60
 bookHidden: true
 ---
 

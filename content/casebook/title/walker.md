@@ -7,11 +7,11 @@ year: 1925
 facts: The testator left his property to his spouse using language that was ambiguous as to the type of estate in land he intended to create. The interpretation of the testator's intention determines who can claim under the will.
 issue: Whether the conditions on the fee simple estate were valid.
 held: The conditions here were invalid, because they attempted to place a restraint on alienation on a fee simple, which is repugnant to the estate.
-description: Interpretation of a will addressing the type of common law estate conveyed.
+description: The testator left his property to his spouse using language that was ambiguous as to the type of estate in land he intended to create. The interpretation of the testator's intention determines who can claim under the will.
 public: true
 doctrines:
   - estates
-
+weight: 30
 bookHidden: false
 ---
 

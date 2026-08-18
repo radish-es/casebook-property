@@ -7,14 +7,15 @@ year: 1922
 facts: A paper company who near Brown's home introduced a sulphates into their production, which produced harmful fumes that carried over to Brown's property.
 issue: What type of remedy is appropriate.
 held: An injunction, rather than damages, is justifed, because of the importance of property rights and the ability of the appelant to operate their business without sulphates.
+description: A paper company who near Brown's home introduced a sulphates into their production, which produced harmful fumes that carried over to Brown's property.
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw7qw'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - nuisance 
-
+  - nuisance-remedy
+weight: 50
 bookHidden: false
 ---
 

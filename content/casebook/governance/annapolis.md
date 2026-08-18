@@ -7,6 +7,7 @@ type: case
 facts: Halifax Regional Municipality (HRM) zoned land owned by Annapolis to preclude development without approval from the municipality. HRM then refused to grant Annapolis Group's requests to develop the land and allegedly treated the land as a public park.
 issue: Whether HRM's actions constitute de facto expropriation.
 held: For plaintiff. The majority found beneficial interest under the de facto expropriation test to mean 'advantage,' and that intent is not irrelevant for de facto expropriation. The dissent argued that beneficial interest means the acquisition of a proprietary interest rather than just an advantage, and that intent should not be part of the inquiry.
+description: Halifax Regional Municipality (HRM) zoned land owned by Annapolis to preclude development without approval from the municipality. HRM then refused to grant Annapolis Group's requests to develop the land and allegedly treated the land as a public park.
 public: true
 sources: 
   - source_name: CanLii
@@ -14,7 +15,8 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 bookHidden: false
 doctrines:
-  - police-power
+  - expropriation-constructive
+weight: 90
 ---
 
 ## Côté, Brown JJ. --

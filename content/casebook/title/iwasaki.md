@@ -6,7 +6,8 @@ reporter: 1968 CanLII 1297 (CA EXC), 1 Ex CR 281
 year: 1968
 facts: Iwasaki had a large tract of land liquidated by the Custodian of Enemy Property. He alleged this was a breach of trust, and that the authorizing orders in council were invalid.
 issue: Whether the sale of Iwasaki's land was a breach of trust, or invalid under its enabling statute. 
-held: There was no trust, as the Custodian held the property absolutely. The orders in council that enabled the liquidation were valid under the *War Measures Act.*
+held: There was no trust, as the Custodian held the property absolutely. The orders in council that enabled the liquidation were valid under the War Measures Act.
+description: Iwasaki had a large tract of land liquidated by the Custodian of Enemy Property. He alleged this was a breach of trust, and that the authorizing orders in council were invalid.
 public: true
 sources:
   - source_name: CanLII
@@ -15,7 +16,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - trusts
-
+weight: 30
 bookHidden: true
 ---
 

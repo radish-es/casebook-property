@@ -9,8 +9,8 @@ issue: Whether this constituted a taking for which OD Cars is owed compensation.
 held: Failing to grant a permit because of reasonable statutory restrictions does not amount to a taking of property. The zoning bylaw here was reasonable, so no compensation was owed.
 public: true
 doctrines:
-  - police-power
-
+  - expropriation-constructive
+draft: true
 bookHidden: true
 ---
 

@@ -5,7 +5,8 @@ type: secondary
 description: A research paper on the legal foundations of the Land Back movement in Canada, published by the Yellowhead Institute.
 public: true
 doctrines:
-  - estates
+  - aboriginal-title
+weight: 100
 bookHidden: false
 ---
 

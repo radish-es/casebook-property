@@ -7,7 +7,8 @@ description: The appellant company brings a case against the federal government 
 year: 1979
 public: true
 doctrines:
-  - expropriation
+  - expropriation-constructive
+weight: 50
 bookHidden: false
 ---
 

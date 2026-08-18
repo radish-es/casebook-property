@@ -7,10 +7,11 @@ year: 1937
 facts: The defendant owned land near the plaintiff's racetrack. He placed a platform on his land to watch the races and charged people admission and broadcasted the race by telephone. The plaintiff took action in nuisance.
 issue: Whether a spectacle is a protected property right.
 held: For defendant. The majority found that there was no right to a spectacle, no general right to privacy, and no copyright to the facts being broadcast. The defendant's actions did not amount to interference with the land. As such, there was no nuisance.The dissent argued that nuisance ought to expanded to include privacy from such spying.
+description:  The defendant owned land near the plaintiff's racetrack. He placed a platform on his land to watch the races and charged people admission and broadcasted the race by telephone. The plaintiff took action in nuisance.
 public: true
 doctrines:
   - nuisance
-
+weight: 30
 bookHidden: true
 ---
 

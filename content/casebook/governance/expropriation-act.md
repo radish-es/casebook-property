@@ -4,7 +4,7 @@ short: Expropriation Act
 reporter: 'RSNS 1989, c 156'
 description: Provincial legislation addressing the expropriation ('taking') of land.
 doctrines:
-  - police-power
+  - expropriation-constructive
 type: statute
 public: true
 sources:
@@ -15,7 +15,7 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-
+weight: 65
 bookHidden: false
 ---
 

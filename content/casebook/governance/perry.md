@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: Perry v Clissold
 short: Perry
 reporter: '[1906] 4 CLR 374'
@@ -7,23 +7,13 @@ year: 1906
 facts: A parcel of land was enclosed and continually and exclusively possessed by Clissold. That land was expropriated by the Crown to build a school. The Public Works Act stipulated that the expropriation of private property to build schools must be compensated.
 issue: Whether the Clissold estate was owed compensation for expropriation.
 held: A prima facie case for compensation was made out. Clissold's adverse possession gave him good title for the expropriated private property.
+description: A parcel of land was enclosed and continually and exclusively possessed by Clissold. That land was expropriated by the Crown to build a school. The Public Works Act stipulated that the expropriation of private property to build schools must be compensated.
 public: true
 doctrines:
-  - police-power
-
+  - expropriation
+weight: 35
 bookHidden: true
 ---
-
-
-PRIVY COUNCIL
-
-Perry Appellant; and Clissold and Others Respondents.
-
-On appeal from the High Court of Australia.
-
-14 December 1906
-
-The Lord Chancellor, The Earl of Halsbury, Lord Macnaghten, Lord Davey, Lord Robertson, Lord Atkinson, Sir Ford North, Sir Arthur Wilson.
 
 The judgment of their Lordships was delivered by
 
@@ -47,7 +37,7 @@ Every person claiming compensation in respect of any land so resumed is, within 
 
 Sec. 13 is in the following terms:—
 
-"Within sixty days after the receipt of every such notice of claim by the Crown Solicitor he shall forward the same together with his report thereon to the Minister, who shall thereupon (unless no primâ facie case for compensation shall have been disclosed) cause a valuation of the land or of the estate or interest of the claimant therein to be made in accordance with the provisions of this Act and shall inform the claimant as soon as practicable of the amount of such valuation by notice in the form of the Second Schedule hereto."
+> "Within sixty days after the receipt of every such notice of claim by the Crown Solicitor he shall forward the same together with his report thereon to the Minister, who shall thereupon (unless no primâ facie case for compensation shall have been disclosed) cause a valuation of the land or of the estate or interest of the claimant therein to be made in accordance with the provisions of this Act and shall inform the claimant as soon as practicable of the amount of such valuation by notice in the form of the Second Schedule hereto."
 
 By notification published in the Gazette of 17th July 1891 a piece of land containing two acres and three perches at Canterbury in the County of Cumberland, was resumed for a public school site. The land was at the time in the possession of one Frederick Clissold. Notice of the resumption was given to Clissold on the 22nd of July 1891; but nothing further was done then. Clissold died shortly afterwards, and his will was proved on the 5th May 1892.
 
@@ -67,7 +57,7 @@ Their Lordships are unable to agree with this contention.
 
 It cannot be disputed that a person in possession of land in the assumed character of owner and exercising peaceably the ordinary rights of ownership has a perfectly good title against all the world but the rightful owner. And if the rightful owner does not come forward and assert his title by process of law within the period prescribed by the provisions of the Statute of Limitations applicable to the case, his right is for ever extinguished, and the possessory owner acquires an absolute title.
 
-On behalf of the Minister reliance was placed on the case of Doc v. Barnard[^1], which seems to lay down this proposition, that if a person having only a possessory title to land be supplanted in the possession by another who has himself no better title, and afterwards brings an action to recover the land, he must fail in case he shows in the course of the proceedings that the title on which he seeks to recover was merely possessory. It is however difficult, if not impossible, to reconcile this case with the later case of *Asher v. Whitlock*[^2], in which *Doe v. Barnard*[^3] was cited. The judgment of Cockburn C.J. is clear on that point. The rest of the Court concurred, and it may be observed that one of the members of the Court in *Asher v. Whitlock*[^4], (Lush J.) had been of counsel for the successful party in *Doe v. Barnard*.[^5] The conclusion at which the Court arrived in *Doe v. Barnard*[^6] is hardly consistent with the views of such eminent authorities on real property law as Mr. Preston and Mr. Joshua Williams. It is opposed to the opinions of modern text writers of such weight and authority as Professor Maitland and Holmes J., of the Supreme Court of the United States.[^7]
+On behalf of the Minister reliance was placed on the case of Doc v. Barnard, which seems to lay down this proposition, that if a person having only a possessory title to land be supplanted in the possession by another who has himself no better title, and afterwards brings an action to recover the land, he must fail in case he shows in the course of the proceedings that the title on which he seeks to recover was merely possessory. It is however difficult, if not impossible, to reconcile this case with the later case of *Asher v. Whitlock*, in which *Doe v. Barnard* was cited. The judgment of Cockburn C.J. is clear on that point. The rest of the Court concurred, and it may be observed that one of the members of the Court in *Asher v. Whitlock*, (Lush J.) had been of counsel for the successful party in *Doe v. Barnard*. The conclusion at which the Court arrived in *Doe v. Barnard* is hardly consistent with the views of such eminent authorities on real property law as Mr. Preston and Mr. Joshua Williams. It is opposed to the opinions of modern text writers of such weight and authority as Professor Maitland and Holmes J., of the Supreme Court of the United States.
 
 Their Lordships are of opinion that it is impossible to say that no *prima facie* case for compensation has been disclosed.
 
@@ -80,17 +70,3 @@ It only remains for their Lordships to express their opinion that the valuation 
 When the valuation is made it will be for the claimants to take such proceedings as they may be advised to recover the amount, unless the Minister thinks fit to pay them or to pay the money into Court.
 
 For these reasons their Lordships humbly advised His Majesty that the appeal should be dismissed, and ordered the appellant to pay the costs of the appeal.
-
-[^1]: 13 Q.B., 945.
-
-[^2]: L.R. 1 Q.B., 1.
-
-[^3]: 13 Q.B., 945.
-
-[^4]: L.R. 1 Q.B., 1.
-
-[^5]: 13 Q.B., 945.
-
-[^6]: 13 Q.B., 945.
-
-[^7]: See three articles by Professor Maitland in the Law Quarterly, vols. i., ii., and iv.; Holmes, Common Law, p. 244.

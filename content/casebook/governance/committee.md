@@ -8,13 +8,16 @@ facts: Two individuals from the Committee for the Commonwealth of Canada went to
 issue: 
 held: 
 summary: In this case, the Supreme Court of Canada addressed the question of whether restrictions on political activity (engaging passers-by and distributing leaflets to recruit new members) at an airport owned by the federal government were in violation of the respondents' Charter-protected freedom of expression. In the course of their decisions, the judges discussed some of the broader principles applicable to the limits that government can place on access to and the use of "public" property. The decision below is a short excerpt from Justice L'Heureux-Dubé's opinion concurring with the majority's finding that the respondents' freedom of expression was infringed. 
+description: Two individuals from the Committee for the Commonwealth of Canada went to Montreal's Dorval Airport to promote their group's activities and goals and to recruit new members by engaging with passers-by and distributing information materials. They were asked to cease these activities by the airport's assistant manager, who advised them that political propaganda activities at the airport were prohibited under the relevant Regulations. 
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
+  - political-expression
 bookHidden: true
+weight: 10
 ---
 
 ##  L'Heureux-Dubé J. --

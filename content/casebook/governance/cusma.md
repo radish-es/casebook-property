@@ -9,10 +9,11 @@ sources:
     attribution: >-
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
+description: Governing provisions of the international trade agreement with respect to constructive (indirect) expropriation of foreign-owned property.
 doctrines:
-  - police-power
+  - expropriation-constructive
 class: statute
-
+draft: false
 bookHidden: true
 ---
 

@@ -4,7 +4,7 @@ short: Protection of Property Act
 reporter: 'RSNS 1989, c 363'
 description: This statute establishes a quasi-criminal action in trespass to land and sets out the conditions under which such an action can be made out, including what counts as an "occupier" of the relevant premises. 
 doctrines:
-  - trespass
+  - finders
 type: statute
 public: true
 sources:
@@ -15,7 +15,7 @@ sources:
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
-
+weight: 90
 bookHidden: true
 ---
 

@@ -7,14 +7,15 @@ year: 2024
 facts: A review of the constitutionality of the enforcement a municipal Parks bylaw in Hamilton Ontario.
 issue: 
 held: 
+description: A review of the constitutionality of the enforcement a municipal Parks bylaw in Hamilton Ontario.
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - right-to-shelter
-
+  - shelter
+weight: 30
 bookHidden: true
 ---
 

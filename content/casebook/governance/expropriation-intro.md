@@ -1,11 +1,11 @@
 ---
 class: concept
-title: Expropriation
+title: Introduction to Expropriation
 short: Expropriation
 description: An introduction to expropriation
 doctrines:
-  - police-power
-
+  - expropriation
+weight: 5
 bookHidden: true
 ---
 

@@ -9,6 +9,7 @@ year: 1925
 facts: The School Board purchased two residential properties, and planned to build a new school on the site. They deposited plans with the city architect to create a temporary school in the meantime. The Board of Control lobbied City Council to pass a bylaw to rezone the area to prevent a school from being built, and asked the city architect not to approve the plans until then. City Council subsequently passed a bylaw zoning the area as strictly residential.
 issue: Whether the school board had acquired rights to build a school notwithstanding the bylaw.
 held: The bylaw extinguished the School Board's right to build a school on the property. The School Board had not been using the property as a school, and any potential right to have the permit approved was negated by the bylaw. 
+description: The School Board purchased two residential properties, and planned to build a new school on the site. They deposited plans with the city architect to create a temporary school in the meantime. The Board of Control lobbied City Council to pass a bylaw to rezone the area to prevent a school from being built, and asked the city architect not to approve the plans until then. City Council subsequently passed a bylaw zoning the area as strictly residential.
 public: true
 sources:
   - source_name: CanLII
@@ -16,7 +17,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - acquired-rights
-
+weight: 60
 bookHidden: true
 ---
 

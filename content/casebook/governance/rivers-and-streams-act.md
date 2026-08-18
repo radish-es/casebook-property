@@ -3,10 +3,10 @@ title: Rivers and Streams Act
 short: Rivers and Streams Act
 reporter: '(1881), c 11'
 doctrines: 
-  - police-power
+  - expropriation
 class: statute
 description: Provincial legislation at issue in the McLaren and Caldwell saga.
-
+weight: 25
 bookHidden: true
 ---
 

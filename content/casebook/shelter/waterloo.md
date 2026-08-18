@@ -13,8 +13,8 @@ sources:
     source_url: 'https://canlii.ca/t/215hs'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
-  - right-to-shelter
-
+  - shelter
+draft: true
 bookHidden: true
 ---
 

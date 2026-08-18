@@ -7,6 +7,7 @@ year: 1990
 facts: The trustee administered a scholarship with racist eligibility provisions. The Ontario Human Rights Commission sought to have these provisions struck down. 
 issue: Whether the terms of the scholarship trust are contrary to public policy.
 held: The terms of the trust are contrary to public policy on discrimination. The offending terms are struck down.
+description: The trustee administered a scholarship with racist eligibility provisions. The Ontario Human Rights Commission sought to have these provisions struck down. 
 public: true
 sources:
   - source_name: CanLII
@@ -18,8 +19,8 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
 doctrines:
-  - qualified-transfers
-
+  - qualified
+weight: 110
 bookHidden: false
 ---
 

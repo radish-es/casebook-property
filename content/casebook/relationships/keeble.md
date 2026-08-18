@@ -13,6 +13,7 @@ sources:
     license: 
 doctrines:
   - finders
+  - nuisance
 description: Defendant scares the ducks away on Plaintiff's land.
 weight: 25
 bookHidden: false

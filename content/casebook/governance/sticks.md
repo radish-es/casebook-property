@@ -1,10 +1,10 @@
 ---
 title: Bundle of Sticks
-class: concept
+type: secondary
 description: A useful metaphor for understanding common law property rights as sticks in a bundle.
 doctrines:
-    - trespass
-
+    - estates
+weight: 90
 bookHidden: true
 ---
 

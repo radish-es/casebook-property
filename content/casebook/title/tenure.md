@@ -17,7 +17,7 @@ source: >-
 public: true
 doctrines:
   - estates
-
+weight: 10
 bookHidden: false
 ---
 

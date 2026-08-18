@@ -5,7 +5,8 @@ type: secondary
 
 description: In the course of the legal dispute between McLaren and Caldwell, members of the governing federal Conservatives the Liberal party in opposition debated the whether or not to "disallow" the legislation at issue based on whether or not it was legitimate for the state to expropriate private land without compensation. 
 doctrines:
-  - police-power
+  - expropriation
+weight: 30
 bookHidden: false
 ---
 
