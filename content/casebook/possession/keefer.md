@@ -16,7 +16,7 @@ sources:
 doctrines:
   - adverse-possession
 weight: 30
-bookHidden: false
+bookHidden: true
 ---
 
 ## Wilson, J.A. -- 

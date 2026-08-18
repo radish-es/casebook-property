@@ -16,7 +16,7 @@ sources:
 doctrines:
   - covenants-policy
 weight: 30
-bookHidden: false
+bookHidden: true
 ---
 *This case addressed a discriminatory restrictive covenant attached to land forming part of a summer resort development called the Beach O'Pines. The covenant, in clause (f), prohibited the sale, transfer or lease of the land to, or use or occupancy by, individuals of Jewish "race or blood" or people of colour, and expressed an intention to restrict ownership of land in the resort development to "persons of the white or Caucasian race not excluded by this clause."*
 

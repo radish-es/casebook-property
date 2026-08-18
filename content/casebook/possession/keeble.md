@@ -16,7 +16,7 @@ doctrines:
   - nuisance
 description: Defendant scares the ducks away on Plaintiff's land.
 weight: 25
-bookHidden: false
+bookHidden: true
 ---
 
 Action upon the case. Plaintiff declares that he was, 8th November in the second year of the Queen, lawfully possessed of a close of land called Minott’s Meadow, [where he maintained] a decoy pond, to which divers wildfowl used to resort and come: and the plaintiff had at his own costs and charges prepared and procured divers decoy ducks, nets, machines and other engines for the decoying and taking of the wildfowl, and enjoyed the benefit in taking them: the defendant, knowing which, and intending to damnify the plaintiff in his vivary, and to fright and drive away the wildfowl used to resort thither, and deprive him of his profit, did, on the 8th of November, resort to the head of the said pond and vivary, and did discharge six guns laden with gunpowder, and with the noise and stink of the gunpowder did drive away the wildfowl then being in the pond: and on the 11th and 12th days of November the defendant, with design to damnify the plaintiff, and fright away the wildfowl, did place himself with a gun near the vivary, and there did discharge the said gun several times that was then charged with the gunpowder against the said decoy pond, whereby the wildfowl were frighted away, and did forsake the said pond. Upon not guilty pleaded, a verdict was found for the plaintiff and 20l. damages. 

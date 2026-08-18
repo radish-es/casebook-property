@@ -9,7 +9,7 @@ description: This case considers the enforceability of a covenant between the ow
 doctrines:
   - covenants
 weight: 10
-bookHidden: false
+bookHidden: true
 ---
 
 ### The Facts

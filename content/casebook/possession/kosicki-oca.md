@@ -16,7 +16,7 @@ sources:
 doctrines:
   - adverse-possession
 weight: 40
-bookHidden: false
+bookHidden: true
 ---
 
 ## Sossin J.A. --

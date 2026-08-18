@@ -8,7 +8,7 @@ description: Placeholder
 doctrines:
   - possession
 
-bookHidden: false
+bookHidden: true
 weight: 50
 ---
 

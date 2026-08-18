@@ -16,7 +16,7 @@ sources:
 doctrines:
   - expropriation
 weight: 20
-bookHidden: false
+bookHidden: true
 ---
 
 ## Background to the Case

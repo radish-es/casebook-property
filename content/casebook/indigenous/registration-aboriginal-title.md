@@ -7,7 +7,7 @@ public: true
 doctrines:
   - registration
 weight: 15
-bookHidden: false
+bookHidden: true
 ---
 
 

@@ -5,7 +5,7 @@ type: statute
 doctrines:
   - title
 description: This article describes the history and current challenges around Nova Scotia's Land Titles Clarification Act from a critical race perspective applying theories of interest convergence.
-bookHidden: false
+bookHidden: true
 ---
 
 Please read the following article available online: [Melisa Marsman, Good Deeds? A Critical Race Analysis of the Nova Scotia Land Titles Clarification Act" (2024) 47:2 *Dalhousie Law Journal* 620](https://digitalcommons.schulichlaw.dal.ca/cgi/viewcontent.cgi?article=2252&context=dlj).

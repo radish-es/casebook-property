@@ -9,6 +9,6 @@ public: true
 doctrines:
   - qualified
 weight: 80
-bookHidden: false
+bookHidden: true
 ---
 

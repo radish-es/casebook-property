@@ -15,7 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - covenants-policy
-bookHidden: false
+bookHidden: true
 weight: 20
 ---
 

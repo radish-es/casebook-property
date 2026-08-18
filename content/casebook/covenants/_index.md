@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Restrictive Covenants
-
 ## Forming a Valid Covenant
 
 {{< casebook-section sec-name="covenants" >}}

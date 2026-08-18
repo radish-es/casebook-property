@@ -7,7 +7,7 @@ public: true
 doctrines:
   - trusts
 weight: 25
-bookHidden: false
+bookHidden: true
 ---
 
 

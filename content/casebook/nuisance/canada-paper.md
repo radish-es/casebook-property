@@ -16,7 +16,7 @@ sources:
 doctrines:
   - nuisance-remedy
 weight: 50
-bookHidden: false
+bookHidden: true
 ---
 
 ### The Chief Justice —

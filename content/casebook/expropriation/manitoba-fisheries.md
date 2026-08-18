@@ -9,7 +9,7 @@ public: true
 doctrines:
   - expropriation-constructive
 weight: 50
-bookHidden: false
+bookHidden: true
 ---
 
 ### Ritchie J.:--

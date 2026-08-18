@@ -7,7 +7,7 @@ doctrines:
   - aboriginal-title
 weight: 25
 
-bookHidden: false
+bookHidden: true
 ---
 
 *Terra nullius* is a term that refers to a “territory without a master.” It is a term used in public international law to describe a space that can be inhabited but that does not belong to a state, meaning the land is not owned by anyone. In fact, when a State or an entity describes a land as a *terra nullius*, the land is in reality occupied – by a nation or a minority – but the term has oftentimes been used in order to legitimize state occupation and colonization. In international public law, when the definition *terra nullius* is given to a land, it can legally legitimize its occupation and acquisition of sovereignty by another nation, under the doctrine of discovery, which the International Court of Justice (ICJ) has approved as a legal method of acquisition of territory.

@@ -18,7 +18,7 @@ public: true
 doctrines:
   - trusts
 weight: 10
-bookHidden: false
+bookHidden: true
 ---
 
 *Adapted from James Grimmelmann, "Trusts and Corporations" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*

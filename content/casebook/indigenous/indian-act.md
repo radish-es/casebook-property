@@ -13,7 +13,7 @@ type: statute
 public: true
 
 description: Federal legislation establishing the structure of land rights in reserve lands. 
-bookHidden: false
+bookHidden: true
 weight: 10
 ---
 

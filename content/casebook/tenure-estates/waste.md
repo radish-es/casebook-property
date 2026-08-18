@@ -9,6 +9,6 @@ public: true
 doctrines:
   - estates
 weight: 70
-bookHidden: false
+bookHidden: true
 ---
 

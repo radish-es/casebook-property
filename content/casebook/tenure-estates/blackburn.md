@@ -17,7 +17,7 @@ sources:
 doctrines:
   - qualified
 weight: 90
-bookHidden: false
+bookHidden: true
 ---
 
 ## Davies J. —

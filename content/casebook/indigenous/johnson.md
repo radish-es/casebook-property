@@ -12,7 +12,7 @@ public: true
 doctrines:
   - aboriginal-title
 weight: 10
-bookHidden: false
+bookHidden: true
 
 ---
 

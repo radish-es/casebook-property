@@ -10,7 +10,7 @@ public: true
 doctrines:
   - aboriginal-title
 weight: 80
-bookHidden: false
+bookHidden: true
 ---
 
 ## B.M. Young J. --

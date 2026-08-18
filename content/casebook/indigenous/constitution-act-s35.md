@@ -11,7 +11,7 @@ doctrines:
 type: statute
 description: The key provision in Canada's constitution recognizing and affirming Aboriginal and treaty rights, including Aboriginal Title. 
 weight: 40
-bookHidden: false
+bookHidden: true
 ---
 
 ## Section 35

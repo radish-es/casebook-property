@@ -7,7 +7,7 @@ doctrines:
 type: statute
 public: true
 description: Nova Scotia's legislation establishing a land title registration system. 
-bookHidden: false
+bookHidden: true
 ---
 
 **Registered interests**

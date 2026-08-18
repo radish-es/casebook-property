@@ -10,7 +10,7 @@ public: true
 doctrines:
   - covenants
 weight: 30
-bookHidden: false
+bookHidden: true
 ---
 
 

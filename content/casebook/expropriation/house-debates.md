@@ -7,7 +7,7 @@ description: In the course of the legal dispute between McLaren and Caldwell, me
 doctrines:
   - expropriation
 weight: 30
-bookHidden: false
+bookHidden: true
 ---
 
 ### Mr. McCarthy —

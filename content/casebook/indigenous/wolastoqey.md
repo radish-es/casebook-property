@@ -10,7 +10,7 @@ public: true
 doctrines:
   - aboriginal-title
 weight: 90
-bookHidden: false
+bookHidden: true
 ---
 
 ## Drapeau J.A. (for the Court) --

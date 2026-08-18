@@ -12,7 +12,7 @@ public: true
 doctrines:
   - estates
 weight: 30
-bookHidden: false
+bookHidden: true
 ---
 
 ## Middleton J.A. —

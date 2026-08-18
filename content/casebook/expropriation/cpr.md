@@ -17,7 +17,7 @@ sources:
 doctrines:
   - expropriation-constructive
 weight: 80
-bookHidden: false
+bookHidden: true
 ---
 
 

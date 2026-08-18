@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Expropriation
-
 ## Eminent Domain
 
 {{< casebook-section sec-name="expropriation" >}}

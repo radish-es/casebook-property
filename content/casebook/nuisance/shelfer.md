@@ -12,7 +12,7 @@ public: true
 doctrines:
   - nuisance-remedy
 weight: 40
-bookHidden: false
+bookHidden: true
 ---
 
 

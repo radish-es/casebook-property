@@ -7,7 +7,7 @@ public: true
 doctrines:
   - aboriginal-title
 weight: 100
-bookHidden: false
+bookHidden: true
 ---
 
 *Adapted from Land Back: A Yellowhead Institute Red Paper (October 2019), online: https://redpaper.yellowheadinstitute.org/*

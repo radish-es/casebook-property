@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Possession
-
 Possession as a founding concept in Anglo-Canadian law.
 
 ## First Possession

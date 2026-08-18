@@ -11,8 +11,7 @@ held: Popov and Hayashi each had possessory interest in the ball. Popov had a pr
 public: true
 doctrines:
   - possession
-
-bookHidden: false
+bookHidden: true
 weight: 23
 ---
 

@@ -17,7 +17,7 @@ sources:
 doctrines:
   - acquired-rights
 weight: 80
-bookHidden: false
+bookHidden: true
 ---
 
 

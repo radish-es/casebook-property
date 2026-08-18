@@ -13,7 +13,7 @@ doctrines:
   - finders
 weight: 26
 description: Brief discussion of the doctrine of ratione soli.
-bookHidden: false
+bookHidden: true
 ---
 
 *From opensourceproperty.org*

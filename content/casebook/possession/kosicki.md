@@ -16,7 +16,7 @@ sources:
 doctrines:
   - adverse-possession
 weight: 50
-bookHidden: false
+bookHidden: true
 ---
 
 ## O'Bonsawin J.(Wagner C.J. and Côté, Rowe and Moreau JJ. concurring) --

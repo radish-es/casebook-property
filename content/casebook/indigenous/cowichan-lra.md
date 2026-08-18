@@ -8,7 +8,7 @@ facts: This except from the case addresses the relationship between proven Cowic
 public: true
 doctrines:
   - aboriginal-title
-bookHidden: false
+bookHidden: true
 draft: true
 ---
 

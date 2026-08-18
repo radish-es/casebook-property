@@ -17,7 +17,7 @@ sources:
 doctrines:
   - aboriginal-title
 weight: 50
-bookHidden: false
+bookHidden: true
 ---
 
 ## Lamer C.J.C --

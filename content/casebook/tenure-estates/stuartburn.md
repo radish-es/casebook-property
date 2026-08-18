@@ -17,7 +17,7 @@ sources:
 doctrines:
   - estates
 weight: 60
-bookHidden: false
+bookHidden: true
 ---
 
 ## Wright J. —

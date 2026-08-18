@@ -17,7 +17,7 @@ sources:
 doctrines:
   - qualified
 weight: 120
-bookHidden: false
+bookHidden: true
 ---
 
 *Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*
