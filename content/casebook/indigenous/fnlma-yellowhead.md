@@ -12,7 +12,7 @@ sources:
 doctrines:
   - reserves
 description: A report by the Yellowhead Institute providing a critical analysis of the First Nations Land Management Regime. 
-weight: 30
+weight: 220
 bookHidden: true
 ---
 

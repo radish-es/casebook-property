@@ -1,13 +1,13 @@
 ---
 title: Peace and Friendship Treaty (1725)
 short: 1725 Treaty
-class: secondary_sources
+type: secondary
 public: true
 doctrines:
   - treaty
 description: This treaty—the first in a line of treaties entered into by the British and Indigenous nations in the Atlantic region—was first signed in Boston in 1725. The same treaty was signed with different Indigenous parties one year later in 1726
 bookHidden: true
-weight: 20
+weight: 25
 ---
 
 ### Ratification of 1725 Treaty

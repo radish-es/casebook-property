@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Public Land
-
 ## Political Expression
 
 {{< casebook-section sec-name="political-expression" >}}

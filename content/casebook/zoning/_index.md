@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Zoning
-
 ## Zoning Controls
 
 {{< casebook-section sec-name="zoning" >}}

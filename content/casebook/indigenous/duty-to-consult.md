@@ -4,7 +4,7 @@ short: Duty
 type: secondary
 doctrines:
   - aboriginal-title
-weight: 70
+weight: 170
 description: A brief summary of the Crown's constitutional duty to consult and accommodate. 
 bookHidden: true
 ---

@@ -14,7 +14,7 @@ public: true
 
 description: Federal legislation enabling First Nations to opt out of the lands-related provisions of the Indian Act. 
 bookHidden: true
-weight: 20
+weight: 210
 ---
 
 8 On the coming into force of the land code of a First Nation, the rights and obligations of His Majesty in right of Canada as grantor in respect of the interests or land rights and the licences described in the First Nation’s individual agreement referred to in clause 6 of the Framework Agreement are transferred to the First Nation in accordance with that individual agreement.

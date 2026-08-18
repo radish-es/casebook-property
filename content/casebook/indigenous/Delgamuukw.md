@@ -16,7 +16,7 @@ sources:
     attribution: Not an official version.
 doctrines:
   - aboriginal-title
-weight: 50
+weight: 150
 bookHidden: true
 ---
 

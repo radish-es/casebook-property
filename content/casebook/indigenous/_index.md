@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Indigenous Land Rights and Governance
-
 ## Treaty
 
 {{< casebook-section sec-name="treaty" >}}

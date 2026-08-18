@@ -10,7 +10,7 @@ doctrines:
   - aboriginal-title
 type: statute
 description: The key provision in Canada's constitution recognizing and affirming Aboriginal and treaty rights, including Aboriginal Title. 
-weight: 40
+weight: 140
 bookHidden: true
 ---
 

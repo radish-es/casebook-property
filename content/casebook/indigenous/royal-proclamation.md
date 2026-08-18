@@ -6,7 +6,7 @@ public: true
 doctrines:
   - aboriginal-title
 bookHidden: true
-weight: 5
+weight: 100
 description: A edict issued by King George III in 1763 following the Treaty of Paris--by which Britain acquired control over French territories in North America--and establishing the British Crown's colonial policy at the time with respect to Indigenous land rights. 
 ---
 

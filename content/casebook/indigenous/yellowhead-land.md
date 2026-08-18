@@ -6,7 +6,7 @@ description: A research paper on the legal foundations of the Land Back movement
 public: true
 doctrines:
   - aboriginal-title
-weight: 100
+weight: 195
 bookHidden: true
 ---
 

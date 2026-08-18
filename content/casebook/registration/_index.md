@@ -6,7 +6,5 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Title Registration
-
 {{< casebook-section sec-name="registration" >}}
 

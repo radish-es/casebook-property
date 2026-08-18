@@ -9,7 +9,7 @@ description: In its Statement of Claim, the Wolastoqey Nation sought a declarati
 public: true
 doctrines:
   - aboriginal-title
-weight: 90
+weight: 190
 bookHidden: true
 ---
 

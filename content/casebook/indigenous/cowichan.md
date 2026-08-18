@@ -9,7 +9,7 @@ description: The plaintiffs, on their own behalf and on behalf of the descendant
 public: true
 doctrines:
   - aboriginal-title
-weight: 80
+weight: 180
 bookHidden: true
 ---
 

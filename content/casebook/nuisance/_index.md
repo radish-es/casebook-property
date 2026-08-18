@@ -6,8 +6,6 @@ bookCollapseSection: true
 bookTOC: false
 ---
 
-# Nuisance
-
 ## Claims in Nuisance
 
 {{< casebook-section sec-name="nuisance" >}}

@@ -38,15 +38,21 @@
     </div>
 {{- end }}
 
-<!-- Next file in casebook -->
+<!-- Last file in casebook -->
 
 {{ $pages := .CurrentSection.Pages.ByWeight }}
 {{ with $pages.Next . }}
     <div class="indicator-wrap">
         <div class="indicator">
+            <a href="{{ .RelPermalink }}">Previous in Casebook: {{ .Title }}</a>
+        </div>
+    </div>
+{{ end }}
+{{ with $pages.Prev . }}
+    <div class="indicator-wrap">
+        <div class="indicator">
             <a href="{{ .RelPermalink }}">Next in Casebook: {{ .Title }}</a>
         </div>
     </div>
-  
 {{ end }}
 
