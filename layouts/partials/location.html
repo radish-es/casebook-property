@@ -29,10 +29,15 @@
 {{ end }}
  
  
- <!-- find chapter from casebook 
+
 {{- range last 1 .Ancestors.Reverse }}
-    | <a href="{{ .RelPermalink }}">Casebook {{ .Title }}</a>
+    <div class="indicator-wrap">
+                <div class="indicator">
+                    <a href="{{ .RelPermalink }}">Casebook: {{ .Title }}</a>
+                </div>
+            </div>
+    
 {{- end }}
---> 
+
 
 
