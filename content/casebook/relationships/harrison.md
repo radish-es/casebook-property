@@ -6,6 +6,7 @@ year: 1975
 facts: Sophie Carswell was charged with unlawfully trespassing on the Polo Park Shopping Centre after engaging in a strike on the mall sidewalk as part of a labour dispute with her employer, a tenant of the mall.
 issue: Whether the mall ownership had sufficient possession of the mall sidewalk to exclude trespassers.
 held: For plaintiff. The majority found that the fundamental property right to exclude should not be balanced against picketing rights, and affirmed that these rights extend to the owners of shopping centres. The dissent argued that the public invitation and unrestricted access given to mall patrons means that a defendant taking part in a legally sanctioned labour dispute on a mall sidewalk cannot be excluded for trespass.
+description: Sophie Carswell was charged with unlawfully trespassing on the Polo Park Shopping Centre after engaging in a strike on the mall sidewalk as part of a labour dispute with her employer, a tenant of the mall.
 public: true
 sources:
   - source_name: CanLII
@@ -13,9 +14,8 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 doctrines:
-  - possession
-  - trespass
-
+  - finders
+weight: 70
 bookHidden: true
 ---
 

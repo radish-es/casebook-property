@@ -1,10 +1,11 @@
 ---
 type: case
-title: Kosicki v Toronto (City)
+title: Kosicki v Toronto (City) [SCC]
 short: Kosicki
 reporter: 2025 SCC 28 (CanLII)
 year: 2025
 facts: A private owner claims adverse possession of municipal parkland in Toronto, raising the critical question of whether the municipality is immune from such claims in certain contexts.
+description: A private owner claims adverse possession of municipal parkland in Toronto, raising the critical question of whether the municipality is immune from such claims in certain contexts.
 issue: 
 held: 
 public: true
@@ -14,7 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - adverse-possession
-
+weight: 50
 bookHidden: false
 ---
 

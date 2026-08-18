@@ -7,11 +7,11 @@ year: 1772
 facts: The plaintiff chimney sweep found a jewel in the course of his work and took it to the defendant to have it appraised. Upon demanding the jewel's return, the defendant refused to give it back to the plaintiff.
 issue: Relative possession
 held: For the plaintiff. One who finds a chattel is considered its owner against anyone in the world other than its prior and rightful owner.
+description: The plaintiff chimney sweep found a jewel in the course of his work and took it to the defendant to have it appraised. Upon demanding the jewel's return, the defendant refused to give it back to the plaintiff.
 public: true
 doctrines:
   - finders
-
-weight: 21
+weight: 10
 bookHidden: true
 ---
 

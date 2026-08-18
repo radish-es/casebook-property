@@ -10,10 +10,9 @@ held: For plaintiff. The majority found that the plaintiff established possessio
 public: true
 doctrines: 
   - possession
-
 bookHidden: true
-weight: 30
-description: Two ships compete on the ice flows for seal pelts.
+weight: 22
+description: Both the plaintiff and defendant operated seal fishing vessels stuck in ice. The plaintiff's crew had killed a large number of seals, and sculped and piled many of them. They were bringing the seals on board their vessel until shifting ice brought the seals closer to the defendsant's boat. Subsequently, the defendant's crew began to take the seals for themselves.
 ---
 
 ### Hoyles C.J.  —

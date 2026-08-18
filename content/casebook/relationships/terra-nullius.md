@@ -4,7 +4,8 @@ description: A brief description of the common law doctrine of terra nullius.
 type: secondary
 source: This excerpt adapts and builds on the "terra nullius" entry in Wex, published by the Legal Information Institute at Cornell Law School, available at https://www.law.cornell.edu/wex/terra_nullius, and published under the Creative Commons CC BY-NC-SA 2.5 license. 
 doctrines:
-  - treaty
+  - aboriginal-title
+weight: 25
 
 bookHidden: false
 ---

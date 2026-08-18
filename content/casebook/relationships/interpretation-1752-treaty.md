@@ -1,13 +1,13 @@
 ---
-title: Early Interpretation of the 1752 Treaty
-short: Early Interpretation
-class: context
+title:  Interpretation of the 1752 Treaty after Syliboy
+short:  Interpretation
+type: secondary
 doctrines:
     - treaty
-
+weight: 50
 bookHidden: true
+description: A note on the interpretation of the 1752 Peace and Friendship Treaty in the several decades following the R v Syliboy decision.
 ---
-
 
 In 1928, Grand Chief Gabriel Syliboy was charged and ultimately convicted of hunting muskrats out of season on Unamaki (Cape Breton). Justice Patterson's interpretation of the 1752 treaty in *R v Syliboy*—though ultimately rejected by Canadian courts—would stand as an authoritative common law precedent for many years to come. The decision would influence relationships between Mi'kmaq peoples and the Crown long after it was issued. As William Wicken notes:[^wicken1995]
 

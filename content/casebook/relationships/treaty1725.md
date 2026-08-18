@@ -5,12 +5,10 @@ class: secondary_sources
 public: true
 doctrines:
   - treaty
-
+description: This treaty—the first in a line of treaties entered into by the British and Indigenous nations in the Atlantic region—was first signed in Boston in 1725. The same treaty was signed with different Indigenous parties one year later in 1726
 bookHidden: true
+weight: 20
 ---
-
-
-[*This treaty—the first in a line of treaties entered into by the British and Indigenous nations in the Atlantic region—was first signed in Boston in 1725. The same treaty was signed with different Indigenous parties one year later in 1726.*]
 
 ### Ratification of 1725 Treaty
 

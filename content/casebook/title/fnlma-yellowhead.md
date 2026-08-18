@@ -11,7 +11,8 @@ sources:
       Shalene Jobin and Emily Riddle, "The Rise of the First Nations Land Management Regime in Canada - A Critical Analysis" (Yellowhead Institute, 2019)
 doctrines:
   - reserves
-
+description: A report by the Yellowhead Institute providing a critical analysis of the First Nations Land Management Regime. 
+weight: 30
 bookHidden: true
 ---
 

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="markdown book-article">
+
+Hello
+
+  <h1>
+    <!--<a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>-->
+    {{ partial "breadcrumbs.html" . }}
+  </h1>
+
+  {{- .Content -}}
+
+
+</article>
+{{ end }}

@@ -7,6 +7,7 @@ source: "Excerpted from: James [sákéj] Youngblood Henderson, Mikmaw Tenure in 
 doctrines:
     - treaty
 bookHidden: true
+weight: 10
 ---
 
 [*Excerpted from: James [sákéj] Youngblood Henderson, Míkmaw Tenure in Atlantic Canada 18(2) Dalhousie Law Journal 196. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)*]

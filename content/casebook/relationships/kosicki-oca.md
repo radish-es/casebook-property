@@ -1,10 +1,11 @@
 ---
 type: case
-title: Kosicki v Toronto (City)
+title: Kosicki v Toronto (City) [OCA]
 short: Kosicki
 reporter: 2023 ONCA 450 (CanLII)
 year: 2023
 facts: A private owner claims adverse possession of municipal parkland in Toronto.
+description: A private owner claims adverse possession of municipal parkland in Toronto.
 issue: 
 held: 
 public: true
@@ -14,7 +15,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
 doctrines:
   - adverse-possession
-
+weight: 40
 bookHidden: false
 ---
 

@@ -5,11 +5,11 @@ short: Wolastoqey
 reporter: '2025 NBCA 129'
 year: 2025
 facts: In its Statement of Claim, the Wolastoqey Nation sought a declaration of Aboriginal Title in ungranted Crown lands as well as lands subject to fee simple interests held by the appellant and other named Industrial Defendants, but not in lands subject to other fee simple interests held by Strangers to the Claim.
+description: In its Statement of Claim, the Wolastoqey Nation sought a declaration of Aboriginal Title in ungranted Crown lands as well as lands subject to fee simple interests held by the appellant and other named Industrial Defendants, but not in lands subject to other fee simple interests held by Strangers to the Claim.
 public: true
-
 doctrines:
   - aboriginal-title
-
+weight: 90
 bookHidden: false
 ---
 

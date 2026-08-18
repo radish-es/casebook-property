@@ -10,8 +10,9 @@ sources:
     source_url: opensourceproperty.org
     license: 
 doctrines:
-  - possession
-
+  - finders
+weight: 26
+description: Brief discussion of the doctrine of ratione soli.
 bookHidden: false
 ---
 

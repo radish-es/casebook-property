@@ -5,10 +5,11 @@ short: Simon
 reporter: 1985 CanLII 11 (SCC)
 year: 1985
 facts: The appellant, a Mi'kmaw hunter, was charged with possession of a rifle and shotgun cartridges. The appellant admitted to the charges but argued that his right to hunt as established in the Treaty of 1752 gave him immunity from prosecution. 
+description: The appellant, a Mi'kmaw hunter, was charged with possession of a rifle and shotgun cartridges. The appellant admitted to the charges but argued that his right to hunt as established in the Treaty of 1752 gave him immunity from prosecution. 
 public: true
 doctrines:
   - treaty
-weight: 15
+weight: 60
 bookHidden: true
 ---
 

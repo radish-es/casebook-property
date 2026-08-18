@@ -1,20 +1,14 @@
 ---
 title: Peace and Friendship Treaty (1752)
 short: 1752 Treaty
-class: secondary_sources
+type: secondary
 public: true
 doctrines:
   - treaty
-
+weight: 30
+description: This text of the 1752 treaty is quoted in R v Simon, [1985] 2 SCR 387 at para 6.
 bookHidden: true
 ---
-
-
-{{% callout alert %}}
-
-*The following text is quoted in R v Simon, [1985] 2 SCR 387 at para 6.*
-
-{{% /callout %}}
 
 Treaty or Articles of Peace and Friendship Renewed between His Excellency Peregrine Thomas Hopson Esquire Captain General and Governor in Chief in and over His Majesty's Province of Nova Scotia or Acadie. Vice Admiral of the same & Colonel of one of His Majesty's Regiments of Foot, and His Majesty's Council on behalf of His Majesty and Major Jean Baptiste Cope, chief Sachem of the Tribe of Mick Mack Indians Inhabiting the Eastern Coast of the said Province, and Andrew Hadley Martin, Gabriel Martin & Francis Jeremiah, Members and Delegates of the said Tribe, for themselves and their said Tribe their Heirs, and the Heirs of their Heirs forever, Begun made and concluded in the manner, form and Tenor following, vizt:
 

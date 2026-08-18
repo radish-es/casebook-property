@@ -1,10 +1,10 @@
 ---
 title: Abandonment
 description: An introduction to abandonment.
-class: concept
+type: concept
 doctrines:
-  - possession
-
+  - finders
+weight: 24
 bookHidden: true
 ---
 

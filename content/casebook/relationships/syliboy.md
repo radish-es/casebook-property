@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: R v Syliboy
 short: Syliboy
 reporter: 1928 CanLII 352 (NSSC)
@@ -7,6 +7,7 @@ year: 1928
 facts: Mi'kmaq Grand Chief Syliboy was convicted for hunting out of season. He submitted that, per the 1752 Peace and Friendship Treaty, he had the right to hunt at any time.
 issue: What is the effect of the 1752 treaty?
 held: The court found that the treaty was not made with the Mi'kmaq nation as a whole and did not extend to Cape Breton, that the treaty was never ratified by parliament, that it was ignored by subsequent statutes, and that the Mi'kmaq nation was not an independent power, so could not sign a treaty. As such, it was found to be invalid in the face of the Lands and Forests Act.
+description: Mi'kmaq Grand Chief Syliboy was convicted for hunting out of season. He submitted that, per the 1752 Peace and Friendship Treaty, he had the right to hunt at any time.
 public: true
 sources:
   - source_name: CanLII
@@ -14,7 +15,7 @@ sources:
     license: https://www.canlii.org/en/info/terms.html#license
 doctrines:
   - treaty
-
+weight: 40
 bookHidden: true
 ---
 

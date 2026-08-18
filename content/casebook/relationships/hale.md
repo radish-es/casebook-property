@@ -5,7 +5,7 @@ source: Political Science Quarterly (38 3 1923 470)
 type: secondary
 description: Hale discusses the unique ways in which state-created and enforced property is inevitably coercive.
 doctrines:
-  - possession
+  - coersion
 bookHidden: false
 weight: 30
 ---

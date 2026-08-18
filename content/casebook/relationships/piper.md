@@ -7,6 +7,7 @@ year: 1913
 facts: Piper enclosed and cultivated land for years. Stevenson said he had purchased that land and that Piper is not the owner.
 issue: Whether Piper acquired ownership of the land through adverse possession.
 held: Piper's acts of enclosure and cultivation were exclusive and continuous for enough time to grant better tile than Stevenson through adverse possession.
+description: Piper enclosed and cultivated land for years. Stevenson said he had purchased that land and that Piper is not the owner.
 public: true
 sources:
   - source_name: CanLII
@@ -15,7 +16,7 @@ sources:
     attribution: ""
 doctrines:
   - adverse-possession
-
+weight: 20
 bookHidden: true
 ---
 

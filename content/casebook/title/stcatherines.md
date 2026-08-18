@@ -6,11 +6,12 @@ reporter: '(1886), 10 OR 196 (HC); [1887] 13 SCR 577; [1888] UKPC 70 (JCPC)'
 year: 1886
 facts: A dispute between the governments of Ontario and Canada about title to land subject to Treaty 3 between the Anishinaabe and the Dominion government. The provincial government argued that title in the land had transferred to the Crown in right of Ontario at Confederation, while Canada asserted that Anishinaabe title to the land survived Confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
 issue: Who holds beneficial title to the land? What is the source and content of Aboriginal title?
+description: A dispute between the governments of Ontario and Canada about title to land subject to Treaty 3 between the Anishinaabe and the Dominion government. The provincial government argued that title in the land had transferred to the Crown in right of Ontario at Confederation, while Canada asserted that Anishinaabe title to the land survived Confederation but was surrendered to Crown in right of Canada when Treaty 3 was signed.
 held: 
 public: true
 doctrines:
   - aboriginal-title
-
+weight: 20
 bookHidden: false
 
 ---

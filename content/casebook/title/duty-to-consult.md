@@ -4,7 +4,8 @@ short: Duty
 class: concept
 doctrines:
   - aboriginal-title
-
+weight: 70
+description: A brief summary of the Crown's constitutional duty to consult and accommodate. 
 bookHidden: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Peace and Friendship Treaties
-class: concept
+type: secondary
 description: An explanation of peace and friendship treaties and the challenges of treaty interpretation
 doctrines:
   - treaty
-
+draft: true
 bookHidden: true
 ---
 

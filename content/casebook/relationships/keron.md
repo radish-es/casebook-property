@@ -6,6 +6,7 @@ reporter: 33 A. 1055 , 1056 (Jan 11, 1896)
 year: 1896
 facts: A group of boys discovers a lost sock and, only after playing with it among the group for some time, discovers that the sock contains a large sum of money.
 issue: Relative possession
+description: A group of boys discovers a lost sock and, only after playing with it among the group for some time, discovers that the sock contains a large sum of money.
 held: 
 public: true
 doctrines:
