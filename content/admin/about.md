@@ -1,32 +1,44 @@
 ---
 class: admin
-title: About this Course and the Casebook
+title: About the Course
 short: About
 weight: 2
 ---
 
-![](/imgs/kaleidoscope.jpg "800px")
+## What is this course about?
 
-## Our Aim in this Course
+This course is an introduction to property law in Canada. "Property" is notoriously difficult to define, 
+but a good starting point and working definition for our purposes is: "*respected relationships with land and between people with respect to land, and sometimes other things.*" Our focus is on property as it has emerged and changed in the Anglo-Canadian tradition, often in relation to other legal traditions which it encounters. 
 
-For first-year law students, "property" is a kaleidoscopic subject: fragmentary, blinkered, disorienting. As one (among many) possible ways of mediating our relationships with and in respect of land and other "things" both corporeal and incorporeal, property offers up a disorderly pattern of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others.
+But this course is also more than a survey of Canadian property law. It is about the history of property in the "making" of Canada: as a colonial imaginary at the intersection of imperial relations, as a federated territorial nation-state straining to construct an industrial economy from an essentially extractive one, as a contemporary bastion of global market liberalism. As such, and despite the longstanding divide between "private law" subjects (property, contract, tort) and "public law" subjects (constitutional, criminal, administrative), this course is as much about the public dimensions of state formation and change in Canada and about international relations as it is about legal relations between private parties. The central premise of the course is that property is a critical and necessary lens through which to understand how Canada was made (*not* discovered).
 
-There are likewise many ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach property from a *historical* perspective, focusing not only on how property law has changed over time but on the role that property has played in constituting the Canadian state and the key institutions, beliefs and values that have come to define it over time. In our contemporary political moment, where many of those institutions, beliefs and values are contested and in flux, our study of property will necessarily take a critical approach. 
+## How is this course designed and organized?
+
+As a learner in this course, it isn't necessary for you to understand the details of every pedagogical concept and tool employed to create this course as a unique approach to the study of first-year property. But a brief sketch of those concepts and tools will help you to orient yourself in the course and explain when this coursebook is organized in the way it is. 
+
+{{% hint warning %}}
+
+The key point to emphasize is that this is a *digital* coursebook---one impossible to replicate in print form. It's basic structure--familiar, intuitively, to everyone on the Internet--is a "hypertext" that presents  and organizes a set of core materials from different perspectives, along different learning pathways. 
+
+{{% /hint %}}
+
+### History meets doctrine
+
+Why design a property law text in such a non-linear way? Because there are at least two fundamental ways to study a legal subject like "property": (1) a doctrinal approach, in which whole legal doctrines (nuisance, servitudes, expropriation) are learned in succession, or (2) an historical approach, in which slices of intersecting doctrines are studied together within discrete periods of time, in order to better situate them relation to what else is happening in the world. Print media force teachers and learners to choose between these approaches, and standard practice for most law school courses in the common law tradition has favoured the former. 
+
+A digital coursebook offers the possibility of combining these two approaches in a single course. Each weekly or bi-weekly lesson explores property's role in making Canada during a particular era. As we build up our understanding of different doctrinal areas through this historical narrative, the coursebook also provides a more conventional view on our subject matter, collecting the cases, statues and other materials into comprehensive doctrinal categories. By the end of the course, the book will enable you to see the multiple connections between the material not visible from either the historical or doctrinal approach alone.  
+
+### Working through the problem
+
+Each lesson in the coursebook is organized around an applied problem that challenges you to put what you read into practice. This problem-based model dovetails with the dual approaches described above by (1) focusing our study of messy, real-world history on a tangible legal dispute while (2) supporting a genuine exploration of the material, recognizing that legal problem-solving admits multiple strategies and answers. 
+
+### Putting property in place
+
+One final aspect of this coursebook makes it unique to conventional designs: it expresses a commitment to teaching and learning about property situated in place. The idea here is that property concepts, rules and practices often have an intimate relationship to the geographies where they are enacted--so that to truly understanding what property means and what property does, it makes sense to study property in a particular place-based context. Of course, there are many different ways to define the relevant "place" for this context. For us, this will involve the overlapping spaces in which Dalhousie University is situated: Mi'kma'ki, Atlantic Canada, Nova Scotia and Halifax--and perhaps others along the way. 
+
+This place-based approach does not mean that we will only study the law in one particular local jurisdiction like Nova Scotia. Our main focus is on property's role in making Canada over the course of its history, and in order to address this focus we will explore a range of materials both domestic and international. But to the extent possible, we will develop this story through the lens of events and developments with a special relationship to our current place.
+
+## A User Manual for the Coursebook
 
 
-## Teaching Legal History
 
-- Progressive legal scholarship is having resurgent debates about the relationship between "law" and "society"--e.g. with "law-as-constitutive" scholars on one side and historical materialists on the other. These involve major disputes about key questions such as the autonomy of law from social life and the legitimacy of functionalism (i.e. law evolves to meet social needs) as a historiographic method. 
-
-The approach taken in this book follows Robert Gordon's "historicist" approach in *Critical Legal Histories*:[^gordon]
-
-> There are two basic ways of pursuing the historicist approach. One is simply to write the history of our own modes of thought, to try to identify when our categories for organizing how we speak about law solidified into something like their present shape. When, for example, did we separate a private realm of "market" activity from a public realm of "state" activity and come to think of the latter as "intervening" in the former? When does the term "regulation" begin to be used in its modern sense? When did tort separate from contract, "corporation" come to mean mostly "private business enterprise," and "efficiency" achieve its present significance for antitrust lawyers? When did lawyers start speaking of the the need to "balance" a multiplicity of "interests" in order to decide hard cases?
-> 
-> The other technique is the reconstruction of historical or cross-cultural modes of thought in such detail as to illustrate (a) that other societies have not shared the ways of thinking that we believe to be essential and obvious (they just don't have a counterpart conception to our idea of a "market" or of a "free individual," they don't think a "corporation" is legally any different from a family or a city, and either they don't distinguish between a "public" and a "private" realm or they mean something completely different by the distinction), and (b) that these views were completely plausible for the people who held them. Such work can have a real political edge to it, as when the historian takes a set of ruling ideological conceptions that his own time condemns as cruel or mistaken—legal rationalizations of slavery, for instance, or the due process Formalism of the *Lochner* era-enters into their world with (provisional) sympathy, and then shows how much sense those conceptions make on their own terms. The ways in which well-meaning gentlemen justified their social order--the social order that had so well situated them—-as just and efficient may look uncomfortably familiar. But the leading edge of historicism cuts deeper still: it tells us that the difficulties we have in imagining forms of social life different from and better than those we are accustomed to may be due to the limits on our conceptions of reality rather than to limits inherent in reality itself. After all, perfectly smart and forward-looking Americans of about a century ago habitually believed such things as that social order and economic prosperity depended absolutely on the maintenance of permanent class divisions or slavery; that it was absurd utopianism to suppose that blacks and whites could ever associate on terms of social intimacy or equality (or if they did, the results would be biological degradation of the species); that the physical constitution of women unfitted them for attendance at colleges, that unemployment insurance would take all the discipline and will to work out of the labor force; and that judicial failure to enforce harsh bargains to their rigorously formal letter would bring on the imminent collapse of capitalism.
-
-[^gordon]: Robert W Gordon, “Critical legal histories” (1984) 36 *Stanford Law Review* 57 at 99-100.
-
-
-## Canada in a Comparative Context
-
-So much of Canadian property law is actually shaped by what is happening elsewhere and defined by two major features of Canada's position in a globalizing world: (1) colony of Britain and (2) northern neighbour to the United States. (ref the historical work on nuisance and industralization)
