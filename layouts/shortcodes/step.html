@@ -1,0 +1,11 @@
+<!-- layouts/shortcodes/step.html -->
+<div class="step-item">
+  <div class="step-content">
+    {{ with .Get 0 }}
+      <h4 class="step-title">{{ . }}</h4>
+    {{ end }}
+    <div class="step-body">
+      {{ .Inner }}
+    </div>
+  </div>
+</div>
