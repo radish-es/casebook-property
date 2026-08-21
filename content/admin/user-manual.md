@@ -14,7 +14,7 @@ Having read the "[About the Course](../about)" section, you will have a general 
 {{% step "Review the lesson" %}}
 This full-year course is comprised of eight different lessons, with each lesson organized around a certain period in the history of Canada and covering one to two weeks of class meetings. 
 
-Your first step for each lesson is to review the lesson introduction in the "[Lessons]({{< ref "lessons/" >}})" folder (e.g., "[Origin Stories]({{< ref "lessons/lesson01" >}})" for the first lesson of the course). This step will help you to establish the historical context for the readings you will do during this lesson.
+Your first step for each lesson is to review the lesson introduction in the "[Lessons]({{< ref "units/lessons/" >}})" folder (e.g., "[Origin Stories]({{< ref "units/lessons/lesson01" >}})" for the first lesson of the course). This step will help you to establish the historical context for the readings you will do during this lesson.
 {{% /step %}}
 
 {{% step "Read the problem" %}}
@@ -22,7 +22,7 @@ Our class meetings for each lesson will focus on answering a hypothetical or rea
 
 At the end of each lesson introduction, you will find a link to the associated problem. Follow this link and read the problem carefully. Keep the problem and its questions in mind as you turn to the reading materials.
 
-All of the problems for the course can be found in the "[Problems]({{< ref "problems/" >}})" folder.
+All of the problems for the course can be found in the "[Problems]({{< ref "units/problems/" >}})" folder.
 {{% /step %}}
 
 {{% step "Prepare the readings" %}}

@@ -1,6 +1,7 @@
 ---
 title: Wowkwis
 short: Wowkwis
+type: problems
 description: A Mi'kmaw hunter pursues a fox through the woods, where it is killed by a dog walking off-leash with its owner. You are asked to consider the possible legal relationships at play in a claim to ownership.
 image: /imgs/fox.jpg
 imgcaption: Katerina Bartosova on Unsplash

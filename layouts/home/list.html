@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main style="padding: 30px;">
+  <article>
+  <div style="text-align: center;">
+    <h1 style="font-size: 80px;">
+        {{ .Title }}
+    </h1> 
+    <hr/>
+    <h2 style="font-size: 50px;; font-style: italic;">
+        {{ .Params.subtitle }}
+    </h2> 
+  </div>
+
+    {{ .Content }}
+
+  </article>
+
+</main>
+{{ end }}
