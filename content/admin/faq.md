@@ -4,6 +4,7 @@ title: FAQ
 short: FAQ
 weight: 3
 bookHidden: true
+draft: true
 ---
 
 This page addresses "Frequently Asked Questions" about using the *Land+Property* casebook. 

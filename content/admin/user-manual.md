@@ -2,19 +2,20 @@
 class: admin
 title: Coursebook User Manual
 short: User Manual
+description: A step-by-step how-to about how to use this coursebook and approach your reading and preparation for in-class meetings.
 weight: 3
 ---
 
 ## A User Manual for the Coursebook
 
-Having read the "[About the Course](../about)" section, you will have a general idea of how this digital coursebook differs in several ways from a conventional legal casebook designed for print. In order to get the most from the book, it is important for you to read and analyze the assigned materials for each lesson according to a specific process described here.
+Having read the "[About the Course](../about)" section, you will have a general idea of how this digital coursebook differs in several ways from a conventional legal casebook designed for print. In order to get the most from the book, it is important for you to read and analyze the assigned materials for each lesson according to the specific process described below. Following these steps will ensure that you don't miss out on critical material or linkages between readings adn that you come well-prepared to each class.
 
 {{< steps-container >}}
 
 {{% step "Review the lesson" %}}
 This full-year course is comprised of eight different lessons, with each lesson organized around a certain period in the history of Canada and covering one to two weeks of class meetings. 
 
-Your first step for each lesson is to review the lesson introduction in the "[Lessons]({{< ref "units/lessons/" >}})" folder (e.g., "[Origin Stories]({{< ref "units/lessons/lesson01" >}})" for the first lesson of the course). This step will help you to establish the historical context for the readings you will do during this lesson.
+Your first step for each lesson is to review the lesson introduction in the "[Lessons]({{< ref "units/lessons/" >}})" folder (e.g., "[Origin Stories]({{< ref "units/lessons/lesson01" >}})" for the first lesson of the course). This step will help you to establish the historical context for the readings you will study during this lesson.
 {{% /step %}}
 
 {{% step "Read the problem" %}}

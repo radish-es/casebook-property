@@ -2,6 +2,7 @@
 class: admin
 title: Course Syllabus
 short: Syllabus
+description: An explanation of course logistics, including details about goals and expectations, class meetings, support outside the classroom, requirement materials, evaluations, and applicable university policies. 
 weight: 1
 ---
 
@@ -15,13 +16,11 @@ Please **contact me by e-mail** ([jamie.baxter@dal.ca](mailto:jamie.baxter@dal.c
 
 ### Administration
 
-Information about course requirements and procedures can be found in this document (Course Syllabus) and the in the [Course Schedule]({{< ref "admin/schedule" >}}). Both of these documents are available in the [Administration]({{< ref "admin" >}}) section of the [course website]({{< ref "/" >}}). 
-
-The [Course Schedule]({{< ref "admin/schedule" >}}) may be amended during the year as needed. Please refer to the online versions of this document (rather than print-outs or local copies) for the most up-to-date information.
+Information about course requirements and procedures can be found in this document (Course Syllabus), available in the [Administration]({{< ref "admin" >}}) section of the [course website]({{< ref "/" >}}). 
 
 ### Class Meeting Schedule
 
-Our weekly meeting schedule is Mondays and Wednesdays from **11:05AM to 12:25PM in W104 (Fall) and W204 (Winter)**. Please see the [Course Schedule]({{< ref "admin/schedule" >}}) for details about class meetings, including assigned readings. 
+Our weekly meeting schedule is Mondays and Wednesdays from **11:05AM to 12:25PM in W104 (Fall) and W204 (Winter)**. 
 
 ### Class Meeting Format
 
@@ -57,7 +56,7 @@ All e-mail messages to me about the course should include in the subject line th
 
 All materials for this course are available online at [property.opensourcelaw.ca](http://property.opensourcelaw.ca) The materials are free to access; you do not need to purchase a casebook or other materials for the course. 
 
-Required readings for the course are assigned on a weekly basis — please consult the [Course Schedule]({{< ref "admin/schedule" >}}). Because of the casebook's unique problem-based format, you will only see new material (along with links to existing material) after that new material is assigned. 
+Required readings for the course are assigned on a bi-weekly (or in some cases weekly) basis. Because of the casebook's unique problem-based format, you will only see new material (along with links to existing material) after that new material is assigned. 
 
 Online versions of the weekly readings, posted on the course website, may contain interactive elements (instructional notes, podcasts, screencasts, quizzes, etc), so please aim to read these materials on your computer or tablet when possible. If you have any accessibility concerns about this format please don't hesitate to contact me. <!--However, I realize that this format may not suit everyone for all purposes. Each assigned reading is also available on the website in multiple formats (Rich Text, Microsoft Word, Adobe PDF) for you to download, to markup, to add your own notes, and/or to use to make your own summaries.-->
 

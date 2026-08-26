@@ -1,6 +1,6 @@
 ---
 title: Course Administration
-type: docs
+type: grid
 weight: 1
 # Can set the section to collapse here
 bookFlatSection: true
