@@ -1,6 +1,6 @@
 ---
-title: "Property: (Re)Making Canada"
-subtitle: An Open Legal Casebook
+title: "Property: Cases and Materials in (Re)Making Canada"
+subtitle: An Open Legal Coursebook
 type: home
 bookToC: false
 ---
@@ -21,37 +21,4 @@ For those who want to go even further down the open road, the tech stack used to
 
 <p style="text-align: right;">&mdash; <a href="https://www.dal.ca/faculty/law/faculty-staff/our-faculty/jamie-baxter.html">Jamie Baxter</a>, Schulich School of Law, Dalhousie University</p>
 
-## Learn About the Course
 
-<div class="wrapper-casebook" style="margin-top: 30px;">
-    <div class="box a">
-        <a href="">
-            <ul>
-                <li>
-                    <a href="./admin/syllabus"><h3>Course Syllabus</h3></a>
-                    <p>Review the current course syllabus, which includes information on course admin, course goals, access to course materials, evaluation, and accessibility and student support.</p> 
-                </li>
-            </ul> 
-        </a>
-    </div>
-    <div class="box a">
-        <a href="">
-            <ul>
-                <li>
-                    <a href="./admin/about"><h3>About the Course</h3></a>
-                    <p>A brief overview of what this course is about and some of the logic behind the course design.</p> 
-                </li>
-            </ul> 
-        </a>
-    </div>
-    <div class="box a">
-        <a href="">
-            <ul>
-                <li>
-                    <a href="./admin/user-manual"><h3>Coursebook User Manual</h3></a>
-                    <p>A step-by-step guide using the coursebook to engage with the readings and weekly problems discussing in our class meetings.</p> 
-                </li>
-            </ul> 
-        </a>
-    </div>
-</div>

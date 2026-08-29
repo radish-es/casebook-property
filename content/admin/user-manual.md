@@ -32,14 +32,14 @@ Following your review of the problem, you will find a reading guide for the less
 The full reading list for each lesson is presented all at once. Based on the reading guide and in-class guidance, you will need to exercise some judgement about how many of the readings to prepare in advance of each class meeting. In general, you should plan for the heaviest reading load at the beginning of each lesson. 
 {{% /step %}}
 
-{{% step "Locate readings in the Doctrinal Casebook" %}}
+{{% step "Locate readings in the Legal Doctrine section" %}}
 As you proceed through the readings, continue to refer back to the problem and work to develop your answer to the problem questions. 
 
-As the course goes along, you will increasingly want to refer to the section of the coursebook called the "[Doctrinal Casebook]({{< ref "casebook/" >}})". This section locates each of the course readings in its doctrinal context, according to standard legal categories like ("Indigenous land rights", Nuisance, Expropriation). 
+As the course goes along, you will increasingly want to refer to the section of the coursebook called "[Legal Doctrine]({{< ref "casebook/" >}})". This section locates each of the course readings in its doctrinal context, according to standard legal categories like ("Indigenous land rights", Nuisance, Expropriation). 
 {{% /step %}}
 
 {{% step "Putting it all together" %}}
-Notice that any time you are reading one of the assigned course materials in the casebook, the right side-bar provides links to the different aspects of the reading's context. You can link directly to the Lesson and Problem, and find the reading in the Doctrinal Casebook. The "Reading Links" help you to find relationships to other readings in the course.
+Notice that any time you are reading one of the assigned course materials in the casebook, the right side-bar provides links to the different aspects of the reading's context. You can link directly to the Lesson and Problem, and find the reading in the relevant chapter under Legal Doctrine. The "Reading Links" help you to find relationships to other readings in the course.
 
 ![](/imgs/contents.png)
 {{% /step %}}

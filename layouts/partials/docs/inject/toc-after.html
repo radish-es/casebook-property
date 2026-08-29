@@ -3,7 +3,7 @@
 
 {{if eq .Section "casebook" }}
 
-    <h4>Weekly</h4>
+    <h4>Course Unit</h4>
 
     {{ range (site.GetPage "lessons").Pages }}
         {{ $k := . }}
@@ -49,7 +49,7 @@
 
 {{if eq .Section "casebook" }}
 
-    <h4>Doctrinal Casebook</h4>
+    <h4>Legal Doctrine</h4>
 
     {{- range last 1 .Ancestors.Reverse }}
         <p><a href="{{ .RelPermalink }}"><b>Chapter:</b> {{ .Title }}</a></p>
