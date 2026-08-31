@@ -8,6 +8,13 @@ weight: 1
 
 This document is the official course syllabus for *Property in its Historical Context* (LAWS 1115/1125), Section B, in the 2026-2027 academic year. The course is taught by Professor Jamie Baxter at the [Schulich School of Law](https://www.dal.ca/faculty/law.html), Dalhousie University.
 
+#### Key Web Links
+
+- [Online Coursebook](https://property.opensourcelaw.ca/): syllabus, course information, assigned reading materials and problems.
+- [Class Meeting Slides](https://webslides.baxterlab.ca/slides/property2026-27/): web-based slides for each class meeting.
+- [Brightspace Site](https://dal.brightspace.com/d2l/home/441729): for course logistics and announcements. 
+- [MySchulich Sharepoint Site](https://dalu.sharepoint.com/sites/my-schulich/SitePages/Home.aspx): student resources, course and exam schedules, etc.
+
 ## General Course Information
 
 ### Contact Details
@@ -16,7 +23,7 @@ Please **contact me by e-mail** ([jamie.baxter@dal.ca](mailto:jamie.baxter@dal.c
 
 ### Administration
 
-Information about course requirements and procedures can be found in this document ([Course Syllabus]({{< ref "admin/syllabus" >}})), available in the [Course Administration]({{< ref "admin" >}}) section of the [casebook website]({{< ref "/" >}}). 
+Information about course requirements and procedures can be found in this document ([Course Syllabus]({{< ref "admin/syllabus" >}})), available in the [Course Administration]({{< ref "admin" >}}) section of the [coursebook website]({{< ref "/" >}}). 
 
 ### Class Meeting Schedule
 
@@ -26,17 +33,17 @@ Our weekly meeting schedule is Mondays and Wednesdays from **9:35AM to 10:55AM i
 
 I want you to feel well supported in this course, both in class meetings and outside the classroom. I recognize that this support may take different forms for different students, so please get in touch with me to discuss what you need to be successful in the course.
 
-As a baseline, I will hold scheduled drop-in office hours weekly on **Mondays from 12:30PM to 1:30PM**. These meetings may be in person or virtual, depending on preference and availability. The last day for drop-in office hours for the fall term is **Monday, November 30, 20256**. The last day for drop-in office hours for the winter term is **Monday, April 5, 2027**. If you have questions about the course material outside of class meetings, **you must bring these questions to me during office hours.** As a general policy, I won't answer substantive questions about the course material by e-mail. 
+As a baseline, I will hold scheduled drop-in office hours weekly on **Mondays from 12:30PM to 1:30PM**. These meetings may be in person or virtual, depending on preference and availability. The last day for drop-in office hours for the fall term is **Monday, November 30, 2026**. The last day for drop-in office hours for the winter term is **Monday, April 5, 2027**. If you have questions about the course material outside of class meetings, **you must bring these questions to me during office hours.** As a general policy, I won't answer substantive questions about the course material by e-mail. 
 
 This policy exists mainly to avoid a flood of last minute e-mails before exams, but it also pushes you to plan ahead in your studying. To get the most out of office hour appointments, plan to dedicate some time to ongoing review of the course content during the term and contact me with your questions as they arise. I know that this can be a challenge as the term gets busy, but the benefits of even 20 or 30 minutes of periodic review will pay off enormously at the end of term.
 
-You must **send the questions you would like to discuss during office hours via email** to me at [jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca) at least one hour prior to the office hour session you plan to attend. This lets me know that you are coming, helps you to focus the discussion, and gives me a chance to think through your questions ahead of time.
+You must **send the questions you would like to discuss during office hours via email** to me at [jamie.baxter@dal.ca](mailto:jamie.baxter@dal.ca) **at least one hour prior to the office hour session you plan to attend**. This lets me know that you are coming, helps you to focus the discussion, and gives me a chance to think through your questions ahead of time.
 
 I am also happy to schedule small group meetings if you'd like to meet in this format. Please e-mail to arrange a time.
 
 ### Communications About the Course
 
-All communication from me to you about the course will be via an **Announcement posted on [Brightspace](https://dal.brightspace.com/d2l/home/441729)**. Please ensure that you have e-mail notifications enabled for Brightspace Announcements — this way, you will receive a copy of each announcement in your inbox when it is posted. I will assume that you have received and read all course information posted via an Announcement on Brightspace after September 27, 2026.
+All communication from me to you about the course will be via an **Announcement posted on [Brightspace](https://dal.brightspace.com/d2l/home/441729)**. Please ensure that you have e-mail notifications enabled for Brightspace Announcements — this way, you will receive a copy of each announcement in your inbox when it is posted. I will assume that you have received and read all course information posted via an Announcement on Brightspace after September 21, 2026.
 
 All e-mail messages to me about the course should include in the subject line the course name and a concise statement of purpose (e.g. *Property: Questions for office hours*). Please remember that e-mail is not an alternative to meeting with me using the procedure described above if you have questions about the course content.
 
@@ -98,15 +105,15 @@ All class meetings will be held in person but I also plan to livestream each mee
 
 ### Class Meeting Recordings
 
-Please be aware that class meetings will be recorded, consistent with the [Dalhousie Class Recording Protocol](https://www.dal.ca/content/dam/www/about/leadership-and-governance/university-policies/class-recording-protocol.pdf), for personal academic uses only and on the conditions set out below. You are hereby notified that lectures may be recording on an ongoing basis for accommodation purposes. 
+Please be aware that class meetings will be recorded, consistent with the [Dalhousie Class Recording Protocol](https://www.dal.ca/content/dam/www/about/leadership-and-governance/university-policies/class-recording-protocol.pdf), for personal academic uses only and on the conditions set out below. You are hereby notified that lectures may be recorded on an ongoing basis for accommodation purposes. 
 
 By engaging in course activities, you are consenting to the use of your appearance, image, text/chat messaging, and voice and/or likeness in the manner and under the conditions specified herein. If you have any further concerns about privacy, please come speak with me. **Students are not permitted to make their own recordings of class meetings**.
 
-To foster a supportive learning environment, I will provide a link to a OneDrive folder containing class meeting recordings to students with accommodations. Recordings are designed to include core concepts, key terms, and primary learning objectives discussed during class, but may not include all in class activities (e.g., sensitive conversations, group work, student presentations, guest speakers, etc.). These materials will be available via OneDrive within 48 hours following the conclusion of each class meeting. 
+To foster a supportive learning environment, I will provide a link to a OneDrive folder containing class meeting recordings to students with accommodations. Recordings are designed to include core concepts, key terms, and primary learning objectives discussed during class, but may not include all in-class activities (e.g., sensitive conversations, group work, student presentations, guest speakers, etc.). These materials will be available via OneDrive within 48 hours following the conclusion of each class meeting. 
 
 If you do not have an approved accommodation but are unable to attend a scheduled session in person or online, please get in touch with me via e-mail to access a recording of the session.
 
-Students receiving recordings are not permitted to share, make copies of, or download the recordings for any purpose, without written permission from the instructor. Depending on the nature of any violation of these guidelines and Dalhousie’s Class Recording Protocol, further action may be taken under the Dalhousie Code of Student Conduct, the Policy on Academic Honesty, or any other relevant disciplinary policies.
+Students receiving recordings are not permitted to share, make copies of, or download the recordings for any purpose, without written permission from me. Depending on the nature of any violation of these guidelines and Dalhousie’s Class Recording Protocol, further action may be taken under the Dalhousie Code of Student Conduct, the Policy on Academic Honesty, or any other relevant disciplinary policies.
 
 I will destroy all course recordings at the end of the academic year.
 
