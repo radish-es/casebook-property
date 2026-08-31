@@ -1,7 +1,8 @@
 ---
 Title: Expropriation
 subtitle: Expropriation
-weight: 50
+description: The state's power of eminent domain has long been a ground of conflict over how far government should be able to regulate the use of land--with or without compensation to landowners.  
+weight: 6
 bookCollapseSection: true
 bookTOC: false
 ---
