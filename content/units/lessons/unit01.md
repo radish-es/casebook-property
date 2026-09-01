@@ -1,14 +1,19 @@
 ---
 title: "Origin Stories: Property, Sovereignty and Imperialism"
 short: Unit 1
-description: This first lesson
+description: "Our course begins by examining different origins stories: stories about the origins or sources of property, but at the same time stories about the origins of Canada and, before that, British North America and the broader British empire."
 type: lesson
 weight: 1
 classdate: 23 Sept / 28 Sept / 5 Oct 2026
 image: /imgs/harris-1749.jpg
 imgcaption:  Moses Harris, Extract from unpublished Plan of Chebucto Harbour with the Town of Halifax, 1749. The British Library, Maps, K.Top.119 f73, excerpted in Jeffers Lennox, Homelands and Empires, 142.
 objectives:
-  - objective: Test.
+  - objective: Critically analyze property's different origin stories and functions during the early colonial period. 
+  - objective: Identify expressions of each origin story in the legal materials studied in the unit and apply these materials to a analyze a practical problem. 
+  - objective: Explain and use in practice the relationship between statutory and common law sources of property rights.
+  - objective: Describe key common law principles about ownership of wild animals. 
+  - objective: Identify and apply the common law test for possession.
+  - objective: Explain why the concept of relative possession matters for resolving disputes about possession and ownership. 
 materials:
   - henderson
   - locke
