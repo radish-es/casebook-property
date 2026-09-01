@@ -1,8 +1,9 @@
 ---
-title: Lessons
+title: Lesson Plans
 type: grid
-weight: 2
+description: Start here each for each unit. In this section, you will find a general description of our lesson plan for the unit, including key learning outcomes and where to begin your reading. 
+weight: 1
 bookCollapseSection: true
 ---
 
-Start here each week -- in this section, you will find a general description of our lesson plan for the week, including key learning outcomes and where to begin with your readings. 
+Start here each for each unit. In this section, you will find a general description of our lesson plan for the unit, including key learning outcomes and where to begin your reading. 

@@ -1,5 +1,5 @@
 ---
-title: Legal Doctrines
+title: Materials by Legal Doctrine
 type: grid
 weight: 50
 bookFlatSection: true
@@ -8,7 +8,7 @@ bookHidden: false
 BookToC: false
 ---
 
-## A "Doctrinal" Perspective on the Course Materials
+## A Doctrinal Perspective on the Course Materials
 
 This part of the coursebook organizes the materials you will study through problems this year into a system that looks more like you'd expect to find in a conventional law school casebook. The main organizing idea in this system is a ***legal doctrine*** like "first possession", "restrictive covenants" or "Aboriginal title". The study of these doctrines progresses more or less chronologically, as issues within each area are identified and adjudicated by jurists over time based on precedent and jurists own interpretive techniques. 
 
