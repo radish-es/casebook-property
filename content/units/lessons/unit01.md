@@ -75,7 +75,9 @@ None of this is to ignore the asymmetries at play in terms of power relations, t
 
 ## Property and Sovereignty
 
-Probably the most difficult thing to untangle in answering our question about the origins and functions of property in the early colonial period is to distinguish between claims to "sovereignty" (as the authority of nations to make and enforce its own laws) and claims to "property". While these two concepts would become easier to separate as British sovereignty was increasingly asserted and assumed by Anglo-Canadian law and legal institutions, 
+Probably the most difficult thing to untangle in answering our question about the origins and functions of property in the early colonial period is to distinguish between claims to "sovereignty" (as the authority of nations to make and enforce its own laws) and claims to "property" (as claims to land held by particular legal persons). While these two concepts would become easier to separate as British sovereignty was increasingly asserted and assumed by Anglo-Canadian law and legal institutions, during the period we are studying in this unit the line between them appeared much muddier. 
+
+What is clear is that, from the perspective of the British colonial state, its primary focus was on bolstering its obviously uncertain and contested claims to territorial sovereignty in North America and that forms of and stories about property emerged in this era as largely instrumental to that end. Much of this then laid the groundwork for era of intensive settler colonialism to follow. 
 
 
 
