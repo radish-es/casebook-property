@@ -18,13 +18,13 @@ Kelti McGloin, a JD student at the Schulich School of Law, and Professor Naiomi 
 
 ### Hypothetical Facts
 
-Suppose that the [Maw-lukutijik Saqmaq](https://mikmaqrights.com/#ansmc) (Assembly of Nova Scotia Mi'kmaw Chiefs) has recently issued a statement underlining the significant role that Mi'kmaq harvesters play in establishing and sustaining healthy forest ecosystems.
+<!--Suppose that the [Maw-lukutijik Saqmaq](https://mikmaqrights.com/#ansmc) (Assembly of Nova Scotia Mi'kmaw Chiefs) has recently issued a statement underlining the significant role that Mi'kmaq harvesters play in establishing and sustaining healthy forest ecosystems.-->
 
-A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of forest on the Eastern Shore of Mi'kmaki designated by Nova Scotia as provincial Crown Land (i.e. land "vested in the Crown" and "under the administration and control of the Minister" of Lands and Forests pursuant to the *Crown Lands Act*, RSNS 1989, c 114, s 9). After several hours, the hunter shoots and seriously wounds the *wowkiws*. Before the hunter can capture it, the fox is attacked and killed by a dog that is walking off leash with its owner, a white settler who lives nearby. Seeing the commotion, a patrolling conservation officer approaches the hunter and asks them to produce a hunting license as required by the *Wildlife Act*, RSNS 1989, c 504. 
+A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of forest on the Eastern Shore of Mi'kmaki. After several hours, the hunter shoots and seriously wounds the *wowkiws*. Before the hunter can capture it, the fox is attacked and killed by a dog that is walking off leash with its owner, a settler who lives nearby. Seeing the commotion, a patrolling conservation officer approaches the hunter and asks them to produce a hunting license as required by the *Wildlife Act*, RSNS 1989, c 504. 
 
 ### The Problem
 
-**The hunter has a a Nova Scotia Mi'kmaq Harvester Identification Card issued by the Assembly of Nova Scotia Mi'kmaw Chiefs but no hunting licence. The dog owner happens to be carrying a licence and claims exclusive property in the fox. Is the dog owner correct? Why or why not?**
+**The hunter has a Nova Scotia Mi'kmaq Harvester Identification Card issued by the Assembly of Nova Scotia Mi'kmaw Chiefs but no hunting licence. The dog owner happens to be carrying a licence and claims exclusive property in the fox. Is the dog owner correct? Why or why not?**
 
 ### Guide to Reading and Analysis
 

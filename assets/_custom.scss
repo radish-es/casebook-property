@@ -121,7 +121,7 @@ p.component-explanation {
   border-color: #000;
   border-style: solid;
   border-radius: 0px;
-  padding: 0 15px;
+  padding: 10px 15px;
   margin-top: 10px;
   background: #fff;
 }
@@ -140,6 +140,10 @@ p.component-explanation {
 
 div.component  {
   margin: 20px;
+}
+
+div.lesson-problem {
+  margin-top: 40px;
 }
 
 .class_label {
@@ -245,7 +249,7 @@ div.header-img {
   height: auto;
 }
 
-.header-img figcaption {
+figcaption, .header-img figcaption {
   font-size: 0.75em;
   text-align: center;
 }
