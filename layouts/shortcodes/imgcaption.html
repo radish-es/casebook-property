@@ -1,0 +1,5 @@
+<figure>
+    <img src="{{ $.Get "img" }}"
+         alt="{{ $.Get "alt" }}">
+    <figcaption>{{ with .Params.caption }}<i>{{ $.Get "caption" }}</i>{{ end }}{{ with .Params.citation }}<br/>Source: {{ $.Get "citation" }}{{ end }}</figcaption>
+</figure>
