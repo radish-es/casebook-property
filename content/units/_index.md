@@ -1,5 +1,5 @@
 ---
-title: Assigned Reading Materials
+title: Course Unit Materials
 type: grid
 weight: 2
 bookFlatSection: true

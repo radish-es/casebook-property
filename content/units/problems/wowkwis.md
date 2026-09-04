@@ -16,9 +16,9 @@ A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of f
 
 **Can either the hunter or the hiker successfully make a legal claim to the fox? If both can, is one claim stronger than the other, and if so why?**
 
-In explaining your answer to this problem, describe how each of the origin stories about property canvased in the lesson plan and expressed in this unit's readings influences your answer and your approach.
+**When explaining your answer to this problem, describe how each of the origin stories about property canvased in the lesson plan, discussed in class and expressed in this unit's readings influences your answer and your approach.**
 
-Once you have completed your answer, ask yourself: is anything missing in the analysis because of (1) missing facts in the hypothetical and/or (2) gaps or omissions in the assigned reading materials? 
+*Once you have completed your answer, ask yourself: is anything missing in the analysis because of (1) missing facts in the hypothetical and/or (2) gaps or omissions in the assigned reading materials?* 
 
 ### Guide to Reading and Analysis
 
