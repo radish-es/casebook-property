@@ -12,7 +12,7 @@ objectives:
   - objective: Link the doctrinal development of Aboriginal title to the structure of feudal land tenure and the common law estates in land.
   - objective: Identify legal developments that legitimated and enabled the logic of settler colonialism in the 19th century. 
 
-description: Building on the previous lesson's exploration of possession, this week we focus on the various meanings of "title" and their application in the context of Indigenous land rights recognized by Anglo-Canadian law.
+description: 
 materials:
   - tenure
   - basic-estates
@@ -28,7 +28,28 @@ materials:
   - johnson
 ---
 
-In Week 2, we started to explore the important place of "possession" in Anglo-Canadian law going back to some of its deeper roots in the liberal theory of writers like John Locke. In the course of that exploration, we situated possession as just one possible form of legal land relation and got some early sense of its challenges and limitations as a basis of property. Joseph William Singer elaborates on this theme:[^1]
+## Beginnings of the Canadian State
+
+It is no coincidence that the creation of "Canada" as a nation-state independent from Britain--whether one associates this with Confederation and the enactment of the *British North America Act* in 1867, or with Canada's "long confederation" from about the 1840s through the early twentieth century[^mckay]--coincided with a cresting wave of settler colonialism and Indigenous dispossession during this same period. If an earlier era of colonization was typified by imperial and commercial aims played out mainly at the level of international relations, Canada's formal constitution as a country was surrounded and undergirded by a policy of domestic expansion in European immigration and settlement and the assimilation of Indigenous peoples to white, largely agrarian society--in contemporary terms, a policy of cultural genocide.
+
+Critical to the rise of a system of settler colonialism to effect this policy from the mid-eighteenth century was a double movement in property's origin stories studied in our last unit. On one hand, Anglo-Canadian law and legal institutions elevated and developed possession as the primary lens through which settlers asserted property in both land and in the extraction of natural resources. Critical issues of possession and property were understood to bear significantly on the ability to develop Canada's natural resource economy in context such as the seal harvest in Newfoundland. On the other, Anglo-Canadian law denied the prior possession of Indigenous peoples as the legitimate basis for recognition of Indigenous land rights and title. The only means by which law could affect this double movement was by redefining the constituent elements of possession (control and intention to control). Activities on the land associated with white European methods of land use, control and "improvement"--namely, farming as well as forms of natural resource extraction like forestry and the construction of national infrastructure--were the basis of legitimate possession; Indigenous hunting practices and seasonal or periodic land uses and methods of cultivation and harvesting were not. 
+
+At the same time, these issues rarely came before Canadian courts as questions of possession *per se*. Instead, key issues of property were channeled through early disputes over the shape and structure of Canadian federalism, predominantly between the Dominion government and the provinces. This was the nature of the leading decision in a dispute between Ontario and Canada concerning the grant of forestry licenses over lands in northern Ontario covered by Treaty 3. While the dispute was not a direct challenge to the validity of federal treaty-making powers--as was the case in parallel disputes in the United States--much of the judicial reasoning  undermined Indigenous title claims and therefore called into question to basis for treaty-making in the first place. Other cases in Canadian courts took aim more directly at the validity of treaty-making, particularily in Atlantic Canada where historical treaties of Peace & Friendship could no easily be re-interpreted as agreements on the part of Indigenous nations to ceded rights in or governance over their lands. As non-Indigenous governments in Canada worked out the terms of the new Confederation, much of this work was premised directly on the denial of Indigenous land rights and inimical to recognition and protection of Indigenous peoples' prior occupation of their territories. 
+
+## State Takings 
+
+Other aspects of Anglo-Canadian property law were also emerging from the crucible of a newly confederated Canada during this period, including the fundamental powers of the new Canadian state to expropriate or "take" the property of private individuals for public purposes without paying those individual due compensation. As Justice Holmes of the United States Supreme Court observed at the time, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."[^holmes] Notionally, the question of when government *should* pay for a change in the law which diminished or took away some or all of landowners property rights was one between private persons and public authorities. But in the course of a highly publicized dispute over legislation granting public access to otherwise private waterways, Dominion and provincial governments once again clashed over the proper and legitimate locus of a legal power so extraordinary as to allow the state to take private property. 
+
+
+
+
+
+
+
+
+<!--
+
+> Joseph William Singer elaborates on this theme:[^1]
 
 > Where do property rights come from? If you believe the property casebooks, we
 acquire original title to property by conquering other nations, hunting animals,
@@ -84,3 +105,9 @@ Our materials this week examine this problem in more detail, focusing on the per
 [^1]: Joseph William Singer, "Original Acquisition of Property: From Conquest & Possession to Democracy & Equality" (2011) 86:3 Indiana Law Journal 763 at 763-764.
 
 [^2]: *Ibid.* at 764.
+
+-->
+
+[^mckay]: Ian G. McKay, "The Canadian Passive Revolution, 1840-1950" (2010) 34:3 *Capital & Class* 361 at 362.
+
+[^holmes]: *Pennsylvania Coal Co. v Mahon*, 260 US 393 (1922).
