@@ -268,6 +268,8 @@
     }
   ],
   "frontMatter.git.enabled": false,
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.preview.pathName": "casebook",
   "frontMatter.taxonomy.customTaxonomy": [
     {
       "id": "doctrines",
@@ -373,5 +375,6 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.framework.startCommand": "hugo server"
 }

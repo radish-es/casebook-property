@@ -11,6 +11,7 @@ doctrines:
   - covenants
 weight: 30
 bookHidden: true
+draft: false
 ---
 
 
