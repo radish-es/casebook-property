@@ -33,3 +33,21 @@ markup:
 
 taxonomies:
   doctrine: doctrines
+
+# Added to generate markdown links
+
+mediaTypes:
+  text/markdown:
+    suffixes:
+      - md
+
+outputFormats:
+  Markdown:
+    mediaType: text/markdown
+    baseName: index
+    isPlainText: true
+
+outputs:
+  page:
+    - HTML
+    - Markdown
