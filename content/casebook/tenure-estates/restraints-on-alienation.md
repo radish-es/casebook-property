@@ -1,6 +1,6 @@
 ---
 title: Restraints on Alienation
-class: concept
+type: secondary
 description: An introduction to restraints on alienation
 doctrines:
   - qualified

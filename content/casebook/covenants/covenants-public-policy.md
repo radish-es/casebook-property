@@ -1,7 +1,7 @@
 ---
 title: Restrictive Covenants and Public Policy
 short: Restrictive Covenants
-class: concept
+type: secondary
 description: An introduction to restrictive covenants and the doctrine of public policy.
 doctrines:
   - covenants-policy

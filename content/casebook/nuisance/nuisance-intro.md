@@ -1,6 +1,8 @@
 ---
 title: An Intro to Nuisance
 short: Nuisance Intro
+source: >-
+      Adapted from Jeremy Sheff, "Nuisance" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).
 sources:
   - source_name: 'Open Source Property: A Free Casebook'
     source_url: opensourceproperty.org
@@ -12,8 +14,6 @@ sources:
       Casebook, https://opensourceproperty.org (2015)
 type: secondary
 description: Introduction to the tort of nuisance and its relation to property claims.
-source: >-
-      Adapted from Jeremy Sheff, "Nuisance" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
 public: true
 doctrines:
   - nuisance
@@ -21,11 +21,7 @@ weight: 5
 bookHidden: true
 ---
 
-*Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*
-
-<hr/>
-
-**There is perhaps no more impenetrable jungle in the entire law than that regarding the word *nuisance*.**
+*There is perhaps no more impenetrable jungle in the entire law than that regarding the word *nuisance*.*
 
 -- Prosser and Keeton on Torts 86 (5th ed. 1984).
 

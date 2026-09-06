@@ -5,6 +5,8 @@ short: Ratione Soli
 facts: Placeholder
 held: 
 public: true
+source: >-
+      Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).
 sources:
   - source_name: Open Source Property
     source_url: opensourceproperty.org
@@ -15,8 +17,6 @@ weight: 160
 description: Brief discussion of the doctrine of ratione soli.
 bookHidden: true
 ---
-
-*From opensourceproperty.org*
 
 Lord Holt, who decided *Keeble*, is also a key—if perhaps slightly confusing—expositor of the related and peculiarly English doctrine of *ratione soli* (Latin for “by reason of the soil”), also referred to in *Pierson*. *Ratione soli* is the principle that the right to take possession of wild animals belongs to the owner of the land where the animal may be found; thus title to any animals captured or killed on owned land automatically vests in the landowner. The English rule is in stark opposition to the civil (i.e., Roman) law rule, reflected in the Institutes of Justinian,  which is that the captor of a wild animal acquires property rights in the animal wherever captured, though he may be liable in trespass to the owner of the real property on which the animal was pursued or taken. This distinction affects not only the right to possession of the animal itself, but also the measure of damages, because the damages from the trespass may be less than the value of the animal.
 

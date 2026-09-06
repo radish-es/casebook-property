@@ -1,5 +1,5 @@
 ---
-class: concept
+type: secondary
 title: Introduction to Expropriation
 short: Expropriation
 description: An introduction to expropriation

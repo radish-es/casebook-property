@@ -12,7 +12,7 @@ sources:
 description: Governing provisions of the international trade agreement with respect to constructive (indirect) expropriation of foreign-owned property.
 doctrines:
   - expropriation-constructive
-class: statute
+type: statute
 draft: false
 bookHidden: true
 weight: 160

@@ -17,8 +17,6 @@ doctrines:
 bookHidden: true
 ---
 
-*Excepted from Eric Adams and Jordan Stanger-Ross, "Promises of Law - The Unlawful Dispossession of Japanese Canadians" Osgoode Hall Law Journal 54.3 (2017) 687-740.*
-
 While interning Japanese Canadians, the federal government seized control of all of their real and personal property within the "protected area in British Columbia." In the spring of 1943, federal officials began to sell virtually everything that the government had taken, often below market value. Families lost heirlooms, vibrant businesses, and everyday possessions. They lost cars, boats, books, toys, furniture, and cameras. They lost homes and farms. Beyond the tangible, Canadians of Japanese descent lost opportunities, neighbourhoods, and communities. They lost connections to place. They lost retirements, livelihoods, and educations. They lost agency over their property and life choices. They lost, as Rikizo Yoneyama poignantly expressed in a defiant letter to the Minister of Justice, "more than just a home." Japanese Canadians, he lamented, lost "the foundation of security and freedom as Canadian citizens."
 
 The sale of Japanese-Canadian-owned property was consistent with other moments in Canadian history when promises lost meaning as government interests shifted, officials' memories (conveniently) faded, and new legal interpretations of those promises took their place. The events chronicled here echo the federal government's treaty promises to First Nations, which were backed by oral promises that officials later abandoned in favour of narrow legal interpretations---with devastating consequences for Indigenous peoples.

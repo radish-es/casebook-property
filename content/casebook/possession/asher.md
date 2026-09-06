@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: 'Asher v Whitlock '
 short: Asher
 reporter: '(1865), LR 1 QB 1'

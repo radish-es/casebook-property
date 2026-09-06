@@ -1,5 +1,5 @@
 ---
-class: case
+type: case
 title: >-
   City of Toronto v Board of Trustees of R.C. Separate Schools for City of
   Toronto

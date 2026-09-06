@@ -1,7 +1,7 @@
 ---
 title: Why Land Title Clarification?
 short: Why Land Title Clarification
-class: concept
+type: secondary
 description: A critical lens on the sufficiency of the LTCA
 doctrines:
   - registration
