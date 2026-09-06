@@ -1,20 +1,17 @@
 ---
 title: Wildlife Act
 short: Wildlife Act
-reporter: 'RSNS 1989, c 504'
-description: Legislation establishing a regulatory regime to govern hunting and fishing in Nova Scotia, including key provisions around the proprietary status of wild animals. 
+reporter: RSNS 1989, c 504
+description: Legislation establishing a regulatory regime to govern hunting and fishing in Nova Scotia, including key provisions around the proprietary status of wild animals.
 doctrines:
   - finders
 type: statute
 public: true
 sources:
   - source_name: nslegislature.ca
-    source_url: >-
-      https://nslegislature.ca/sites/default/files/legc/statutes/protect.htm
-    license: 'https://nslegislature.ca/legal/copyright'
-    attribution: >-
-      Copyright for Nova Scotia statutes rests with the Crown in right of the
-      Province of Nova Scotia
+    source_url: https://nslegislature.ca/sites/default/files/legc/statutes/protect.htm
+    license: https://nslegislature.ca/legal/copyright
+    attribution: Copyright for Nova Scotia statutes rests with the Crown in right of the Province of Nova Scotia
 bookHidden: true
 weight: 170
 ---
