@@ -7,10 +7,10 @@
       "previewPath": null,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         }
       ]
     },
@@ -19,16 +19,16 @@
       "pageBundle": false,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         },
         {
-        "title": "Casebook Content",
-        "name": "casebook",
-        "type": "fieldCollection",
-        "fieldGroup": "casebookFields"
+          "title": "Casebook Content",
+          "name": "casebook",
+          "type": "fieldCollection",
+          "fieldGroup": "casebookFields"
         },
         {
           "title": "Case Reporter",
@@ -54,6 +54,12 @@
           "title": "Held",
           "name": "held",
           "type": "string"
+        },
+        {
+          "title": "Doctrines",
+          "name": "doctrines",
+          "type": "taxonomy",
+          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
         }
       ]
     },
@@ -62,16 +68,16 @@
       "pageBundle": false,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         },
         {
-        "title": "Casebook Content",
-        "name": "casebook",
-        "type": "fieldCollection",
-        "fieldGroup": "casebookFields"
+          "title": "Casebook Content",
+          "name": "casebook",
+          "type": "fieldCollection",
+          "fieldGroup": "casebookFields"
         },
         {
           "title": "Reporter",
@@ -103,6 +109,12 @@
               "type": "string"
             }
           ]
+        },
+        {
+          "title": "Doctrines",
+          "name": "doctrines",
+          "type": "taxonomy",
+          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
         }
       ]
     },
@@ -111,22 +123,28 @@
       "pageBundle": false,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         },
         {
-        "title": "Casebook Content",
-        "name": "casebook",
-        "type": "fieldCollection",
-        "fieldGroup": "casebookFields"
+          "title": "Casebook Content",
+          "name": "casebook",
+          "type": "fieldCollection",
+          "fieldGroup": "casebookFields"
         },
         {
           "title": "Source",
           "name": "source",
           "type": "string"
         },
+        {
+          "title": "Doctrines",
+          "name": "doctrines",
+          "type": "taxonomy",
+          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
+        }
       ]
     },
     {
@@ -134,10 +152,10 @@
       "pageBundle": false,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         },
         {
           "title": "Class Dates",
@@ -145,10 +163,10 @@
           "type": "string"
         },
         {
-        "title": "Image",
-        "name": "image",
-        "type": "fieldCollection",
-        "fieldGroup": "imgFields"
+          "title": "Image",
+          "name": "image",
+          "type": "fieldCollection",
+          "fieldGroup": "imgFields"
         },
         {
           "title": "Lesson Objectives",
@@ -170,16 +188,16 @@
       "pageBundle": false,
       "fields": [
         {
-        "title": "General",
-        "name": "general",
-        "type": "fieldCollection",
-        "fieldGroup": "generalFields"
+          "title": "General",
+          "name": "general",
+          "type": "fieldCollection",
+          "fieldGroup": "generalFields"
         },
         {
-        "title": "Image",
-        "name": "image",
-        "type": "fieldCollection",
-        "fieldGroup": "imgFields"
+          "title": "Image",
+          "name": "image",
+          "type": "fieldCollection",
+          "fieldGroup": "imgFields"
         }
       ]
     }
@@ -250,6 +268,14 @@
     }
   ],
   "frontMatter.git.enabled": false,
+  "frontMatter.taxonomy.customTaxonomy": [
+    {
+      "id": "doctrines",
+      "options": [
+        "covenants"
+      ]
+    }
+  ],
   "frontMatter.taxonomy.fieldGroups": [
     {
       "id": "objectives_group",
@@ -262,8 +288,8 @@
       ]
     },
     {
-    "id": "generalFields",
-    "fields": [
+      "id": "generalFields",
+      "fields": [
         {
           "title": "Type",
           "name": "type",
@@ -276,9 +302,9 @@
           "single": true
         },
         {
-            "title": "Short Title",
-            "name": "short",
-            "type": "string"
+          "title": "Short Title",
+          "name": "short",
+          "type": "string"
         },
         {
           "title": "Description",
@@ -286,29 +312,24 @@
           "type": "string"
         },
         {
-            "title": "Weight",
-            "name": "weight",
-            "type": "number"
+          "title": "Weight",
+          "name": "weight",
+          "type": "number"
         },
         {
-            "title": "Draft",
-            "name": "draft",
-            "type": "boolean"
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean"
         }
       ]
     },
     {
-    "id": "casebookFields",
-    "fields": [
+      "id": "casebookFields",
+      "fields": [
         {
           "title": "Public Domain?",
           "name": "public",
           "type": "boolean"
-        },
-        {
-          "title": "Doctrines",
-          "name": "doctrines",
-          "type": "list"
         },
         {
           "title": "Hidden in Hugo Book",
@@ -318,8 +339,8 @@
       ]
     },
     {
-    "id": "imgFields",
-    "fields": [
+      "id": "imgFields",
+      "fields": [
         {
           "title": "Header Image",
           "name": "image",
