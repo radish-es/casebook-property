@@ -1,5 +1,8 @@
 {{ define "main" }}
   <article class="markdown book-article">
+
+    {{ partial "classdate-problem.html" . }}
+
     <h1>
       <a href="{{ .RelPermalink }}">Problem: {{ partial "docs/title.html" . }}</a>
     </h1>
@@ -9,7 +12,6 @@
     {{ partial "header-image.html" . }}
 
     {{- .Content -}}
-
 
     <div class="component-wrapper">
       <div class="component">

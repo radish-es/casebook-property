@@ -1,0 +1,12 @@
+
+{{ range (site.GetPage "lessons").Pages }}
+    {{ if eq .Params.weight $.Params.weight }}
+    {{ if isset .Params "classdate" }}
+        <div class="indicator-wrap">
+            <div class="indicator">
+                {{ .Params.classdate }}
+            </div>
+        </div>
+    {{end}}
+    {{ end }}
+{{end}}
