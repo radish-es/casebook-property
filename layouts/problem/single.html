@@ -15,7 +15,7 @@
 
     <div class="component-wrapper">
       <div class="component">
-        <h2>Readings for this Unit</h2>
+        <h2>Readings for Unit {{ .Params.weight }}</h2>
         <p class="component-explanation">Readings for this unit are listed here and ordered alphabetically. The reading guide above explains how to approach the readings for this unit. But you should also note the "reading links" the appear in the sidebar for each reading. These will help you to make connections between different materials.</p>
         
         {{ range (site.GetPage "lessons").Pages }}
