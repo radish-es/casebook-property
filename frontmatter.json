@@ -7,41 +7,10 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "Tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
         }
       ]
     },
@@ -50,19 +19,16 @@
       "pageBundle": false,
       "fields": [
         {
-          "title": "Type",
-          "name": "type",
-          "type": "string"
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
         },
         {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Short Name",
-          "name": "short",
-          "type": "string"
+        "title": "Casebook Content",
+        "name": "casebook",
+        "type": "fieldCollection",
+        "fieldGroup": "casebookFields"
         },
         {
           "title": "Case Reporter",
@@ -90,29 +56,6 @@
           "type": "string"
         },
         {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Public Domain?",
-          "name": "public",
-          "type": "boolean"
-        },
-        {
-          "title": "Doctrines",
-          "name": "doctrines",
-          "type": "choice",
-          "choices": [
-            "covenants"
-          ]
-        },
-        {
-          "title": "Weight",
-          "name": "weight",
-          "type": "number"
-        },
-        {
           "title": "Hidden in Hugo Book",
           "name": "bookHidden",
           "type": "boolean"
@@ -124,29 +67,10 @@
       "pageBundle": false,
       "fields": [
         {
-          "title": "Type",
-          "name": "type",
-          "type": "string"
-        },
-        {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Short",
-          "name": "short",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Weight",
-          "name": "weight",
-          "type": "number"
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
         },
         {
           "title": "Class Dates",
@@ -154,14 +78,10 @@
           "type": "string"
         },
         {
-          "title": "Header Image",
-          "name": "image",
-          "type": "image"
-        },
-        {
-          "title": "Image Caption",
-          "name": "imgcaption",
-          "type": "string"
+        "title": "Image",
+        "name": "image",
+        "type": "fieldCollection",
+        "fieldGroup": "imgFields"
         },
         {
           "title": "Lesson Objectives",
@@ -183,39 +103,16 @@
       "pageBundle": false,
       "fields": [
         {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
         },
         {
-          "title": "Short Title",
-          "name": "short",
-          "type": "string"
-        },
-        {
-          "title": "Type",
-          "name": "type",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Header Image",
-          "name": "image",
-          "type": "image"
-        },
-        {
-          "title": "Image Caption",
-          "name": "imgcaption",
-          "type": "string"
-        },
-        {
-          "title": "Weight",
-          "name": "weight",
-          "type": "number"
+        "title": "Image",
+        "name": "image",
+        "type": "fieldCollection",
+        "fieldGroup": "imgFields"
         }
       ]
     }
@@ -293,6 +190,72 @@
         {
           "title": "Objective",
           "name": "objective",
+          "type": "string"
+        }
+      ]
+    },
+    {
+    "id": "generalFields",
+    "fields": [
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "single": true
+        },
+        {
+            "title": "Short Title",
+            "name": "short",
+            "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+            "title": "Weight",
+            "name": "weight",
+            "type": "number"
+        },
+        {
+            "title": "Draft",
+            "name": "draft",
+            "type": "boolean"
+        }
+      ]
+    },
+    {
+    "id": "casebookFields",
+    "fields": [
+        {
+          "title": "Public Domain?",
+          "name": "public",
+          "type": "boolean"
+        },
+        {
+          "title": "Doctrines",
+          "name": "doctrines",
+          "type": "list"
+        }
+      ]
+    },
+    {
+    "id": "imgFields",
+    "fields": [
+        {
+          "title": "Header Image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "Image Caption",
+          "name": "imgcaption",
           "type": "string"
         }
       ]
