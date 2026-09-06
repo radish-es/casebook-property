@@ -1,9 +1,10 @@
 ---
-class: admin
+type: docs
 title: About the Course
 short: About
 description: A longer, narrative description of how the course is designed and why it is designed that way.
 weight: 2
+draft: false
 ---
 
 ## What is this course about?

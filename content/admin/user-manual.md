@@ -1,9 +1,10 @@
 ---
-class: admin
+type: docs
 title: Coursebook User Manual
 short: User Manual
 description: A step-by-step how-to about how to use this coursebook and approach your reading and preparation for in-class meetings.
 weight: 3
+draft: false
 ---
 
 ## A User Manual for the Coursebook

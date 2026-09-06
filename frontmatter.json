@@ -44,9 +44,146 @@
           "type": "categories"
         }
       ]
+    },
+    {
+      "name": "case",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "short",
+          "name": "short",
+          "type": "string"
+        },
+        {
+          "title": "reporter",
+          "name": "reporter",
+          "type": "string"
+        },
+        {
+          "title": "year",
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "title": "facts",
+          "name": "facts",
+          "type": "string"
+        },
+        {
+          "title": "issue",
+          "name": "issue",
+          "type": "string"
+        },
+        {
+          "title": "held",
+          "name": "held",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "public",
+          "name": "public",
+          "type": "boolean"
+        },
+        {
+          "title": "doctrines",
+          "name": "doctrines",
+          "type": "choice",
+          "choices": [
+            "covenants"
+          ]
+        },
+        {
+          "title": "weight",
+          "name": "weight",
+          "type": "number"
+        },
+        {
+          "title": "bookHidden",
+          "name": "bookHidden",
+          "type": "boolean"
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": "static",
-  "frontMatter.preview.host": "http://localhost:1313"
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "imgs",
+      "path": "[[workspace]]/static/imgs"
+    },
+    {
+      "title": "admin",
+      "path": "[[workspace]]/content/admin"
+    },
+    {
+      "title": "lessons",
+      "path": "[[workspace]]/content/units/lessons"
+    },
+    {
+      "title": "problems",
+      "path": "[[workspace]]/content/units/problems"
+    },
+    {
+      "title": "covenants",
+      "path": "[[workspace]]/content/casebook/covenants"
+    },
+    {
+      "title": "expropriation",
+      "path": "[[workspace]]/content/casebook/expropriation"
+    },
+    {
+      "title": "indigenous",
+      "path": "[[workspace]]/content/casebook/indigenous"
+    },
+    {
+      "title": "nuisance",
+      "path": "[[workspace]]/content/casebook/nuisance"
+    },
+    {
+      "title": "other",
+      "path": "[[workspace]]/content/casebook/other"
+    },
+    {
+      "title": "possession",
+      "path": "[[workspace]]/content/casebook/possession"
+    },
+    {
+      "title": "public-land",
+      "path": "[[workspace]]/content/casebook/public-land"
+    },
+    {
+      "title": "registration",
+      "path": "[[workspace]]/content/casebook/registration"
+    },
+    {
+      "title": "tenure-estates",
+      "path": "[[workspace]]/content/casebook/tenure-estates"
+    },
+    {
+      "title": "trusts",
+      "path": "[[workspace]]/content/casebook/trusts"
+    },
+    {
+      "title": "zoning",
+      "path": "[[workspace]]/content/casebook/zoning"
+    }
+  ],
+  "frontMatter.git.enabled": false
 }

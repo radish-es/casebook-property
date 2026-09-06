@@ -1,5 +1,5 @@
 ---
-class: admin
+type: docs
 title: Teaching Notes
 short: Teaching
 weight: 3

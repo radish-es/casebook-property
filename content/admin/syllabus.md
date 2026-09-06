@@ -1,9 +1,10 @@
 ---
-class: admin
+type: docs
 title: Course Syllabus
 short: Syllabus
 description: An explanation of course logistics, including details about goals and expectations, class meetings, support outside the classroom, requirement materials, evaluations, and applicable university policies. 
 weight: 1
+draft: false
 ---
 
 This document is the official course syllabus for *Property in its Historical Context* (LAWS 1115/1125), Section B, in the 2026-2027 academic year. The course is taught by Professor Jamie Baxter at the [Schulich School of Law](https://www.dal.ca/faculty/law.html), Dalhousie University.
