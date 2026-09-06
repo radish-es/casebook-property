@@ -118,6 +118,80 @@
           "type": "boolean"
         }
       ]
+    },
+    {
+      "name": "lesson",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "short",
+          "name": "short",
+          "type": "datetime"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "weight",
+          "name": "weight",
+          "type": "number"
+        },
+        {
+          "title": "classdate",
+          "name": "classdate",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "imgcaption",
+          "name": "imgcaption",
+          "type": "string"
+        },
+        {
+          "title": "objectives",
+          "name": "objectives",
+          "type": "block",
+          "fieldGroup": [
+            "objectives_group"
+          ]
+        },
+        {
+          "title": "materials",
+          "name": "materials",
+          "type": "choice",
+          "choices": [
+            "henderson",
+            "locke",
+            "hale",
+            "treaty1725",
+            "treaty1752",
+            "wildlife",
+            "hudson-bay-charter",
+            "royal-proclamation",
+            "pierson",
+            "armorie",
+            "ratione-soli",
+            "keeble",
+            "keron"
+          ]
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "hugo",
@@ -185,5 +259,17 @@
       "path": "[[workspace]]/content/casebook/zoning"
     }
   ],
-  "frontMatter.git.enabled": false
+  "frontMatter.git.enabled": false,
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "objectives_group",
+      "fields": [
+        {
+          "title": "objective",
+          "name": "objective",
+          "type": "string"
+        }
+      ]
+    }
+  ]
 }

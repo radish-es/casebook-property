@@ -1,7 +1,8 @@
 ---
+type: lesson
 title: "Settler Colonialism, Federalism and State Power"
 short: Unit 2
-type: lesson
+description: Week 2 materials
 classdate:  7 Oct / 14 Oct / 19 Oct / 21 Oct 2026
 weight: 2
 image: /imgs/eel-river-bridge.jpg
@@ -11,8 +12,6 @@ objectives:
   - objective: Describe the general features of Aboriginal Title as late-19th century courts understood it (in concept, if not in name). 
   - objective: Link the doctrinal development of Aboriginal title to the structure of feudal land tenure and the common law estates in land.
   - objective: Identify legal developments that legitimated and enabled the logic of settler colonialism in the 19th century. 
-
-description: 
 materials:
   - tenure
   - basic-estates

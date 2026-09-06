@@ -1,8 +1,8 @@
 ---
+type: lesson
 title: Urbanization and Land Use Control in an Urbanizing Canada
 short: Unit 5
 classdate: 23 Feb / 25 Feb 2026
-type: lesson
 description: We pick up the topic of constructive takings from last term by looking at this rapidly changing area of contemporary doctrine, and also introduce the topic of acquired rights.
 weight: 5
 image: /imgs/flood.jpg

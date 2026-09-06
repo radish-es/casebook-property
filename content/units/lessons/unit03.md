@@ -1,7 +1,8 @@
 ---
+type: lesson
 title: "Industrialization, Market Liberalism and Land Use at the Turn of the Century"
 short: Unit 3
-type: lesson
+description: This week we examine the role of private law tools to govern land uses in the face of a conflict between neighbors, including issues of the appropriate remedy in nuisance and the circumstances in which restrictive covenants run with title to the land. 
 classdate: 26 Oct / 28 Oct / 2 Nov / 4 Nov 2026
 weight: 3
 image: /imgs/canada-paper.jpg
@@ -10,9 +11,6 @@ objectives:
   - objective: Discuss claims in nuisance and restrictive covenants as alternative means of governing property.    
   - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve the contested legal issues that arise in nuisance cases. 
   - objective: Explain how and in what form restrictive covenants came to be understood as "running with the land".
-
-description: This week we examine the role of private law tools to govern land uses in the face of a conflict between neighbors, including issues of the appropriate remedy in nuisance and the circumstances in which restrictive covenants run with title to the land. 
-
 materials:
   - nuisance-intro
   - victoriapark
