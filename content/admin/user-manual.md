@@ -46,3 +46,13 @@ Notice that any time you are reading one of the assigned course materials in the
 {{% /step %}}
 
 {{< /steps-container >}}
+
+{{% hint warning %}}
+
+### Downloading the Reading Materials
+
+This coursebook is designed to be used primarily online, where you get the benefit of the linkages and different perspectives on the reading materials described above. At the same time, some of you may prefer to download and read the materials locally, print them out, mark them up, etc. 
+
+For each assigned reading, you will see a <img src="/imgs/md.png" alt="Icon" style="height: 1.2em; vertical-align: middle; margin: 0 4px;"> icon near the top of the page. Clicking this in your web browser will download a plain text file in Markdown format (*.md), which you can edit in any text editor and view as a formatted document in any number of free apps such as [MarkText](https://github.com/marktext/marktext#download-and-installation) or [Markdown Viewer](https://apps.microsoft.com/detail/9p9sdhx8tqvq?hl=en-US&gl=CA).
+
+{{% /hint %}}
