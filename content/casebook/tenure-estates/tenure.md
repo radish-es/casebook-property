@@ -13,15 +13,13 @@ sources:
 type: secondary
 description: An excerpt that provides some brief background to the history of feudal land tenure and its relationship to common law estates as interests in land distinguished from ownership of the land itself. 
 source: >-
-      Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).
+      Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).
 public: true
 doctrines:
   - estates
 weight: 10
 bookHidden: true
 ---
-
-*Adapted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*
 
 All land under the dominion of the English crown is held “mediately or immediately, of the king”—that is, the crown has “radical title” to all land under its political dominion. William the Conqueror declared that all land in England was literally the king’s property; everyone else had to settle for the privilege of holding it for him—the privilege of *tenure* (from the Norman French word “tenir”—to hold). Tenurial rights were intensely personal in early feudal society: the right to hold land was a privilege granted by the crown in exchange for an oath of allegiance and a promise of military service by the tenant—the oath of homage. The word homage derives from the French word *homme*—literally “man”—precisely because the ceremony surrounding the oath created not only the right of tenure, but a political and military relationship between “lord and man."[^1] In exchange for the tenant’s loyal support, or fealty, the lord warranted the tenant’s right to hold a plot of land, called a fief, or fee.
 

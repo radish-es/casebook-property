@@ -2,12 +2,12 @@
 title: |
   Charter of the Hudson Bay Company (1670)
 short: Hudson Bay Charter
-source: Public domain
+source: |-
+  [Queen's University Library](https://queensu.scholaris.ca/server/api/core/bitstreams/21a1dddb-e4ea-4b78-8668-2a72bf6f8ae3/content), Public Domain
 type: secondary
 description: Placeholder
 doctrines:
   - possession
-
 bookHidden: true
 weight: 50
 ---

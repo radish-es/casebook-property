@@ -6,6 +6,8 @@ doctrines:
   - finders
 weight: 110
 bookHidden: true
+source: |-
+  Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., *[Open Source Property: A Free Casebook](https://opensourceproperty.org)* (2015)
 description: Possession is also complicated in another way -- it is relative.
 sources:
   - source_name: 'Open Source Property: A Free Casebook'
@@ -17,8 +19,6 @@ sources:
       eds., Open Source Property: A Free
       Casebook, https://opensourceproperty.org (2015)
 ---
-
-*Adapted from Jeremy Sheff, "Finders Keepers, Losers Weepers?" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A Free Casebook, https://opensourceproperty.org (2015).*
 
 One way of describing the holding of Armory is that it sets out the rights of finders. Suppose that the “rightful owner” of the jewel, Lord Hobnob, had shown up in the shop while the chimney-sweep and the apprentice were arguing over the jewel. Who would have been entitled to the jewel? If the chimney-sweep is not the “rightful owner,” why does he still win the case? What kind of interest does he have in the jewel?
 
