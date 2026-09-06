@@ -4,14 +4,17 @@
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>{{ if isset .Params "reporter" }}, {{ .Params.Reporter }}{{ end }}
     </h1> 
 
-    <hr>
-
-    {{ partial "location.html" . }}
+    <div class="component-wrapper">
+        <div class="component">
+            <h3 style="margin-top: 0">Source:</h3>
+                <p>{{ .Params.Source | markdownify}}</p>
+        </div>
+    </div>
 
     {{ if isset .Params "summary" }}
         <div class="component-wrapper">
             <div class="component">
-                <h2 style="margin-top: 0">Background</h2>
+                <h3 style="margin-top: 0">Background</h3>
                     <div class="summary">
                         <p>{{ .Params.Summary }}</p>
                     </div>

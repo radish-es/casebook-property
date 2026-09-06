@@ -54,12 +54,30 @@
           "title": "Held",
           "name": "held",
           "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "secondary",
+      "pageBundle": false,
+      "fields": [
+        {
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
         },
         {
-          "title": "Hidden in Hugo Book",
-          "name": "bookHidden",
-          "type": "boolean"
-        }
+        "title": "Casebook Content",
+        "name": "casebook",
+        "type": "fieldCollection",
+        "fieldGroup": "casebookFields"
+        },
+        {
+          "title": "Source",
+          "name": "source",
+          "type": "string"
+        },
       ]
     },
     {
@@ -242,6 +260,11 @@
           "title": "Doctrines",
           "name": "doctrines",
           "type": "list"
+        },
+        {
+          "title": "Hidden in Hugo Book",
+          "name": "bookHidden",
+          "type": "boolean"
         }
       ]
     },
