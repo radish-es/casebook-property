@@ -1,7 +1,7 @@
 ---
 title: GMOs
 short: GMOs
-type: problems
+type: problem
 description: This hypo concerns a heritage corn grower's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
 image: /imgs/corn.jpg
 imgcaption: Tahmeed Ahmad on Unsplash

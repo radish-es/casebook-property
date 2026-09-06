@@ -1,7 +1,7 @@
 ---
 title: Wowkwis
 short: Wowkwis
-type: problems
+type: problem
 description: A Mi'kmaw hunter pursues a fox through the woods, where it is wounded but then killed by a passing hiker. You are asked to consider the relative strength of possible legal claims to the fox by either party.
 image: /imgs/fox.jpg
 imgcaption: Katerina Bartosova on Unsplash
