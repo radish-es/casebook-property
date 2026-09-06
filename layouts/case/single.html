@@ -4,6 +4,12 @@
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>{{ if isset .Params "reporter" }}, {{ .Params.Reporter }}{{ end }}
     </h1> 
 
+    <div class="indicator-wrap">
+        <div class="indicator">
+            Case
+        </div>
+    </div>
+
     <hr>
 
     {{ partial "location.html" . }}

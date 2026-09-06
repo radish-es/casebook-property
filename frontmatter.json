@@ -58,6 +58,55 @@
       ]
     },
     {
+      "name": "statute",
+      "pageBundle": false,
+      "fields": [
+        {
+        "title": "General",
+        "name": "general",
+        "type": "fieldCollection",
+        "fieldGroup": "generalFields"
+        },
+        {
+        "title": "Casebook Content",
+        "name": "casebook",
+        "type": "fieldCollection",
+        "fieldGroup": "casebookFields"
+        },
+        {
+          "title": "Reporter",
+          "name": "reporter",
+          "type": "string"
+        },
+        {
+          "title": "Sources",
+          "name": "sources",
+          "fields": [
+            {
+              "title": "Source Name",
+              "name": "source_name",
+              "type": "string"
+            },
+            {
+              "title": "Source URL",
+              "name": "source_url",
+              "type": "string"
+            },
+            {
+              "title": "License",
+              "name": "license",
+              "type": "string"
+            },
+            {
+              "title": "Attribution",
+              "name": "attribution",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "secondary",
       "pageBundle": false,
       "fields": [
