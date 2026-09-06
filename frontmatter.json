@@ -50,57 +50,57 @@
       "pageBundle": false,
       "fields": [
         {
-          "title": "type",
+          "title": "Type",
           "name": "type",
           "type": "string"
         },
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "short",
+          "title": "Short Name",
           "name": "short",
           "type": "string"
         },
         {
-          "title": "reporter",
+          "title": "Case Reporter",
           "name": "reporter",
           "type": "string"
         },
         {
-          "title": "year",
+          "title": "Case Year",
           "name": "year",
           "type": "number"
         },
         {
-          "title": "facts",
+          "title": "Facts",
           "name": "facts",
           "type": "string"
         },
         {
-          "title": "issue",
+          "title": "Issue",
           "name": "issue",
           "type": "string"
         },
         {
-          "title": "held",
+          "title": "Held",
           "name": "held",
           "type": "string"
         },
         {
-          "title": "description",
+          "title": "Description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "public",
+          "title": "Public Domain?",
           "name": "public",
           "type": "boolean"
         },
         {
-          "title": "doctrines",
+          "title": "Doctrines",
           "name": "doctrines",
           "type": "choice",
           "choices": [
@@ -108,12 +108,12 @@
           ]
         },
         {
-          "title": "weight",
+          "title": "Weight",
           "name": "weight",
           "type": "number"
         },
         {
-          "title": "bookHidden",
+          "title": "Hidden in Hugo Book",
           "name": "bookHidden",
           "type": "boolean"
         }
@@ -124,47 +124,47 @@
       "pageBundle": false,
       "fields": [
         {
-          "title": "type",
+          "title": "Type",
           "name": "type",
           "type": "string"
         },
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "short",
+          "title": "Short",
           "name": "short",
-          "type": "datetime"
+          "type": "string"
         },
         {
-          "title": "description",
+          "title": "Description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "weight",
+          "title": "Weight",
           "name": "weight",
           "type": "number"
         },
         {
-          "title": "classdate",
+          "title": "Class Dates",
           "name": "classdate",
           "type": "string"
         },
         {
-          "title": "image",
+          "title": "Header Image",
           "name": "image",
           "type": "image"
         },
         {
-          "title": "imgcaption",
+          "title": "Image Caption",
           "name": "imgcaption",
           "type": "string"
         },
         {
-          "title": "objectives",
+          "title": "Lesson Objectives",
           "name": "objectives",
           "type": "block",
           "fieldGroup": [
@@ -172,24 +172,9 @@
           ]
         },
         {
-          "title": "materials",
+          "title": "Assigned Materials",
           "name": "materials",
-          "type": "choice",
-          "choices": [
-            "henderson",
-            "locke",
-            "hale",
-            "treaty1725",
-            "treaty1752",
-            "wildlife",
-            "hudson-bay-charter",
-            "royal-proclamation",
-            "pierson",
-            "armorie",
-            "ratione-soli",
-            "keeble",
-            "keron"
-          ]
+          "type": "list",
         }
       ]
     }
@@ -265,7 +250,7 @@
       "id": "objectives_group",
       "fields": [
         {
-          "title": "objective",
+          "title": "Objective",
           "name": "objective",
           "type": "string"
         }
