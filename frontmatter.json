@@ -174,7 +174,48 @@
         {
           "title": "Assigned Materials",
           "name": "materials",
-          "type": "list",
+          "type": "list"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Short Title",
+          "name": "short",
+          "type": "string"
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Header Image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "Image Caption",
+          "name": "imgcaption",
+          "type": "string"
+        },
+        {
+          "title": "Weight",
+          "name": "weight",
+          "type": "number"
         }
       ]
     }
