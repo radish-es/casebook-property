@@ -59,7 +59,7 @@
           "title": "Doctrines",
           "name": "doctrines",
           "type": "taxonomy",
-          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
+          "taxonomyId": "doctrines"
         }
       ]
     },
@@ -114,7 +114,7 @@
           "title": "Doctrines",
           "name": "doctrines",
           "type": "taxonomy",
-          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
+          "taxonomyId": "doctrines"
         }
       ]
     },
@@ -143,7 +143,7 @@
           "title": "Doctrines",
           "name": "doctrines",
           "type": "taxonomy",
-          "taxonomyId": "doctrines" // Placed here, it becomes a root field!
+          "taxonomyId": "doctrines"
         }
       ]
     },
@@ -272,7 +272,27 @@
     {
       "id": "doctrines",
       "options": [
-        "covenants"
+        "covenants",
+        "covenants-policy",
+        "expropriation",
+        "expropriation-constructive",
+        "aboriginal-title",
+        "treaty",
+        "reserves",
+        "nuisance-remedy",
+        "nuisance",
+        "finders",
+        "possession",
+        "adverse-possession",
+        "coersion",
+        "shelter",
+        "political-expression",
+        "registration",
+        "title",
+        "estates",
+        "qualified",
+        "trusts",
+        "acquired-rights"
       ]
     }
   ],
