@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article class="markdown book-article">
+    <h1>
+      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+    </h1> 
+
+    {{- .Content -}}
+
+    {{ range (site.GetPage "lessons").Pages }}
+        <a href="{{ .RelPermalink }}"><h2>{{ .Params.weight}}. {{ .Title }}</h2></a>
+        {{ partial "reading-list.html" .  }}
+    {{ end }}
+
+  </article>
+{{ end }}
