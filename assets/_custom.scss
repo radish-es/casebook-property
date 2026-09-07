@@ -264,10 +264,16 @@ figcaption, .header-img figcaption {
 
 .wrapper-casebook {
   display: grid;
-  grid-template-columns: 300px 300px 300px;
+  grid-template-columns: 1fr;
   grid-gap: 10px;
   background-color: #fff;
   color: #444;
+}
+
+@media (min-width: 768px) {
+  .wrapper-casebook {
+    grid-template-columns: 300px 300px 300px;
+  }
 }
 
 .box {
