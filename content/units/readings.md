@@ -3,7 +3,7 @@ type: readings
 title: Readings by Unit
 short: Readings
 description: All assigned readings listed by course unit.
-weight: 5
+weight: 3
 draft: false
 ---
 
