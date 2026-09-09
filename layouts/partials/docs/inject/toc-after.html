@@ -95,9 +95,9 @@
                 {{ with $.Site.GetPage $item }}
                 <div class="forward">
                     <p><a href="{{ .Permalink }}">{{ .Title }}{{ if isset .Params "reporter" }}, {{.Params.Reporter}}{{ end }}</a></p>
-                    <p>{{ $descript }}</p>
+                    <p>{{ $descript | string | markdownify }}</p>
                 </div>
-                {{ end }}   
+                {{ end }}
             {{ end }}
             {{ end }}
 
