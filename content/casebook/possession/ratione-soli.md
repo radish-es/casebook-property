@@ -14,7 +14,7 @@ sources:
 doctrines:
   - finders
 weight: 160
-description: Brief discussion of the doctrine of ratione soli.
+description: Brief discussion of the common law doctrine and subsequent statutory reforms that determine whether the owner of land has a better right to animals captured or killed on that land.
 bookHidden: true
 ---
 

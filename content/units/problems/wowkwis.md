@@ -14,7 +14,7 @@ A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a large tract of f
 
 ### The Problem
 
-**Can either the hunter or the hiker successfully make a legal claim to the fox? If both can, is one claim stronger than the other, and if so why?**
+**Can either the hunter or the hiker successfully make a legal claim to the fox? If both can, is one claim stronger than the other, and if so why? Does anyone else have a possible claim?**
 
 **When explaining your answer to this problem, describe how each of the origin stories about property canvased in the lesson plan, discussed in class and expressed in this unit's readings influences your answer and your approach.**
 
@@ -28,15 +28,15 @@ This problem asks you, first of all, to think carefully about the question of wh
 
 {{% step "Perspectives on Property's Source and Function" %}}
 
-Your starting point is to read the excerpts from [John Locke]({{< ref "casebook/possession/locke" >}}), [Robert Hale]({{< ref "casebook/public-land/hale" >}}), and [James [sákéj] Youngblood Henderson]({{< ref "casebook/indigenous/henderson" >}}). Each of these writers has a different answer to the question of where property (defined broadly) comes from, and how recognition for and enforcement of property rights and obligations relates to the political or governmental authority. 
+Your starting point for this unit is to read the excerpts from [John Locke]({{< ref "casebook/possession/locke" >}}), [Robert Hale]({{< ref "casebook/public-land/hale" >}}), and [James [sákéj] Youngblood Henderson]({{< ref "casebook/indigenous/henderson" >}}). Each of these writers has a different answer to the question of where property comes from, and how recognition for and enforcement of property rights and obligations relate to political and governmental authority. 
 
-Locke believes that property precedes government and the state and is rooted in possession as an expression of individual human labour. Hale, by contrast, sees property as a direct expression of state power and government coercion--even when that power is manifested as mutual coercion between two people. Henderson takes a different approach altogether, situating law, property and land tenure at the intersection and encounter between legal regimes and normative orders within a broader system of international or confederated (*Nikmanen*) relationships. How would you describe and compare each of these perspectives in your own words, and which account seems most compelling to you? Why?
+Locke believes that property precedes government and the state and is rooted in possession as an expression of individual human labour. Hale, by contrast, sees property as a direct expression of state power and government coercion--even when that power is manifested as mutual coercion between people. Henderson takes a different approach altogether, situating law, property and land tenure at the intersection and encounter between legal regimes and normative orders within a broader system of international or confederated (*Nikmanen*) relationships. How would you describe and compare each of these perspectives in your own words, and which account seems most compelling to you? Why?
 
 {{% /step %}}
 
 {{% step "Find Examples" %}}
 
-Next, look at the materials that serve as relevant examples or expressions of each of these three perspectives: **Henderson** (Peace and Friendship Treaties of [1725]({{< ref "casebook/indigenous/treaty1725" >}}) and [1752]({{< ref "casebook/indigenous/treaty1752" >}})); **Hale** ([Charter of the Hudson Bay Company]({{< ref "casebook/possession/hudson-bay-charter" >}}), [Wildlife Act]({{< ref "casebook/possession/wildlife" >}})); and **Locke** (the line of common law cases on possession: [Armorie v Delamire]({{< ref "casebook/possession/armorie" >}}), [Pierson v Post]({{< ref "casebook/possession/pierson" >}}), [Keron v Cashman]({{< ref "casebook/possession/keron" >}}), [Keeble v Hickeringill]({{< ref "casebook/possession/keeble" >}}), the excerpt on *[ratione soli]({{< ref "casebook/possession/ratione-soli" >}})*).
+Next, look at the materials that serve as relevant examples or expressions of each of these three perspectives during the period we are studying in this unit (and some from present day): **Henderson** (Peace and Friendship Treaties of [1725]({{< ref "casebook/indigenous/treaty1725" >}}) and [1752]({{< ref "casebook/indigenous/treaty1752" >}}), [Royal Proclamation of 1763]({{< ref "casebook/indigenous/royal-proclamation" >}})); **Hale** ([Charter of the Hudson Bay Company]({{< ref "casebook/public-land/hudson-bay-charter" >}}), [Wildlife Act]({{< ref "casebook/possession/wildlife" >}})); and **Locke** (the line of common law cases on possession: [Armorie v Delamire]({{< ref "casebook/possession/armorie" >}}), [Pierson v Post]({{< ref "casebook/possession/pierson" >}}), [Keron v Cashman]({{< ref "casebook/possession/keron" >}}), [Keeble v Hickeringill]({{< ref "casebook/possession/keeble" >}}), the excerpt on *[ratione soli]({{< ref "casebook/possession/ratione-soli" >}})*, and [Asher v Whitlock]({{< ref "casebook/possession/asher" >}})).
 
 {{% /step %}}
 

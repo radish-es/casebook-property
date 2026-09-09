@@ -1,17 +1,17 @@
 ---
 type: lesson
-title: "Settler Colonialism, Federalism and State Power"
+title: Settler Colonialism, Federalism and State Power
 short: Unit 2
-description: Week 2 materials
-classdate:  7 Oct / 14 Oct / 19 Oct / 21 Oct 2026
+description: While the focus of most discussions about the period of intensive confederation that formally produced Canada in the mid-nineteenth century is generally on constitutional law and politics, property played a critical part in this process at the height of settler colonialism and at the foundations of the country's natural resource economy.
+classdate: 7 Oct / 14 Oct / 19 Oct / 21 Oct 2026
 weight: 2
 image: /imgs/eel-river-bridge.jpg
-imgcaption:  Wolastoq at Eel River Bridge (1915), Wikimedia Commons
+imgcaption: Wolastoq at Eel River Bridge (1915), Wikimedia Commons
 objectives:
   - objective: Explain the changing role of the Royal Proclamation, 1763 with respect to the source and content of common law Aboriginal Title.
-  - objective: Describe the general features of Aboriginal Title as late-19th century courts understood it (in concept, if not in name). 
+  - objective: Describe the general features of Aboriginal Title as late-19th century courts understood it (in concept, if not in name).
   - objective: Link the doctrinal development of Aboriginal title to the structure of feudal land tenure and the common law estates in land.
-  - objective: Identify legal developments that legitimated and enabled the logic of settler colonialism in the 19th century. 
+  - objective: Identify legal developments that legitimated and enabled the logic of settler colonialism in the 19th century.
 materials:
   - tenure
   - basic-estates

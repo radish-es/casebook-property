@@ -3,7 +3,7 @@ title: Robert Hale, Coercion and Distribution in a Supposedly Non-Coercive State
 short: Hale
 source: Robert L. Hale, "Coercion and Distribution in a Supposedly Non-Coercive State", (1923) 38:2 *Political Science Quarterly* 470 at 471-474
 type: secondary
-description: Hale discusses the unique ways in which state-created and enforced property is inevitably coercive.
+description: Hale discusses the various ways in which property is inevitably coercive, emphasizing that state enforcement of property is the most salient feature to questions of property's source and function.
 doctrines:
   - coersion
 bookHidden: true

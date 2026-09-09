@@ -6,7 +6,7 @@ public: true
 doctrines:
   - treaty
 weight: 30
-description: This text of the 1752 treaty is quoted in R v Simon, [1985] 2 SCR 387 at para 6.
+description: The Peace and Friendship Treaty of 1752 was signed between Mi'kmaq Chief Jean-Baptiste Cope and Nova Scotia Governor Peregrine Hopson. This text is quoted from one of the leading treaty law cases in Canada, R v Simon, [1985] 2 SCR 387, finding the 1752 treaty valid.
 bookHidden: true
 ---
 
