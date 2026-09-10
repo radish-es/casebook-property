@@ -21,10 +21,15 @@ materials:
   - blackburn
   - yellowhead-land
   - mclaren
-  - rivers-and-streams-act
   - house-debates
   - clift
-  - johnson
+  #- johnson
+  - walker
+  - stuartburn
+  - conveyancing-act
+  - wills-act
+  - expropriation-act
+  - terra-nullius
 ---
 
 ## Beginnings of the Canadian State
@@ -39,7 +44,11 @@ At the same time, these issues rarely came before Canadian courts as questions o
 
 Other aspects of Anglo-Canadian property law were also emerging from the crucible of a newly confederated Canada during this period, including the fundamental powers of the new Canadian state to expropriate or "take" the property of private individuals for public purposes without paying those individual due compensation. As Justice Holmes of the United States Supreme Court observed at the time, "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."[^holmes] Notionally, the question of when government *should* pay for a change in the law which diminished or took away some or all of landowners property rights was one between private persons and public authorities. But in the course of a highly publicized dispute over legislation granting public access to otherwise private waterways, Dominion and provincial governments once again clashed over the proper and legitimate locus of a legal power so extraordinary as to allow the state to take private property. 
 
+## Possession, Commons and Ecological Collapse
 
+Rules of possession were key to the economic integrity of natural resource economies--particularly fisheries as "open access" resources, where possession and rules of capture served as the primary basis for entitlements to the value in harvesting activities. 
+
+Political context here is the joining of Newfoundland in Confederation in 1949 was related to declining economic viability of the seal fishery. 
 
 
 

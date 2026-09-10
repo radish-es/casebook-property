@@ -19,10 +19,9 @@ weight: 40
 bookHidden: true
 ---
 
-<div id="statute">
+
 
 13 Except where a contrary intention appears by the conveyance,
 
 (a) where words of limitation are not used, the conveyance conveys the whole property right that the party conveying had power to dispose of by the conveyance, including, in the case of real property, the fee simple;
 
-</div>
