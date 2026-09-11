@@ -51,3 +51,5 @@ outputs:
   page:
     - HTML
     - Markdown
+
+enableRobotsTXT: true
