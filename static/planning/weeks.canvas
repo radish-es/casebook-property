@@ -24,11 +24,9 @@
 		{"id":"b1fb93a16e2d45c0","type":"text","text":"Qualified interests","x":-232,"y":1150,"width":254,"height":60},
 		{"id":"45219098ad20e89f","type":"text","text":"Concurrent owners\nCo-operatives\nCondominium","x":-236,"y":1210,"width":250,"height":150},
 		{"id":"ad93a46a18601b17","type":"text","text":"Right to Shelter","x":-232,"y":1400,"width":250,"height":60},
-		{"id":"eecf4d12b6db0455","type":"text","text":"Dominion Lands Act (1872)","x":-1180,"y":300,"width":250,"height":80},
 		{"id":"bfb68c395857fcd9","type":"text","text":"Confederation (1867) and Numbered Treaties","x":-560,"y":-14,"width":250,"height":80},
 		{"id":"fe8534e9e804ec6d","type":"text","text":"Natural resource extraction and McLaren Saga (1880s)","x":-560,"y":96,"width":250,"height":100},
 		{"id":"95be3fafa3af6720","type":"text","text":"R v Syliboy","x":57,"y":-94,"width":250,"height":60},
-		{"id":"7cd78a592173c69e","type":"text","text":"Adverse possession?","x":80,"y":116,"width":250,"height":60},
 		{"id":"e1fc82aa24c703ee","type":"text","text":"Aboriginal Title\nTenure\nEstates\nRestraints on Alienation","x":-236,"y":-14,"width":250,"height":120},
 		{"id":"3ea61fade068028e","type":"text","text":"Expropration","x":-235,"y":146,"width":250,"height":50},
 		{"id":"143e0579014c1b74","type":"text","text":"Industrialization ","x":-560,"y":320,"width":250,"height":80},
@@ -40,7 +38,6 @@
 		{"id":"6470a58331a74742","type":"text","text":"Chief Justice John Marshall","x":57,"y":-194,"width":250,"height":60},
 		{"id":"884e60fb0c683712","type":"text","text":"Forestry, fisheries, Clift v Kane, St. Catherine's Milling","x":-259,"y":-164,"width":250,"height":130},
 		{"id":"a2e78345a9282fd4","type":"text","text":"**KEY = FEDERALISM:** struggle for recognition of  Indigenous land rights (Aboriginal title, e.g.) was bound up with struggle between provinces and federal government (in Canada) and between the states and federal government (U.S.)\n- this was not only the context for St. Catherine's Milling, but for for Wochester v Georgia -- where background was that Georgia was challenging the federal government's power to make/enforce treaties (Blackhawk p242)\n\nThis links closely with McLaren v Caldwell and the struggle between provinces and feds over powers of expropriation. \n\n\nThe focus on Indigenous resistance here is through E v Syliboy and the Mi'kmaq continued work to assert their treaty rights as the framework for an intern'll order \n\nNB: If the focus in unit 1 is about the indeterminism of property's origins, the focus in unit 2 is about the indeterminacy of positive law itself, paricularly in the form of feudal tenure and estates and the superstructure for land rights. What is title? Allodial title? Sovereignty? Treaty? ","x":376,"y":-220,"width":1024,"height":460},
-		{"id":"bcec3632c213b8cf","type":"text","text":"Issues include:\n\n1. Environmental regulation vs industrial pollution\n2. \"Certainty\" and economic growth, numerous clausus and Keppel v Bailey\n3. Nature of equitable rights / the role of equity different from but connected to law of trusts","x":57,"y":299,"width":423,"height":261},
 		{"id":"016078ecb2a1e943","type":"text","text":"Hudson's Bay Company","x":-193,"y":-510,"width":250,"height":50},
 		{"id":"b5456a7a19718b9a","type":"text","text":"Servitudes/Covenants","x":-232,"y":470,"width":243,"height":60},
 		{"id":"5fdf02ebaf7b653d","type":"text","text":"Era of marginalizing Indigenous rights","x":-840,"y":-44,"width":250,"height":60},
@@ -54,7 +51,12 @@
 		{"id":"265bad6e4069038c","type":"text","text":"Era of reconciliation","x":-560,"y":960,"width":250,"height":60},
 		{"id":"394752b154d54371","type":"text","text":"Aboriginal Title","x":-235,"y":960,"width":250,"height":60},
 		{"id":"ab9053a0bcabc076","type":"text","text":"Clift v Kane?","x":19,"y":6,"width":250,"height":60},
-		{"id":"f9956dc6294a5453","x":-239,"y":300,"width":250,"height":60,"type":"text","text":"Sturges v Bridgeman?\nSt Helens Smelting C v Tipping"}
+		{"id":"f9956dc6294a5453","x":-239,"y":300,"width":250,"height":60,"type":"text","text":"Sturges v Bridgeman?\nSt Helens Smelting C v Tipping"},
+		{"id":"bcec3632c213b8cf","type":"text","text":"Issues include:\n\n1. Environmental regulation vs industrial pollution\n2. \"Certainty\" and economic growth, numerous clausus and Keppel v Bailey\n3. Nature of equitable rights / the role of equity different from but connected to law of trusts","x":330,"y":299,"width":423,"height":261},
+		{"id":"4300fe128232ee55","x":57,"y":299,"width":250,"height":60,"type":"text","text":"public nuisance?"},
+		{"id":"eecf4d12b6db0455","type":"text","text":"Dominion Lands Act (1872)","x":-1180,"y":300,"width":250,"height":80},
+		{"id":"b494ea5ee523f3b0","x":57,"y":390,"width":250,"height":60,"type":"text","text":"Boomer v Atlantic?"},
+		{"id":"7cd78a592173c69e","type":"text","text":"Adverse possession As move to \"highest and best use\"?","x":-239,"y":239,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7fa0aa20a60bc908","fromNode":"ced5aa5fc69b915c","fromSide":"right","toNode":"61563cab3d0b24bb","toSide":"left"},

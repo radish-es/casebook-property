@@ -1,10 +1,10 @@
 ---
-title: GMOs
-short: GMOs
+title: Data Centres 
+short: Data Centres
 type: problem
-description: This hypo concerns a heritage corn grower's attempts to prevent pollination of their crops from GMO varieties grown by a neighbouring farmer. 
-image: /imgs/corn.jpg
-imgcaption: Tahmeed Ahmad on Unsplash
+description: A data centre moves into town and area residents turn to claims in nuisance and about restrictive covenants to address concerns.
+image: /imgs/data-centre.jpg
+imgcaption: By Victorgrigas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20348429
 weight: 3
 draft: false
 ---
