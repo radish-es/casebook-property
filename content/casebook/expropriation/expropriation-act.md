@@ -4,7 +4,7 @@ short: Expropriation Act
 reporter: 'RSNS 1989, c 156'
 description: Provincial legislation addressing the expropriation ('taking') of land.
 doctrines:
-  - expropriation-constructive
+  - expropriation
 type: statute
 public: true
 sources:

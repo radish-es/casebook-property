@@ -23,11 +23,14 @@ materials:
   - mclaren
   - house-debates
   - clift
+  - gerring
   #- johnson
   - walker
   - stuartburn
   - conveyancing-act
   - wills-act
+  - perry
+  - pennsylvania-coal
   - expropriation-act
   - terra-nullius
 ---

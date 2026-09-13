@@ -39,13 +39,13 @@ Based on the understanding you gain from the readings above, we will explore how
 
 {{% step "Eminent Domain and Compensation for State Expropriation" %}}
 
-A second aspect the the lines of property and state power that were drawn during the late nineteenth century was the uncertain legal principles and constraints around the state's power to "take" private property, with or without paying fair compensation. We will look at a widely publicized dispute between two lumber businesses that tested the very foundations of early federalism in Canada: *[McLaren v Caldwell]({{< ref "casebook/expropriation/mclaren" >}})* and the *[House of Commons Debates]({{< ref "casebook/expropriation/house-debates" >}})* concerning the case, along with contemporary expropriation legislation in Nova Scotia, the *[Expropriation Act]({{< ref "casebook/expropriation/expropriation-act" >}})*.
+A second aspect the the lines of property and state power that were drawn during the late nineteenth century was the uncertain legal principles and constraints around the state's power to "take" private property, with or without paying fair compensation. We will look at a widely publicized dispute between two lumber businesses that tested the very foundations of early federalism in Canada: *[McLaren v Caldwell]({{< ref "casebook/expropriation/mclaren" >}})* and the *[House of Commons Debates]({{< ref "casebook/expropriation/house-debates" >}})* concerning the case. Then read *[Perry v Clissold]({{< ref "casebook/expropriation/perry" >}})* on the issue of expropriation of a possessory interest and *[Pennsylvania Coal v Mahon]({{< ref "casebook/expropriation/pennsylvania-coal" >}})* along with contemporary expropriation legislation in Nova Scotia, the *[Expropriation Act]({{< ref "casebook/expropriation/expropriation-act" >}})*.
 
 {{% /step %}}
 
 {{% step "Back to Possession" %}}
 
-Finally, we will circle back to our discussion of possession and the rule of capture concerning wild animals begun during our last unit. Read *[Clift v Kane]({{< ref "casebook/possession/clift" >}})* as an updated and Canadian version of *Pierson v Post* to gain a sense of how the law in this era was directly impacting the development of Canada's expanding natural resource economy around the time of Confederation.
+Finally, we will circle back to our discussion of possession and the rule of capture concerning wild animals begun during our last unit. Read *[Clift v Kane]({{< ref "casebook/possession/clift" >}})* as an updated and Canadian version of *Pierson v Post*, along with *['Frederick Gerring Jr.' (The) v R]({{< ref "casebook/possession/gerring" >}})* to gain a sense of how the law in this era was directly impacting the development of Canada's expanding natural resource economy around the time of Confederation.
 
 {{% /step %}}
 
