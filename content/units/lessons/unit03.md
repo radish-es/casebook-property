@@ -13,10 +13,11 @@ objectives:
   - objective: Explain how and in what form restrictive covenants came to be understood as "running with the land".
 materials:
   - nuisance-intro
-  - victoriapark
   - shelfer
   - black
   - canada-paper
+  - sturges
+  - st-helens
   - tulk
   - keppell
   - austerberry

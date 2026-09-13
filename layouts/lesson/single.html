@@ -34,7 +34,7 @@
         {{ range (site.GetPage "problems").Pages }}
         {{ if eq .Params.weight $.Params.weight }}
           <h2><a href="{{ .RelPermalink }}">Problem: {{ .Title }}</a></h2>
-          <p class="component-explanation">After you have read through the background for this week's lesson above, your next step is to review the weekly problem.</p>
+          <p class="component-explanation">After you have read through the Lesson Plan above, your next step is to review the problem we will work on in this unit.</p>
         {{ end }}
       {{end}}
           <div class="problem">
