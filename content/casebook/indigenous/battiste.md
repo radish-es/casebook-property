@@ -5,11 +5,10 @@ description: An explanation of netukulimk as a fundamental concept of Mi'kmaw la
 source: "Excerpted from: Jaime Battiste, Understanding the Progression of Mi'kmaw Law (2008) 31:2 Dalhousie LJ 311. Published under a Creative Commons Attribution 4.0 International License (CC BY 4.0)"
 doctrines:
   - treaty
-draft: true
+draft: false
 bookHidden: true
+weight: 12
 ---
-
-*Excerpted from: Jaime Battiste, Understanding the Progression of Mi'kmaw Law (2008) 31:2 Dalhousie LJ 311*
 
 *Mi'kmaw legal traditions and Netukulimk*
 

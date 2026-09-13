@@ -16,6 +16,7 @@ objectives:
   - objective: Explain why the concept of relative possession matters for resolving disputes about possession and ownership.
 materials:
   - henderson
+  - battiste
   - locke
   - hale
   - treaty1725

@@ -1,6 +1,6 @@
 ---
 type: lesson
-title: "Industrialization, Market Liberalism and Land Use at the Turn of the Century"
+title: "Industrialization, Social Cost and Land Use Control at the Turn of the Century"
 short: Unit 3
 description: This week we examine the role of private law tools to govern land uses in the face of a conflict between neighbors, including issues of the appropriate remedy in nuisance and the circumstances in which restrictive covenants run with title to the land. 
 classdate: 26 Oct / 28 Oct / 2 Nov / 4 Nov 2026
@@ -48,6 +48,6 @@ enforced by way of an injunction against the offending activities of neighbourin
 
 Nuisance offers one means to address conflicting land uses between owners after those conflicts arise. An alternative--and potentially more proactive--approach is for owners to form an agreement ahead of time about what which uses will be permitted, prohibited or required. This latter approach is represented by the law on restrictive covenants. Such covenants were initially viewed by the courts as simply contractual agreements between neighboring landowners that could only be enforced against original parties to the contract. With the precedent in *Tulk and Moxhay*, which you will read this week, certain of these contracts were transformed into a set of durable restraints on the proprietary freedom of owners. Restrictive covenants thereafter would become a crucial way for private owners to engage with one another in processes of land use planning and control--for example, to establish and sustain the "character" of their neighborhoods against the advance of urban pollution from heavy industry. Understanding how restrictive covenants came to be enforced ("run with the land") and the legal requirements needed for them to be regarded as valid provides a helpful window onto the question of how recognized entitlements of property become subject to various forms of governance. 
 
-[^simpson}: A.W. Brian Simpson, "Victorian Judges and the Problem of Social Cost: *Tipping v St. Helen's Smelting Company* in *Leading Cases in the Common Law* (Oxford: Oxford Academic, 1996).]
+[^simpson]: A.W. Brian Simpson, "Victorian Judges and the Problem of Social Cost: *Tipping v St. Helen's Smelting Company* in *Leading Cases in the Common Law* (Oxford: Oxford Academic, 1996).]
 
 [^nedelsky1981]: Nedelsky, Jennifer. “Judicial Conservatism in an Age of Innovation: Comparative Perspectives on Canadian Nuisance Law.” In *Essays in the History of Canadian Law*, edited by David H Flaherty, 281-322. Toronto: University of Toronto Press, 1981, 284-5.
