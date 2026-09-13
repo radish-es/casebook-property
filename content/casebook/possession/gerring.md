@@ -15,7 +15,7 @@ weight: 23
 description: Defendent ship had enclosed fish in its nets outside of Canadian waters off the coast of Nova Scotia, but as it was bailing these fish into its hold the ship drifted inside Canadian waters, making it subject to legislative sanction for illegal fishing by a foreign vessel.
 ---
 
-*This case turned on whether the defendent ship had been "fishing" at the time it was seized by Canadian authority inside the three-mile limit off Nova Scotia that defined Canadian waters for the purposes of the statutes at issue. *
+*This case turned on whether the defendant ship had been "fishing" at the time it was seized by Canadian authority inside the three-mile limit off Nova Scotia that defined Canadian waters for the purposes of the statutes at issue.*
 
 ### Gwynne J.  (dissenting) —
 

@@ -12,10 +12,9 @@ sources:
     source_url: opensourceproperty.org
     license: 
 doctrines:
-  - finders
   - nuisance
 description: Defendant scares the ducks away on Plaintiff's land.
-weight: 150
+weight: 20
 bookHidden: true
 ---
 

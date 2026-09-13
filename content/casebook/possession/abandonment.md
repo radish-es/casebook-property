@@ -1,6 +1,6 @@
 ---
 title: Abandonment
-description: An introduction to abandonment.
+description: An note on abandoning property.
 type: concept
 doctrines:
   - finders

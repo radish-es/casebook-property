@@ -1,5 +1,5 @@
 ---
-title: Data Centres 
+title: A Data Centre Comes to Town
 short: Data Centres
 type: problem
 description: A data centre moves into town and area residents turn to claims in nuisance and about restrictive covenants to address concerns.
@@ -11,15 +11,22 @@ draft: false
 
 ### Hypothetical Facts
 
-A farmer grows heritage sweet corn on a small acreage. They market the corn as GMO-free and sell it at a local farmers' market at a premium price (around $1/ear more than other varieties). Each year, the farmer carefully cultivates, collects and stores seed from a portion of their crop to plant the following season. 
+Not since the factories and forges of the industrial revolution have large industrial developments elicited as much backlash in communities as the modern data centres now being planned and built across Canada. Legal claims against these developments are on the rise, as local residents argue that property and persons are under threat.
 
-One of the neighboring farm properties has recently been purchased from a retiring farmer named Hatfield by the nearby agricultural college to use as an experimental site for developing new corn varieties. Some of those new varieties are Genetically Modified Organisms (GMOs) designed for features such as disease resistance. Over the years, research into GMO corn and other crops has become a lucrative source of income for the college--especially in those instances where it has acquired patent rights to the exclusive reproduction and use of the varieties it has developed. The college plans to employ over fifty people from the surrounding community in various roles at its new experimental site. 
+Review the real-world facts reported in [this article published by *The Guardian*](https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits). In addition to those facts, suppose that, hypothetically, [piece here about coming to the nuisance and character of the neighbourhood]
 
-Several years ago, Hatfield (the college's predecessor in title) entered into an agreement with McCoy (from whom the heritage corn farmer purchased their land), promising that they, Hatfield, would only engage in "sustainable" farming methods on the land defined as, among other things, excluding the planting or production of GMO crops. When the agricultural college was negotiating to purchase the land, Hatfield had mentioned in passing that there were some "sustainability constraints" around using the land but did not elaborate. 
+
+Quiet Communities Inc. has started looking into the title records concerning the land on which DataOne has built its Vineland centre. They've discovered that there is what appears to be a restrictive covenant attached to DataOne's title stipulating that the land only be used for "sustainable farming" (a small plot is apparently where DataOne plans to produce the "weekly baskets of organic, non-GMO fruits and vegetables" mentioned in the article). The covenant existed on title at the time when DataOne purchased the land from farmer who owned it, who had mentioned in passing when DataOne was negotiating to purchase the land there were some "sustainability constraints" around using the land but did not elaborate. 
+
+[...]
+
+<!--[Something about escaping electricity a la Rylands v Fletcher?]-->
 
 ### The Problem
 
-**The heritage farmer is worried about "genetic drift" from GMO varieties grown on the college lands contaminating their heritage corn crop through cross-pollination. What legal claims, if any, might the farmer make against the agricultural college to prevent it from growing GMO corn on its land and what are the chances that those claims will succeed? For the purposes of this question, you may assume proof of a nuisance caused by the college.**
+**What legal claims, if any, might local residents bring against DataOne to address the problems described in the *Guardian* article and what are the chances that those claims will succeed?**
+
+For the purposes of answering this problem, assume that all relevant facts take place in Canada. 
 
 ### Developing Your Answer
 

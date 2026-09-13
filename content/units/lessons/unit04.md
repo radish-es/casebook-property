@@ -18,10 +18,6 @@ materials:
   - adams-stangerross
   - trusts-intro
   - stuartburn
-  - blackburn
-  - walker
-  - wills-act
-  - conveyancing-act
 ---
 
 In our final week of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the [dispossession and internment of Japanese Canadians](https://www.project44.ca/japanese-canadian-internment) during the second world war. The targeting of Japanese Canadians living in British Columbia as "enemy aliens" remains one of the least-discussed examples of state-executed systematic racism in Canada's history. In exploring this history, we will also begin to encounter the mid-century transition toward a new grammar of Anglo-Canadian legal thought: the modern style. As we will see, this period of Canadian history also has something important to tell us about the connection between property, ownership and citizenship. 
