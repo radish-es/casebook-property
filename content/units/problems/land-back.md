@@ -31,9 +31,11 @@ We will begin this unit with some basic elements of Anglo-Canadian land law, in 
 
 {{% /step %}}
 
-{{% step "Indigenous Land Rights and Title During the Rise of Settler Colonialism" %}}
+{{% step "Indigenous Land Rights, Title and Governance During the Rise of Settler Colonialism" %}}
 
-Based on the understanding you gain from the readings above, we will explore how these structures have been used in the dispossession and denial of Indigenous land rights. While those dynamics did not start in the nineteenth century, we will look closely at a key legal developments during this period and into the early twentieth century. Start by reviewing the *[Royal Proclamation]({{< ref "casebook/indigenous/royal-proclamation" >}})* you read last week, followed by *[St. Catherine's Milling]({{< ref "casebook/indigenous/stcatherines" >}})*, *[R v Syliboy]({{< ref "casebook/indigenous/syliboy" >}})*, the overview of *[terra nullius]({{< ref "casebook/indigenous/terra-nullius" >}})* and the policy paper on [Land Back from the Yellowhead Institute]({{< ref "casebook/indigenous/yellowhead-land" >}}).
+Based on the understanding you gain from the readings above, we will explore how these structures have been used in the dispossession and denial of Indigenous land rights. While those dynamics did not start in the nineteenth century, we will look closely at a key legal developments during this period and into the early twentieth century. Start by reviewing the *[Royal Proclamation]({{< ref "casebook/indigenous/royal-proclamation" >}})* you read last week, followed by *[St. Catherine's Milling]({{< ref "casebook/indigenous/stcatherines" >}})*, *[R v Syliboy]({{< ref "casebook/indigenous/syliboy" >}})*, the note on *[terra nullius]({{< ref "casebook/indigenous/terra-nullius" >}})* and the policy paper on [Land Back from the Yellowhead Institute]({{< ref "casebook/indigenous/yellowhead-land" >}}).
+
+At this point, please also read by [Beals v Nova Scotia]({{< ref "casebook/registration/beals" >}}), focusing on the historical background around the settlement of African Nova Scotians. While the issues and historical context regarding the land relations of African Nova Scotians are distinct from those of Indigenous peoples, there is nevertheless an important connection between them that runs through the colonial logics of possession and dispossession prevalent during this period.
 
 {{% /step %}}
 
