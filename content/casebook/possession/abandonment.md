@@ -1,10 +1,10 @@
 ---
 title: Abandonment
 description: An note on abandoning property.
-type: concept
+type: secondary
 doctrines:
-  - finders
-weight: 130
+  - possession
+weight: 22
 bookHidden: true
 ---
 

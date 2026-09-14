@@ -13,7 +13,7 @@ sources:
     license: 
 doctrines:
   - nuisance
-description: Defendant scares the ducks away on Plaintiff's land.
+description: Samuel Keeble brings a legal action claiming that the defendant, Edmund Hickeringill, scared away the ducks that had alighted in an artificial decoy pond on Keeble's land, by means of a firearm Hickeringill discharged on his own land.
 weight: 20
 bookHidden: true
 ---
