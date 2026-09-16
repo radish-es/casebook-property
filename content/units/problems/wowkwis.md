@@ -2,7 +2,7 @@
 title: Wowkwis
 short: Wowkwis
 type: problem
-description: A Mi'kmaw hunter pursues a fox through the woods, where it is wounded but then killed by a passing hiker. You are asked to consider the relative strength of possible legal claims to the fox by either party.
+description: A Mi'kmaw hunter pursues a fox through the woods, where it is wounded but then killed by a passing hiker. You are asked to consider the relative strength of possible legal claims to the fox by either party or other claimants.
 image: /imgs/fox.jpg
 imgcaption: Katerina Bartosova on Unsplash
 weight: 1
@@ -10,7 +10,7 @@ weight: 1
 
 ### Hypothetical Facts[^simon] 
 
-A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a tract of forest on the Eastern Shore of Mi'kmaki. After some time, the hunter shoots and seriously wounds the *wowkiws*. While the fox is still in sight but before the hunter can capture it, the fox is killed by a hiker who is walking through the woods, sees the wounded fox and wants to save it from further suffering. Were the Department of Natural Resources not so short staffed, a conservation office might have been patrolling the area and would have asked both parties to produce hunting licenses as required by the *Wildlife Act*, RSNS 1989, c 504. Neither would have been able to do so.
+A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) across a tract of forest on the Eastern Shore of Mi'kmaki. After some time, the hunter shoots and seriously wounds the *wowkiws*. While the fox is still in sight but before the hunter can capture it, the fox is killed by a hiker who is walking through the woods, sees the wounded fox and wants to save it from further suffering. Were the Department of Natural Resources not so short staffed, a conservation officer might have been patrolling the area and would have asked both parties to produce hunting licenses as required by the *Wildlife Act*, RSNS 1989, c 504. Neither would have been able to do so.
 
 ### The Problem
 

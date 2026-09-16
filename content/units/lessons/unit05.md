@@ -19,6 +19,7 @@ materials:
   - planning-act
   - cappy
   - saintromuald
+draft: true
 ---
 
 This week, will begin to revisit some of last term's topics from the perspective of the modern style of Anglo-Canadian thought. Our primary focus this week will pick up on our discussion of constructive expropriation from the *McLaren v Caldwell* and *Manitoba Fisheries Inc.*. Recall that these cases involve claimed "takings" of property rights (or "sticks" from the ownership bundle) by the state, for which the owner would like to receive some form of compensation.
