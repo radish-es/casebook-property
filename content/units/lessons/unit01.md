@@ -4,7 +4,7 @@ title: "Origin Stories: Property, Sovereignty and Imperialism"
 short: Unit 1
 description: "Our course begins by examining different origins stories: about the origins or sources of property, but also stories about the origins of 'Canada' and, before that, British North America and the broader British empire. It locates these stories in the early colonial period and situates property at this time around encounters between Indigenous and European nations. "
 weight: 1
-classdate: 23 Sept / 28 Sept / 5 Oct 2026
+classdate: 21 Sept / 23 Sept / 28 Sept / 5 Oct 2026
 image: /imgs/harris-1749.jpg
 imgcaption: Moses Harris, Extract from unpublished Plan of Chebucto Harbour with the Town of Halifax, 1749. The British Library, Maps, K.Top.119 f73, excerpted in Jeffers Lennox, Homelands and Empires, 142.
 objectives:
