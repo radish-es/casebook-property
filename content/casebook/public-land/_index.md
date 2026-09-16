@@ -1,7 +1,6 @@
 ---
 Title: Public Land
 subtitle: Public Land
-weight: 10
 bookCollapseSection: true
 bookTOC: false
 ---

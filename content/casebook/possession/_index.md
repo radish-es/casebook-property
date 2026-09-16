@@ -2,7 +2,6 @@
 Title: Possession
 subtitle: Possession
 description: Possession, manifest an intention to control along the exercise of actual control, plays an essential part in the common law's origin stories for property and justifications for the protection of property rights.  
-weight: 2
 bookCollapseSection: true
 bookTOC: false
 ---
