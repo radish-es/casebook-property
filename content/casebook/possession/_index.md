@@ -14,7 +14,7 @@ Anglo-Canadian common law has often afforded possession--as physical dominion ov
 
 {{< casebook-section sec-name="possession" >}}
 
-## Finders, Land and the Relative Nature of Possession and Title
+## The Relative Nature of Possession and Title
 
 {{< casebook-section sec-name="finders" >}}
 

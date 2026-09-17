@@ -1,6 +1,6 @@
 ---
 title: Abandonment
-description: An note on abandoning property.
+description: An note on how the common law understand abandonment of property, i.e. what is needed to relinquish ownership.
 type: secondary
 doctrines:
   - possession
