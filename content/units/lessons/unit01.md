@@ -89,9 +89,9 @@ None of this is to ignore the asymmetries at play in terms of power relations, t
 
 ## Property and Sovereignty
 
-Probably the most difficult thing to untangle in answering our questions about the origins and functions of property in the early colonial period is to distinguish between claims to "sovereignty" (as the authority of nations to make and enforce its own laws) and claims to "property" (as claims to land held by particular legal persons under some kind of sovereign authority). These two concepts will become easier to separate as British sovereignty Anglo-Canadian law and legal institutions, increasingly, simply assume or assert British sovereignty. But during the period we are studying in this unit the line between these concepts appeared much muddier. 
+Probably the most difficult thing to untangle in answering our questions about the origins and functions of property in the early colonial period is to distinguish between claims to "sovereignty" (as the authority of nations to make and enforce its own laws) and claims to "property" (as claims to land held by particular legal persons under some kind of sovereign authority). These two concepts will become easier to separate as Anglo-Canadian law and legal institutions, increasingly, simply assume or assert British sovereignty. But during the period we are studying in this unit the line between these concepts appeared much muddier. 
 
-What is clear is that, from the perspective of the British colonial state, its primary focus was on bolstering its obviously uncertain and contested claims to territorial sovereignty in North America. The forms of property and stories about property that emerged in this era seem largely instrumental to that end. Much of this then laid the groundwork for the era of intensive settler colonialism to follow. 
+What is clear is that, from the perspective of the British colonial state, its primary focus was on bolstering its obviously uncertain and contested claims to territorial sovereignty in North America. British forms of property and stories about property that emerged in this era seem largely instrumental to that end. Much of this then laid the groundwork for the era of intensive settler colonialism to follow. 
 
 
 
