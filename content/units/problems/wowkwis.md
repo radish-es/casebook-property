@@ -22,7 +22,7 @@ A Mi'kmaw hunter pursues a fox (*wowkwis*, in Mi'kmaq) through a stretch of fore
 
 ### Guide to Reading and Analysis
 
-This problem asks you, first of all, to think carefully about the question of where claims to property come from--that is, about the source (and therefore the nature and function) of property as the basis for a legal claim. By identifying those different possible sources of property from among the options we are exploring this week, you will gain a better understanding of the different ways in which parties to this dispute might characterize and explain their claims to the fox. 
+This problem asks you, first of all, to think carefully about the question of where claims to property come from--that is, about the source (and therefore the nature and function) of property as the basis for a legal claim. By identifying those different possible sources of property from among the options we are exploring this week, you will gain a better understanding of the different ways in which parties to this dispute might characterize and explain their claims to or relationships with the fox. 
 
 {{< steps-container >}}
 
