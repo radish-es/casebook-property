@@ -2,7 +2,7 @@
 type: lesson
 title: Property, Citizenship and Generational Inequality
 short: Unit 4
-classdate: 8 Nov / 16 Nov / 23 Nov / 25 Nov 2026
+classdate: 16 Nov / 18 Nov / 23 Nov / 25 Nov 2026
 description: In our final unit of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the dispossession and internment of Japanese Canadians.
 weight: 4
 image: /imgs/evacuation.jpg
