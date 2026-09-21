@@ -93,11 +93,6 @@ Probably the most difficult thing to untangle in answering our questions about t
 
 What is clear is that, from the perspective of the British colonial state, its primary focus was on bolstering its obviously uncertain and contested claims to territorial sovereignty in North America. British forms of property and stories about property that emerged in this era seem largely instrumental to that end. Much of this then laid the groundwork for the era of intensive settler colonialism to follow. 
 
-
-
-
-
-
 [^blackhawk]: Ned Blackhawk, "The Rediscovery of America" (Yale University Press, 2023).
 
 [^cameron]: Angela Cameron, Sari Graben and Val Napoleon, eds., *Creating Indigenous Property: Power, Rights, and Relationships* (Toronto: University of Toronto Press, 2020); Allan Greer, *Property and Dispossession, Natives, Empires an dLand in Early Modern North America* (Cambridge: Cambridge University Press, 2018).
