@@ -3,7 +3,7 @@ type: lesson
 title: Settler Colonialism, Federalism and State Power
 short: Unit 2
 description: While the focus of most discussions about the period of intensive confederation that formally produced Canada in the mid-nineteenth century is generally on constitutional law and politics, property played a critical part in this process at the height of settler colonialism and at the foundations of the country's natural resource economy.
-classdate: 7 Oct / 14 Oct / 19 Oct / 21 Oct 2026
+classdate: 14 Oct / 19 Oct / 21 Oct / 26 Oct 2026
 weight: 2
 image: /imgs/eel-river-bridge.jpg
 imgcaption: Wolastoq at Eel River Bridge (1915), Wikimedia Commons
