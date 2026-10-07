@@ -6,7 +6,7 @@ description: A letter to Prime Minister WIlliam Lyon Mackenzie King serves at th
 image: /imgs/vancouver-escorted.jpg
 imgcaption: Japanese Canadian children being escorted by Vancouver police. Vancouver Public Library @ Flickr Commons.
 weight: 4
-draft: false
+draft: true
 ---
 
 In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter to Prime Minister William Lyon Mackenzie King, protesting the forced sale of her home in Victoria, British Columbia under the wartime legal regime that had emerged to dispossess Japanese Canadians of their property and "liquidate" their belongings:[^findlay2023]

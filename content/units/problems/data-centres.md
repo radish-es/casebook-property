@@ -6,7 +6,7 @@ description: A data centre moves into town and area residents turn to claims in 
 image: /imgs/data-centre.jpg
 imgcaption: By Victorgrigas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20348429
 weight: 3
-draft: false
+draft: true
 ---
 
 ### Hypothetical Facts

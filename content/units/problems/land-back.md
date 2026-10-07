@@ -6,7 +6,7 @@ description: A testator attempts to return ownership of their family farm to the
 image: /imgs/apple-orchard.jpg
 imgcaption: By Unknown author - Through the Heart of Canada. Frank Yeigh. T Fisher Unwin, London, 1910. p22, Public Domain, https://commons.wikimedia.org/w/index.php?curid=167888082
 weight: 2
-draft: false
+draft: true
 ---
 
 ### Hypothetical Facts
