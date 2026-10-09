@@ -34,6 +34,7 @@ materials:
   - pennsylvania-coal
   - expropriation-act
   - terra-nullius
+  - escheats-act
 draft: false
 ---
 
