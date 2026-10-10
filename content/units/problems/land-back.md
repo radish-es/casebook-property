@@ -15,7 +15,7 @@ Suppose that a "testator" (the term for a person making a will containing gifts 
 
 > When I die, the farm should go to my friend. When she can no longer make use of the land, it should go to Mi’gmawe’l Tplu’taqnn Inc. (MTI), which Mi'kmaq-led non-profit organization is prohibited from transferring the land except to another Mi'kmaq-led entity and for no more than an amount of $500,000. 
 
-Soon after the testator dies, the Government of Nova Scotia passes new farmland legislation that aims to address the declining availability and affordability of agricultural land in the province. The legislation declares that any testamentary bequest made within the last five years "which restrains, or attempts to restrain, alienation of land is unlawful and of no effect" (meaning that any such attempted gifts would fail altogether). The new legislation then goes on to prohibit any farmland inherited or otherwise transferred in the last five years from being converted to non-farm land uses. 
+Soon after the testator dies, the Government of Nova Scotia passes new farmland legislation that aims to address the declining availability and affordability of agricultural land in the province. The legislation declares that any testamentary bequest made within the last five years "which restrains, or attempts to restrain, alienation of land is unlawful and of no effect" (meaning that any such gifts would fail and be treated as if they never took place). The new legislation then goes on to prohibit any farmland inherited or otherwise transferred in the last five years from being converted to non-farm land uses. 
 
 ### The Problem
 
