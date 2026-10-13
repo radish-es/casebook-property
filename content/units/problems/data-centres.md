@@ -6,14 +6,14 @@ description: A data centre moves into town and area residents turn to claims in 
 image: /imgs/data-centre.jpg
 imgcaption: By Victorgrigas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20348429
 weight: 3
-draft: true
+draft: false
 ---
 
 ### Hypothetical Facts
 
-Not since the factories and forges of the industrial revolution have large industrial developments elicited as much backlash in communities as the modern data centres now being planned and built across Canada. Legal claims against these developments are on the rise, as local residents argue that property and persons are under threat.
+Not since the factories and forges of the industrial revolution have large industrial developments elicited as much backlash in communities as the modern data centres now being planned and built across Canada (and elsewhere in the world). Legal claims against these developments are on the rise, as local residents argue that property and persons are under threat.
 
-Review the real-world facts reported in [this article published by *The Guardian*](https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits). In addition to those facts, suppose that, hypothetically, [piece here about coming to the nuisance and character of the neighbourhood]
+Review the facts reported in [this article published by *The Guardian*](https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits) newspaper. In addition to those facts, suppose that, hypothetically, [piece here about coming to the nuisance and character of the neighbourhood]
 
 
 Quiet Communities Inc. has started looking into the title records concerning the land on which DataOne has built its Vineland centre. They've discovered that there is what appears to be a restrictive covenant attached to DataOne's title stipulating that the land only be used for "sustainable farming" (a small plot is apparently where DataOne plans to produce the "weekly baskets of organic, non-GMO fruits and vegetables" mentioned in the article). The covenant existed on title at the time when DataOne purchased the land from farmer who owned it, who had mentioned in passing when DataOne was negotiating to purchase the land there were some "sustainability constraints" around using the land but did not elaborate. 
