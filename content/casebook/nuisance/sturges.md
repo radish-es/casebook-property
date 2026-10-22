@@ -1,6 +1,6 @@
 ---
 type: case
-title: "Sturges v Bridgeman"
+title: "Sturges v Bridgman"
 short: Sturges
 reporter: (1879) LR 11 Ch D 852
 year: 1879
