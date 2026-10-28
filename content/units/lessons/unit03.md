@@ -8,7 +8,9 @@ weight: 3
 image: /imgs/canada-paper.jpg
 imgcaption:  Canada Paper Company, Windsor Mills, QC, 1909 (Source, McCord Museum, Montreal).
 objectives:
+  - objective: Understand and describe the role of "private" tools of land governance (nuisance, covenants) in navigating the challenges and conflicts in an industrializing Canada after the turn of the last century.
   - objective: Discuss claims in nuisance and restrictive covenants as alternative means of governing property.    
+  - objective: Deploy principles in nuisance related "coming to the nuisance" and the character of the neighbourhood.
   - objective: Identify and describe the test for determining the appropriate remedy in nuisance, while critically assessing whether or not this test helps us to consistently resolve the contested legal issues that arise in nuisance cases. 
   - objective: Explain how and in what form restrictive covenants came to be understood as "running with the land".
 materials:

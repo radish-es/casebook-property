@@ -9,9 +9,9 @@ weight: 3
 draft: false
 ---
 
-### Hypothetical Facts
+### Real & Hypothetical Facts
 
-Not since the forges and factories of the industrial revolution have large industrial developments provoked the kind of backlash we are starting to see in communities where gigantic data centres now being planned and built. Legal claims to slow or prevent these developments are on the rise, as local residents argue that property and people are increasingly under threat.
+Not since the forges and factories of the industrial revolution have large development projects provoked the kind of backlash we are starting to see in communities where gigantic data centres are being planned and built. Legal claims to slow or prevent these developments are on the rise, as local residents argue that property and people are increasingly under threat.
 
 Review the facts reported in this article about the operation of a data centre called DataOne in Vineland, New Jersey, published by *[The Guardian](https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits)* newspaper. In addition to those reported facts, suppose that the residents complaining of noise and vibration from DataOne moved nearby only recently, attracted by the earlier development of the land as a golf course--though some of those residents were apparently aware at the time when they moved that plans for construction of a new data centre in the area were in the works. The DataOne development is located on the outskirts of town in an area of mostly cornfields and cowsheds, but the Vineland town council has recently amended the zoning regulations for the area, designating it as "mixed use agricultural and industrial". The town has been actively pursuing other data centre developers to build in the area.
 
