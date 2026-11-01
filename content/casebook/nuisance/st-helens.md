@@ -16,7 +16,7 @@ bookHidden: true
 draft: false
 ---
 
-*Appellant brought an action against a smelting company for injuring his trees and shrabs by noxious vapors, and the learned judge, at the trial, directed the jury to find for the plaintiff, if the evidence satisfied them that real, sensible injury had been done to the enjoyment or value of A.'s property by such vapors. The jury found for the plaintiff and the decision was appealed.*
+*Appellant brought an action against a smelting company for injuring his trees and shrubs by noxious vapors, and the learned judge, at the trial, directed the jury to find for the plaintiff, if the evidence satisfied them that real, sensible injury had been done to the enjoyment or value of A.'s property by such vapors. The jury found for the plaintiff and the decision was appealed.*
 
 ### Lord Westbury L.C. ---
 
