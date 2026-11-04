@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"389a59c296458041","type":"group","x":-860,"y":-180,"width":570,"height":386,"label":"Later settler colonialism, resource extraction"},
+		{"id":"452a15abd1d85c98","type":"group","x":-860,"y":-821,"width":570,"height":321,"label":"Imperialism and Early Settler Colonialism, hunting"},
 		{"id":"d5455c075fba5fbc","type":"group","x":360,"y":740,"width":400,"height":400,"label":"Housing andPublic Space"},
 		{"id":"c0a08987eb8fc2b8","type":"group","x":-860,"y":300,"width":570,"height":220,"label":"Industrialization and environment"},
 		{"id":"3647647a5e9060d4","type":"group","x":-860,"y":540,"width":570,"height":201,"label":"War and Citizenship"},
 		{"id":"3bcc5f838d314af2","type":"group","x":-860,"y":1160,"width":570,"height":200,"label":"Markets and Commodification"},
 		{"id":"de4cde0d1b5b9199","type":"group","x":-860,"y":940,"width":570,"height":170,"label":"Recognition & Reconciliation"},
 		{"id":"8d3e9921eb9a96fa","type":"group","x":-860,"y":741,"width":570,"height":160,"label":"Post-War Welfare State / Land Use Control"},
-		{"id":"452a15abd1d85c98","type":"group","x":-860,"y":-821,"width":570,"height":321,"label":"Imperialism and Early Settler Colonialism, hunting"},
 		{"id":"2fd67ea30f7d9d64","type":"text","text":"Acadian-Mi'kmaq Relations and the Great Upheaval (1755-64)","x":-840,"y":-650,"width":250,"height":100},
 		{"id":"07d518ef602027a8","type":"text","text":"Inter-national legal origins, Peace & Friendship Treaties, founding of Halifax, Royal Proclamation (1749-63)\n","x":-560,"y":-780,"width":250,"height":153},
 		{"id":"813d03fb0995701f","type":"text","text":"Black Loyalist migration (1775-1783)","x":-560,"y":-590,"width":250,"height":80},
@@ -54,11 +54,12 @@
 		{"id":"58fb2e93eeac9d7c","type":"text","text":"Collapse of the Cod Fishery","x":-560,"y":1380,"width":250,"height":100},
 		{"id":"ad93a46a18601b17","type":"text","text":"Right to Shelter","x":-232,"y":1400,"width":250,"height":60},
 		{"id":"18ebf352e0a0d1c9","type":"text","text":"Trusts","x":-235,"y":560,"width":250,"height":60},
-		{"id":"7cd78a592173c69e","type":"text","text":"Adverse possession??","x":-235,"y":620,"width":250,"height":60},
-		{"id":"048ac6608059f700","x":-232,"y":680,"width":250,"height":60,"type":"text","text":"Expropriation?"},
+		{"id":"048ac6608059f700","type":"text","text":"Expropriation?","x":-232,"y":680,"width":250,"height":60},
 		{"id":"61563cab3d0b24bb","type":"text","text":"Constructive Takings","x":-239,"y":851,"width":250,"height":60},
 		{"id":"b054de0933325603","type":"text","text":"Discrimatory Covenants","x":-239,"y":791,"width":250,"height":60},
-		{"id":"1fae8509b80807c8","x":22,"y":560,"width":250,"height":50,"type":"text","text":"Qualified interests?"}
+		{"id":"1fae8509b80807c8","type":"text","text":"Resulting and Constructive Trust\n","x":22,"y":560,"width":250,"height":50},
+		{"id":"22cb80c95d296db7","x":307,"y":610,"width":250,"height":60,"type":"text","text":"Shack Jang Mac v AG (Chinese head tax\n)"},
+		{"id":"3c8d56e20d00fc27","x":22,"y":626,"width":250,"height":65,"type":"text","text":"Japanese Canadian Redress Agreement"}
 	],
 	"edges":[
 		{"id":"7fa0aa20a60bc908","fromNode":"ced5aa5fc69b915c","fromSide":"right","toNode":"61563cab3d0b24bb","toSide":"left"},
@@ -76,6 +77,7 @@
 		{"id":"5c803e28a0cbd3a6","fromNode":"9be23d2a6b9521fd","fromSide":"right","toNode":"18ebf352e0a0d1c9","toSide":"left"},
 		{"id":"dad5429e7dd71a81","fromNode":"265bad6e4069038c","fromSide":"right","toNode":"394752b154d54371","toSide":"left"},
 		{"id":"fe245438f8c22ae1","fromNode":"884e60fb0c683712","fromSide":"right","toNode":"95be3fafa3af6720","toSide":"left"},
-		{"id":"e6d03e4ef7ac5d1a","fromNode":"813d03fb0995701f","fromSide":"bottom","toNode":"de2fad3f2b136be6","toSide":"top"}
+		{"id":"e6d03e4ef7ac5d1a","fromNode":"813d03fb0995701f","fromSide":"bottom","toNode":"de2fad3f2b136be6","toSide":"top"},
+		{"id":"d5105575b4730000","fromNode":"1fae8509b80807c8","fromSide":"right","toNode":"22cb80c95d296db7","toSide":"left"}
 	]
 }
