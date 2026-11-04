@@ -1,6 +1,6 @@
 ---
 type: case
-title: Mack v. Canada (Attorney General)
+title: Mack v Canada (Attorney General)
 short: Mack
 reporter: (2002) O.J. No. 3488, 217 D.L.R. (4th) 583
 year: 2002
@@ -12,8 +12,8 @@ public: true
 sources:
 doctrines:
   - trusts
-weight: 60
-bookHidden: false
+weight: 70
+bookHidden: true
 ---
 
 ## Moldaver, MacPherson JJ.A.: --

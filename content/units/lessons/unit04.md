@@ -1,6 +1,6 @@
 ---
 type: lesson
-title: Property, Citizenship and Generational Inequality
+title: Property, Citizenship and Redress for Generational Inequality
 short: Unit 4
 classdate: 23 Nov / 25 Nov / 30 Nov 2026
 description: In our final unit of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the dispossession and internment of Japanese Canadians.
@@ -17,6 +17,8 @@ materials:
   - iwasaki
   - adams-stangerross
   - trusts-intro
+  - mack
+  - kerr
 draft: false
 ---
 
