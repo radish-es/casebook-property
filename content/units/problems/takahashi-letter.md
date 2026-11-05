@@ -9,6 +9,8 @@ weight: 4
 draft: false
 ---
 
+### Real Facts
+
 In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter to Prime Minister William Lyon Mackenzie King, protesting the forced sale of her home in Victoria, British Columbia under the wartime legal regime that had emerged to dispossess Japanese Canadians of their property and "liquidate" their belongings:[^findlay2023]
 
 > Dear Sir:
@@ -35,8 +37,32 @@ In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter t
 >
 >Toyo Takahashi
 
-**(1) How might the federal government's "promises", described by Toyo Takahashi, be interpreted as giving rise to a legal trust, in which the Director of the Office of the Custodian acts as the trustee of Takahashi's property? What would be the implications of such an interpretation? Why was it rejected by the Canadian courts?**
+### The Problem
 
-**(2) What does Toyo Takahashi's letter and the materials you have studied this week suggest about the connection between property and the idea of "good citizenship" in the context of World War II?** 
+**What legal claims based on the law of trusts and principles of equity might Toyo Takahashi or her descendants bring to hold the federal government to its "promises" as described in the letter? What are the chances that these claims would succeed? What does Takahashi's letter suggest about the link between property and the idea of citizenship?** 
+
+### Guide to Reading and Analysis
+
+{{< steps-container >}}
+
+{{% step "Trust Basics" %}}
+
+Start with some background to the law of trusts and basic principles governing express trusts: read *[Introduction to Trusts]({{< ref "casebook/trusts/trusts-intro" >}})* and *[Duthie v Gallagher & Duthie]({{< ref "casebook/trusts/duthie" >}})*
+
+{{% /step %}}
+
+{{% step "Legal History of the Internment of Japanese Canadians" %}}
+
+Read *[The Unlawful Dispossession of Japanese Canadians]({{< ref "casebook/trusts/adams-stangerross" >}})* for some of the broader historical background to the internment of Japanese Canadians during World War II. Then review and critically examine the reasoning in *[Iwasaki v R]({{< ref "casebook/trusts/iwasaki" >}})*, in which a claim based on the creation of an express trust was rejected by a Canadian court.
+
+{{% /step %}}
+
+{{% step "Unjust Enrichment and Constructive Trusts" %}}
+
+Read *[Kerr v Baranow]({{< ref "casebook/trusts/kerr" >}})* to understand the nature and structure of a claim in unjust enrichment resulting in the imposition of a constructive trust. Then prepare *[Mack v Canada (Attorney General)]({{< ref "casebook/trusts/mack" >}})* to understand some further context for the *Japanese Canadian Redress Agreement* and how the unjust enrichment claim in *Mack* might be adapted to this week's problem.
+
+{{% /step %}}
+
+{{< /steps-container >}}
 
 [^findlay2023]: Quoted in Katlin Findlay, Trevor Wideman and Yasmin Amaratunga, "'After All Our Efforts at Good Citizenship': Propriety, Property, and Belonging in the Dispossession of Japanese Canadians, 1940s" (2023) 104:1 *The Canadian Historical Review* 76 at 84-85.

@@ -9,7 +9,8 @@ image: /imgs/evacuation.jpg
 imgcaption: RCMP officer posting an evacuation notice to "male enemy aliens". Vancouver Public Library Historical Photographs @ Flickr Commons.
 objectives:
   - objective: Discuss the historical origins of the trust at common law and equity.
-  - objective: Interpret and describe the basic structure of a trust, including the legal owner, the beneficial owner, the trust property and associated rights and obligations.
+  - objective: Interpret and describe the basic structure of an express trust, including the legal owner, the beneficial owner, the trust property and associated rights and obligations.
+  - objective: Distinguish between an express and constructive trust, and apply the legal test applicable to the latter in the context of a claim of unjust enrichment. 
   - objective: Outline the legal structures established by the Canadian government to dispossess and alienate Japanese Canadians during WWII and critically analyze these structures from the perspective of trust law. 
   - objective: Discuss and critically assess the relationship between ownership, recognition and citizenship.
 materials:
