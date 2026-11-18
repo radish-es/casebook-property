@@ -8,6 +8,7 @@ type: statute
 public: true
 description: Nova Scotia's legislation establishing a land title registration system. 
 bookHidden: true
+draft: true
 ---
 
 **Registered interests**

@@ -6,6 +6,7 @@ doctrines:
     - estates
 weight: 90
 bookHidden: true
+draft: true
 ---
 
 When trying to explain the common law's particular (and sometimes idiosyncratic) understanding of "ownership", lawyers and judges frequently invoke the "bundle of sticks" metapho--as in, "ownership is like a bundle of sticks"--the "sticks" being the various property rights that make up the ownership "bundle". 

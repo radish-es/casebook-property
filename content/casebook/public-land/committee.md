@@ -18,6 +18,7 @@ doctrines:
   - political-expression
 bookHidden: true
 weight: 10
+draft: true
 ---
 
 ##  L'Heureux-Dubé J. --

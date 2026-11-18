@@ -14,6 +14,7 @@ doctrines:
 description: A report by the Yellowhead Institute providing a critical analysis of the First Nations Land Management Regime. 
 weight: 220
 bookHidden: true
+draft: true
 ---
 
 ## Part I: First Nations Land Management Foundations

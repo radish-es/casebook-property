@@ -12,6 +12,7 @@ type: statute
 description: The key provision in Canada's constitution recognizing and affirming Aboriginal and treaty rights, including Aboriginal Title. 
 weight: 140
 bookHidden: true
+draft: true
 ---
 
 ## Section 35

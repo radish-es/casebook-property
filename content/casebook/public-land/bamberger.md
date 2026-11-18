@@ -24,6 +24,7 @@ doctrines:
   - shelter
 weight: 120
 bookHidden: true
+draft: true
 ---
 
 

@@ -8,6 +8,7 @@ doctrines:
   - registration
 weight: 15
 bookHidden: true
+draft: true
 ---
 
 

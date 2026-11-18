@@ -13,7 +13,7 @@ description: Governing provisions of the international trade agreement with resp
 doctrines:
   - expropriation-constructive
 type: statute
-draft: false
+draft: true
 bookHidden: true
 weight: 160
 ---

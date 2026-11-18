@@ -17,6 +17,7 @@ doctrines:
   - shelter
 weight: 130
 bookHidden: true
+draft: true
 ---
 
 ## Ramsay J. --

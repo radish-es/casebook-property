@@ -19,6 +19,7 @@ doctrines:
   - acquired-rights
 weight: 60
 bookHidden: true
+draft: true
 ---
 
 

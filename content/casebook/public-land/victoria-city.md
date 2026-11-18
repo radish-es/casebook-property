@@ -24,6 +24,7 @@ doctrines:
   - shelter
 weight: 100
 bookHidden: true
+draft: true
 ---
 
 ## Ross J. —

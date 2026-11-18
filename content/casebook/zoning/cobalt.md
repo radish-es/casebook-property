@@ -21,6 +21,7 @@ doctrines:
   - acquired-rights
 weight: 90
 bookHidden: true
+draft: true
 ---
 
 ## Trotter J.A. – 

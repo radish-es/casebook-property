@@ -1,6 +1,6 @@
 ---
-Title: Public Land
-subtitle: Public Land
+Title: State Coercion and Public Land
+subtitle: State Coercion and Public Land
 bookCollapseSection: true
 bookTOC: false
 ---

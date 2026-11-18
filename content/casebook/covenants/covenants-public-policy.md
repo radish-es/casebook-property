@@ -7,6 +7,7 @@ doctrines:
   - covenants-policy
 bookHidden: true
 weight: 100
+draft: true
 ---
 
 Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 
