@@ -39,7 +39,7 @@ Completing this thought, Lund has gone on to argue:[^lund2025]
 
 > Treating public authority, property, and citizenship as finished product gets in the way of understanding them. They are always in the making. Moreover, they come about through each other; they are linked in ways where one always invokes the others. Hence, we need to know not just what they are, but also how they come about in conjunction.
 
-Our case study in this unit about the dispossession and internment of Japanese Canadians during WWII provides a way to make the somewhat abstract idea of public authority, property and citizenship as "mutually constitutive" more concrete. We will see that not only was property a central element of how some Japanese Canadians saw their relations of citizenship, but also that the Canadian state's attempts to dispossession Japanese Canadians of their property was a powerful to disenfranchise them and render them as "enemy aliens". 
+Our case study in this unit about the dispossession and internment of Japanese Canadians during WWII provides a way to make the somewhat abstract idea of public authority, property and citizenship as "mutually constitutive" more concrete. We will see that not only was property a central element of how some Japanese Canadians saw their relations of citizenship, but also that the Canadian state's attempts to dispossession Japanese Canadians of their property was a powerful tool to disenfranchise them and render them as "enemy aliens". 
 
 ## Redress for Generational Inequality
 
