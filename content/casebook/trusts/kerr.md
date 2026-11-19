@@ -7,7 +7,7 @@ year: 2011
 facts: A couple in their late-sixties separated after a common law relationship of more than 25 years. Both had worked through much of that time and each had contributed in various ways to their mutual welfare. The plaintiff claimed support and a share of property held in her partner's name based unjust enrichment principles and other grounds. 
 issue: 
 held: 
-description: PA couple in their late-sixties separated after a common law relationship of more than 25 years. Both had worked through much of that time and each had contributed in various ways to their mutual welfare. The plaintiff claimed support and a share of property held in her partner's name based unjust enrichment principles and other grounds.
+description: A couple in their late-sixties separated after a common law relationship of more than 25 years. Both had worked through much of that time and each had contributed in various ways to their mutual welfare. The plaintiff claimed support and a share of property held in her partner's name based unjust enrichment principles and other grounds.
 public: true
 sources:
 doctrines:

@@ -6,7 +6,7 @@ description: A letter to Prime Minister WIlliam Lyon Mackenzie King serves at th
 image: /imgs/vancouver-escorted.jpg
 imgcaption: Japanese Canadian children being escorted by Vancouver police. Vancouver Public Library @ Flickr Commons.
 weight: 4
-draft: true
+draft: false
 ---
 
 ### Real Facts

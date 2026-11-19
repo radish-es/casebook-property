@@ -20,32 +20,35 @@ materials:
   - trusts-intro
   - mack
   - kerr
-draft: true
+draft: false
 ---
 
-In our final week of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the [dispossession and internment of Japanese Canadians](https://www.project44.ca/japanese-canadian-internment) during the second world war. The targeting of Japanese Canadians living in British Columbia as "enemy aliens" remains one of the least-discussed examples of state-executed systematic racism in Canada's history. In exploring this history, we will also begin to encounter the mid-century transition toward a new grammar of Anglo-Canadian legal thought: the modern style. As we will see, this period of Canadian history also has something important to tell us about the connection between property, ownership and citizenship. 
+In our final week of new material in the course for this term we will turn our minds to the concept of the "trust" and examine its features by looking at the history of the [dispossession and internment of Japanese Canadians](https://www.project44.ca/japanese-canadian-internment) during the second world war. The targeting of Japanese Canadians living in British Columbia as "enemy aliens" remains one of the least-discussed examples of systematic, state-executed racism in Canada's history. In tracing this history, we will explore two themes. The first is the deep connection between "property" and "citizenship" in the making of modern Canada, and the complex relationship between these two concepts. The second theme raises questions of redress for generational inequality caused by the exercise of state authority over property.
+
+### Property and Citizenship
+
+Alan Green argues that in the period between Confederation in 1867 and the First World War, the primary driver of Canadian immigration policy was settlement of the West.[^green2016] While Green points to rationales including the development of new markets to generate demand for the growing manufacturing sectors in Central and Eastern Canada resulting from industrialization and defense against American expansionism, a key goal was unquestionably the implementation of settler colonial policies and Indigenous displacement made possible through the legal doctrine expressed in *St. Catherine's Milling* and its aftermath, which we studied in Unit 2. 
+
+To return to ideas about the origins of property we studied in Unit 1, one way to interpret the link between property and citizenship is through Robert Hale's emphasis on state power and coercion. From this perspective, we might see early 20th century Canadian immigration policy as instrumental to the state project of Western settlement and economic development and a necessary component of establishing property rights on the "frontier". Alternatively, we might see in these movements a Lockean narrative about property as prior possession, and prior to state authority and control--that immigration policy was itself a precondition to land settlement extending Canada, through possession and dispossession, into the West. 
+
+But as Christian Lund observes, it may be that both of these stories oversimplify the complex relationship between the state, citizenship and property. Lund argues instead that property and citizenship exist in a mutually constitutive relationship:[^lund2016a]
+
+> [W]e need to dispense with simple assumptions that political authority exists prior to rights of property and citizenship. Rights and political authority are contemporaneous, and the control exercised by institutions over resources ... does not represent a pre-existing authority. It produces authority. Conversely, effective rights do not represent pre-existing natural rights. They are political constructions and achievements. Yet, the idea of the 'state' as something established is very powerful and can easily divert our attention from its constant reproductive and relational character. Hence, if we investigate societies with relative stability, there is a risk that we will see ‘rights’ (changing and new) as flowing from a set of governing institutions.
+
+Completing this thought, Lund has gone on to argue:[^lund2025]
+
+> Treating public authority, property, and citizenship as finished product gets in the way of understanding them. They are always in the making. Moreover, they come about through each other; they are linked in ways where one always invokes the others. Hence, we need to know not just what they are, but also how they come about in conjunction.
+
+Our case study in this unit about the dispossession and internment of Japanese Canadians during WWII provides a way to make the somewhat abstract idea of public authority, property and citizenship as "mutually constitutive" more concrete. We will see that not only was property a central element of how some Japanese Canadians saw their relations of citizenship, but also that the Canadian state's attempts to dispossession Japanese Canadians of their property was a powerful to disenfranchise them and render them as "enemy aliens". 
+
+## Redress for Generational Inequality
+
+As we saw in our brief study of African Nova Scotia history in the *Beals* case in Unit 2, the denial of property in various forms can have enormous and persistent effects on generational inequality, denying communities and individuals access to land and other resources in ways that reproduce poverty across generational lines. This reality raises the question of what legal remedies are available 
 
 
-Key idea: to return to Unit 1, maybe we have been thinking about questions of where property comes from and its functions the wrong way (at least, with respect to Locke and Hale). What if the answer is not either "property presupposes the state" or "the state creates property", but that they are in a more complex, mutually constitutive relationship--one that requires us to think about not only property rights and state authority, but also about the question of who wields these rights and authority through the lens of citizenship?
 
+[^green2016]: Alan G. Green and David A. Green, "Immigration and the Canadian earnings distribution in the first half of the twentieth century" (2016) 76:2 "The Journal of Economic History" 387 at 391. 
 
-As Christian Lund observes:[^lund2016a]
-
-> the ability to entitle and disenfranchise people with regard to property, to establish the conditions under which they hold that property---together with the ability to define who belongs and who does not, and to establish and uphold rank, privilege and social servitude in its many forms---is constitutive of state power. Claims to rights prompt the exercise of authority. Struggles over property and citizenship are therefore as much about the scope and constitution of political authority as they are about access to resources and membership of polities. Hence, investigating the social production of property and citizenship enables concrete understanding of the dynamics of authority or state formation.
-
-And then:[^lund2016a]
-
-> To grasp the dialectics of rights and authority, we need to dispense with simple assumptions that political authority exists prior to rights of property and citizenship. Rights and political authority are contemporaneous, and the control exercised by institutions over resources and political subjectivities does not represent a pre-existing authority. It produces authority. Conversely, effective rights do not represent pre-existing natural rights. They are political constructions and achievements. Yet, the idea of the ‘state’ as something established is very powerful and can easily divert our attention from its constant reproductive and relational character. Hence, if we investigate societies with relative stability, there is a risk that we will see ‘rights’ (changing and new) as flowing from a set of governing institutions. To avoid that, the present collection investigates processes of state formation through the production of property and citizenship from the particular angle of ‘rupture’.
-
-Or:[^lund2025]
-
-> Treating public authority, property, and citizenship as nished product gets in the way of understanding them. They are always in the making. Moreover, they come about  through each other; they are linked in ways where one always invokes the others. Hence, we need to know not  just what they are, but also how they come about in conjunction.
-
-
-
-
-[^lund2016a]: Christian Lund, “Rule and Rupture: State Formation through the Production of Property and Citizenship” (2016) 47:6 *Development and Change* 1199 at 1201.
-
-[^lund2016a]: *Ibid* at 1202.
+[^lund2016a]: Christian Lund, “Rule and Rupture: State Formation through the Production of Property and Citizenship” (2016) 47:6 *Development and Change* 1199 at 1202.
 
 [^lund2025]: Christian Lund, “Public Authority, Property, and Citizenship: What We Talk about When We Talk about Land” in Saturnino M Borras Jr & Jennifer C Franco, eds, *The Oxford Handbook of Land Politics* (Oxford University Press, 2025) at 490.
