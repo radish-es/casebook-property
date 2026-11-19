@@ -39,7 +39,7 @@ In 1944, Toyo Takahashi, a Japanese Canadian woman, wrote the following letter t
 
 ### The Problem
 
-**What legal claims based on the law of trusts and principles of equity might Toyo Takahashi or her descendants bring to hold the federal government to its "promises" as described in the letter? What are the chances that these claims would succeed? What does Takahashi's letter suggest about the link between property and the idea of citizenship?** 
+**What legal claims based on the law of trusts and principles of equity might Toyo Takahashi or her descendants bring to hold the federal government to its "promises" as described in the letter? What are the chances that these claims would succeed? What does Takahashi's letter tell us about the relationship between the state, property and citizenship?** 
 
 ### Guide to Reading and Analysis
 

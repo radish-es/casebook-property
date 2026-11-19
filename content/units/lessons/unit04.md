@@ -43,9 +43,9 @@ Our case study in this unit about the dispossession and internment of Japanese C
 
 ## Redress for Generational Inequality
 
-As we saw in our brief study of African Nova Scotia history in the *Beals* case in Unit 2, the denial of property in various forms can have enormous and persistent effects on generational inequality, denying communities and individuals access to land and other resources in ways that reproduce poverty across generational lines. This reality raises the question of what legal remedies are available 
+As we saw in our study of the Land Back movement and of African Nova Scotia history in the *Beals* case in Unit 2, dispossession and the denial of property in various forms can have enormous and persistent effects on generational inequality, preventing communities and individuals from forming land relations and accessing land and other resources in ways that reproduce poverty across generational lines. This reality raises the question of what legal tools and remedies are available to address and redress such generational harms. 
 
-
+We will start to ask this question in the context of trust law as it has evolved from medieval England through to the 20th century. While historical and contemporary versions of the trusts have not conventionally been conceived in terms of redress for past injustices, we will see in this unit that at key moments in Canadian history, excluded and dispossessed communities have turned to the trust in its several forms in order to argue that the state has breached its promises and must therefore be held accountable for past harms.
 
 [^green2016]: Alan G. Green and David A. Green, "Immigration and the Canadian earnings distribution in the first half of the twentieth century" (2016) 76:2 "The Journal of Economic History" 387 at 391. 
 
