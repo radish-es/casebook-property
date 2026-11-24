@@ -8,5 +8,5 @@
     {{ end }}
     {{ range $k, $v := ($scratch.Get $mapName ) }}
        ### {{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}
-       {{ .Content }}
+       {{ .RawContent }}
     {{ end }}   
