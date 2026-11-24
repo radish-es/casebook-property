@@ -4,7 +4,8 @@
 
 ## Table of Contents
 
-{{ range (site.GetPage "lessons").Pages }}
+{{- range (site.GetPage "lessons").Pages }}
+
 ### {{.Params.short }}: {{ .Title }}
 
 {{ $m := .Params.Materials -}}
@@ -27,7 +28,7 @@
 {{- range $m -}}
     {{- $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) -}}
 {{- end -}}
-{{- range $k, $v := ($scratch.Get $mapName ) -}}
+{{- range $k, $v := ($scratch.Get $mapName ) }}
 {{ with $v.File }}
 <a id="{{ .ContentBaseName | anchorize }}"></a>
 # {{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}
