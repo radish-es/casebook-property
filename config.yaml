@@ -56,7 +56,7 @@ outputs:
   page:
     - HTML
     - Markdown
-  home:
-    - FullMarkdown
+  #home:
+  #  - FullMarkdown
 
 enableRobotsTXT: true
