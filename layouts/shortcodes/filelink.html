@@ -1,0 +1,10 @@
+{{- $target := .Page -}}
+{{- with .Get 0 -}}
+  {{- $target = $.Page.GetPage . -}}
+{{- end -}}
+
+{{- with $target -}}
+  {{- with .File -}}
+    <a href="{{ .Page.RelPermalink }}">{{ .LogicalName }}</a>
+  {{- end -}}
+{{- end -}}
