@@ -46,10 +46,16 @@ outputFormats:
     mediaType: text/markdown
     baseName: index
     isPlainText: true
+  FullMarkdown:
+    mediaType: text/markdown
+    baseName: all-content
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   page:
     - HTML
     - Markdown
+    - FullMarkdown
 
 enableRobotsTXT: true
