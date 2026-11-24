@@ -5,7 +5,7 @@ source: Robert L. Hale, "Coercion and Distribution in a Supposedly Non-Coercive 
 type: secondary
 description: Hale discusses the various ways in which property is inevitably coercive, emphasizing that state enforcement of property is the most salient feature to questions of property's source and function.
 doctrines:
-  - coersion
+  - coercion
 bookHidden: true
 weight: 5
 draft: false

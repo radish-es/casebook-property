@@ -5,9 +5,9 @@ bookCollapseSection: true
 bookTOC: true
 ---
 
-## Coersion
+## Coercion
 
-{{< casebook-section sec-name="coersion" >}}
+{{< casebook-section sec-name="coercion" >}}
 
 ## Political Expression
 

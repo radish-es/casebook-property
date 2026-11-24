@@ -6,7 +6,7 @@ source: "[Queen's University Library](https://queensu.scholaris.ca/server/api/co
 type: secondary
 description: The British Crown issued this Charter to the Hudson Bay Company covering the entirety of Rupert's Land, i.e. the vast watershed of Hudson Bay comprising nearly 4 million square kilometers--roughly one-third the area of what is today Canada.
 doctrines:
-  - coersion
+  - coercion
 bookHidden: true
 weight: 10
 ---
