@@ -5,6 +5,6 @@
 
 {{- with $target -}}
   {{- with .File -}}
-    <a href="{{ .Page.RelPermalink }}">{{ .LogicalName }}</a>
+    {{ .Page.RelPermalink }}{{ .LogicalName }}
   {{- end -}}
 {{- end -}}
