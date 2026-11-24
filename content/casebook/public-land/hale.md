@@ -8,6 +8,7 @@ doctrines:
   - coersion
 bookHidden: true
 weight: 5
+draft: false
 ---
 
 What is the government doing when it "protects a property right"? Passively, it is abstaining from interference with the owner when he deals with the thing owned; actively, it is forcing the non-owner to desist from handling it, unless the owner consents. Yet Mr. Carver would have it that the government is merely preventing the non-owner from using force against the owner.[^1] This explanation is obviously at variance with the facts---for the non-owner is forbidden to handle the owner's property even where his handling of it involves no violence or force whatever. Any lawyer could have told him that the right of property is much more extensive than the mere right to protection against forcible dispossession. In protecting property the government is doing something quite apart from merely keeping the peace. It is exerting coercion wherever that is necessary to protect each owner, not merely from violence, but also from peaceful infringement of his sole right to enjoy the thing owned.

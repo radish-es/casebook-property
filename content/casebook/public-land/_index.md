@@ -2,7 +2,7 @@
 Title: State Coercion and Public Land
 subtitle: State Coercion and Public Land
 bookCollapseSection: true
-bookTOC: false
+bookTOC: true
 ---
 
 ## Coersion
