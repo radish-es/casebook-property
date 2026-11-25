@@ -62,7 +62,7 @@ outputs:
     - HTML
     - Markdown
   home:
-    - FullMarkdown
+   # - FullMarkdown
     - FullHTML
 
 enableRobotsTXT: true
