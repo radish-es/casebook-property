@@ -61,7 +61,7 @@ outputs:
   page:
     - HTML
     - Markdown
-  home:
+  # home:
    # - FullMarkdown
    # - FullHTML 
 
