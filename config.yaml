@@ -63,6 +63,6 @@ outputs:
     - Markdown
   home:
    # - FullMarkdown
-    - FullHTML
+   # - FullHTML
 
 enableRobotsTXT: true
