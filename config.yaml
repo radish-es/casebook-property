@@ -51,12 +51,18 @@ outputFormats:
     baseName: all-content
     isPlainText: true
     notAlternative: true
+  FullHTML:
+    mediaType: text/html
+    baseName: all-content
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   page:
     - HTML
     - Markdown
-  #home:
-  #  - FullMarkdown
+  home:
+    - FullMarkdown
+    - FullHTML
 
 enableRobotsTXT: true

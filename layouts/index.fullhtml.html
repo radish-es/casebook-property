@@ -2,7 +2,7 @@
 
 <p style="font-style: italic">This file contains the all assigned materials from our online casebook (property.opensourcelaw.ca) for the Fall 2026 term, provided for the purpose of local access to the materials on your computer during your December 2026 examination.</p>
 
-<h2>Table of Contents</h2>
+<a id="toc"><h2>Table of Contents</h2></a>
 
 {{- range (site.GetPage "lessons").Pages }}
 
@@ -14,13 +14,13 @@
 {{- range $m -}}
     {{- $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) -}}
 {{- end -}}
-{{- range $k, $v := ($scratch.Get $mapName ) -}}
-
 <ul>
+{{- range $k, $v := ($scratch.Get $mapName ) -}}
 {{ with $v.File }}<li><a href="#{{ .ContentBaseName }}">{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{ $v.Params.Reporter }}{{ end }}</a></li>{{ end }}
 {{ end -}}   
-{{- end -}} 
 </ul>
+{{- end -}} 
+
 
 {{ range (site.GetPage "lessons").Pages }}
 <h1>{{.Params.short }}: {{ .Title }}</h1> 
@@ -31,7 +31,7 @@
     {{- $scratch.SetInMap $mapName ( $.Site.GetPage . ).Title ( $.Site.GetPage . ) -}}
 {{- end -}}
 {{- range $k, $v := ($scratch.Get $mapName ) }}
-<a id="{{ .ContentBaseName | anchorize }}"><h1>{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}</h1></a>
+<a id="{{ with $v.File }}{{ .ContentBaseName | anchorize }}{{ end }}"></a><h1>{{ $v.Title }}{{ if isset $v.Params "reporter" }}, {{$v.Params.Reporter}}{{ end }}<a href="#toc">↩︎</a></h1>
 
 {{ .Content }}
 {{- end -}}   
